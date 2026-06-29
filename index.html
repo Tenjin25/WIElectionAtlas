@@ -10244,8 +10244,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Cache destroyer token for static data requests.
     // Bump this value when you want browsers/CDNs to fetch fresh files immediately.
-    const DATA_CACHE_BUSTER = '2026-06-28-1';
-    const APP_BUILD_ID = '2026-06-28-1';
+    const DATA_CACHE_BUSTER = '2026-06-28-2';
+    const APP_BUILD_ID = '2026-06-28-2';
 
     function withCacheBuster(path) {
       const p = (path || '').toString().trim();
@@ -10310,7 +10310,13 @@ document.addEventListener('DOMContentLoaded', function() {
           state_senate_2022: '',
           state_senate_2024: ''
         },
-        election: withBase('./data/wi_elections_aggregated.json'),
+        // Wisconsin is currently using the monolithic county JSON, not per-contest slices.
+        // Try the repo-root file first because the deployed upload is `wi_elections_aggregated.json`.
+        election: withBase('./wi_elections_aggregated.json'),
+        election_fallbacks: [
+          withBase('./wi_elections_aggregated.json'),
+          withBase('./data/wi_elections_aggregated.json')
+        ],
         district_election: withBase('./data/wi_district_results_2022_lines.json'),
         district_contests_dir: withBase('./data/district_contests'),
         district_contests_2020_2024_dir: '',
@@ -10323,7 +10329,9 @@ document.addEventListener('DOMContentLoaded', function() {
         state_house_info: '',
         state_senate_info: '',
         district_descriptions: '',
-        contests_dir: withBase('./data/contests'),
+        // Leave blank unless /data/contests/manifest.json and slice JSON files exist.
+        // If this points at a missing folder, the dropdown can stay in manifest/slice mode and 404.
+        contests_dir: '',
         reports_match_year_summary: '',
         reports_top_unmatched: '',
         crosswalks: {
@@ -19595,7 +19603,13 @@ document.addEventListener('DOMContentLoaded', function() {
     function populateContestSelectFromCSV(csvData) {
 	      if (!Array.isArray(csvData) || csvData.length === 0) return;
 	      const sel = document.getElementById('contestSelect');
-	      if (sel.dataset.populated === 'true') return; // Only populate once per data load
+      const hadDeferredLoading = sel && sel.dataset && sel.dataset.deferredLoading === 'true';
+	      if (sel.dataset.populated === 'true' && !hadDeferredLoading) return; // Only populate once per data load
+      if (sel.dataset) {
+        delete sel.dataset.deferredLoading;
+        delete sel.dataset.populated;
+      }
+      sel.disabled = false;
 	      sel.innerHTML = '<option value="">Select a contest...</option>';
       // Show loading spinner
       var spinner = document.getElementById('contest-loading-spinner');
@@ -31581,9 +31595,31 @@ document.addEventListener('DOMContentLoaded', function() {
         setStatus('Election index loaded');
       } catch (manifestErr) {
         setStatus('Loading election data...');
-        debugLog('Loading election data from:', CONFIG.paths.election);
-        electionDataJSON = await loadJSON(CONFIG.paths.election);
-        debugLog('Election JSON loaded:', electionDataJSON);
+        const electionPaths = Array.from(new Set([
+          CONFIG.paths?.election,
+          ...(Array.isArray(CONFIG.paths?.election_fallbacks) ? CONFIG.paths.election_fallbacks : [])
+        ].filter(Boolean)));
+        let electionLoadErr = null;
+        electionDataJSON = null;
+        for (const electionPath of electionPaths) {
+          try {
+            debugLog('Loading election data from:', electionPath);
+            electionDataJSON = await loadJSON(electionPath);
+            debugLog('Election JSON loaded:', electionPath, electionDataJSON);
+            break;
+          } catch (err) {
+            electionLoadErr = err;
+            console.warn('Election JSON not loaded:', electionPath, err?.message || err);
+          }
+        }
+        if (!electionDataJSON) {
+          const sel = document.getElementById('contestSelect');
+          if (sel) {
+            sel.disabled = true;
+            sel.innerHTML = '<option value="">Election JSON not found</option>';
+          }
+          throw electionLoadErr || new Error('Election JSON not found');
+        }
 
         // Flatten JSON structure for compatibility with existing code
         electionData = flattenElectionJSON(electionDataJSON);
@@ -31925,12 +31961,6 @@ document.addEventListener('DOMContentLoaded', function() {
             .catch(err => {
               setContestSelectDeferredLoading(false);
               console.warn('Deferred atlas hydration failed:', err?.message || err);
-              try {
-                const sel = document.getElementById('contestSelect');
-                if (sel && !sel.dataset.populated) {
-                  sel.innerHTML = '<option value="">Contest data failed to load</option>';
-                }
-              } catch (_) {}
             });
         } else {
           setContestSelectDeferredLoading(false);
