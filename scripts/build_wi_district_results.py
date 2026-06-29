@@ -166,8 +166,6 @@ DISTRICT_ONLY_SCOPE_BY_OFFICE = {
     "state_house": ("state_house",),
     "state_senate": ("state_senate",),
 }
-TARGET_YEARS = {"2022", "2024"}
-
 SCOPE_CONFIGS = {
     "congressional": {
         "2022": ("tl_2022_55_cd118.geojson", "CD118FP"),
@@ -546,15 +544,7 @@ def build_result_node(dem_votes: float, rep_votes: float, other_votes: float, to
 
 
 def should_write_slice(scope: str, contest_type: str, year: str) -> bool:
-    if year not in TARGET_YEARS:
-        return False
-    if scope == "congressional" and contest_type == "us_house":
-        return True
-    if scope == "state_house" and contest_type == "state_house":
-        return True
-    if scope == "state_senate" and contest_type == "state_senate":
-        return True
-    return False
+    return True
 
 
 def write_slice_dir(out_dir: Path, results_by_year: dict[str, dict[str, dict[str, dict[str, object]]]]) -> None:
@@ -599,6 +589,23 @@ def copy_scope_slices(
                 continue
             filename = f"{scope_filter}_{contest_type}_{year}.json"
             (out_dir / filename).write_text(json.dumps(payload, indent=2) + "\n", encoding="utf-8")
+
+
+def merge_scope_into_results(
+    base_results: dict[str, dict[str, dict[str, dict[str, object]]]],
+    extra_results: dict[str, dict[str, dict[str, dict[str, object]]]],
+    scope_filter: str,
+) -> dict[str, dict[str, dict[str, dict[str, object]]]]:
+    merged = json.loads(json.dumps(base_results))
+    for year, scopes in extra_results.items():
+        contests = scopes.get(scope_filter) or {}
+        if not contests:
+            continue
+        year_bucket = merged.setdefault(year, {})
+        scope_bucket = year_bucket.setdefault(scope_filter, {})
+        for contest_type, payload in contests.items():
+            scope_bucket[contest_type] = payload
+    return merged
 
 
 def parse_requested_scopes(argv: list[str]) -> set[str] | None:
@@ -650,8 +657,6 @@ def main() -> None:
     for csv_path in iter_input_csv_paths():
         year = csv_path.parent.name
         year_num = int(year)
-        if year not in TARGET_YEARS:
-            continue
         if min_year is not None and year_num < min_year:
             continue
         election_date = csv_path.name.split("__", 1)[0]
@@ -779,7 +784,8 @@ def main() -> None:
     }
     OUT_2022_JSON.write_text(json.dumps(out_2022_payload, indent=2), encoding="utf-8")
     write_slice_dir(OUT_2022_DIR, results_2022)
-    write_slice_dir(OUT_2024_DIR, results_2024)
+    results_2024_with_congressional = merge_scope_into_results(results_2024, results_2022, "congressional")
+    write_slice_dir(OUT_2024_DIR, results_2024_with_congressional)
     if not requested_scopes or "congressional" in requested_scopes:
         copy_scope_slices(OUT_2024_DIR, results_2022, "congressional")
     print(f"Wrote {OUT_2022_JSON}")

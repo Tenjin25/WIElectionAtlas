@@ -1,0 +1,63 @@
+{
+  "general": {
+    "results": {
+      "48": {
+        "dem_votes": 152,
+        "rep_votes": 0,
+        "other_votes": 9,
+        "total_votes": 161,
+        "dem_candidate": "Chris Taylor",
+        "rep_candidate": "",
+        "margin": -152,
+        "margin_pct": -94.40993788819875,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "83": {
+        "dem_votes": 281,
+        "rep_votes": 769,
+        "other_votes": 1,
+        "total_votes": 1050,
+        "dem_candidate": "James Brownlow",
+        "rep_candidate": "Dave Craig",
+        "margin": 488,
+        "margin_pct": 46.47619047619048,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "94": {
+        "dem_votes": 6220,
+        "rep_votes": 5282,
+        "other_votes": 6,
+        "total_votes": 11508,
+        "dem_candidate": "Steve Doyle",
+        "rep_candidate": "John Lautz",
+        "margin": -938,
+        "margin_pct": -8.14650677789364,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "95": {
+        "dem_votes": 3416,
+        "rep_votes": 1092,
+        "other_votes": 7,
+        "total_votes": 4515,
+        "dem_candidate": "Jill E. Billings",
+        "rep_candidate": "David A. Drewes",
+        "margin": -2325,
+        "margin_pct": -51.483412214248716,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      }
+    },
+    "election_type": "special_general"
+  }
+}

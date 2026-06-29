@@ -1,0 +1,245 @@
+{
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 13562,
+        "rep_votes": 24210,
+        "other_votes": 16,
+        "total_votes": 37787,
+        "dem_candidate": "Susan Hilsabeck",
+        "rep_candidate": "Alan J. Lasee",
+        "margin": 10648,
+        "margin_pct": 28.178175407455896,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "11": {
+        "dem_votes": 5687,
+        "rep_votes": 12697,
+        "other_votes": 16,
+        "total_votes": 18400,
+        "dem_candidate": "Scott Woods",
+        "rep_candidate": "Neal Kedzie",
+        "margin": 7010,
+        "margin_pct": 38.09782608695652,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "13": {
+        "dem_votes": 7572,
+        "rep_votes": 18984,
+        "other_votes": 18,
+        "total_votes": 26574,
+        "dem_candidate": "Walt Christensen",
+        "rep_candidate": "Scott Fitzgerald",
+        "margin": 11412,
+        "margin_pct": 42.94520778462403,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "15": {
+        "dem_votes": 31776,
+        "rep_votes": 17138,
+        "other_votes": 20,
+        "total_votes": 48934,
+        "dem_candidate": "Judy Robson",
+        "rep_candidate": "Gregory A. Black",
+        "margin": -14638,
+        "margin_pct": -29.913761392896554,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "17": {
+        "dem_votes": 6424,
+        "rep_votes": 11075,
+        "other_votes": 5,
+        "total_votes": 17504,
+        "dem_candidate": "Emmett J. Reilly",
+        "rep_candidate": "Dale W. Schultz",
+        "margin": 4651,
+        "margin_pct": 26.571069469835468,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "19": {
+        "dem_votes": 0,
+        "rep_votes": 12722,
+        "other_votes": 50,
+        "total_votes": 12772,
+        "dem_candidate": "",
+        "rep_candidate": "Michael G. Ellis",
+        "margin": 12722,
+        "margin_pct": 99.608518634513,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "21": {
+        "dem_votes": 12438,
+        "rep_votes": 12152,
+        "other_votes": 51,
+        "total_votes": 24641,
+        "dem_candidate": "Kimberly M. Plache",
+        "rep_candidate": "Cathy Stepp",
+        "margin": -287,
+        "margin_pct": -1.1639615441948719,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "23": {
+        "dem_votes": 4970,
+        "rep_votes": 10049,
+        "other_votes": 3,
+        "total_votes": 15023,
+        "dem_candidate": "Earl A. Larson",
+        "rep_candidate": "Dave Zien",
+        "margin": 5079,
+        "margin_pct": 33.808111833099346,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "25": {
+        "dem_votes": 17587,
+        "rep_votes": 9715,
+        "other_votes": 9,
+        "total_votes": 27311,
+        "dem_candidate": "Robert Jauch",
+        "rep_candidate": "Gregg Condon",
+        "margin": -7872,
+        "margin_pct": -28.8235509501666,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "27": {
+        "dem_votes": 18247,
+        "rep_votes": 0,
+        "other_votes": 118,
+        "total_votes": 18365,
+        "dem_candidate": "Jon B. Erpenbach",
+        "rep_candidate": "",
+        "margin": -18247,
+        "margin_pct": -99.35747345494147,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "29": {
+        "dem_votes": 22056,
+        "rep_votes": 9084,
+        "other_votes": 3,
+        "total_votes": 31143,
+        "dem_candidate": "Russ Decker",
+        "rep_candidate": "Jimmy Boy Edming",
+        "margin": -12972,
+        "margin_pct": -41.653019940275506,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "3": {
+        "dem_votes": 7055,
+        "rep_votes": 0,
+        "other_votes": 129,
+        "total_votes": 7184,
+        "dem_candidate": "Tim Carpenter",
+        "rep_candidate": "",
+        "margin": -7055,
+        "margin_pct": -98.20283064006817,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "31": {
+        "dem_votes": 9745,
+        "rep_votes": 10094,
+        "other_votes": 25,
+        "total_votes": 19864,
+        "dem_candidate": "Rod Moen",
+        "rep_candidate": "Ron Brown",
+        "margin": 349,
+        "margin_pct": 1.756947241240435,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "33": {
+        "dem_votes": 0,
+        "rep_votes": 14463,
+        "other_votes": 35,
+        "total_votes": 14498,
+        "dem_candidate": "",
+        "rep_candidate": "Theodore J. Kanavas",
+        "margin": 14463,
+        "margin_pct": 99.75858739136433,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "5": {
+        "dem_votes": 15070,
+        "rep_votes": 19305,
+        "other_votes": 168,
+        "total_votes": 34544,
+        "dem_candidate": "George L. Christenson",
+        "rep_candidate": "Tom Reynolds",
+        "margin": 4235,
+        "margin_pct": 12.259487700095862,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "7": {
+        "dem_votes": 16812,
+        "rep_votes": 0,
+        "other_votes": 3293,
+        "total_votes": 20104,
+        "dem_candidate": "Richard A. Grobschmidt",
+        "rep_candidate": "",
+        "margin": -16812,
+        "margin_pct": -83.62184496127858,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "9": {
+        "dem_votes": 24317,
+        "rep_votes": 23206,
+        "other_votes": 34,
+        "total_votes": 47556,
+        "dem_candidate": "Jim Baumgart",
+        "rep_candidate": "Joseph Leibham",
+        "margin": -1111,
+        "margin_pct": -2.335504519473817,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      }
+    },
+    "election_type": "general"
+  }
+}

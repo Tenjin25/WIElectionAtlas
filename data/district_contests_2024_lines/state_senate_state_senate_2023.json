@@ -1,0 +1,21 @@
+{
+  "general": {
+    "results": {
+      "8": {
+        "dem_votes": 32141,
+        "rep_votes": 28007,
+        "other_votes": 49,
+        "total_votes": 60196,
+        "dem_candidate": "Jodi Habush Sinykin",
+        "rep_candidate": "Dan Knodl",
+        "margin": -4134,
+        "margin_pct": -6.867563238461545,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      }
+    },
+    "election_type": "spring"
+  }
+}

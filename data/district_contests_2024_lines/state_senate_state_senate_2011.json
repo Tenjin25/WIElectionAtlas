@@ -1,0 +1,133 @@
+{
+  "general": {
+    "results": {
+      "10": {
+        "dem_votes": 17256,
+        "rep_votes": 24492,
+        "other_votes": 37,
+        "total_votes": 41785,
+        "dem_candidate": "Shelly Moore",
+        "rep_candidate": "Sheila E. Harsdorf",
+        "margin": 7236,
+        "margin_pct": 17.317219097762354,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "12": {
+        "dem_votes": 27901,
+        "rep_votes": 23022,
+        "other_votes": 100,
+        "total_votes": 51023,
+        "dem_candidate": "Jim Holperin",
+        "rep_candidate": "Kim Simac",
+        "margin": -4879,
+        "margin_pct": -9.562354232404994,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "14": {
+        "dem_votes": 8345,
+        "rep_votes": 5713,
+        "other_votes": 18,
+        "total_votes": 14076,
+        "dem_candidate": "Fred Clark",
+        "rep_candidate": "Luther S. Olsen",
+        "margin": -2632,
+        "margin_pct": -18.69849389030975,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "18": {
+        "dem_votes": 8121,
+        "rep_votes": 5331,
+        "other_votes": 10,
+        "total_votes": 13462,
+        "dem_candidate": "Jessica King",
+        "rep_candidate": "Randy Hopper",
+        "margin": -2791,
+        "margin_pct": -20.728559393470363,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "2": {
+        "dem_votes": 9279,
+        "rep_votes": 13890,
+        "other_votes": 19,
+        "total_votes": 23189,
+        "dem_candidate": "Nancy J. Nusbaum",
+        "rep_candidate": "Robert L. Cowles",
+        "margin": 4611,
+        "margin_pct": 19.884375503464284,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "22": {
+        "dem_votes": 18396,
+        "rep_votes": 10076,
+        "other_votes": 42,
+        "total_votes": 28514,
+        "dem_candidate": "Robert W. Wirch",
+        "rep_candidate": "Jonathan Steitz",
+        "margin": -8320,
+        "margin_pct": -29.17845788597549,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "30": {
+        "dem_votes": 11811,
+        "rep_votes": 4867,
+        "other_votes": 192,
+        "total_votes": 16870,
+        "dem_candidate": "Dave Hansen",
+        "rep_candidate": "David Vanderleest",
+        "margin": -6944,
+        "margin_pct": -41.161825726141075,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "32": {
+        "dem_votes": 25396,
+        "rep_votes": 19696,
+        "other_votes": 21,
+        "total_votes": 45113,
+        "dem_candidate": "Jennifer Shilling",
+        "rep_candidate": "Dan Kapanke",
+        "margin": -5700,
+        "margin_pct": -12.6349389311285,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "8": {
+        "dem_votes": 19956,
+        "rep_votes": 30253,
+        "other_votes": 34,
+        "total_votes": 50243,
+        "dem_candidate": "Sandra K. Pasch",
+        "rep_candidate": "Alberta Darling",
+        "margin": 10298,
+        "margin_pct": 20.495822605162957,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      }
+    },
+    "election_type": "recall"
+  }
+}

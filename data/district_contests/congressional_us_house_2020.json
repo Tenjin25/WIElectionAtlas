@@ -1,0 +1,119 @@
+{
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 143967,
+        "rep_votes": 189116,
+        "other_votes": 275,
+        "total_votes": 333359,
+        "dem_candidate": "Roger Polack",
+        "rep_candidate": "Bryan Steil",
+        "margin": 45149,
+        "margin_pct": 13.543638837164998,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "2": {
+        "dem_votes": 305711,
+        "rep_votes": 128408,
+        "other_votes": 353,
+        "total_votes": 434471,
+        "dem_candidate": "Mark Pocan",
+        "rep_candidate": "Peter Theron",
+        "margin": -177303,
+        "margin_pct": -40.80899624946226,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "3": {
+        "dem_votes": 198871,
+        "rep_votes": 188231,
+        "other_votes": 224,
+        "total_votes": 387326,
+        "dem_candidate": "Ron Kind",
+        "rep_candidate": "Derrick Van Orden",
+        "margin": -10640,
+        "margin_pct": -2.7469384164763975,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "4": {
+        "dem_votes": 219327,
+        "rep_votes": 59468,
+        "other_votes": 7338,
+        "total_votes": 286133,
+        "dem_candidate": "Gwen S. Moore",
+        "rep_candidate": "Tim Rogers",
+        "margin": -159859,
+        "margin_pct": -55.868774311246874,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "5": {
+        "dem_votes": 143728,
+        "rep_votes": 244680,
+        "other_votes": 214,
+        "total_votes": 388623,
+        "dem_candidate": "Tom Palzewicz",
+        "rep_candidate": "Scott Fitzgerald",
+        "margin": 100952,
+        "margin_pct": 25.976925386781,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "6": {
+        "dem_votes": 159560,
+        "rep_votes": 233842,
+        "other_votes": 217,
+        "total_votes": 393619,
+        "dem_candidate": "Jessica J. King",
+        "rep_candidate": "Glenn Grothman",
+        "margin": 74282,
+        "margin_pct": 18.87156594938198,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "7": {
+        "dem_votes": 243937,
+        "rep_votes": 360048,
+        "other_votes": 298,
+        "total_votes": 604283,
+        "dem_candidate": "Tricia Zunker",
+        "rep_candidate": "Tom Tiffany",
+        "margin": 116110,
+        "margin_pct": 19.21455024050308,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "8": {
+        "dem_votes": 146798,
+        "rep_votes": 260863,
+        "other_votes": 100,
+        "total_votes": 407761,
+        "dem_candidate": "Amanda Stuck",
+        "rep_candidate": "Mike Gallagher",
+        "margin": 114065,
+        "margin_pct": 27.97347151226233,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      }
+    },
+    "election_type": "special_general"
+  }
+}

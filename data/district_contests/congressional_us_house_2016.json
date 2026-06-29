@@ -1,0 +1,119 @@
+{
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 94227,
+        "rep_votes": 177771,
+        "other_votes": 14062,
+        "total_votes": 286060,
+        "dem_candidate": "Ryan Solen",
+        "rep_candidate": "Paul Ryan",
+        "margin": 83545,
+        "margin_pct": 29.205267679503,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "2": {
+        "dem_votes": 261572,
+        "rep_votes": 115974,
+        "other_votes": 463,
+        "total_votes": 378010,
+        "dem_candidate": "Mark Pocan",
+        "rep_candidate": "Peter Theron",
+        "margin": -145598,
+        "margin_pct": -38.51699108166245,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "3": {
+        "dem_votes": 255868,
+        "rep_votes": 169,
+        "other_votes": 2795,
+        "total_votes": 258832,
+        "dem_candidate": "Ron Kind",
+        "rep_candidate": "Ryan Peterson (Write-In)",
+        "margin": -255699,
+        "margin_pct": -98.78975020331687,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "4": {
+        "dem_votes": 207908,
+        "rep_votes": 0,
+        "other_votes": 57368,
+        "total_votes": 265276,
+        "dem_candidate": "Gwen S. Moore",
+        "rep_candidate": "",
+        "margin": -207908,
+        "margin_pct": -78.3742215654639,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "5": {
+        "dem_votes": 91612,
+        "rep_votes": 236021,
+        "other_votes": 13176,
+        "total_votes": 340809,
+        "dem_candidate": "Khary Penebaker",
+        "rep_candidate": "F. James Sensenbrenner, Jr.",
+        "margin": 144408,
+        "margin_pct": 42.3722239416681,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "6": {
+        "dem_votes": 129277,
+        "rep_votes": 199252,
+        "other_votes": 19496,
+        "total_votes": 348025,
+        "dem_candidate": "Sarah Lloyd",
+        "rep_candidate": "Glenn Grothman",
+        "margin": 69974,
+        "margin_pct": 20.10615136106899,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "7": {
+        "dem_votes": 138030,
+        "rep_votes": 222415,
+        "other_votes": 209,
+        "total_votes": 360653,
+        "dem_candidate": "Mary Hoeft",
+        "rep_candidate": "Sean Duffy",
+        "margin": 84385,
+        "margin_pct": 23.397858393749484,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "8": {
+        "dem_votes": 133092,
+        "rep_votes": 221874,
+        "other_votes": 201,
+        "total_votes": 355166,
+        "dem_candidate": "Tom Nelson",
+        "rep_candidate": "Mike Gallagher",
+        "margin": 88782,
+        "margin_pct": 24.997260377036596,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      }
+    },
+    "election_type": "general"
+  }
+}

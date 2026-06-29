@@ -1,0 +1,21 @@
+{
+  "general": {
+    "results": {
+      "13": {
+        "dem_votes": 15341,
+        "rep_votes": 17214,
+        "other_votes": 1741,
+        "total_votes": 34297,
+        "dem_candidate": "Melissa Winker",
+        "rep_candidate": "John Jagler",
+        "margin": 1873,
+        "margin_pct": 5.459879876387324,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      }
+    },
+    "election_type": "special_general"
+  }
+}
