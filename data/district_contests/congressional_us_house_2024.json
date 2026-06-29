@@ -100,17 +100,17 @@
         }
       },
       "8": {
-        "dem_votes": 352024,
-        "rep_votes": 475226,
-        "other_votes": 504,
-        "total_votes": 416074,
+        "dem_votes": 178666,
+        "rep_votes": 240040,
+        "other_votes": 272,
+        "total_votes": 418978,
         "dem_candidate": "Kristin Lyerly",
         "rep_candidate": "Tony Wied",
-        "margin": 123202,
-        "margin_pct": 29.610551861973477,
+        "margin": 61374,
+        "margin_pct": 14.648501830645047,
         "winner": "REP",
         "competitiveness": {
-          "color": "#67000d"
+          "color": "#cb181d"
         }
       }
     },
