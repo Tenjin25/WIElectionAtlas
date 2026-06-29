@@ -1,0 +1,468 @@
+{
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 28349,
+        "rep_votes": 32996,
+        "other_votes": 3078,
+        "total_votes": 64424,
+        "dem_candidate": "Al Gore & Joe Lieberman",
+        "rep_candidate": "George Bush & Dick Cheney",
+        "margin": 4647,
+        "margin_pct": 7.213206361032853,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "10": {
+        "dem_votes": 24265,
+        "rep_votes": 26687,
+        "other_votes": 3170,
+        "total_votes": 54122,
+        "dem_candidate": "Al Gore & Joe Lieberman",
+        "rep_candidate": "George Bush & Dick Cheney",
+        "margin": 2422,
+        "margin_pct": 4.475074830937512,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "11": {
+        "dem_votes": 29600,
+        "rep_votes": 34772,
+        "other_votes": 3012,
+        "total_votes": 67384,
+        "dem_candidate": "Al Gore & Joe Lieberman",
+        "rep_candidate": "George Bush & Dick Cheney",
+        "margin": 5172,
+        "margin_pct": 7.676135590705033,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "12": {
+        "dem_votes": 27331,
+        "rep_votes": 32327,
+        "other_votes": 3066,
+        "total_votes": 62724,
+        "dem_candidate": "Al Gore & Joe Lieberman",
+        "rep_candidate": "George Bush & Dick Cheney",
+        "margin": 4996,
+        "margin_pct": 7.965053249155028,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "13": {
+        "dem_votes": 25746,
+        "rep_votes": 34116,
+        "other_votes": 2529,
+        "total_votes": 62391,
+        "dem_candidate": "Al Gore & Joe Lieberman",
+        "rep_candidate": "George Bush & Dick Cheney",
+        "margin": 8370,
+        "margin_pct": 13.415656140093787,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "14": {
+        "dem_votes": 26251,
+        "rep_votes": 31587,
+        "other_votes": 2482,
+        "total_votes": 60320,
+        "dem_candidate": "Al Gore & Joe Lieberman",
+        "rep_candidate": "George Bush & Dick Cheney",
+        "margin": 5336,
+        "margin_pct": 8.846153846153847,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "15": {
+        "dem_votes": 43089,
+        "rep_votes": 27466,
+        "other_votes": 2727,
+        "total_votes": 73282,
+        "dem_candidate": "Al Gore & Joe Lieberman",
+        "rep_candidate": "George Bush & Dick Cheney",
+        "margin": -15624,
+        "margin_pct": -21.319745002740557,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "16": {
+        "dem_votes": 62677,
+        "rep_votes": 29188,
+        "other_votes": 7368,
+        "total_votes": 99234,
+        "dem_candidate": "Al Gore & Joe Lieberman",
+        "rep_candidate": "George Bush & Dick Cheney",
+        "margin": -33489,
+        "margin_pct": -33.74742400499831,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "17": {
+        "dem_votes": 25853,
+        "rep_votes": 24115,
+        "other_votes": 2247,
+        "total_votes": 52215,
+        "dem_candidate": "Al Gore & Joe Lieberman",
+        "rep_candidate": "George Bush & Dick Cheney",
+        "margin": -1738,
+        "margin_pct": -3.328545437134923,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "18": {
+        "dem_votes": 29750,
+        "rep_votes": 36683,
+        "other_votes": 3092,
+        "total_votes": 69526,
+        "dem_candidate": "Al Gore & Joe Lieberman",
+        "rep_candidate": "George Bush & Dick Cheney",
+        "margin": 6933,
+        "margin_pct": 9.971521240408196,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "19": {
+        "dem_votes": 28784,
+        "rep_votes": 35676,
+        "other_votes": 3331,
+        "total_votes": 67791,
+        "dem_candidate": "Al Gore & Joe Lieberman",
+        "rep_candidate": "George Bush & Dick Cheney",
+        "margin": 6892,
+        "margin_pct": 10.166541281291027,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "2": {
+        "dem_votes": 29304,
+        "rep_votes": 34836,
+        "other_votes": 2722,
+        "total_votes": 66860,
+        "dem_candidate": "Al Gore & Joe Lieberman",
+        "rep_candidate": "George Bush & Dick Cheney",
+        "margin": 5532,
+        "margin_pct": 8.273943509246864,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "20": {
+        "dem_votes": 23069,
+        "rep_votes": 47657,
+        "other_votes": 2769,
+        "total_votes": 73495,
+        "dem_candidate": "Al Gore & Joe Lieberman",
+        "rep_candidate": "George Bush & Dick Cheney",
+        "margin": 24588,
+        "margin_pct": 33.45533709776175,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "21": {
+        "dem_votes": 29293,
+        "rep_votes": 40183,
+        "other_votes": 2578,
+        "total_votes": 72053,
+        "dem_candidate": "Al Gore & Joe Lieberman",
+        "rep_candidate": "George Bush & Dick Cheney",
+        "margin": 10890,
+        "margin_pct": 15.11426720947446,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "22": {
+        "dem_votes": 40953,
+        "rep_votes": 26819,
+        "other_votes": 2686,
+        "total_votes": 70458,
+        "dem_candidate": "Al Gore & Joe Lieberman",
+        "rep_candidate": "George Bush & Dick Cheney",
+        "margin": -14134,
+        "margin_pct": -20.060177694513044,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "23": {
+        "dem_votes": 27085,
+        "rep_votes": 29382,
+        "other_votes": 2798,
+        "total_votes": 59265,
+        "dem_candidate": "Al Gore & Joe Lieberman",
+        "rep_candidate": "George Bush & Dick Cheney",
+        "margin": 2297,
+        "margin_pct": 3.8764322480916618,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "24": {
+        "dem_votes": 33234,
+        "rep_votes": 29810,
+        "other_votes": 4238,
+        "total_votes": 67282,
+        "dem_candidate": "Al Gore & Joe Lieberman",
+        "rep_candidate": "George Bush & Dick Cheney",
+        "margin": -3424,
+        "margin_pct": -5.089028269076425,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "25": {
+        "dem_votes": 28803,
+        "rep_votes": 23024,
+        "other_votes": 3065,
+        "total_votes": 54892,
+        "dem_candidate": "Al Gore & Joe Lieberman",
+        "rep_candidate": "George Bush & Dick Cheney",
+        "margin": -5779,
+        "margin_pct": -10.527945784449464,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "26": {
+        "dem_votes": 38244,
+        "rep_votes": 16660,
+        "other_votes": 4185,
+        "total_votes": 59089,
+        "dem_candidate": "Al Gore & Joe Lieberman",
+        "rep_candidate": "George Bush & Dick Cheney",
+        "margin": -21584,
+        "margin_pct": -36.52794936451793,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "27": {
+        "dem_votes": 30685,
+        "rep_votes": 23077,
+        "other_votes": 2353,
+        "total_votes": 56115,
+        "dem_candidate": "Al Gore & Joe Lieberman",
+        "rep_candidate": "George Bush & Dick Cheney",
+        "margin": -7608,
+        "margin_pct": -13.558658613425326,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "28": {
+        "dem_votes": 32753,
+        "rep_votes": 47993,
+        "other_votes": 2826,
+        "total_votes": 83572,
+        "dem_candidate": "Al Gore & Joe Lieberman",
+        "rep_candidate": "George Bush & Dick Cheney",
+        "margin": 15240,
+        "margin_pct": 18.236289503152477,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "29": {
+        "dem_votes": 27223,
+        "rep_votes": 30158,
+        "other_votes": 3024,
+        "total_votes": 60405,
+        "dem_candidate": "Al Gore & Joe Lieberman",
+        "rep_candidate": "George Bush & Dick Cheney",
+        "margin": 2935,
+        "margin_pct": 4.858433083937662,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "3": {
+        "dem_votes": 39673,
+        "rep_votes": 24580,
+        "other_votes": 3030,
+        "total_votes": 67283,
+        "dem_candidate": "Al Gore & Joe Lieberman",
+        "rep_candidate": "George Bush & Dick Cheney",
+        "margin": -15093,
+        "margin_pct": -22.43211509593805,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "30": {
+        "dem_votes": 31600,
+        "rep_votes": 31292,
+        "other_votes": 2782,
+        "total_votes": 65674,
+        "dem_candidate": "Al Gore & Joe Lieberman",
+        "rep_candidate": "George Bush & Dick Cheney",
+        "margin": -307,
+        "margin_pct": -0.4674569277268955,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "31": {
+        "dem_votes": 31473,
+        "rep_votes": 26584,
+        "other_votes": 3871,
+        "total_votes": 61928,
+        "dem_candidate": "Al Gore & Joe Lieberman",
+        "rep_candidate": "George Bush & Dick Cheney",
+        "margin": -4889,
+        "margin_pct": -7.894845438511822,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "32": {
+        "dem_votes": 34644,
+        "rep_votes": 29092,
+        "other_votes": 3405,
+        "total_votes": 67141,
+        "dem_candidate": "Al Gore & Joe Lieberman",
+        "rep_candidate": "George Bush & Dick Cheney",
+        "margin": -5552,
+        "margin_pct": -8.26916489179488,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "33": {
+        "dem_votes": 26697,
+        "rep_votes": 53240,
+        "other_votes": 2803,
+        "total_votes": 82741,
+        "dem_candidate": "Al Gore & Joe Lieberman",
+        "rep_candidate": "George Bush & Dick Cheney",
+        "margin": 26543,
+        "margin_pct": 32.080017242664304,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "4": {
+        "dem_votes": 60677,
+        "rep_votes": 20875,
+        "other_votes": 4258,
+        "total_votes": 85810,
+        "dem_candidate": "Al Gore & Joe Lieberman",
+        "rep_candidate": "George Bush & Dick Cheney",
+        "margin": -39802,
+        "margin_pct": -46.383871343666236,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "5": {
+        "dem_votes": 33545,
+        "rep_votes": 58276,
+        "other_votes": 3262,
+        "total_votes": 95082,
+        "dem_candidate": "Al Gore & Joe Lieberman",
+        "rep_candidate": "George Bush & Dick Cheney",
+        "margin": 24730,
+        "margin_pct": 26.009518050114373,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "6": {
+        "dem_votes": 53550,
+        "rep_votes": 26474,
+        "other_votes": 3125,
+        "total_votes": 83149,
+        "dem_candidate": "Al Gore & Joe Lieberman",
+        "rep_candidate": "George Bush & Dick Cheney",
+        "margin": -27076,
+        "margin_pct": -32.56322986446018,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "7": {
+        "dem_votes": 42454,
+        "rep_votes": 27323,
+        "other_votes": 2582,
+        "total_votes": 72359,
+        "dem_candidate": "Al Gore & Joe Lieberman",
+        "rep_candidate": "George Bush & Dick Cheney",
+        "margin": -15131,
+        "margin_pct": -20.910739889785273,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "8": {
+        "dem_votes": 31411,
+        "rep_votes": 55381,
+        "other_votes": 2680,
+        "total_votes": 89472,
+        "dem_candidate": "Al Gore & Joe Lieberman",
+        "rep_candidate": "George Bush & Dick Cheney",
+        "margin": 23970,
+        "margin_pct": 26.79087684787792,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "9": {
+        "dem_votes": 34945,
+        "rep_votes": 41268,
+        "other_votes": 3041,
+        "total_votes": 79254,
+        "dem_candidate": "Al Gore & Joe Lieberman",
+        "rep_candidate": "George Bush & Dick Cheney",
+        "margin": 6323,
+        "margin_pct": 7.978146213440331,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      }
+    }
+  }
+}

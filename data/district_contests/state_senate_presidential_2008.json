@@ -1,0 +1,468 @@
+{
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 45721,
+        "rep_votes": 37852,
+        "other_votes": 1259,
+        "total_votes": 84832,
+        "dem_candidate": "Joe Biden Barack Obama",
+        "rep_candidate": "Sarah Palin John McCain",
+        "margin": -7869,
+        "margin_pct": -9.275980761976612,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "10": {
+        "dem_votes": 36898,
+        "rep_votes": 35708,
+        "other_votes": 1372,
+        "total_votes": 73978,
+        "dem_candidate": "Joe Biden Barack Obama",
+        "rep_candidate": "Sarah Palin John McCain",
+        "margin": -1190,
+        "margin_pct": -1.6085863364784125,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "11": {
+        "dem_votes": 43938,
+        "rep_votes": 38093,
+        "other_votes": 1234,
+        "total_votes": 83265,
+        "dem_candidate": "Joe Biden Barack Obama",
+        "rep_candidate": "Sarah Palin John McCain",
+        "margin": -5845,
+        "margin_pct": -7.019970415681696,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "12": {
+        "dem_votes": 40086,
+        "rep_votes": 35170,
+        "other_votes": 1226,
+        "total_votes": 76482,
+        "dem_candidate": "Joe Biden Barack Obama",
+        "rep_candidate": "Sarah Palin John McCain",
+        "margin": -4916,
+        "margin_pct": -6.427656180539213,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "13": {
+        "dem_votes": 37852,
+        "rep_votes": 40170,
+        "other_votes": 1092,
+        "total_votes": 79113,
+        "dem_candidate": "Joe Biden Barack Obama",
+        "rep_candidate": "Sarah Palin John McCain",
+        "margin": 2318,
+        "margin_pct": 2.929986222239075,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "14": {
+        "dem_votes": 37105,
+        "rep_votes": 33067,
+        "other_votes": 977,
+        "total_votes": 71149,
+        "dem_candidate": "Joe Biden Barack Obama",
+        "rep_candidate": "Sarah Palin John McCain",
+        "margin": -4038,
+        "margin_pct": -5.675413568707923,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "15": {
+        "dem_votes": 54371,
+        "rep_votes": 26720,
+        "other_votes": 1276,
+        "total_votes": 82367,
+        "dem_candidate": "Joe Biden Barack Obama",
+        "rep_candidate": "Sarah Palin John McCain",
+        "margin": -27651,
+        "margin_pct": -33.570213050102886,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "16": {
+        "dem_votes": 75485,
+        "rep_votes": 23822,
+        "other_votes": 1526,
+        "total_votes": 100833,
+        "dem_candidate": "Joe Biden Barack Obama",
+        "rep_candidate": "Sarah Palin John McCain",
+        "margin": -51663,
+        "margin_pct": -51.23620243372705,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "17": {
+        "dem_votes": 35788,
+        "rep_votes": 22787,
+        "other_votes": 913,
+        "total_votes": 59488,
+        "dem_candidate": "Joe Biden Barack Obama",
+        "rep_candidate": "Sarah Palin John McCain",
+        "margin": -13001,
+        "margin_pct": -21.854827864443248,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "18": {
+        "dem_votes": 40960,
+        "rep_votes": 37364,
+        "other_votes": 1180,
+        "total_votes": 79504,
+        "dem_candidate": "Joe Biden Barack Obama",
+        "rep_candidate": "Sarah Palin John McCain",
+        "margin": -3596,
+        "margin_pct": -4.522714194524192,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "19": {
+        "dem_votes": 44909,
+        "rep_votes": 35728,
+        "other_votes": 1572,
+        "total_votes": 82209,
+        "dem_candidate": "Joe Biden Barack Obama",
+        "rep_candidate": "Sarah Palin John McCain",
+        "margin": -9181,
+        "margin_pct": -11.167876996435913,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "2": {
+        "dem_votes": 42403,
+        "rep_votes": 36128,
+        "other_votes": 1202,
+        "total_votes": 79734,
+        "dem_candidate": "Joe Biden Barack Obama",
+        "rep_candidate": "Sarah Palin John McCain",
+        "margin": -6276,
+        "margin_pct": -7.870585690053229,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "20": {
+        "dem_votes": 34002,
+        "rep_votes": 56616,
+        "other_votes": 1177,
+        "total_votes": 91795,
+        "dem_candidate": "Joe Biden Barack Obama",
+        "rep_candidate": "Sarah Palin John McCain",
+        "margin": 22614,
+        "margin_pct": 24.63532872160793,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "21": {
+        "dem_votes": 38854,
+        "rep_votes": 44302,
+        "other_votes": 1106,
+        "total_votes": 84262,
+        "dem_candidate": "Joe Biden Barack Obama",
+        "rep_candidate": "Sarah Palin John McCain",
+        "margin": 5447,
+        "margin_pct": 6.464724863787789,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "22": {
+        "dem_votes": 54880,
+        "rep_votes": 26328,
+        "other_votes": 1328,
+        "total_votes": 82536,
+        "dem_candidate": "Joe Biden Barack Obama",
+        "rep_candidate": "Sarah Palin John McCain",
+        "margin": -28552,
+        "margin_pct": -34.593995347484736,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "23": {
+        "dem_votes": 37505,
+        "rep_votes": 29788,
+        "other_votes": 1106,
+        "total_votes": 68399,
+        "dem_candidate": "Joe Biden Barack Obama",
+        "rep_candidate": "Sarah Palin John McCain",
+        "margin": -7717,
+        "margin_pct": -11.281961586038388,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "24": {
+        "dem_votes": 45256,
+        "rep_votes": 30409,
+        "other_votes": 1489,
+        "total_votes": 77154,
+        "dem_candidate": "Joe Biden Barack Obama",
+        "rep_candidate": "Sarah Palin John McCain",
+        "margin": -14847,
+        "margin_pct": -19.24333151878062,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "25": {
+        "dem_votes": 38830,
+        "rep_votes": 25989,
+        "other_votes": 991,
+        "total_votes": 65810,
+        "dem_candidate": "Joe Biden Barack Obama",
+        "rep_candidate": "Sarah Palin John McCain",
+        "margin": -12841,
+        "margin_pct": -19.51223218355873,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "26": {
+        "dem_votes": 67442,
+        "rep_votes": 16880,
+        "other_votes": 1278,
+        "total_votes": 85600,
+        "dem_candidate": "Joe Biden Barack Obama",
+        "rep_candidate": "Sarah Palin John McCain",
+        "margin": -50562,
+        "margin_pct": -59.06775700934579,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "27": {
+        "dem_votes": 49424,
+        "rep_votes": 25533,
+        "other_votes": 850,
+        "total_votes": 75808,
+        "dem_candidate": "Joe Biden Barack Obama",
+        "rep_candidate": "Sarah Palin John McCain",
+        "margin": -23891,
+        "margin_pct": -31.515143520472776,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "28": {
+        "dem_votes": 44038,
+        "rep_votes": 54418,
+        "other_votes": 1131,
+        "total_votes": 99587,
+        "dem_candidate": "Joe Biden Barack Obama",
+        "rep_candidate": "Sarah Palin John McCain",
+        "margin": 10381,
+        "margin_pct": 10.42363331983864,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "29": {
+        "dem_votes": 38596,
+        "rep_votes": 32042,
+        "other_votes": 1261,
+        "total_votes": 71899,
+        "dem_candidate": "Joe Biden Barack Obama",
+        "rep_candidate": "Sarah Palin John McCain",
+        "margin": -6555,
+        "margin_pct": -9.116607343236065,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "3": {
+        "dem_votes": 48307,
+        "rep_votes": 23736,
+        "other_votes": 1128,
+        "total_votes": 73171,
+        "dem_candidate": "Joe Biden Barack Obama",
+        "rep_candidate": "Sarah Palin John McCain",
+        "margin": -24571,
+        "margin_pct": -33.58024353910702,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "30": {
+        "dem_votes": 43544,
+        "rep_votes": 32767,
+        "other_votes": 1054,
+        "total_votes": 77364,
+        "dem_candidate": "Joe Biden Barack Obama",
+        "rep_candidate": "Sarah Palin John McCain",
+        "margin": -10776,
+        "margin_pct": -13.929530479667118,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "31": {
+        "dem_votes": 44192,
+        "rep_votes": 28382,
+        "other_votes": 1344,
+        "total_votes": 73918,
+        "dem_candidate": "Joe Biden Barack Obama",
+        "rep_candidate": "Sarah Palin John McCain",
+        "margin": -15810,
+        "margin_pct": -21.389242133174598,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "32": {
+        "dem_votes": 46099,
+        "rep_votes": 28407,
+        "other_votes": 1208,
+        "total_votes": 75714,
+        "dem_candidate": "Joe Biden Barack Obama",
+        "rep_candidate": "Sarah Palin John McCain",
+        "margin": -17692,
+        "margin_pct": -23.366880629738226,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "33": {
+        "dem_votes": 36572,
+        "rep_votes": 60446,
+        "other_votes": 1005,
+        "total_votes": 98023,
+        "dem_candidate": "Joe Biden Barack Obama",
+        "rep_candidate": "Sarah Palin John McCain",
+        "margin": 23874,
+        "margin_pct": 24.35559560648825,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "4": {
+        "dem_votes": 82907,
+        "rep_votes": 19528,
+        "other_votes": 1149,
+        "total_votes": 103584,
+        "dem_candidate": "Joe Biden Barack Obama",
+        "rep_candidate": "Sarah Palin John McCain",
+        "margin": -63380,
+        "margin_pct": -61.186537217661616,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "5": {
+        "dem_votes": 42792,
+        "rep_votes": 56895,
+        "other_votes": 1208,
+        "total_votes": 100896,
+        "dem_candidate": "Joe Biden Barack Obama",
+        "rep_candidate": "Sarah Palin John McCain",
+        "margin": 14102,
+        "margin_pct": 13.977263717094832,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "6": {
+        "dem_votes": 72548,
+        "rep_votes": 20981,
+        "other_votes": 1041,
+        "total_votes": 94570,
+        "dem_candidate": "Joe Biden Barack Obama",
+        "rep_candidate": "Sarah Palin John McCain",
+        "margin": -51567,
+        "margin_pct": -54.52786295865496,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "7": {
+        "dem_votes": 47786,
+        "rep_votes": 24626,
+        "other_votes": 894,
+        "total_votes": 73306,
+        "dem_candidate": "Joe Biden Barack Obama",
+        "rep_candidate": "Sarah Palin John McCain",
+        "margin": -23161,
+        "margin_pct": -31.59485037087561,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "8": {
+        "dem_votes": 42457,
+        "rep_votes": 58849,
+        "other_votes": 1219,
+        "total_votes": 102525,
+        "dem_candidate": "Joe Biden Barack Obama",
+        "rep_candidate": "Sarah Palin John McCain",
+        "margin": 16393,
+        "margin_pct": 15.988997769642424,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "9": {
+        "dem_votes": 44798,
+        "rep_votes": 42565,
+        "other_votes": 1368,
+        "total_votes": 88731,
+        "dem_candidate": "Joe Biden Barack Obama",
+        "rep_candidate": "Sarah Palin John McCain",
+        "margin": -2233,
+        "margin_pct": -2.516595102050016,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      }
+    }
+  }
+}

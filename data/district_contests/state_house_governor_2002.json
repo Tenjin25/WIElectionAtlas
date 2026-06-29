@@ -1,0 +1,1392 @@
+{
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 7044,
+        "rep_votes": 8006,
+        "other_votes": 2582,
+        "total_votes": 17633,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": 962,
+        "margin_pct": 5.455679691487552,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "10": {
+        "dem_votes": 13673,
+        "rep_votes": 6108,
+        "other_votes": 1307,
+        "total_votes": 21088,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": -7565,
+        "margin_pct": -35.873482549317146,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "11": {
+        "dem_votes": 14382,
+        "rep_votes": 3830,
+        "other_votes": 1714,
+        "total_votes": 19926,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": -10552,
+        "margin_pct": -52.955936966777074,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "12": {
+        "dem_votes": 9502,
+        "rep_votes": 3483,
+        "other_votes": 702,
+        "total_votes": 13687,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": -6019,
+        "margin_pct": -43.977106673161224,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "13": {
+        "dem_votes": 7090,
+        "rep_votes": 17177,
+        "other_votes": 1353,
+        "total_votes": 25620,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": 10087,
+        "margin_pct": 39.37158469945356,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "14": {
+        "dem_votes": 8882,
+        "rep_votes": 9915,
+        "other_votes": 1789,
+        "total_votes": 20586,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": 1033,
+        "margin_pct": 5.017973379966969,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "15": {
+        "dem_votes": 7141,
+        "rep_votes": 12176,
+        "other_votes": 1613,
+        "total_votes": 20930,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": 5035,
+        "margin_pct": 24.05637840420449,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "16": {
+        "dem_votes": 11920,
+        "rep_votes": 4351,
+        "other_votes": 1310,
+        "total_votes": 17581,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": -7569,
+        "margin_pct": -43.052158580285536,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "17": {
+        "dem_votes": 10178,
+        "rep_votes": 4722,
+        "other_votes": 1074,
+        "total_votes": 15974,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": -5456,
+        "margin_pct": -34.1555026918743,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "18": {
+        "dem_votes": 9872,
+        "rep_votes": 5384,
+        "other_votes": 1210,
+        "total_votes": 16466,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": -4488,
+        "margin_pct": -27.256164217174785,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "19": {
+        "dem_votes": 6145,
+        "rep_votes": 2324,
+        "other_votes": 737,
+        "total_votes": 9206,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": -3821,
+        "margin_pct": -41.50553986530524,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "2": {
+        "dem_votes": 6807,
+        "rep_votes": 7334,
+        "other_votes": 2184,
+        "total_votes": 16325,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": 527,
+        "margin_pct": 3.228177641653905,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "20": {
+        "dem_votes": 8445,
+        "rep_votes": 3823,
+        "other_votes": 1266,
+        "total_votes": 13534,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": -4622,
+        "margin_pct": -34.151027043002806,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "21": {
+        "dem_votes": 7246,
+        "rep_votes": 7028,
+        "other_votes": 1715,
+        "total_votes": 15988,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": -218,
+        "margin_pct": -1.3635439633469375,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "22": {
+        "dem_votes": 5896,
+        "rep_votes": 12987,
+        "other_votes": 1814,
+        "total_votes": 20697,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": 7091,
+        "margin_pct": 34.26236108874215,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "23": {
+        "dem_votes": 10663,
+        "rep_votes": 13417,
+        "other_votes": 1310,
+        "total_votes": 25391,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": 2754,
+        "margin_pct": 10.846362884486624,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "24": {
+        "dem_votes": 5707,
+        "rep_votes": 11742,
+        "other_votes": 1368,
+        "total_votes": 18818,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": 6035,
+        "margin_pct": 32.07004056471756,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "25": {
+        "dem_votes": 7810,
+        "rep_votes": 7520,
+        "other_votes": 2150,
+        "total_votes": 17480,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": -290,
+        "margin_pct": -1.6590389016018305,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "26": {
+        "dem_votes": 5569,
+        "rep_votes": 7478,
+        "other_votes": 1411,
+        "total_votes": 14458,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": 1909,
+        "margin_pct": 13.203762622769402,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "27": {
+        "dem_votes": 11978,
+        "rep_votes": 11596,
+        "other_votes": 2536,
+        "total_votes": 26110,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": -382,
+        "margin_pct": -1.463040980467254,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "28": {
+        "dem_votes": 6201,
+        "rep_votes": 6321,
+        "other_votes": 733,
+        "total_votes": 13255,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": 120,
+        "margin_pct": 0.9053187476423992,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "29": {
+        "dem_votes": 5083,
+        "rep_votes": 4218,
+        "other_votes": 1029,
+        "total_votes": 10330,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": -865,
+        "margin_pct": -8.373668925459826,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "3": {
+        "dem_votes": 5539,
+        "rep_votes": 6440,
+        "other_votes": 1432,
+        "total_votes": 13411,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": 901,
+        "margin_pct": 6.7183655208411,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "30": {
+        "dem_votes": 5336,
+        "rep_votes": 7775,
+        "other_votes": 770,
+        "total_votes": 13881,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": 2439,
+        "margin_pct": 17.570780203155394,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "31": {
+        "dem_votes": 6634,
+        "rep_votes": 6359,
+        "other_votes": 2440,
+        "total_votes": 15434,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": -276,
+        "margin_pct": -1.7850200855254632,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "32": {
+        "dem_votes": 4717,
+        "rep_votes": 6505,
+        "other_votes": 1278,
+        "total_votes": 12500,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": 1788,
+        "margin_pct": 14.304,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "33": {
+        "dem_votes": 8377,
+        "rep_votes": 6894,
+        "other_votes": 3417,
+        "total_votes": 18688,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": -1483,
+        "margin_pct": -7.935573630136987,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "34": {
+        "dem_votes": 7369,
+        "rep_votes": 7802,
+        "other_votes": 3110,
+        "total_votes": 18281,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": 433,
+        "margin_pct": 2.3685793993764017,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "35": {
+        "dem_votes": 7322,
+        "rep_votes": 6363,
+        "other_votes": 2807,
+        "total_votes": 16492,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": -959,
+        "margin_pct": -5.814940577249575,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "36": {
+        "dem_votes": 6186,
+        "rep_votes": 7076,
+        "other_votes": 1609,
+        "total_votes": 14871,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": 890,
+        "margin_pct": 5.984802636002959,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "37": {
+        "dem_votes": 4535,
+        "rep_votes": 6465,
+        "other_votes": 2482,
+        "total_votes": 13481,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": 1930,
+        "margin_pct": 14.318564752508825,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "38": {
+        "dem_votes": 6205,
+        "rep_votes": 7606,
+        "other_votes": 2961,
+        "total_votes": 16772,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": 1401,
+        "margin_pct": 8.353207727164321,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "39": {
+        "dem_votes": 5722,
+        "rep_votes": 7485,
+        "other_votes": 3259,
+        "total_votes": 16466,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": 1763,
+        "margin_pct": 10.706911210980202,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "4": {
+        "dem_votes": 7618,
+        "rep_votes": 8286,
+        "other_votes": 1957,
+        "total_votes": 17861,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": 668,
+        "margin_pct": 3.7406920105257266,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "40": {
+        "dem_votes": 5846,
+        "rep_votes": 7298,
+        "other_votes": 1979,
+        "total_votes": 15123,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": 1452,
+        "margin_pct": 9.60126958936719,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "41": {
+        "dem_votes": 5561,
+        "rep_votes": 4896,
+        "other_votes": 2540,
+        "total_votes": 12997,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": -665,
+        "margin_pct": -5.116565361237209,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "42": {
+        "dem_votes": 6058,
+        "rep_votes": 6687,
+        "other_votes": 3221,
+        "total_votes": 15966,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": 629,
+        "margin_pct": 3.9396216961042216,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "43": {
+        "dem_votes": 10206,
+        "rep_votes": 5658,
+        "other_votes": 3947,
+        "total_votes": 19811,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": -4547,
+        "margin_pct": -22.951895411639995,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "44": {
+        "dem_votes": 10515,
+        "rep_votes": 5330,
+        "other_votes": 2471,
+        "total_votes": 18316,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": -5185,
+        "margin_pct": -28.308582659969428,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "45": {
+        "dem_votes": 7264,
+        "rep_votes": 3900,
+        "other_votes": 3202,
+        "total_votes": 14367,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": -3364,
+        "margin_pct": -23.411289761258438,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "46": {
+        "dem_votes": 6835,
+        "rep_votes": 4642,
+        "other_votes": 3071,
+        "total_votes": 14548,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": -2193,
+        "margin_pct": -15.07647362089706,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "47": {
+        "dem_votes": 11887,
+        "rep_votes": 5616,
+        "other_votes": 4190,
+        "total_votes": 21693,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": -6271,
+        "margin_pct": -28.907942654312453,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "48": {
+        "dem_votes": 15609,
+        "rep_votes": 3976,
+        "other_votes": 5964,
+        "total_votes": 25549,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": -11633,
+        "margin_pct": -45.53211475987318,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "49": {
+        "dem_votes": 4974,
+        "rep_votes": 4604,
+        "other_votes": 1747,
+        "total_votes": 11325,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": -370,
+        "margin_pct": -3.2671081677704197,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "5": {
+        "dem_votes": 6528,
+        "rep_votes": 6370,
+        "other_votes": 1644,
+        "total_votes": 14544,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": -158,
+        "margin_pct": -1.0863959844604119,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "50": {
+        "dem_votes": 4438,
+        "rep_votes": 4057,
+        "other_votes": 3793,
+        "total_votes": 12288,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": -381,
+        "margin_pct": -3.1005859375,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "51": {
+        "dem_votes": 5827,
+        "rep_votes": 3926,
+        "other_votes": 2847,
+        "total_votes": 12600,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": -1901,
+        "margin_pct": -15.087301587301589,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "52": {
+        "dem_votes": 5717,
+        "rep_votes": 9207,
+        "other_votes": 1488,
+        "total_votes": 16412,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": 3490,
+        "margin_pct": 21.264928101389227,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "53": {
+        "dem_votes": 7257,
+        "rep_votes": 9270,
+        "other_votes": 1813,
+        "total_votes": 18340,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": 2013,
+        "margin_pct": 10.977371864776444,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "54": {
+        "dem_votes": 5889,
+        "rep_votes": 4674,
+        "other_votes": 1581,
+        "total_votes": 12144,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": -1215,
+        "margin_pct": -10.004940711462451,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "55": {
+        "dem_votes": 5920,
+        "rep_votes": 7177,
+        "other_votes": 1688,
+        "total_votes": 14785,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": 1257,
+        "margin_pct": 8.501859993236389,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "56": {
+        "dem_votes": 5819,
+        "rep_votes": 7571,
+        "other_votes": 1585,
+        "total_votes": 14975,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": 1752,
+        "margin_pct": 11.699499165275459,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "57": {
+        "dem_votes": 7817,
+        "rep_votes": 7509,
+        "other_votes": 1902,
+        "total_votes": 17228,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": -308,
+        "margin_pct": -1.7877873229626189,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "58": {
+        "dem_votes": 5305,
+        "rep_votes": 10280,
+        "other_votes": 1871,
+        "total_votes": 17456,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": 4975,
+        "margin_pct": 28.501618401077028,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "59": {
+        "dem_votes": 5264,
+        "rep_votes": 9986,
+        "other_votes": 2298,
+        "total_votes": 17548,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": 4722,
+        "margin_pct": 26.91113200558452,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "6": {
+        "dem_votes": 5192,
+        "rep_votes": 7038,
+        "other_votes": 1830,
+        "total_votes": 14060,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": 1845,
+        "margin_pct": 13.121866220973649,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "60": {
+        "dem_votes": 5123,
+        "rep_votes": 10688,
+        "other_votes": 1640,
+        "total_votes": 17451,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": 5564,
+        "margin_pct": 31.885851813649644,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "61": {
+        "dem_votes": 5011,
+        "rep_votes": 5071,
+        "other_votes": 802,
+        "total_votes": 10884,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": 60,
+        "margin_pct": 0.5512679162072767,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "62": {
+        "dem_votes": 8168,
+        "rep_votes": 10097,
+        "other_votes": 1612,
+        "total_votes": 19876,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": 1929,
+        "margin_pct": 9.70572401752877,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "63": {
+        "dem_votes": 7187,
+        "rep_votes": 8988,
+        "other_votes": 1341,
+        "total_votes": 17516,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": 1801,
+        "margin_pct": 10.282027860242064,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "64": {
+        "dem_votes": 9175,
+        "rep_votes": 4824,
+        "other_votes": 1042,
+        "total_votes": 15041,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": -4351,
+        "margin_pct": -28.927597899075856,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "65": {
+        "dem_votes": 8513,
+        "rep_votes": 4599,
+        "other_votes": 823,
+        "total_votes": 13935,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": -3914,
+        "margin_pct": -28.087549336203804,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "66": {
+        "dem_votes": 9333,
+        "rep_votes": 4679,
+        "other_votes": 957,
+        "total_votes": 14969,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": -4654,
+        "margin_pct": -31.090921237223597,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "67": {
+        "dem_votes": 6346,
+        "rep_votes": 5712,
+        "other_votes": 2496,
+        "total_votes": 14554,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": -634,
+        "margin_pct": -4.35619073794146,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "68": {
+        "dem_votes": 6263,
+        "rep_votes": 5934,
+        "other_votes": 2478,
+        "total_votes": 14676,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": -329,
+        "margin_pct": -2.2418316241354637,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "69": {
+        "dem_votes": 5267,
+        "rep_votes": 4714,
+        "other_votes": 2792,
+        "total_votes": 12774,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": -553,
+        "margin_pct": -4.3292512441984,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "7": {
+        "dem_votes": 6961,
+        "rep_votes": 4352,
+        "other_votes": 1200,
+        "total_votes": 12513,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": -2609,
+        "margin_pct": -20.85031567170143,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "70": {
+        "dem_votes": 5161,
+        "rep_votes": 3956,
+        "other_votes": 4630,
+        "total_votes": 13747,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": -1205,
+        "margin_pct": -8.763889646643753,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "71": {
+        "dem_votes": 8758,
+        "rep_votes": 5151,
+        "other_votes": 3496,
+        "total_votes": 17404,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": -3607,
+        "margin_pct": -20.726259390666073,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "72": {
+        "dem_votes": 8147,
+        "rep_votes": 6600,
+        "other_votes": 2963,
+        "total_votes": 17710,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": -1547,
+        "margin_pct": -8.735177865612645,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "73": {
+        "dem_votes": 8842,
+        "rep_votes": 5119,
+        "other_votes": 1027,
+        "total_votes": 14988,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": -3723,
+        "margin_pct": -24.839871897518016,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "74": {
+        "dem_votes": 7197,
+        "rep_votes": 4457,
+        "other_votes": 1867,
+        "total_votes": 13521,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": -2740,
+        "margin_pct": -20.264773315583167,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "75": {
+        "dem_votes": 6431,
+        "rep_votes": 5973,
+        "other_votes": 1377,
+        "total_votes": 13781,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": -458,
+        "margin_pct": -3.323416297801321,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "76": {
+        "dem_votes": 10316,
+        "rep_votes": 2528,
+        "other_votes": 2837,
+        "total_votes": 15681,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": -7788,
+        "margin_pct": -49.66519992347427,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "77": {
+        "dem_votes": 15786,
+        "rep_votes": 4618,
+        "other_votes": 3125,
+        "total_votes": 23529,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": -11168,
+        "margin_pct": -47.464830634536106,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "78": {
+        "dem_votes": 6589,
+        "rep_votes": 2871,
+        "other_votes": 1655,
+        "total_votes": 11115,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": -3718,
+        "margin_pct": -33.45029239766082,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "79": {
+        "dem_votes": 8758,
+        "rep_votes": 4752,
+        "other_votes": 2847,
+        "total_votes": 16358,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": -4006,
+        "margin_pct": -24.4905133075697,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "8": {
+        "dem_votes": 8615,
+        "rep_votes": 5684,
+        "other_votes": 1819,
+        "total_votes": 16118,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": -2931,
+        "margin_pct": -18.184638292592133,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "80": {
+        "dem_votes": 7148,
+        "rep_votes": 4317,
+        "other_votes": 2945,
+        "total_votes": 14410,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": -2831,
+        "margin_pct": -19.646079111727964,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "81": {
+        "dem_votes": 6978,
+        "rep_votes": 4611,
+        "other_votes": 3786,
+        "total_votes": 15375,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": -2367,
+        "margin_pct": -15.395121951219512,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "82": {
+        "dem_votes": 7483,
+        "rep_votes": 10870,
+        "other_votes": 1774,
+        "total_votes": 20127,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": 3387,
+        "margin_pct": 16.826276151320556,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "83": {
+        "dem_votes": 6088,
+        "rep_votes": 12100,
+        "other_votes": 2008,
+        "total_votes": 20196,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": 6013,
+        "margin_pct": 29.77307125420674,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "84": {
+        "dem_votes": 9487,
+        "rep_votes": 8648,
+        "other_votes": 1603,
+        "total_votes": 19738,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": -839,
+        "margin_pct": -4.250683959874354,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "85": {
+        "dem_votes": 8414,
+        "rep_votes": 6643,
+        "other_votes": 2622,
+        "total_votes": 17679,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": -1771,
+        "margin_pct": -10.017534928446178,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "86": {
+        "dem_votes": 7116,
+        "rep_votes": 6981,
+        "other_votes": 2680,
+        "total_votes": 16776,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": -135,
+        "margin_pct": -0.8047004726018648,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "87": {
+        "dem_votes": 5080,
+        "rep_votes": 4852,
+        "other_votes": 2481,
+        "total_votes": 12413,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": -228,
+        "margin_pct": -1.8367840167566263,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "88": {
+        "dem_votes": 6082,
+        "rep_votes": 6511,
+        "other_votes": 1762,
+        "total_votes": 14355,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": 429,
+        "margin_pct": 2.9885057471264367,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "89": {
+        "dem_votes": 6603,
+        "rep_votes": 7345,
+        "other_votes": 1711,
+        "total_votes": 15659,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": 742,
+        "margin_pct": 4.737690784852162,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "9": {
+        "dem_votes": 6589,
+        "rep_votes": 4061,
+        "other_votes": 1157,
+        "total_votes": 11807,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": -2528,
+        "margin_pct": -21.411027356652834,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "90": {
+        "dem_votes": 6672,
+        "rep_votes": 5187,
+        "other_votes": 1841,
+        "total_votes": 13700,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": -1485,
+        "margin_pct": -10.83941605839416,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "91": {
+        "dem_votes": 8846,
+        "rep_votes": 5555,
+        "other_votes": 2550,
+        "total_votes": 16951,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": -3291,
+        "margin_pct": -19.414783788567046,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "92": {
+        "dem_votes": 5489,
+        "rep_votes": 3794,
+        "other_votes": 2410,
+        "total_votes": 11693,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": -1695,
+        "margin_pct": -14.49585221927649,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "93": {
+        "dem_votes": 7024,
+        "rep_votes": 6442,
+        "other_votes": 1214,
+        "total_votes": 14680,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": -582,
+        "margin_pct": -3.9644426279758864,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "94": {
+        "dem_votes": 6197,
+        "rep_votes": 6494,
+        "other_votes": 3333,
+        "total_votes": 16024,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": 297,
+        "margin_pct": 1.851880743248514,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "95": {
+        "dem_votes": 8814,
+        "rep_votes": 5751,
+        "other_votes": 3670,
+        "total_votes": 18235,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": -3063,
+        "margin_pct": -16.79622698419227,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "96": {
+        "dem_votes": 3407,
+        "rep_votes": 2862,
+        "other_votes": 2504,
+        "total_votes": 8773,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": -545,
+        "margin_pct": -6.212242106463012,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "97": {
+        "dem_votes": 5874,
+        "rep_votes": 10351,
+        "other_votes": 1702,
+        "total_votes": 17927,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": 4478,
+        "margin_pct": 24.977222439151376,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "98": {
+        "dem_votes": 5940,
+        "rep_votes": 11046,
+        "other_votes": 1464,
+        "total_votes": 18450,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": 5106,
+        "margin_pct": 27.674796747967477,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "99": {
+        "dem_votes": 5093,
+        "rep_votes": 13700,
+        "other_votes": 1655,
+        "total_votes": 20448,
+        "dem_candidate": "Jim Doyle & Barbara Lawton",
+        "rep_candidate": "Scott McCallum & Margaret A. Farrow",
+        "margin": 8608,
+        "margin_pct": 42.09471024533378,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      }
+    }
+  }
+}

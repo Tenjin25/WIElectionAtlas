@@ -1,0 +1,468 @@
+{
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 45321,
+        "rep_votes": 60764,
+        "other_votes": 1828,
+        "total_votes": 107913,
+        "dem_candidate": "Joseph R. Biden & Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump & Michael R. Pence",
+        "margin": 15443,
+        "margin_pct": 14.310855829627926,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "10": {
+        "dem_votes": 41549,
+        "rep_votes": 60032,
+        "other_votes": 2129,
+        "total_votes": 103710,
+        "dem_candidate": "Joseph R. Biden & Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump & Michael R. Pence",
+        "margin": 18483,
+        "margin_pct": 17.82181081862887,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "11": {
+        "dem_votes": 41989,
+        "rep_votes": 53238,
+        "other_votes": 1708,
+        "total_votes": 96935,
+        "dem_candidate": "Joseph R. Biden & Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump & Michael R. Pence",
+        "margin": 11249,
+        "margin_pct": 11.605027423875109,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "12": {
+        "dem_votes": 39040,
+        "rep_votes": 67318,
+        "other_votes": 1384,
+        "total_votes": 107742,
+        "dem_candidate": "Joseph R. Biden & Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump & Michael R. Pence",
+        "margin": 28278,
+        "margin_pct": 26.246032188004676,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "13": {
+        "dem_votes": 43171,
+        "rep_votes": 60496,
+        "other_votes": 1759,
+        "total_votes": 105426,
+        "dem_candidate": "Joseph R. Biden & Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump & Michael R. Pence",
+        "margin": 17325,
+        "margin_pct": 16.432959507270475,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "14": {
+        "dem_votes": 37165,
+        "rep_votes": 59688,
+        "other_votes": 1482,
+        "total_votes": 98335,
+        "dem_candidate": "Joseph R. Biden & Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump & Michael R. Pence",
+        "margin": 22523,
+        "margin_pct": 22.904357553261807,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "15": {
+        "dem_votes": 56568,
+        "rep_votes": 38535,
+        "other_votes": 1764,
+        "total_votes": 96867,
+        "dem_candidate": "Joseph R. Biden & Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump & Michael R. Pence",
+        "margin": -18033,
+        "margin_pct": -18.616591133547367,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "16": {
+        "dem_votes": 82101,
+        "rep_votes": 23524,
+        "other_votes": 1778,
+        "total_votes": 107403,
+        "dem_candidate": "Joseph R. Biden & Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump & Michael R. Pence",
+        "margin": -58577,
+        "margin_pct": -54.53921212629071,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "17": {
+        "dem_votes": 40746,
+        "rep_votes": 50854,
+        "other_votes": 1533,
+        "total_votes": 93133,
+        "dem_candidate": "Joseph R. Biden & Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump & Michael R. Pence",
+        "margin": 10108,
+        "margin_pct": 10.85329582425134,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "18": {
+        "dem_votes": 36762,
+        "rep_votes": 48161,
+        "other_votes": 1724,
+        "total_votes": 86647,
+        "dem_candidate": "Joseph R. Biden & Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump & Michael R. Pence",
+        "margin": 11400,
+        "margin_pct": 13.156254688563942,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "19": {
+        "dem_votes": 48231,
+        "rep_votes": 49815,
+        "other_votes": 2123,
+        "total_votes": 100169,
+        "dem_candidate": "Joseph R. Biden & Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump & Michael R. Pence",
+        "margin": 1584,
+        "margin_pct": 1.581327556429634,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "2": {
+        "dem_votes": 40445,
+        "rep_votes": 60707,
+        "other_votes": 1705,
+        "total_votes": 102857,
+        "dem_candidate": "Joseph R. Biden & Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump & Michael R. Pence",
+        "margin": 20262,
+        "margin_pct": 19.69890309142039,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "20": {
+        "dem_votes": 36135,
+        "rep_votes": 75912,
+        "other_votes": 1650,
+        "total_votes": 113697,
+        "dem_candidate": "Joseph R. Biden & Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump & Michael R. Pence",
+        "margin": 39777,
+        "margin_pct": 34.98509195493285,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "21": {
+        "dem_votes": 42860,
+        "rep_votes": 63353,
+        "other_votes": 1773,
+        "total_votes": 107986,
+        "dem_candidate": "Joseph R. Biden & Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump & Michael R. Pence",
+        "margin": 20493,
+        "margin_pct": 18.977680398719087,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "22": {
+        "dem_votes": 47281,
+        "rep_votes": 31524,
+        "other_votes": 1496,
+        "total_votes": 80301,
+        "dem_candidate": "Joseph R. Biden & Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump & Michael R. Pence",
+        "margin": -15758,
+        "margin_pct": -19.623043299585312,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "23": {
+        "dem_votes": 36754,
+        "rep_votes": 54225,
+        "other_votes": 1680,
+        "total_votes": 92660,
+        "dem_candidate": "Joseph R. Biden & Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump & Michael R. Pence",
+        "margin": 17471,
+        "margin_pct": 18.85547109673751,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "24": {
+        "dem_votes": 42024,
+        "rep_votes": 53921,
+        "other_votes": 1767,
+        "total_votes": 97712,
+        "dem_candidate": "Joseph R. Biden & Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump & Michael R. Pence",
+        "margin": 11897,
+        "margin_pct": 12.175577206484363,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "25": {
+        "dem_votes": 45745,
+        "rep_votes": 56323,
+        "other_votes": 1559,
+        "total_votes": 103627,
+        "dem_candidate": "Joseph R. Biden & Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump & Michael R. Pence",
+        "margin": 10578,
+        "margin_pct": 10.207764385729588,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "26": {
+        "dem_votes": 90349,
+        "rep_votes": 13480,
+        "other_votes": 1740,
+        "total_votes": 105569,
+        "dem_candidate": "Joseph R. Biden & Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump & Michael R. Pence",
+        "margin": -76869,
+        "margin_pct": -72.81398895509098,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "27": {
+        "dem_votes": 75041,
+        "rep_votes": 36664,
+        "other_votes": 1960,
+        "total_votes": 113665,
+        "dem_candidate": "Joseph R. Biden & Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump & Michael R. Pence",
+        "margin": -38377,
+        "margin_pct": -33.76327735971894,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "28": {
+        "dem_votes": 44684,
+        "rep_votes": 62789,
+        "other_votes": 1576,
+        "total_votes": 109049,
+        "dem_candidate": "Joseph R. Biden & Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump & Michael R. Pence",
+        "margin": 18105,
+        "margin_pct": 16.602872831712656,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "29": {
+        "dem_votes": 38812,
+        "rep_votes": 59162,
+        "other_votes": 1814,
+        "total_votes": 99788,
+        "dem_candidate": "Joseph R. Biden & Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump & Michael R. Pence",
+        "margin": 20351,
+        "margin_pct": 20.39375010438762,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "3": {
+        "dem_votes": 40522,
+        "rep_votes": 18998,
+        "other_votes": 1021,
+        "total_votes": 60541,
+        "dem_candidate": "Joseph R. Biden & Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump & Michael R. Pence",
+        "margin": -21524,
+        "margin_pct": -35.55276589418741,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "30": {
+        "dem_votes": 38849,
+        "rep_votes": 47506,
+        "other_votes": 1578,
+        "total_votes": 87933,
+        "dem_candidate": "Joseph R. Biden & Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump & Michael R. Pence",
+        "margin": 8657,
+        "margin_pct": 9.845307919972935,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "31": {
+        "dem_votes": 45202,
+        "rep_votes": 49000,
+        "other_votes": 2199,
+        "total_votes": 96402,
+        "dem_candidate": "Joseph R. Biden & Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump & Michael R. Pence",
+        "margin": 3798,
+        "margin_pct": 3.9397522872969444,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "32": {
+        "dem_votes": 50838,
+        "rep_votes": 45071,
+        "other_votes": 1784,
+        "total_votes": 97693,
+        "dem_candidate": "Joseph R. Biden & Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump & Michael R. Pence",
+        "margin": -5767,
+        "margin_pct": -5.903186512851484,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "33": {
+        "dem_votes": 44204,
+        "rep_votes": 69649,
+        "other_votes": 1992,
+        "total_votes": 115845,
+        "dem_candidate": "Joseph R. Biden & Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump & Michael R. Pence",
+        "margin": 25445,
+        "margin_pct": 21.96429203429056,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "4": {
+        "dem_votes": 68651,
+        "rep_votes": 12484,
+        "other_votes": 1072,
+        "total_votes": 82207,
+        "dem_candidate": "Joseph R. Biden & Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump & Michael R. Pence",
+        "margin": -56167,
+        "margin_pct": -68.32386536426338,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "5": {
+        "dem_votes": 55393,
+        "rep_votes": 54339,
+        "other_votes": 1956,
+        "total_votes": 111688,
+        "dem_candidate": "Joseph R. Biden & Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump & Michael R. Pence",
+        "margin": -1054,
+        "margin_pct": -0.9437923782117444,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "6": {
+        "dem_votes": 68419,
+        "rep_votes": 10992,
+        "other_votes": 1218,
+        "total_votes": 80629,
+        "dem_candidate": "Joseph R. Biden & Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump & Michael R. Pence",
+        "margin": -57427,
+        "margin_pct": -71.22375324014932,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "7": {
+        "dem_votes": 63974,
+        "rep_votes": 35420,
+        "other_votes": 1898,
+        "total_votes": 101292,
+        "dem_candidate": "Joseph R. Biden & Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump & Michael R. Pence",
+        "margin": -28554,
+        "margin_pct": -28.189787939817556,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "8": {
+        "dem_votes": 56111,
+        "rep_votes": 62114,
+        "other_votes": 1838,
+        "total_votes": 120064,
+        "dem_candidate": "Joseph R. Biden & Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump & Michael R. Pence",
+        "margin": 6004,
+        "margin_pct": 5.0002498667377395,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "9": {
+        "dem_votes": 39888,
+        "rep_votes": 57241,
+        "other_votes": 1896,
+        "total_votes": 99025,
+        "dem_candidate": "Joseph R. Biden & Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump & Michael R. Pence",
+        "margin": 17353,
+        "margin_pct": 17.523857611714213,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      }
+    }
+  }
+}

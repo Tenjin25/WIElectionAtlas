@@ -1,0 +1,468 @@
+{
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 26983,
+        "rep_votes": 37312,
+        "other_votes": 40,
+        "total_votes": 64336,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Kurt W. Schuller",
+        "margin": 10329,
+        "margin_pct": 16.05513796797263,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "10": {
+        "dem_votes": 21909,
+        "rep_votes": 31719,
+        "other_votes": 44,
+        "total_votes": 53672,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Kurt W. Schuller",
+        "margin": 9810,
+        "margin_pct": 18.277686689521538,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "11": {
+        "dem_votes": 23386,
+        "rep_votes": 34311,
+        "other_votes": 120,
+        "total_votes": 57817,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Kurt W. Schuller",
+        "margin": 10924,
+        "margin_pct": 18.89456449046422,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "12": {
+        "dem_votes": 27730,
+        "rep_votes": 39100,
+        "other_votes": 39,
+        "total_votes": 66869,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Kurt W. Schuller",
+        "margin": 11370,
+        "margin_pct": 17.00339469709432,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "13": {
+        "dem_votes": 23904,
+        "rep_votes": 39337,
+        "other_votes": 120,
+        "total_votes": 63361,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Kurt W. Schuller",
+        "margin": 15433,
+        "margin_pct": 24.356742814368566,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "14": {
+        "dem_votes": 23818,
+        "rep_votes": 34998,
+        "other_votes": 27,
+        "total_votes": 58843,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Kurt W. Schuller",
+        "margin": 11180,
+        "margin_pct": 18.999711095627347,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "15": {
+        "dem_votes": 31285,
+        "rep_votes": 25703,
+        "other_votes": 32,
+        "total_votes": 57020,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Kurt W. Schuller",
+        "margin": -5581,
+        "margin_pct": -9.788435569014197,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "16": {
+        "dem_votes": 50576,
+        "rep_votes": 23780,
+        "other_votes": 69,
+        "total_votes": 74426,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Kurt W. Schuller",
+        "margin": -26795,
+        "margin_pct": -36.00278130479473,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "17": {
+        "dem_votes": 25210,
+        "rep_votes": 29943,
+        "other_votes": 28,
+        "total_votes": 55181,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Kurt W. Schuller",
+        "margin": 4733,
+        "margin_pct": 8.57722766894402,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "18": {
+        "dem_votes": 22516,
+        "rep_votes": 32975,
+        "other_votes": 46,
+        "total_votes": 55536,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Kurt W. Schuller",
+        "margin": 10459,
+        "margin_pct": 18.832209447840608,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "19": {
+        "dem_votes": 23612,
+        "rep_votes": 32607,
+        "other_votes": 44,
+        "total_votes": 56263,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Kurt W. Schuller",
+        "margin": 8995,
+        "margin_pct": 15.987416241579725,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "2": {
+        "dem_votes": 23260,
+        "rep_votes": 34296,
+        "other_votes": 38,
+        "total_votes": 57594,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Kurt W. Schuller",
+        "margin": 11036,
+        "margin_pct": 19.16131795373387,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "20": {
+        "dem_votes": 19532,
+        "rep_votes": 50765,
+        "other_votes": 41,
+        "total_votes": 70338,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Kurt W. Schuller",
+        "margin": 31233,
+        "margin_pct": 44.40416275697347,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "21": {
+        "dem_votes": 21792,
+        "rep_votes": 37963,
+        "other_votes": 27,
+        "total_votes": 59782,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Kurt W. Schuller",
+        "margin": 16172,
+        "margin_pct": 27.050861293160843,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "22": {
+        "dem_votes": 27848,
+        "rep_votes": 20746,
+        "other_votes": 42,
+        "total_votes": 48636,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Kurt W. Schuller",
+        "margin": -7101,
+        "margin_pct": -14.600296076980015,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "23": {
+        "dem_votes": 24633,
+        "rep_votes": 31847,
+        "other_votes": 37,
+        "total_votes": 56517,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Kurt W. Schuller",
+        "margin": 7215,
+        "margin_pct": 12.76533055050733,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "24": {
+        "dem_votes": 29193,
+        "rep_votes": 32288,
+        "other_votes": 86,
+        "total_votes": 61567,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Kurt W. Schuller",
+        "margin": 3095,
+        "margin_pct": 5.027043708480193,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "25": {
+        "dem_votes": 31924,
+        "rep_votes": 30236,
+        "other_votes": 38,
+        "total_votes": 62198,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Kurt W. Schuller",
+        "margin": -1688,
+        "margin_pct": -2.7139136306633653,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "26": {
+        "dem_votes": 43656,
+        "rep_votes": 16614,
+        "other_votes": 131,
+        "total_votes": 60401,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Kurt W. Schuller",
+        "margin": -27042,
+        "margin_pct": -44.770781940696345,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "27": {
+        "dem_votes": 33353,
+        "rep_votes": 27946,
+        "other_votes": 27,
+        "total_votes": 61326,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Kurt W. Schuller",
+        "margin": -5407,
+        "margin_pct": -8.817349454844901,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "28": {
+        "dem_votes": 27482,
+        "rep_votes": 46225,
+        "other_votes": 273,
+        "total_votes": 73979,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Kurt W. Schuller",
+        "margin": 18743,
+        "margin_pct": 25.335753838417762,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "29": {
+        "dem_votes": 25992,
+        "rep_votes": 35784,
+        "other_votes": 44,
+        "total_votes": 61819,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Kurt W. Schuller",
+        "margin": 9792,
+        "margin_pct": 15.839553572455642,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "3": {
+        "dem_votes": 29008,
+        "rep_votes": 18349,
+        "other_votes": 230,
+        "total_votes": 47587,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Kurt W. Schuller",
+        "margin": -10659,
+        "margin_pct": -22.398974509845125,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "30": {
+        "dem_votes": 22149,
+        "rep_votes": 28848,
+        "other_votes": 54,
+        "total_votes": 51051,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Kurt W. Schuller",
+        "margin": 6699,
+        "margin_pct": 13.122584099456743,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "31": {
+        "dem_votes": 28920,
+        "rep_votes": 28238,
+        "other_votes": 51,
+        "total_votes": 57210,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Kurt W. Schuller",
+        "margin": -682,
+        "margin_pct": -1.1929836827799578,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "32": {
+        "dem_votes": 28858,
+        "rep_votes": 29792,
+        "other_votes": 32,
+        "total_votes": 58682,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Kurt W. Schuller",
+        "margin": 934,
+        "margin_pct": 1.5916294604819197,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "33": {
+        "dem_votes": 20693,
+        "rep_votes": 54365,
+        "other_votes": 26,
+        "total_votes": 75083,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Kurt W. Schuller",
+        "margin": 33672,
+        "margin_pct": 44.84637001718099,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "4": {
+        "dem_votes": 53001,
+        "rep_votes": 15601,
+        "other_votes": 230,
+        "total_votes": 68832,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Kurt W. Schuller",
+        "margin": -37401,
+        "margin_pct": -54.33642461076539,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "5": {
+        "dem_votes": 26871,
+        "rep_votes": 50386,
+        "other_votes": 164,
+        "total_votes": 77421,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Kurt W. Schuller",
+        "margin": 23515,
+        "margin_pct": 30.37289624262151,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "6": {
+        "dem_votes": 44010,
+        "rep_votes": 16710,
+        "other_votes": 253,
+        "total_votes": 60973,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Kurt W. Schuller",
+        "margin": -27300,
+        "margin_pct": -44.77391632361865,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "7": {
+        "dem_votes": 27814,
+        "rep_votes": 19289,
+        "other_votes": 236,
+        "total_votes": 47339,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Kurt W. Schuller",
+        "margin": -8525,
+        "margin_pct": -18.00797443954477,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "8": {
+        "dem_votes": 27035,
+        "rep_votes": 53129,
+        "other_votes": 118,
+        "total_votes": 80282,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Kurt W. Schuller",
+        "margin": 26095,
+        "margin_pct": 32.50362263179529,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "9": {
+        "dem_votes": 26651,
+        "rep_votes": 39418,
+        "other_votes": 31,
+        "total_votes": 66100,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Kurt W. Schuller",
+        "margin": 12767,
+        "margin_pct": 19.31467473524962,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      }
+    }
+  }
+}

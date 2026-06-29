@@ -1,0 +1,1392 @@
+{
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 13544,
+        "rep_votes": 15946,
+        "other_votes": 783,
+        "total_votes": 30274,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": 2402,
+        "margin_pct": 7.933165421088126,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "10": {
+        "dem_votes": 22854,
+        "rep_votes": 4267,
+        "other_votes": 400,
+        "total_votes": 27521,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": -18587,
+        "margin_pct": -67.53751680534864,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "11": {
+        "dem_votes": 18280,
+        "rep_votes": 2036,
+        "other_votes": 353,
+        "total_votes": 20669,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": -16244,
+        "margin_pct": -78.59112680826358,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "12": {
+        "dem_votes": 16821,
+        "rep_votes": 4390,
+        "other_votes": 384,
+        "total_votes": 21594,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": -12431,
+        "margin_pct": -57.56558382921577,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "13": {
+        "dem_votes": 12772,
+        "rep_votes": 19673,
+        "other_votes": 489,
+        "total_votes": 32934,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": 6901,
+        "margin_pct": 20.954029270662534,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "14": {
+        "dem_votes": 16545,
+        "rep_votes": 12070,
+        "other_votes": 734,
+        "total_votes": 29349,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": -4475,
+        "margin_pct": -15.247538246618284,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "15": {
+        "dem_votes": 12079,
+        "rep_votes": 18593,
+        "other_votes": 590,
+        "total_votes": 31262,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": 6514,
+        "margin_pct": 20.83743842364532,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "16": {
+        "dem_votes": 17475,
+        "rep_votes": 1815,
+        "other_votes": 345,
+        "total_votes": 19635,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": -15660,
+        "margin_pct": -79.75553857906799,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "17": {
+        "dem_votes": 21192,
+        "rep_votes": 4002,
+        "other_votes": 439,
+        "total_votes": 25633,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": -17190,
+        "margin_pct": -67.06199040299614,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "18": {
+        "dem_votes": 19484,
+        "rep_votes": 3812,
+        "other_votes": 446,
+        "total_votes": 23742,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": -15672,
+        "margin_pct": -66.00960323477382,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "19": {
+        "dem_votes": 23413,
+        "rep_votes": 6349,
+        "other_votes": 648,
+        "total_votes": 30410,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": -17064,
+        "margin_pct": -56.11312068398553,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "2": {
+        "dem_votes": 11407,
+        "rep_votes": 14399,
+        "other_votes": 771,
+        "total_votes": 26577,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": 2992,
+        "margin_pct": 11.257854535876886,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "20": {
+        "dem_votes": 17892,
+        "rep_votes": 10006,
+        "other_votes": 784,
+        "total_votes": 28682,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": -7886,
+        "margin_pct": -27.49459591381354,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "21": {
+        "dem_votes": 12334,
+        "rep_votes": 12325,
+        "other_votes": 656,
+        "total_votes": 25315,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": -9,
+        "margin_pct": -0.03555204424254395,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "22": {
+        "dem_votes": 10398,
+        "rep_votes": 21930,
+        "other_votes": 587,
+        "total_votes": 32914,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": 11532,
+        "margin_pct": 35.03471114554376,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "23": {
+        "dem_votes": 18482,
+        "rep_votes": 14331,
+        "other_votes": 467,
+        "total_votes": 33280,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": -4151,
+        "margin_pct": -12.473457532051274,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "24": {
+        "dem_votes": 11325,
+        "rep_votes": 19890,
+        "other_votes": 510,
+        "total_votes": 31724,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": 8565,
+        "margin_pct": 26.99858679149133,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "25": {
+        "dem_votes": 9923,
+        "rep_votes": 13768,
+        "other_votes": 685,
+        "total_votes": 24376,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": 3845,
+        "margin_pct": 15.773711847719069,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "26": {
+        "dem_votes": 10358,
+        "rep_votes": 14252,
+        "other_votes": 616,
+        "total_votes": 25226,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": 3894,
+        "margin_pct": 15.436454451756124,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "27": {
+        "dem_votes": 11754,
+        "rep_votes": 15169,
+        "other_votes": 599,
+        "total_votes": 27522,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": 3415,
+        "margin_pct": 12.408255214010609,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "28": {
+        "dem_votes": 9691,
+        "rep_votes": 12901,
+        "other_votes": 535,
+        "total_votes": 23127,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": 3210,
+        "margin_pct": 13.879880658970034,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "29": {
+        "dem_votes": 10360,
+        "rep_votes": 11911,
+        "other_votes": 618,
+        "total_votes": 22889,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": 1551,
+        "margin_pct": 6.7761806981519515,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "3": {
+        "dem_votes": 11569,
+        "rep_votes": 14420,
+        "other_votes": 712,
+        "total_votes": 26701,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": 2851,
+        "margin_pct": 10.67750271525411,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "30": {
+        "dem_votes": 12281,
+        "rep_votes": 14922,
+        "other_votes": 611,
+        "total_votes": 27814,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": 2641,
+        "margin_pct": 9.495218235421012,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "31": {
+        "dem_votes": 11478,
+        "rep_votes": 13348,
+        "other_votes": 711,
+        "total_votes": 25537,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": 1870,
+        "margin_pct": 7.324109124135234,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "32": {
+        "dem_votes": 9153,
+        "rep_votes": 13201,
+        "other_votes": 542,
+        "total_votes": 22896,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": 4048,
+        "margin_pct": 17.679944095038437,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "33": {
+        "dem_votes": 12835,
+        "rep_votes": 12851,
+        "other_votes": 662,
+        "total_votes": 26348,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": 16,
+        "margin_pct": 0.06072567177774404,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "34": {
+        "dem_votes": 12508,
+        "rep_votes": 17439,
+        "other_votes": 597,
+        "total_votes": 30544,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": 4931,
+        "margin_pct": 16.14392352016763,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "35": {
+        "dem_votes": 10977,
+        "rep_votes": 16189,
+        "other_votes": 690,
+        "total_votes": 27856,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": 5212,
+        "margin_pct": 18.710511200459507,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "36": {
+        "dem_votes": 9224,
+        "rep_votes": 15521,
+        "other_votes": 629,
+        "total_votes": 25374,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": 6297,
+        "margin_pct": 24.816741546464886,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "37": {
+        "dem_votes": 11654,
+        "rep_votes": 14008,
+        "other_votes": 676,
+        "total_votes": 26339,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": 2354,
+        "margin_pct": 8.937430393844291,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "38": {
+        "dem_votes": 12259,
+        "rep_votes": 15814,
+        "other_votes": 601,
+        "total_votes": 28674,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": 3555,
+        "margin_pct": 12.397991211550535,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "39": {
+        "dem_votes": 9785,
+        "rep_votes": 14807,
+        "other_votes": 621,
+        "total_votes": 25213,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": 5022,
+        "margin_pct": 19.918296117082456,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "4": {
+        "dem_votes": 13222,
+        "rep_votes": 14272,
+        "other_votes": 789,
+        "total_votes": 28284,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": 1050,
+        "margin_pct": 3.710644015061785,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "40": {
+        "dem_votes": 9234,
+        "rep_votes": 15190,
+        "other_votes": 671,
+        "total_votes": 25095,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": 5956,
+        "margin_pct": 23.733811516238294,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "41": {
+        "dem_votes": 10392,
+        "rep_votes": 12594,
+        "other_votes": 874,
+        "total_votes": 23860,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": 2202,
+        "margin_pct": 9.22883487007544,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "42": {
+        "dem_votes": 11291,
+        "rep_votes": 13889,
+        "other_votes": 798,
+        "total_votes": 25978,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": 2598,
+        "margin_pct": 10.000769882208022,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "43": {
+        "dem_votes": 19098,
+        "rep_votes": 10480,
+        "other_votes": 796,
+        "total_votes": 30374,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": -8619,
+        "margin_pct": -28.37670996098573,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "44": {
+        "dem_votes": 14468,
+        "rep_votes": 8168,
+        "other_votes": 715,
+        "total_votes": 23351,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": -6300,
+        "margin_pct": -26.979572609310093,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "45": {
+        "dem_votes": 13036,
+        "rep_votes": 8228,
+        "other_votes": 708,
+        "total_votes": 21972,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": -4808,
+        "margin_pct": -21.88407885853858,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "46": {
+        "dem_votes": 17274,
+        "rep_votes": 8260,
+        "other_votes": 567,
+        "total_votes": 26101,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": -9014,
+        "margin_pct": -34.535702313107606,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "47": {
+        "dem_votes": 22054,
+        "rep_votes": 6514,
+        "other_votes": 549,
+        "total_votes": 29117,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": -15540,
+        "margin_pct": -53.37088298931896,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "48": {
+        "dem_votes": 25725,
+        "rep_votes": 4820,
+        "other_votes": 565,
+        "total_votes": 31110,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": -20905,
+        "margin_pct": -67.19704275152684,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "49": {
+        "dem_votes": 10518,
+        "rep_votes": 11202,
+        "other_votes": 528,
+        "total_votes": 22248,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": 684,
+        "margin_pct": 3.074433656957929,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "5": {
+        "dem_votes": 10386,
+        "rep_votes": 12756,
+        "other_votes": 700,
+        "total_votes": 23842,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": 2370,
+        "margin_pct": 9.938552523960322,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "50": {
+        "dem_votes": 9958,
+        "rep_votes": 11981,
+        "other_votes": 646,
+        "total_votes": 22585,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": 2023,
+        "margin_pct": 8.957272526012842,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "51": {
+        "dem_votes": 13017,
+        "rep_votes": 11822,
+        "other_votes": 616,
+        "total_votes": 25455,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": -1195,
+        "margin_pct": -4.694559025731683,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "52": {
+        "dem_votes": 9777,
+        "rep_votes": 13307,
+        "other_votes": 567,
+        "total_votes": 23651,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": 3530,
+        "margin_pct": 14.925373134328357,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "53": {
+        "dem_votes": 9295,
+        "rep_votes": 14206,
+        "other_votes": 610,
+        "total_votes": 24110,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": 4911,
+        "margin_pct": 20.369967130162483,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "54": {
+        "dem_votes": 11387,
+        "rep_votes": 8063,
+        "other_votes": 588,
+        "total_votes": 20038,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": -3324,
+        "margin_pct": -16.588481884419604,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "55": {
+        "dem_votes": 12280,
+        "rep_votes": 13691,
+        "other_votes": 804,
+        "total_votes": 26776,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": 1411,
+        "margin_pct": 5.268465148704667,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "56": {
+        "dem_votes": 11190,
+        "rep_votes": 15262,
+        "other_votes": 671,
+        "total_votes": 27122,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": 4072,
+        "margin_pct": 15.014686543684789,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "57": {
+        "dem_votes": 13553,
+        "rep_votes": 9089,
+        "other_votes": 897,
+        "total_votes": 23539,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": -4464,
+        "margin_pct": -18.964272059135904,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "58": {
+        "dem_votes": 8445,
+        "rep_votes": 19499,
+        "other_votes": 537,
+        "total_votes": 28482,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": 11053,
+        "margin_pct": 38.808915229481485,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "59": {
+        "dem_votes": 8028,
+        "rep_votes": 19654,
+        "other_votes": 602,
+        "total_votes": 28283,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": 11627,
+        "margin_pct": 41.107504755439585,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "6": {
+        "dem_votes": 8546,
+        "rep_votes": 16128,
+        "other_votes": 722,
+        "total_votes": 25396,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": 7582,
+        "margin_pct": 29.857064104583397,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "60": {
+        "dem_votes": 10443,
+        "rep_votes": 20678,
+        "other_votes": 580,
+        "total_votes": 31701,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": 10235,
+        "margin_pct": 32.28604775874578,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "61": {
+        "dem_votes": 10788,
+        "rep_votes": 14668,
+        "other_votes": 637,
+        "total_votes": 26093,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": 3880,
+        "margin_pct": 14.869888475836431,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "62": {
+        "dem_votes": 12519,
+        "rep_votes": 16947,
+        "other_votes": 622,
+        "total_votes": 30088,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": 4427,
+        "margin_pct": 14.71466697391118,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "63": {
+        "dem_votes": 10974,
+        "rep_votes": 15352,
+        "other_votes": 613,
+        "total_votes": 26939,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": 4378,
+        "margin_pct": 16.253279053652747,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "64": {
+        "dem_votes": 13824,
+        "rep_votes": 9394,
+        "other_votes": 555,
+        "total_votes": 23772,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": -4430,
+        "margin_pct": -18.63287411925544,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "65": {
+        "dem_votes": 12593,
+        "rep_votes": 6521,
+        "other_votes": 562,
+        "total_votes": 19676,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": -6072,
+        "margin_pct": -30.859930880260215,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "66": {
+        "dem_votes": 13540,
+        "rep_votes": 5217,
+        "other_votes": 526,
+        "total_votes": 19283,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": -8323,
+        "margin_pct": -43.16237100036302,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "67": {
+        "dem_votes": 11310,
+        "rep_votes": 13530,
+        "other_votes": 592,
+        "total_votes": 25432,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": 2220,
+        "margin_pct": 8.729160113243157,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "68": {
+        "dem_votes": 10456,
+        "rep_votes": 11680,
+        "other_votes": 636,
+        "total_votes": 22772,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": 1225,
+        "margin_pct": 5.377531304107797,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "69": {
+        "dem_votes": 9314,
+        "rep_votes": 12618,
+        "other_votes": 705,
+        "total_votes": 22636,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": 3304,
+        "margin_pct": 14.59637161495531,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "7": {
+        "dem_votes": 13585,
+        "rep_votes": 8561,
+        "other_votes": 663,
+        "total_votes": 22809,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": -5024,
+        "margin_pct": -22.026393090446753,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "70": {
+        "dem_votes": 10196,
+        "rep_votes": 12791,
+        "other_votes": 715,
+        "total_votes": 23702,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": 2595,
+        "margin_pct": 10.947190774207163,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "71": {
+        "dem_votes": 15699,
+        "rep_votes": 11671,
+        "other_votes": 783,
+        "total_votes": 28153,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": -4028,
+        "margin_pct": -14.306180440445177,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "72": {
+        "dem_votes": 10833,
+        "rep_votes": 13890,
+        "other_votes": 701,
+        "total_votes": 25424,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": 3057,
+        "margin_pct": 12.024071743234739,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "73": {
+        "dem_votes": 13553,
+        "rep_votes": 11210,
+        "other_votes": 494,
+        "total_votes": 25257,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": -2343,
+        "margin_pct": -9.276636180068893,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "74": {
+        "dem_votes": 14995,
+        "rep_votes": 12742,
+        "other_votes": 520,
+        "total_votes": 28257,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": -2253,
+        "margin_pct": -7.973245567470008,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "75": {
+        "dem_votes": 10038,
+        "rep_votes": 13496,
+        "other_votes": 531,
+        "total_votes": 24065,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": 3458,
+        "margin_pct": 14.369416164554332,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "76": {
+        "dem_votes": 27651,
+        "rep_votes": 4444,
+        "other_votes": 487,
+        "total_votes": 32582,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": -23207,
+        "margin_pct": -71.22644404886134,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "77": {
+        "dem_votes": 27161,
+        "rep_votes": 3766,
+        "other_votes": 452,
+        "total_votes": 31379,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": -23395,
+        "margin_pct": -74.55623187482074,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "78": {
+        "dem_votes": 24056,
+        "rep_votes": 6238,
+        "other_votes": 589,
+        "total_votes": 30883,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": -17818,
+        "margin_pct": -57.695172101155975,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "79": {
+        "dem_votes": 22267,
+        "rep_votes": 8869,
+        "other_votes": 547,
+        "total_votes": 31684,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": -13398,
+        "margin_pct": -42.287338968874764,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "8": {
+        "dem_votes": 8759,
+        "rep_votes": 1533,
+        "other_votes": 245,
+        "total_votes": 10537,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": -7226,
+        "margin_pct": -68.57739394514569,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "80": {
+        "dem_votes": 20732,
+        "rep_votes": 9950,
+        "other_votes": 590,
+        "total_votes": 31272,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": -10782,
+        "margin_pct": -34.476252907929556,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "81": {
+        "dem_votes": 16603,
+        "rep_votes": 11329,
+        "other_votes": 703,
+        "total_votes": 28635,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": -5274,
+        "margin_pct": -18.418019905709794,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "82": {
+        "dem_votes": 11502,
+        "rep_votes": 16108,
+        "other_votes": 516,
+        "total_votes": 28127,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": 4606,
+        "margin_pct": 16.375627359077523,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "83": {
+        "dem_votes": 9293,
+        "rep_votes": 21992,
+        "other_votes": 625,
+        "total_votes": 31909,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": 12699,
+        "margin_pct": 39.79606866517006,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "84": {
+        "dem_votes": 13328,
+        "rep_votes": 13031,
+        "other_votes": 562,
+        "total_votes": 26921,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": -297,
+        "margin_pct": -1.1032279633000261,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "85": {
+        "dem_votes": 12153,
+        "rep_votes": 12382,
+        "other_votes": 634,
+        "total_votes": 25169,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": 229,
+        "margin_pct": 0.909849417934761,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "86": {
+        "dem_votes": 10999,
+        "rep_votes": 16294,
+        "other_votes": 670,
+        "total_votes": 27964,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": 5295,
+        "margin_pct": 18.934987066550644,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "87": {
+        "dem_votes": 8972,
+        "rep_votes": 15057,
+        "other_votes": 589,
+        "total_votes": 24618,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": 6085,
+        "margin_pct": 24.71768624583638,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "88": {
+        "dem_votes": 11203,
+        "rep_votes": 12552,
+        "other_votes": 672,
+        "total_votes": 24427,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": 1349,
+        "margin_pct": 5.522577475744054,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "89": {
+        "dem_votes": 9440,
+        "rep_votes": 14518,
+        "other_votes": 594,
+        "total_votes": 24552,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": 5078,
+        "margin_pct": 20.68466927337895,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "9": {
+        "dem_votes": 11207,
+        "rep_votes": 3565,
+        "other_votes": 377,
+        "total_votes": 15149,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": -7642,
+        "margin_pct": -50.445573965278236,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "90": {
+        "dem_votes": 11311,
+        "rep_votes": 7023,
+        "other_votes": 739,
+        "total_votes": 19073,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": -4288,
+        "margin_pct": -22.48204267813139,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "91": {
+        "dem_votes": 16778,
+        "rep_votes": 8996,
+        "other_votes": 733,
+        "total_votes": 26507,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": -7782,
+        "margin_pct": -29.358282717772667,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "92": {
+        "dem_votes": 11024,
+        "rep_votes": 12250,
+        "other_votes": 651,
+        "total_votes": 23925,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": 1226,
+        "margin_pct": 5.1243469174503655,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "93": {
+        "dem_votes": 11775,
+        "rep_votes": 13017,
+        "other_votes": 658,
+        "total_votes": 25450,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": 1241,
+        "margin_pct": 4.877911872017966,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "94": {
+        "dem_votes": 13794,
+        "rep_votes": 12946,
+        "other_votes": 692,
+        "total_votes": 27432,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": -848,
+        "margin_pct": -3.090312585436982,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "95": {
+        "dem_votes": 17723,
+        "rep_votes": 8814,
+        "other_votes": 764,
+        "total_votes": 27300,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": -8909,
+        "margin_pct": -32.634017691983665,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "96": {
+        "dem_votes": 11609,
+        "rep_votes": 11533,
+        "other_votes": 585,
+        "total_votes": 23727,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": -76,
+        "margin_pct": -0.32031019513634257,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "97": {
+        "dem_votes": 10801,
+        "rep_votes": 18200,
+        "other_votes": 611,
+        "total_votes": 29612,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": 7399,
+        "margin_pct": 24.985816560853706,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "98": {
+        "dem_votes": 10778,
+        "rep_votes": 17031,
+        "other_votes": 563,
+        "total_votes": 28372,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": 6253,
+        "margin_pct": 22.039334555195264,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "99": {
+        "dem_votes": 9536,
+        "rep_votes": 23790,
+        "other_votes": 537,
+        "total_votes": 33864,
+        "dem_candidate": "Sarah Godlewski",
+        "rep_candidate": "Travis Hartwig",
+        "margin": 14254,
+        "margin_pct": 42.09399500937588,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      }
+    }
+  }
+}

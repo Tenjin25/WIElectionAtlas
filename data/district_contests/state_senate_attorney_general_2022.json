@@ -1,0 +1,468 @@
+{
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 37718,
+        "rep_votes": 48099,
+        "other_votes": 30,
+        "total_votes": 85847,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Eric Toney",
+        "margin": 10381,
+        "margin_pct": 12.092055245572539,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "10": {
+        "dem_votes": 32773,
+        "rep_votes": 47532,
+        "other_votes": 21,
+        "total_votes": 80326,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Eric Toney",
+        "margin": 14759,
+        "margin_pct": 18.37387645345218,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "11": {
+        "dem_votes": 34079,
+        "rep_votes": 43196,
+        "other_votes": 45,
+        "total_votes": 77320,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Eric Toney",
+        "margin": 9116,
+        "margin_pct": 11.790344066459442,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "12": {
+        "dem_votes": 33268,
+        "rep_votes": 55439,
+        "other_votes": 23,
+        "total_votes": 88730,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Eric Toney",
+        "margin": 22171,
+        "margin_pct": 24.98703933280739,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "13": {
+        "dem_votes": 34152,
+        "rep_votes": 48252,
+        "other_votes": 18,
+        "total_votes": 82422,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Eric Toney",
+        "margin": 14100,
+        "margin_pct": 17.107793476216766,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "14": {
+        "dem_votes": 30218,
+        "rep_votes": 47461,
+        "other_votes": 35,
+        "total_votes": 77714,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Eric Toney",
+        "margin": 17243,
+        "margin_pct": 22.18776539619631,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "15": {
+        "dem_votes": 44225,
+        "rep_votes": 29509,
+        "other_votes": 61,
+        "total_votes": 73795,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Eric Toney",
+        "margin": -14715,
+        "margin_pct": -19.940917139450008,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "16": {
+        "dem_votes": 75587,
+        "rep_votes": 20586,
+        "other_votes": 64,
+        "total_votes": 96238,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Eric Toney",
+        "margin": -55001,
+        "margin_pct": -57.15058847163629,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "17": {
+        "dem_votes": 32973,
+        "rep_votes": 40268,
+        "other_votes": 34,
+        "total_votes": 73275,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Eric Toney",
+        "margin": 7295,
+        "margin_pct": 9.955646537018083,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "18": {
+        "dem_votes": 29661,
+        "rep_votes": 38833,
+        "other_votes": 28,
+        "total_votes": 68523,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Eric Toney",
+        "margin": 9172,
+        "margin_pct": 13.38535180572851,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "19": {
+        "dem_votes": 37655,
+        "rep_votes": 38992,
+        "other_votes": 25,
+        "total_votes": 76672,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Eric Toney",
+        "margin": 1337,
+        "margin_pct": 1.743791736227045,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "2": {
+        "dem_votes": 32807,
+        "rep_votes": 46763,
+        "other_votes": 23,
+        "total_votes": 79593,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Eric Toney",
+        "margin": 13956,
+        "margin_pct": 17.534205269307602,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "20": {
+        "dem_votes": 30090,
+        "rep_votes": 64661,
+        "other_votes": 30,
+        "total_votes": 94781,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Eric Toney",
+        "margin": 34571,
+        "margin_pct": 36.474609890167855,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "21": {
+        "dem_votes": 33089,
+        "rep_votes": 50231,
+        "other_votes": 53,
+        "total_votes": 83373,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Eric Toney",
+        "margin": 17142,
+        "margin_pct": 20.560613148141485,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "22": {
+        "dem_votes": 32303,
+        "rep_votes": 21477,
+        "other_votes": 55,
+        "total_votes": 53835,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Eric Toney",
+        "margin": -10826,
+        "margin_pct": -20.109594130212688,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "23": {
+        "dem_votes": 31099,
+        "rep_votes": 41861,
+        "other_votes": 27,
+        "total_votes": 72988,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Eric Toney",
+        "margin": 10762,
+        "margin_pct": 14.744614386905555,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "24": {
+        "dem_votes": 36044,
+        "rep_votes": 42584,
+        "other_votes": 34,
+        "total_votes": 78662,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Eric Toney",
+        "margin": 6540,
+        "margin_pct": 8.314052528539829,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "25": {
+        "dem_votes": 37264,
+        "rep_votes": 44885,
+        "other_votes": 33,
+        "total_votes": 82182,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Eric Toney",
+        "margin": 7621,
+        "margin_pct": 9.273320191769487,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "26": {
+        "dem_votes": 78185,
+        "rep_votes": 12314,
+        "other_votes": 82,
+        "total_votes": 90581,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Eric Toney",
+        "margin": -65871,
+        "margin_pct": -72.72054845938993,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "27": {
+        "dem_votes": 63968,
+        "rep_votes": 30920,
+        "other_votes": 55,
+        "total_votes": 94942,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Eric Toney",
+        "margin": -33049,
+        "margin_pct": -34.80940218202246,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "28": {
+        "dem_votes": 33486,
+        "rep_votes": 47257,
+        "other_votes": 60,
+        "total_votes": 80803,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Eric Toney",
+        "margin": 13771,
+        "margin_pct": 17.042684058760194,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "29": {
+        "dem_votes": 31995,
+        "rep_votes": 47273,
+        "other_votes": 27,
+        "total_votes": 79294,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Eric Toney",
+        "margin": 15278,
+        "margin_pct": 19.26745500939537,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "3": {
+        "dem_votes": 33206,
+        "rep_votes": 14444,
+        "other_votes": 55,
+        "total_votes": 47705,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Eric Toney",
+        "margin": -18762,
+        "margin_pct": -39.32921077455193,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "30": {
+        "dem_votes": 31517,
+        "rep_votes": 37761,
+        "other_votes": 65,
+        "total_votes": 69343,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Eric Toney",
+        "margin": 6244,
+        "margin_pct": 9.00451379374991,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "31": {
+        "dem_votes": 38524,
+        "rep_votes": 38126,
+        "other_votes": 42,
+        "total_votes": 76692,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Eric Toney",
+        "margin": -398,
+        "margin_pct": -0.5186329734522506,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "32": {
+        "dem_votes": 43304,
+        "rep_votes": 35549,
+        "other_votes": 45,
+        "total_votes": 78898,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Eric Toney",
+        "margin": -7755,
+        "margin_pct": -9.829146492940252,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "33": {
+        "dem_votes": 35298,
+        "rep_votes": 59206,
+        "other_votes": 49,
+        "total_votes": 94552,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Eric Toney",
+        "margin": 23908,
+        "margin_pct": 25.284894635255544,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "4": {
+        "dem_votes": 51163,
+        "rep_votes": 9576,
+        "other_votes": 74,
+        "total_votes": 60813,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Eric Toney",
+        "margin": -41587,
+        "margin_pct": -68.38504924933814,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "5": {
+        "dem_votes": 45383,
+        "rep_votes": 44984,
+        "other_votes": 59,
+        "total_votes": 90426,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Eric Toney",
+        "margin": -398,
+        "margin_pct": -0.4406893996781917,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "6": {
+        "dem_votes": 50918,
+        "rep_votes": 9919,
+        "other_votes": 87,
+        "total_votes": 60924,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Eric Toney",
+        "margin": -40999,
+        "margin_pct": -67.2953187577966,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "7": {
+        "dem_votes": 41452,
+        "rep_votes": 24049,
+        "other_votes": 71,
+        "total_votes": 65572,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Eric Toney",
+        "margin": -17403,
+        "margin_pct": -26.540291587872872,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "8": {
+        "dem_votes": 46357,
+        "rep_votes": 53029,
+        "other_votes": 46,
+        "total_votes": 99432,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Eric Toney",
+        "margin": 6672,
+        "margin_pct": 6.710113444363987,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "9": {
+        "dem_votes": 32757,
+        "rep_votes": 46292,
+        "other_votes": 52,
+        "total_votes": 79101,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Eric Toney",
+        "margin": 13535,
+        "margin_pct": 17.111035258719866,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      }
+    }
+  }
+}

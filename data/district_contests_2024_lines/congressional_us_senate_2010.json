@@ -1,0 +1,118 @@
+{
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 109689,
+        "rep_votes": 133764,
+        "other_votes": 2568,
+        "total_votes": 246020,
+        "dem_candidate": "Russ Feingold",
+        "rep_candidate": "Ron Johnson",
+        "margin": 24075,
+        "margin_pct": 9.785865003281378,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "2": {
+        "dem_votes": 185657,
+        "rep_votes": 94316,
+        "other_votes": 2495,
+        "total_votes": 282469,
+        "dem_candidate": "Russ Feingold",
+        "rep_candidate": "Ron Johnson",
+        "margin": -91341,
+        "margin_pct": -32.33676670238575,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "3": {
+        "dem_votes": 121344,
+        "rep_votes": 125734,
+        "other_votes": 4114,
+        "total_votes": 251192,
+        "dem_candidate": "Russ Feingold",
+        "rep_candidate": "Ron Johnson",
+        "margin": 4391,
+        "margin_pct": 1.7480634852388957,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "4": {
+        "dem_votes": 174372,
+        "rep_votes": 80519,
+        "other_votes": 1679,
+        "total_votes": 256570,
+        "dem_candidate": "Russ Feingold",
+        "rep_candidate": "Ron Johnson",
+        "margin": -93853,
+        "margin_pct": -36.57988073430253,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "5": {
+        "dem_votes": 94631,
+        "rep_votes": 221213,
+        "other_votes": 2364,
+        "total_votes": 318209,
+        "dem_candidate": "Russ Feingold",
+        "rep_candidate": "Ron Johnson",
+        "margin": 126582,
+        "margin_pct": 39.77947812882611,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "6": {
+        "dem_votes": 103456,
+        "rep_votes": 164196,
+        "other_votes": 2791,
+        "total_votes": 270443,
+        "dem_candidate": "Russ Feingold",
+        "rep_candidate": "Ron Johnson",
+        "margin": 60740,
+        "margin_pct": 22.45943183211098,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "7": {
+        "dem_votes": 112088,
+        "rep_votes": 144076,
+        "other_votes": 4912,
+        "total_votes": 261076,
+        "dem_candidate": "Russ Feingold",
+        "rep_candidate": "Ron Johnson",
+        "margin": 31989,
+        "margin_pct": 12.252765720293823,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "8": {
+        "dem_votes": 105045,
+        "rep_votes": 141273,
+        "other_votes": 2934,
+        "total_votes": 249251,
+        "dem_candidate": "Russ Feingold",
+        "rep_candidate": "Ron Johnson",
+        "margin": 36228,
+        "margin_pct": 14.534831821304808,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,1392 @@
+{
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 12867,
+        "rep_votes": 17759,
+        "other_votes": 665,
+        "total_votes": 31291,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 4893,
+        "margin_pct": 15.635852312674448,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "10": {
+        "dem_votes": 21907,
+        "rep_votes": 3936,
+        "other_votes": 322,
+        "total_votes": 26165,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": -17971,
+        "margin_pct": -68.68335562774699,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "11": {
+        "dem_votes": 15327,
+        "rep_votes": 1703,
+        "other_votes": 220,
+        "total_votes": 17250,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": -13624,
+        "margin_pct": -78.97971014492754,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "12": {
+        "dem_votes": 12635,
+        "rep_votes": 3668,
+        "other_votes": 270,
+        "total_votes": 16573,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": -8967,
+        "margin_pct": -54.106076147951484,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "13": {
+        "dem_votes": 13752,
+        "rep_votes": 18273,
+        "other_votes": 433,
+        "total_votes": 32458,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 4521,
+        "margin_pct": 13.9287694867213,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "14": {
+        "dem_votes": 16855,
+        "rep_votes": 9570,
+        "other_votes": 532,
+        "total_votes": 26957,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": -7285,
+        "margin_pct": -27.024520532700226,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "15": {
+        "dem_votes": 11903,
+        "rep_votes": 17315,
+        "other_votes": 506,
+        "total_votes": 29724,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 5412,
+        "margin_pct": 18.207815364946928,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "16": {
+        "dem_votes": 14644,
+        "rep_votes": 1887,
+        "other_votes": 211,
+        "total_votes": 16742,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": -12757,
+        "margin_pct": -76.19758690717956,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "17": {
+        "dem_votes": 19592,
+        "rep_votes": 3305,
+        "other_votes": 344,
+        "total_votes": 23241,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": -16287,
+        "margin_pct": -70.07874015748031,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "18": {
+        "dem_votes": 15264,
+        "rep_votes": 4472,
+        "other_votes": 364,
+        "total_votes": 20100,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": -10792,
+        "margin_pct": -53.691542288557216,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "19": {
+        "dem_votes": 14866,
+        "rep_votes": 3034,
+        "other_votes": 310,
+        "total_votes": 18210,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": -11832,
+        "margin_pct": -64.97528830313016,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "2": {
+        "dem_votes": 10941,
+        "rep_votes": 15728,
+        "other_votes": 749,
+        "total_votes": 27418,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 4787,
+        "margin_pct": 17.45933328470348,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "20": {
+        "dem_votes": 12926,
+        "rep_votes": 8210,
+        "other_votes": 499,
+        "total_votes": 21635,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": -4716,
+        "margin_pct": -21.798012479778137,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "21": {
+        "dem_votes": 11855,
+        "rep_votes": 12667,
+        "other_votes": 526,
+        "total_votes": 25048,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 812,
+        "margin_pct": 3.2417757904822744,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "22": {
+        "dem_votes": 10690,
+        "rep_votes": 21179,
+        "other_votes": 544,
+        "total_votes": 32413,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 10489,
+        "margin_pct": 32.36047264986271,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "23": {
+        "dem_votes": 20128,
+        "rep_votes": 13129,
+        "other_votes": 406,
+        "total_votes": 33664,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": -6999,
+        "margin_pct": -20.791250792141955,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "24": {
+        "dem_votes": 12454,
+        "rep_votes": 19112,
+        "other_votes": 560,
+        "total_votes": 32125,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 6658,
+        "margin_pct": 20.725810635538267,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "25": {
+        "dem_votes": 9103,
+        "rep_votes": 15143,
+        "other_votes": 678,
+        "total_votes": 24924,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 6040,
+        "margin_pct": 24.23367035788798,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "26": {
+        "dem_votes": 7791,
+        "rep_votes": 13744,
+        "other_votes": 529,
+        "total_votes": 22064,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 5953,
+        "margin_pct": 26.98060188542422,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "27": {
+        "dem_votes": 13072,
+        "rep_votes": 17569,
+        "other_votes": 763,
+        "total_votes": 31404,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 4497,
+        "margin_pct": 14.319831868551777,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "28": {
+        "dem_votes": 9507,
+        "rep_votes": 16059,
+        "other_votes": 664,
+        "total_votes": 26230,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 6552,
+        "margin_pct": 24.97903164315669,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "29": {
+        "dem_votes": 9316,
+        "rep_votes": 13764,
+        "other_votes": 634,
+        "total_votes": 23714,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 4448,
+        "margin_pct": 18.7568524921987,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "3": {
+        "dem_votes": 10550,
+        "rep_votes": 15096,
+        "other_votes": 634,
+        "total_votes": 26280,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 4546,
+        "margin_pct": 17.298325722983257,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "30": {
+        "dem_votes": 12499,
+        "rep_votes": 16999,
+        "other_votes": 699,
+        "total_votes": 30197,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 4500,
+        "margin_pct": 14.902142596946716,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "31": {
+        "dem_votes": 9852,
+        "rep_votes": 13781,
+        "other_votes": 598,
+        "total_votes": 24231,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 3929,
+        "margin_pct": 16.214766208575792,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "32": {
+        "dem_votes": 8807,
+        "rep_votes": 14528,
+        "other_votes": 547,
+        "total_votes": 23882,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 5721,
+        "margin_pct": 23.95528012729252,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "33": {
+        "dem_votes": 13440,
+        "rep_votes": 14373,
+        "other_votes": 765,
+        "total_votes": 28578,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 933,
+        "margin_pct": 3.2647491077052275,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "34": {
+        "dem_votes": 12123,
+        "rep_votes": 18974,
+        "other_votes": 668,
+        "total_votes": 31765,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 6851,
+        "margin_pct": 21.567763261451283,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "35": {
+        "dem_votes": 9473,
+        "rep_votes": 18364,
+        "other_votes": 721,
+        "total_votes": 28558,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 8891,
+        "margin_pct": 31.133132572308988,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "36": {
+        "dem_votes": 8382,
+        "rep_votes": 18541,
+        "other_votes": 673,
+        "total_votes": 27596,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 10159,
+        "margin_pct": 36.81330627627192,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "37": {
+        "dem_votes": 11010,
+        "rep_votes": 13849,
+        "other_votes": 670,
+        "total_votes": 25529,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 2839,
+        "margin_pct": 11.121411737055483,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "38": {
+        "dem_votes": 12552,
+        "rep_votes": 17264,
+        "other_votes": 654,
+        "total_votes": 30470,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 4712,
+        "margin_pct": 15.464391204463407,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "39": {
+        "dem_votes": 8416,
+        "rep_votes": 16436,
+        "other_votes": 649,
+        "total_votes": 25501,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 8019,
+        "margin_pct": 31.44754385506262,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "4": {
+        "dem_votes": 12178,
+        "rep_votes": 13883,
+        "other_votes": 662,
+        "total_votes": 26723,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 1705,
+        "margin_pct": 6.380271676084272,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "40": {
+        "dem_votes": 7997,
+        "rep_votes": 16573,
+        "other_votes": 670,
+        "total_votes": 25240,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 8576,
+        "margin_pct": 33.97781299524564,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "41": {
+        "dem_votes": 9364,
+        "rep_votes": 14292,
+        "other_votes": 723,
+        "total_votes": 24379,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 4928,
+        "margin_pct": 20.214118708724722,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "42": {
+        "dem_votes": 10581,
+        "rep_votes": 15933,
+        "other_votes": 802,
+        "total_votes": 27316,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 5352,
+        "margin_pct": 19.59291257870845,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "43": {
+        "dem_votes": 19308,
+        "rep_votes": 11418,
+        "other_votes": 829,
+        "total_votes": 31555,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": -7890,
+        "margin_pct": -25.00396133734749,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "44": {
+        "dem_votes": 12073,
+        "rep_votes": 7894,
+        "other_votes": 636,
+        "total_votes": 20603,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": -4179,
+        "margin_pct": -20.28345386594185,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "45": {
+        "dem_votes": 11272,
+        "rep_votes": 9140,
+        "other_votes": 642,
+        "total_votes": 21054,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": -2132,
+        "margin_pct": -10.126341787783794,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "46": {
+        "dem_votes": 19727,
+        "rep_votes": 8513,
+        "other_votes": 596,
+        "total_votes": 28836,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": -11214,
+        "margin_pct": -38.88941870042048,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "47": {
+        "dem_votes": 24598,
+        "rep_votes": 6788,
+        "other_votes": 481,
+        "total_votes": 31867,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": -17809,
+        "margin_pct": -55.8858601284492,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "48": {
+        "dem_votes": 29225,
+        "rep_votes": 4878,
+        "other_votes": 476,
+        "total_votes": 34579,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": -24347,
+        "margin_pct": -70.40978628647446,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "49": {
+        "dem_votes": 9758,
+        "rep_votes": 12732,
+        "other_votes": 551,
+        "total_votes": 23041,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 2974,
+        "margin_pct": 12.907425892973395,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "5": {
+        "dem_votes": 10013,
+        "rep_votes": 14881,
+        "other_votes": 655,
+        "total_votes": 25549,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 4868,
+        "margin_pct": 19.05358331050139,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "50": {
+        "dem_votes": 9228,
+        "rep_votes": 13774,
+        "other_votes": 678,
+        "total_votes": 23680,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 4546,
+        "margin_pct": 19.197635135135137,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "51": {
+        "dem_votes": 12452,
+        "rep_votes": 12865,
+        "other_votes": 642,
+        "total_votes": 25959,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 413,
+        "margin_pct": 1.5909703763627259,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "52": {
+        "dem_votes": 9011,
+        "rep_votes": 14388,
+        "other_votes": 597,
+        "total_votes": 23996,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 5377,
+        "margin_pct": 22.407901316886147,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "53": {
+        "dem_votes": 8319,
+        "rep_votes": 15690,
+        "other_votes": 680,
+        "total_votes": 24690,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 7371,
+        "margin_pct": 29.854191980558937,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "54": {
+        "dem_votes": 10052,
+        "rep_votes": 8157,
+        "other_votes": 567,
+        "total_votes": 18776,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": -1895,
+        "margin_pct": -10.092671495526204,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "55": {
+        "dem_votes": 12285,
+        "rep_votes": 14718,
+        "other_votes": 796,
+        "total_votes": 27799,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 2434,
+        "margin_pct": 8.754842817521556,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "56": {
+        "dem_votes": 11352,
+        "rep_votes": 15818,
+        "other_votes": 705,
+        "total_votes": 27875,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 4466,
+        "margin_pct": 16.01958726827562,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "57": {
+        "dem_votes": 10767,
+        "rep_votes": 8759,
+        "other_votes": 734,
+        "total_votes": 20259,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": -2008,
+        "margin_pct": -9.91295162361141,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "58": {
+        "dem_votes": 9008,
+        "rep_votes": 21016,
+        "other_votes": 594,
+        "total_votes": 30618,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 12008,
+        "margin_pct": 39.22057901337793,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "59": {
+        "dem_votes": 7623,
+        "rep_votes": 22211,
+        "other_votes": 636,
+        "total_votes": 30470,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 14588,
+        "margin_pct": 47.87659993436167,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "6": {
+        "dem_votes": 7647,
+        "rep_votes": 18234,
+        "other_votes": 654,
+        "total_votes": 26535,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 10587,
+        "margin_pct": 39.89824759751272,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "60": {
+        "dem_votes": 10978,
+        "rep_votes": 21063,
+        "other_votes": 591,
+        "total_votes": 32631,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 10086,
+        "margin_pct": 30.907653364550704,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "61": {
+        "dem_votes": 9946,
+        "rep_votes": 16966,
+        "other_votes": 607,
+        "total_votes": 27519,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 7020,
+        "margin_pct": 25.509647879646792,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "62": {
+        "dem_votes": 10683,
+        "rep_votes": 17021,
+        "other_votes": 537,
+        "total_votes": 28241,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 6338,
+        "margin_pct": 22.442548068411174,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "63": {
+        "dem_votes": 10245,
+        "rep_votes": 16119,
+        "other_votes": 564,
+        "total_votes": 26928,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 5874,
+        "margin_pct": 21.813725490196077,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "64": {
+        "dem_votes": 9510,
+        "rep_votes": 7416,
+        "other_votes": 338,
+        "total_votes": 17264,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": -2094,
+        "margin_pct": -12.12928637627433,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "65": {
+        "dem_votes": 12379,
+        "rep_votes": 9599,
+        "other_votes": 477,
+        "total_votes": 22455,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": -2780,
+        "margin_pct": -12.380316187931419,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "66": {
+        "dem_votes": 9159,
+        "rep_votes": 4264,
+        "other_votes": 348,
+        "total_votes": 13771,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": -4895,
+        "margin_pct": -35.54571200348558,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "67": {
+        "dem_votes": 9532,
+        "rep_votes": 14461,
+        "other_votes": 670,
+        "total_votes": 24663,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 4929,
+        "margin_pct": 19.985403235616104,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "68": {
+        "dem_votes": 9958,
+        "rep_votes": 13442,
+        "other_votes": 695,
+        "total_votes": 24095,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 3484,
+        "margin_pct": 14.461656584940702,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "69": {
+        "dem_votes": 8576,
+        "rep_votes": 14266,
+        "other_votes": 764,
+        "total_votes": 23606,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 5689,
+        "margin_pct": 24.101217204665478,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "7": {
+        "dem_votes": 10946,
+        "rep_votes": 6730,
+        "other_votes": 473,
+        "total_votes": 18149,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": -4216,
+        "margin_pct": -23.229930023692766,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "70": {
+        "dem_votes": 9175,
+        "rep_votes": 14566,
+        "other_votes": 700,
+        "total_votes": 24441,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 5391,
+        "margin_pct": 22.057198968945624,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "71": {
+        "dem_votes": 14466,
+        "rep_votes": 12272,
+        "other_votes": 727,
+        "total_votes": 27465,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": -2194,
+        "margin_pct": -7.988348807573276,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "72": {
+        "dem_votes": 9758,
+        "rep_votes": 15761,
+        "other_votes": 783,
+        "total_votes": 26302,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 6003,
+        "margin_pct": 22.823359440346742,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "73": {
+        "dem_votes": 12557,
+        "rep_votes": 12935,
+        "other_votes": 593,
+        "total_votes": 26085,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 378,
+        "margin_pct": 1.4491086831512363,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "74": {
+        "dem_votes": 14104,
+        "rep_votes": 15125,
+        "other_votes": 598,
+        "total_votes": 29827,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 1021,
+        "margin_pct": 3.423073054614946,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "75": {
+        "dem_votes": 9271,
+        "rep_votes": 16226,
+        "other_votes": 571,
+        "total_votes": 26068,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 6955,
+        "margin_pct": 26.680220960564675,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "76": {
+        "dem_votes": 22552,
+        "rep_votes": 2956,
+        "other_votes": 346,
+        "total_votes": 25854,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": -19596,
+        "margin_pct": -75.7948479925737,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "77": {
+        "dem_votes": 24138,
+        "rep_votes": 3448,
+        "other_votes": 377,
+        "total_votes": 27963,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": -20690,
+        "margin_pct": -73.99063047598614,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "78": {
+        "dem_votes": 29203,
+        "rep_votes": 6167,
+        "other_votes": 510,
+        "total_votes": 35880,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": -23036,
+        "margin_pct": -64.20289855072464,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "79": {
+        "dem_votes": 22454,
+        "rep_votes": 8046,
+        "other_votes": 538,
+        "total_votes": 31037,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": -14409,
+        "margin_pct": -46.42405496620996,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "8": {
+        "dem_votes": 10925,
+        "rep_votes": 3295,
+        "other_votes": 293,
+        "total_votes": 14513,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": -7630,
+        "margin_pct": -52.5735547440226,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "80": {
+        "dem_votes": 22619,
+        "rep_votes": 10057,
+        "other_votes": 613,
+        "total_votes": 33289,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": -12562,
+        "margin_pct": -37.737067670678705,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "81": {
+        "dem_votes": 16432,
+        "rep_votes": 12412,
+        "other_votes": 722,
+        "total_votes": 29566,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": -4020,
+        "margin_pct": -13.596698910911181,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "82": {
+        "dem_votes": 11156,
+        "rep_votes": 14946,
+        "other_votes": 420,
+        "total_votes": 26522,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 3791,
+        "margin_pct": 14.293793831536084,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "83": {
+        "dem_votes": 9534,
+        "rep_votes": 23384,
+        "other_votes": 650,
+        "total_votes": 33568,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 13851,
+        "margin_pct": 41.26251191611058,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "84": {
+        "dem_votes": 10401,
+        "rep_votes": 8803,
+        "other_votes": 422,
+        "total_votes": 19626,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": -1598,
+        "margin_pct": -8.142260266992766,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "85": {
+        "dem_votes": 10769,
+        "rep_votes": 12825,
+        "other_votes": 604,
+        "total_votes": 24198,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 2056,
+        "margin_pct": 8.496569964459873,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "86": {
+        "dem_votes": 10068,
+        "rep_votes": 17150,
+        "other_votes": 670,
+        "total_votes": 27888,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 7083,
+        "margin_pct": 25.396825396825395,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "87": {
+        "dem_votes": 8264,
+        "rep_votes": 17610,
+        "other_votes": 614,
+        "total_votes": 26488,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 9346,
+        "margin_pct": 35.28390214436726,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "88": {
+        "dem_votes": 10885,
+        "rep_votes": 13628,
+        "other_votes": 608,
+        "total_votes": 25121,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 2743,
+        "margin_pct": 10.919151307670873,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "89": {
+        "dem_votes": 8614,
+        "rep_votes": 17137,
+        "other_votes": 685,
+        "total_votes": 26436,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 8523,
+        "margin_pct": 32.2401270994099,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "9": {
+        "dem_votes": 9962,
+        "rep_votes": 4111,
+        "other_votes": 337,
+        "total_votes": 14410,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": -5851,
+        "margin_pct": -40.603747397640525,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "90": {
+        "dem_votes": 9364,
+        "rep_votes": 7123,
+        "other_votes": 551,
+        "total_votes": 17038,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": -2241,
+        "margin_pct": -13.152952224439488,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "91": {
+        "dem_votes": 15936,
+        "rep_votes": 8886,
+        "other_votes": 677,
+        "total_votes": 25499,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": -7050,
+        "margin_pct": -27.6481430644339,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "92": {
+        "dem_votes": 9489,
+        "rep_votes": 14245,
+        "other_votes": 666,
+        "total_votes": 24400,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 4756,
+        "margin_pct": 19.491803278688526,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "93": {
+        "dem_votes": 10695,
+        "rep_votes": 14885,
+        "other_votes": 649,
+        "total_votes": 26229,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 4190,
+        "margin_pct": 15.972625980536995,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "94": {
+        "dem_votes": 13407,
+        "rep_votes": 14179,
+        "other_votes": 749,
+        "total_votes": 28335,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 772,
+        "margin_pct": 2.7245456149638256,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "95": {
+        "dem_votes": 15617,
+        "rep_votes": 8606,
+        "other_votes": 720,
+        "total_votes": 24943,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": -7011,
+        "margin_pct": -28.108086437076533,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "96": {
+        "dem_votes": 10803,
+        "rep_votes": 13386,
+        "other_votes": 670,
+        "total_votes": 24859,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 2583,
+        "margin_pct": 10.390603000925218,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "97": {
+        "dem_votes": 11920,
+        "rep_votes": 19577,
+        "other_votes": 616,
+        "total_votes": 32114,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 7657,
+        "margin_pct": 23.842783609487537,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "98": {
+        "dem_votes": 10006,
+        "rep_votes": 15422,
+        "other_votes": 454,
+        "total_votes": 25881,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 5416,
+        "margin_pct": 20.927482921702577,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "99": {
+        "dem_votes": 10513,
+        "rep_votes": 24027,
+        "other_votes": 515,
+        "total_votes": 35055,
+        "dem_candidate": "Aaron Richardson",
+        "rep_candidate": "John S. Leiber",
+        "margin": 13514,
+        "margin_pct": 38.5508486663814,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      }
+    }
+  }
+}

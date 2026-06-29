@@ -1,0 +1,468 @@
+{
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 37778,
+        "rep_votes": 47874,
+        "other_votes": 954,
+        "total_votes": 86606,
+        "dem_candidate": "Tony Evers & Sara Rodriguez",
+        "rep_candidate": "Tim Michels & Roger Roth",
+        "margin": 10096,
+        "margin_pct": 11.657708524571861,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "10": {
+        "dem_votes": 33668,
+        "rep_votes": 45976,
+        "other_votes": 1064,
+        "total_votes": 80708,
+        "dem_candidate": "Tony Evers & Sara Rodriguez",
+        "rep_candidate": "Tim Michels & Roger Roth",
+        "margin": 12308,
+        "margin_pct": 15.250037171036329,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "11": {
+        "dem_votes": 35358,
+        "rep_votes": 41612,
+        "other_votes": 1027,
+        "total_votes": 77996,
+        "dem_candidate": "Tony Evers & Sara Rodriguez",
+        "rep_candidate": "Tim Michels & Roger Roth",
+        "margin": 6254,
+        "margin_pct": 8.018359915893122,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "12": {
+        "dem_votes": 32634,
+        "rep_votes": 55560,
+        "other_votes": 1206,
+        "total_votes": 89400,
+        "dem_candidate": "Tony Evers & Sara Rodriguez",
+        "rep_candidate": "Tim Michels & Roger Roth",
+        "margin": 22926,
+        "margin_pct": 25.64429530201342,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "13": {
+        "dem_votes": 35196,
+        "rep_votes": 47226,
+        "other_votes": 902,
+        "total_votes": 83324,
+        "dem_candidate": "Tony Evers & Sara Rodriguez",
+        "rep_candidate": "Tim Michels & Roger Roth",
+        "margin": 12030,
+        "margin_pct": 14.437503625427794,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "14": {
+        "dem_votes": 30896,
+        "rep_votes": 46564,
+        "other_votes": 966,
+        "total_votes": 78426,
+        "dem_candidate": "Tony Evers & Sara Rodriguez",
+        "rep_candidate": "Tim Michels & Roger Roth",
+        "margin": 15668,
+        "margin_pct": 19.978068497692092,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "15": {
+        "dem_votes": 46310,
+        "rep_votes": 27439,
+        "other_votes": 903,
+        "total_votes": 74653,
+        "dem_candidate": "Tony Evers & Sara Rodriguez",
+        "rep_candidate": "Tim Michels & Roger Roth",
+        "margin": -18871,
+        "margin_pct": -25.278287543702188,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "16": {
+        "dem_votes": 77651,
+        "rep_votes": 18629,
+        "other_votes": 636,
+        "total_votes": 96916,
+        "dem_candidate": "Tony Evers & Sara Rodriguez",
+        "rep_candidate": "Tim Michels & Roger Roth",
+        "margin": -59022,
+        "margin_pct": -60.90052365024634,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "17": {
+        "dem_votes": 34723,
+        "rep_votes": 38214,
+        "other_votes": 990,
+        "total_votes": 73927,
+        "dem_candidate": "Tony Evers & Sara Rodriguez",
+        "rep_candidate": "Tim Michels & Roger Roth",
+        "margin": 3491,
+        "margin_pct": 4.72222597968266,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "18": {
+        "dem_votes": 30209,
+        "rep_votes": 38262,
+        "other_votes": 758,
+        "total_votes": 69228,
+        "dem_candidate": "Tony Evers & Sara Rodriguez",
+        "rep_candidate": "Tim Michels & Roger Roth",
+        "margin": 8053,
+        "margin_pct": 11.633001901918767,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "19": {
+        "dem_votes": 38140,
+        "rep_votes": 38396,
+        "other_votes": 941,
+        "total_votes": 77477,
+        "dem_candidate": "Tony Evers & Sara Rodriguez",
+        "rep_candidate": "Tim Michels & Roger Roth",
+        "margin": 256,
+        "margin_pct": 0.33042064096441526,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "2": {
+        "dem_votes": 33061,
+        "rep_votes": 46320,
+        "other_votes": 946,
+        "total_votes": 80327,
+        "dem_candidate": "Tony Evers & Sara Rodriguez",
+        "rep_candidate": "Tim Michels & Roger Roth",
+        "margin": 13259,
+        "margin_pct": 16.506280578136863,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "20": {
+        "dem_votes": 30694,
+        "rep_votes": 64065,
+        "other_votes": 806,
+        "total_votes": 95565,
+        "dem_candidate": "Tony Evers & Sara Rodriguez",
+        "rep_candidate": "Tim Michels & Roger Roth",
+        "margin": 33371,
+        "margin_pct": 34.91968817035526,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "21": {
+        "dem_votes": 33547,
+        "rep_votes": 49526,
+        "other_votes": 933,
+        "total_votes": 84006,
+        "dem_candidate": "Tony Evers & Sara Rodriguez",
+        "rep_candidate": "Tim Michels & Roger Roth",
+        "margin": 15979,
+        "margin_pct": 19.021260386162893,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "22": {
+        "dem_votes": 32599,
+        "rep_votes": 20992,
+        "other_votes": 722,
+        "total_votes": 54313,
+        "dem_candidate": "Tony Evers & Sara Rodriguez",
+        "rep_candidate": "Tim Michels & Roger Roth",
+        "margin": -11607,
+        "margin_pct": -21.370574263988367,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "23": {
+        "dem_votes": 30664,
+        "rep_votes": 41889,
+        "other_votes": 1004,
+        "total_votes": 73558,
+        "dem_candidate": "Tony Evers & Sara Rodriguez",
+        "rep_candidate": "Tim Michels & Roger Roth",
+        "margin": 11225,
+        "margin_pct": 15.26038946546776,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "24": {
+        "dem_votes": 35979,
+        "rep_votes": 42328,
+        "other_votes": 1043,
+        "total_votes": 79350,
+        "dem_candidate": "Tony Evers & Sara Rodriguez",
+        "rep_candidate": "Tim Michels & Roger Roth",
+        "margin": 6349,
+        "margin_pct": 8.001260239445495,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "25": {
+        "dem_votes": 37902,
+        "rep_votes": 43675,
+        "other_votes": 1078,
+        "total_votes": 82655,
+        "dem_candidate": "Tony Evers & Sara Rodriguez",
+        "rep_candidate": "Tim Michels & Roger Roth",
+        "margin": 5773,
+        "margin_pct": 6.984453451091888,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "26": {
+        "dem_votes": 80066,
+        "rep_votes": 10718,
+        "other_votes": 521,
+        "total_votes": 91305,
+        "dem_candidate": "Tony Evers & Sara Rodriguez",
+        "rep_candidate": "Tim Michels & Roger Roth",
+        "margin": -69348,
+        "margin_pct": -75.95202891407918,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "27": {
+        "dem_votes": 66216,
+        "rep_votes": 28631,
+        "other_votes": 842,
+        "total_votes": 95690,
+        "dem_candidate": "Tony Evers & Sara Rodriguez",
+        "rep_candidate": "Tim Michels & Roger Roth",
+        "margin": -37585,
+        "margin_pct": -39.27757786455522,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "28": {
+        "dem_votes": 34403,
+        "rep_votes": 46545,
+        "other_votes": 754,
+        "total_votes": 81702,
+        "dem_candidate": "Tony Evers & Sara Rodriguez",
+        "rep_candidate": "Tim Michels & Roger Roth",
+        "margin": 12142,
+        "margin_pct": 14.861325304154121,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "29": {
+        "dem_votes": 31668,
+        "rep_votes": 47128,
+        "other_votes": 1022,
+        "total_votes": 79819,
+        "dem_candidate": "Tony Evers & Sara Rodriguez",
+        "rep_candidate": "Tim Michels & Roger Roth",
+        "margin": 15460,
+        "margin_pct": 19.36890284645196,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "3": {
+        "dem_votes": 33690,
+        "rep_votes": 13857,
+        "other_votes": 555,
+        "total_votes": 48102,
+        "dem_candidate": "Tony Evers & Sara Rodriguez",
+        "rep_candidate": "Tim Michels & Roger Roth",
+        "margin": -19833,
+        "margin_pct": -41.23113384058875,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "30": {
+        "dem_votes": 31843,
+        "rep_votes": 37183,
+        "other_votes": 884,
+        "total_votes": 69910,
+        "dem_candidate": "Tony Evers & Sara Rodriguez",
+        "rep_candidate": "Tim Michels & Roger Roth",
+        "margin": 5340,
+        "margin_pct": 7.638392218566728,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "31": {
+        "dem_votes": 38726,
+        "rep_votes": 37391,
+        "other_votes": 1036,
+        "total_votes": 77153,
+        "dem_candidate": "Tony Evers & Sara Rodriguez",
+        "rep_candidate": "Tim Michels & Roger Roth",
+        "margin": -1335,
+        "margin_pct": -1.7306464730908937,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "32": {
+        "dem_votes": 43438,
+        "rep_votes": 35066,
+        "other_votes": 1058,
+        "total_votes": 79562,
+        "dem_candidate": "Tony Evers & Sara Rodriguez",
+        "rep_candidate": "Tim Michels & Roger Roth",
+        "margin": -8372,
+        "margin_pct": -10.522611296850256,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "33": {
+        "dem_votes": 36858,
+        "rep_votes": 58027,
+        "other_votes": 772,
+        "total_votes": 95656,
+        "dem_candidate": "Tony Evers & Sara Rodriguez",
+        "rep_candidate": "Tim Michels & Roger Roth",
+        "margin": 21169,
+        "margin_pct": 22.130226382943135,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "4": {
+        "dem_votes": 51842,
+        "rep_votes": 8947,
+        "other_votes": 541,
+        "total_votes": 61330,
+        "dem_candidate": "Tony Evers & Sara Rodriguez",
+        "rep_candidate": "Tim Michels & Roger Roth",
+        "margin": -42895,
+        "margin_pct": -69.9413011576716,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "5": {
+        "dem_votes": 46929,
+        "rep_votes": 43683,
+        "other_votes": 774,
+        "total_votes": 91386,
+        "dem_candidate": "Tony Evers & Sara Rodriguez",
+        "rep_candidate": "Tim Michels & Roger Roth",
+        "margin": -3246,
+        "margin_pct": -3.5519469505889822,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "6": {
+        "dem_votes": 51780,
+        "rep_votes": 9035,
+        "other_votes": 608,
+        "total_votes": 61423,
+        "dem_candidate": "Tony Evers & Sara Rodriguez",
+        "rep_candidate": "Tim Michels & Roger Roth",
+        "margin": -42745,
+        "margin_pct": -69.59119548052033,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "7": {
+        "dem_votes": 42309,
+        "rep_votes": 23367,
+        "other_votes": 674,
+        "total_votes": 66350,
+        "dem_candidate": "Tony Evers & Sara Rodriguez",
+        "rep_candidate": "Tim Michels & Roger Roth",
+        "margin": -18942,
+        "margin_pct": -28.548605877920117,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "8": {
+        "dem_votes": 48039,
+        "rep_votes": 51524,
+        "other_votes": 723,
+        "total_votes": 100286,
+        "dem_candidate": "Tony Evers & Sara Rodriguez",
+        "rep_candidate": "Tim Michels & Roger Roth",
+        "margin": 3485,
+        "margin_pct": 3.4750613246116107,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "9": {
+        "dem_votes": 32797,
+        "rep_votes": 46220,
+        "other_votes": 1061,
+        "total_votes": 80078,
+        "dem_candidate": "Tony Evers & Sara Rodriguez",
+        "rep_candidate": "Tim Michels & Roger Roth",
+        "margin": 13423,
+        "margin_pct": 16.762406653512826,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      }
+    }
+  }
+}

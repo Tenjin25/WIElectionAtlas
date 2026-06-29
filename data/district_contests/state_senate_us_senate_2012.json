@@ -1,0 +1,468 @@
+{
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 43308,
+        "rep_votes": 46673,
+        "other_votes": 3028,
+        "total_votes": 93009,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Tommy G. Thompson",
+        "margin": 3365,
+        "margin_pct": 3.617710525099152,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "10": {
+        "dem_votes": 39721,
+        "rep_votes": 44464,
+        "other_votes": 2472,
+        "total_votes": 86657,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Tommy G. Thompson",
+        "margin": 4743,
+        "margin_pct": 5.473302791465202,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "11": {
+        "dem_votes": 40444,
+        "rep_votes": 44099,
+        "other_votes": 2802,
+        "total_votes": 87344,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Tommy G. Thompson",
+        "margin": 3655,
+        "margin_pct": 4.184587437460167,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "12": {
+        "dem_votes": 43843,
+        "rep_votes": 47412,
+        "other_votes": 3554,
+        "total_votes": 94809,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Tommy G. Thompson",
+        "margin": 3569,
+        "margin_pct": 3.7644105517408684,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "13": {
+        "dem_votes": 39415,
+        "rep_votes": 49120,
+        "other_votes": 2510,
+        "total_votes": 91045,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Tommy G. Thompson",
+        "margin": 9705,
+        "margin_pct": 10.659563951891922,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "14": {
+        "dem_votes": 40482,
+        "rep_votes": 44084,
+        "other_votes": 2556,
+        "total_votes": 87122,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Tommy G. Thompson",
+        "margin": 3602,
+        "margin_pct": 4.1344321755698905,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "15": {
+        "dem_votes": 54602,
+        "rep_votes": 31931,
+        "other_votes": 2370,
+        "total_votes": 88904,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Tommy G. Thompson",
+        "margin": -22671,
+        "margin_pct": -25.500635519344904,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "16": {
+        "dem_votes": 64395,
+        "rep_votes": 26092,
+        "other_votes": 1538,
+        "total_votes": 92026,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Tommy G. Thompson",
+        "margin": -38302,
+        "margin_pct": -41.62161574780903,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "17": {
+        "dem_votes": 43358,
+        "rep_votes": 38311,
+        "other_votes": 2186,
+        "total_votes": 83855,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Tommy G. Thompson",
+        "margin": -5047,
+        "margin_pct": -6.018722795301413,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "18": {
+        "dem_votes": 37384,
+        "rep_votes": 39820,
+        "other_votes": 2402,
+        "total_votes": 79605,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Tommy G. Thompson",
+        "margin": 2436,
+        "margin_pct": 3.0597952389925256,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "19": {
+        "dem_votes": 41299,
+        "rep_votes": 43504,
+        "other_votes": 3492,
+        "total_votes": 88295,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Tommy G. Thompson",
+        "margin": 2205,
+        "margin_pct": 2.4973101534628235,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "2": {
+        "dem_votes": 35146,
+        "rep_votes": 39616,
+        "other_votes": 2468,
+        "total_votes": 77230,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Tommy G. Thompson",
+        "margin": 4470,
+        "margin_pct": 5.787296305168361,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "20": {
+        "dem_votes": 30840,
+        "rep_votes": 63841,
+        "other_votes": 2814,
+        "total_votes": 97495,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Tommy G. Thompson",
+        "margin": 33001,
+        "margin_pct": 33.84891532899123,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "21": {
+        "dem_votes": 37807,
+        "rep_votes": 47104,
+        "other_votes": 2598,
+        "total_votes": 87509,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Tommy G. Thompson",
+        "margin": 9297,
+        "margin_pct": 10.6237558365692,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "22": {
+        "dem_votes": 51700,
+        "rep_votes": 25840,
+        "other_votes": 2716,
+        "total_votes": 80256,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Tommy G. Thompson",
+        "margin": -25860,
+        "margin_pct": -32.22146768757281,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "23": {
+        "dem_votes": 38410,
+        "rep_votes": 39288,
+        "other_votes": 2778,
+        "total_votes": 80476,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Tommy G. Thompson",
+        "margin": 879,
+        "margin_pct": 1.0916741814773567,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "24": {
+        "dem_votes": 46132,
+        "rep_votes": 40074,
+        "other_votes": 2825,
+        "total_votes": 89031,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Tommy G. Thompson",
+        "margin": -6058,
+        "margin_pct": -6.804371511046714,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "25": {
+        "dem_votes": 50774,
+        "rep_votes": 39247,
+        "other_votes": 2188,
+        "total_votes": 92209,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Tommy G. Thompson",
+        "margin": -11527,
+        "margin_pct": -12.500948931232308,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "26": {
+        "dem_votes": 75642,
+        "rep_votes": 20916,
+        "other_votes": 1864,
+        "total_votes": 98422,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Tommy G. Thompson",
+        "margin": -54726,
+        "margin_pct": -55.603421999146526,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "27": {
+        "dem_votes": 57833,
+        "rep_votes": 36168,
+        "other_votes": 1699,
+        "total_votes": 95700,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Tommy G. Thompson",
+        "margin": -21666,
+        "margin_pct": -22.639094248141316,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "28": {
+        "dem_votes": 37840,
+        "rep_votes": 59152,
+        "other_votes": 2225,
+        "total_votes": 99216,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Tommy G. Thompson",
+        "margin": 21312,
+        "margin_pct": 21.480226455638668,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "29": {
+        "dem_votes": 40717,
+        "rep_votes": 43222,
+        "other_votes": 2983,
+        "total_votes": 86922,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Tommy G. Thompson",
+        "margin": 2506,
+        "margin_pct": 2.882756954510941,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "3": {
+        "dem_votes": 39486,
+        "rep_votes": 20056,
+        "other_votes": 1704,
+        "total_votes": 61246,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Tommy G. Thompson",
+        "margin": -19430,
+        "margin_pct": -31.724520785030858,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "30": {
+        "dem_votes": 39430,
+        "rep_votes": 36402,
+        "other_votes": 2442,
+        "total_votes": 78274,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Tommy G. Thompson",
+        "margin": -3028,
+        "margin_pct": -3.869125566123912,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "31": {
+        "dem_votes": 46763,
+        "rep_votes": 38642,
+        "other_votes": 2676,
+        "total_votes": 88081,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Tommy G. Thompson",
+        "margin": -8120,
+        "margin_pct": -9.219111629393078,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "32": {
+        "dem_votes": 47680,
+        "rep_votes": 37854,
+        "other_votes": 2606,
+        "total_votes": 88140,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Tommy G. Thompson",
+        "margin": -9826,
+        "margin_pct": -11.14817336056274,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "33": {
+        "dem_votes": 31976,
+        "rep_votes": 67318,
+        "other_votes": 2326,
+        "total_votes": 101620,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Tommy G. Thompson",
+        "margin": 35342,
+        "margin_pct": 34.77848422018042,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "4": {
+        "dem_votes": 77727,
+        "rep_votes": 16674,
+        "other_votes": 1390,
+        "total_votes": 95791,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Tommy G. Thompson",
+        "margin": -61052,
+        "margin_pct": -63.73511081416835,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "5": {
+        "dem_votes": 41725,
+        "rep_votes": 63484,
+        "other_votes": 2157,
+        "total_votes": 107366,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Tommy G. Thompson",
+        "margin": 21759,
+        "margin_pct": 20.266154525353418,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "6": {
+        "dem_votes": 79087,
+        "rep_votes": 15370,
+        "other_votes": 1611,
+        "total_votes": 96068,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Tommy G. Thompson",
+        "margin": -63717,
+        "margin_pct": -66.32489486613649,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "7": {
+        "dem_votes": 55817,
+        "rep_votes": 38553,
+        "other_votes": 2626,
+        "total_votes": 96996,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Tommy G. Thompson",
+        "margin": -17264,
+        "margin_pct": -17.79867211019011,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "8": {
+        "dem_votes": 38198,
+        "rep_votes": 64449,
+        "other_votes": 2085,
+        "total_votes": 104732,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Tommy G. Thompson",
+        "margin": 26250,
+        "margin_pct": 25.06433055641754,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "9": {
+        "dem_votes": 40786,
+        "rep_votes": 48568,
+        "other_votes": 3189,
+        "total_votes": 92543,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Tommy G. Thompson",
+        "margin": 7782,
+        "margin_pct": 8.40906389462196,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      }
+    }
+  }
+}

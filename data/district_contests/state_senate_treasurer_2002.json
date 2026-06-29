@@ -1,0 +1,468 @@
+{
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 16686,
+        "rep_votes": 24958,
+        "other_votes": 3738,
+        "total_votes": 45381,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Jack C. Voight",
+        "margin": 8272,
+        "margin_pct": 18.22899451312223,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "10": {
+        "dem_votes": 16041,
+        "rep_votes": 18291,
+        "other_votes": 1486,
+        "total_votes": 35818,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Jack C. Voight",
+        "margin": 2250,
+        "margin_pct": 6.281757775420179,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "11": {
+        "dem_votes": 18324,
+        "rep_votes": 23011,
+        "other_votes": 3002,
+        "total_votes": 44337,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Jack C. Voight",
+        "margin": 4687,
+        "margin_pct": 10.571385610104505,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "12": {
+        "dem_votes": 18413,
+        "rep_votes": 23645,
+        "other_votes": 3718,
+        "total_votes": 45776,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Jack C. Voight",
+        "margin": 5232,
+        "margin_pct": 11.429570080391471,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "13": {
+        "dem_votes": 15612,
+        "rep_votes": 25378,
+        "other_votes": 3100,
+        "total_votes": 44090,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Jack C. Voight",
+        "margin": 9766,
+        "margin_pct": 22.151191236079555,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "14": {
+        "dem_votes": 15127,
+        "rep_votes": 23023,
+        "other_votes": 2742,
+        "total_votes": 40892,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Jack C. Voight",
+        "margin": 7896,
+        "margin_pct": 19.309400371710847,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "15": {
+        "dem_votes": 26195,
+        "rep_votes": 19449,
+        "other_votes": 3560,
+        "total_votes": 49204,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Jack C. Voight",
+        "margin": -6746,
+        "margin_pct": -13.710174578119814,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "16": {
+        "dem_votes": 28511,
+        "rep_votes": 21222,
+        "other_votes": 7409,
+        "total_votes": 57142,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Jack C. Voight",
+        "margin": -7290,
+        "margin_pct": -12.756872164398187,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "17": {
+        "dem_votes": 14094,
+        "rep_votes": 16511,
+        "other_votes": 1740,
+        "total_votes": 32345,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Jack C. Voight",
+        "margin": 2417,
+        "margin_pct": 7.4725614469006025,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "18": {
+        "dem_votes": 16638,
+        "rep_votes": 24102,
+        "other_votes": 3394,
+        "total_votes": 44133,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Jack C. Voight",
+        "margin": 7464,
+        "margin_pct": 16.91138150590261,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "19": {
+        "dem_votes": 13971,
+        "rep_votes": 28221,
+        "other_votes": 2912,
+        "total_votes": 45104,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Jack C. Voight",
+        "margin": 14250,
+        "margin_pct": 31.59365023057822,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "2": {
+        "dem_votes": 15837,
+        "rep_votes": 24237,
+        "other_votes": 3355,
+        "total_votes": 43429,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Jack C. Voight",
+        "margin": 8400,
+        "margin_pct": 19.34065174968483,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "20": {
+        "dem_votes": 14543,
+        "rep_votes": 32780,
+        "other_votes": 2566,
+        "total_votes": 49889,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Jack C. Voight",
+        "margin": 18237,
+        "margin_pct": 36.55515243841328,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "21": {
+        "dem_votes": 17458,
+        "rep_votes": 25671,
+        "other_votes": 2676,
+        "total_votes": 45805,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Jack C. Voight",
+        "margin": 8213,
+        "margin_pct": 17.930597853969505,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "22": {
+        "dem_votes": 22760,
+        "rep_votes": 15204,
+        "other_votes": 1986,
+        "total_votes": 39948,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Jack C. Voight",
+        "margin": -7556,
+        "margin_pct": -18.914352228494185,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "23": {
+        "dem_votes": 17466,
+        "rep_votes": 19218,
+        "other_votes": 2742,
+        "total_votes": 39426,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Jack C. Voight",
+        "margin": 1753,
+        "margin_pct": 4.445537522782534,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "24": {
+        "dem_votes": 21207,
+        "rep_votes": 19728,
+        "other_votes": 4279,
+        "total_votes": 45214,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Jack C. Voight",
+        "margin": -1479,
+        "margin_pct": -3.2711107179192283,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "25": {
+        "dem_votes": 21081,
+        "rep_votes": 15995,
+        "other_votes": 1596,
+        "total_votes": 38672,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Jack C. Voight",
+        "margin": -5086,
+        "margin_pct": -13.151634257343813,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "26": {
+        "dem_votes": 24891,
+        "rep_votes": 15116,
+        "other_votes": 5578,
+        "total_votes": 45585,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Jack C. Voight",
+        "margin": -9775,
+        "margin_pct": -21.443457277613252,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "27": {
+        "dem_votes": 18948,
+        "rep_votes": 19836,
+        "other_votes": 3722,
+        "total_votes": 42506,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Jack C. Voight",
+        "margin": 888,
+        "margin_pct": 2.089265564255467,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "28": {
+        "dem_votes": 21538,
+        "rep_votes": 31782,
+        "other_votes": 3384,
+        "total_votes": 56704,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Jack C. Voight",
+        "margin": 10245,
+        "margin_pct": 18.0667679727708,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "29": {
+        "dem_votes": 19814,
+        "rep_votes": 20696,
+        "other_votes": 3341,
+        "total_votes": 43851,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Jack C. Voight",
+        "margin": 882,
+        "margin_pct": 2.010359655981233,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "3": {
+        "dem_votes": 21066,
+        "rep_votes": 14161,
+        "other_votes": 3031,
+        "total_votes": 38258,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Jack C. Voight",
+        "margin": -6905,
+        "margin_pct": -18.048512729363793,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "30": {
+        "dem_votes": 16513,
+        "rep_votes": 20252,
+        "other_votes": 3966,
+        "total_votes": 40731,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Jack C. Voight",
+        "margin": 3740,
+        "margin_pct": 9.181024164789502,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "31": {
+        "dem_votes": 19873,
+        "rep_votes": 17785,
+        "other_votes": 2631,
+        "total_votes": 40289,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Jack C. Voight",
+        "margin": -2088,
+        "margin_pct": -5.183176549430366,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "32": {
+        "dem_votes": 18531,
+        "rep_votes": 18670,
+        "other_votes": 3072,
+        "total_votes": 40273,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Jack C. Voight",
+        "margin": 139,
+        "margin_pct": 0.34514438954138005,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "33": {
+        "dem_votes": 15129,
+        "rep_votes": 36036,
+        "other_votes": 2806,
+        "total_votes": 53971,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Jack C. Voight",
+        "margin": 20907,
+        "margin_pct": 38.73770937299274,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "4": {
+        "dem_votes": 33740,
+        "rep_votes": 13938,
+        "other_votes": 3976,
+        "total_votes": 51654,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Jack C. Voight",
+        "margin": -19801,
+        "margin_pct": -38.3343604701813,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "5": {
+        "dem_votes": 20362,
+        "rep_votes": 39511,
+        "other_votes": 3538,
+        "total_votes": 63411,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Jack C. Voight",
+        "margin": 19149,
+        "margin_pct": 30.198230590906938,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "6": {
+        "dem_votes": 29817,
+        "rep_votes": 14504,
+        "other_votes": 2936,
+        "total_votes": 47257,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Jack C. Voight",
+        "margin": -15313,
+        "margin_pct": -32.403665065492945,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "7": {
+        "dem_votes": 21049,
+        "rep_votes": 13432,
+        "other_votes": 2352,
+        "total_votes": 36834,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Jack C. Voight",
+        "margin": -7617,
+        "margin_pct": -20.678865706490015,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "8": {
+        "dem_votes": 19402,
+        "rep_votes": 39564,
+        "other_votes": 2867,
+        "total_votes": 61834,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Jack C. Voight",
+        "margin": 20162,
+        "margin_pct": 32.60683818277382,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "9": {
+        "dem_votes": 23676,
+        "rep_votes": 27979,
+        "other_votes": 3462,
+        "total_votes": 55117,
+        "dem_candidate": "Dawn Marie Sass",
+        "rep_candidate": "Jack C. Voight",
+        "margin": 4303,
+        "margin_pct": 7.807028684434929,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      }
+    }
+  }
+}

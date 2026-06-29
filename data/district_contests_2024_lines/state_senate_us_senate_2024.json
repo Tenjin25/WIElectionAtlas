@@ -1,0 +1,468 @@
+{
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 43628,
+        "rep_votes": 64906,
+        "other_votes": 2427,
+        "total_votes": 110961,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Eric Hovde",
+        "margin": 21278,
+        "margin_pct": 19.176354353562548,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "10": {
+        "dem_votes": 42982,
+        "rep_votes": 63168,
+        "other_votes": 2520,
+        "total_votes": 108670,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Eric Hovde",
+        "margin": 20186,
+        "margin_pct": 18.57550381890126,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "11": {
+        "dem_votes": 36816,
+        "rep_votes": 64886,
+        "other_votes": 2575,
+        "total_votes": 104277,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Eric Hovde",
+        "margin": 28070,
+        "margin_pct": 26.919093437330172,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "12": {
+        "dem_votes": 40390,
+        "rep_votes": 69129,
+        "other_votes": 2603,
+        "total_votes": 112122,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Eric Hovde",
+        "margin": 28739,
+        "margin_pct": 25.631900965020243,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "13": {
+        "dem_votes": 33336,
+        "rep_votes": 60425,
+        "other_votes": 2281,
+        "total_votes": 96042,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Eric Hovde",
+        "margin": 27089,
+        "margin_pct": 28.205368484621314,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "14": {
+        "dem_votes": 54235,
+        "rep_votes": 48681,
+        "other_votes": 2277,
+        "total_votes": 105192,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Eric Hovde",
+        "margin": -5554,
+        "margin_pct": -5.280081754877962,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "15": {
+        "dem_votes": 49506,
+        "rep_votes": 39820,
+        "other_votes": 2340,
+        "total_votes": 91666,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Eric Hovde",
+        "margin": -9686,
+        "margin_pct": -10.566622302707657,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "16": {
+        "dem_votes": 73861,
+        "rep_votes": 38269,
+        "other_votes": 1886,
+        "total_votes": 114016,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Eric Hovde",
+        "margin": -35592,
+        "margin_pct": -31.216881330462382,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "17": {
+        "dem_votes": 53176,
+        "rep_votes": 48391,
+        "other_votes": 2121,
+        "total_votes": 103688,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Eric Hovde",
+        "margin": -4785,
+        "margin_pct": -4.61480595633053,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "18": {
+        "dem_votes": 44125,
+        "rep_votes": 36666,
+        "other_votes": 2421,
+        "total_votes": 83212,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Eric Hovde",
+        "margin": -7459,
+        "margin_pct": -8.964198765999589,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "19": {
+        "dem_votes": 40378,
+        "rep_votes": 65772,
+        "other_votes": 2660,
+        "total_votes": 108810,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Eric Hovde",
+        "margin": 25395,
+        "margin_pct": 23.338404848435832,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "2": {
+        "dem_votes": 39930,
+        "rep_votes": 66804,
+        "other_votes": 2641,
+        "total_votes": 109374,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Eric Hovde",
+        "margin": 26874,
+        "margin_pct": 24.571083753525716,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "20": {
+        "dem_votes": 34744,
+        "rep_votes": 70951,
+        "other_votes": 2213,
+        "total_votes": 107908,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Eric Hovde",
+        "margin": 36207,
+        "margin_pct": 33.55358268154354,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "21": {
+        "dem_votes": 43568,
+        "rep_votes": 40899,
+        "other_votes": 1948,
+        "total_votes": 86416,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Eric Hovde",
+        "margin": -2670,
+        "margin_pct": -3.0891448872019485,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "22": {
+        "dem_votes": 45712,
+        "rep_votes": 37306,
+        "other_votes": 2386,
+        "total_votes": 85404,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Eric Hovde",
+        "margin": -8406,
+        "margin_pct": -9.842982206211232,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "23": {
+        "dem_votes": 31833,
+        "rep_votes": 63064,
+        "other_votes": 2662,
+        "total_votes": 97558,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Eric Hovde",
+        "margin": 31231,
+        "margin_pct": 32.01227981160022,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "24": {
+        "dem_votes": 43670,
+        "rep_votes": 52657,
+        "other_votes": 2576,
+        "total_votes": 98903,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Eric Hovde",
+        "margin": 8987,
+        "margin_pct": 9.086680889356238,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "25": {
+        "dem_votes": 47458,
+        "rep_votes": 58985,
+        "other_votes": 2646,
+        "total_votes": 109089,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Eric Hovde",
+        "margin": 11527,
+        "margin_pct": 10.566601582194355,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "26": {
+        "dem_votes": 91244,
+        "rep_votes": 16275,
+        "other_votes": 1382,
+        "total_votes": 108901,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Eric Hovde",
+        "margin": -74970,
+        "margin_pct": -68.84203695711395,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "27": {
+        "dem_votes": 88360,
+        "rep_votes": 26628,
+        "other_votes": 1436,
+        "total_votes": 116424,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Eric Hovde",
+        "margin": -61732,
+        "margin_pct": -53.02343159486017,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "28": {
+        "dem_votes": 43212,
+        "rep_votes": 68742,
+        "other_votes": 1976,
+        "total_votes": 113930,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Eric Hovde",
+        "margin": 25530,
+        "margin_pct": 22.408633390312897,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "29": {
+        "dem_votes": 41543,
+        "rep_votes": 58366,
+        "other_votes": 2267,
+        "total_votes": 102176,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Eric Hovde",
+        "margin": 16823,
+        "margin_pct": 16.46472752896962,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "3": {
+        "dem_votes": 44989,
+        "rep_votes": 21760,
+        "other_votes": 1855,
+        "total_votes": 68604,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Eric Hovde",
+        "margin": -23229,
+        "margin_pct": -33.8595417176841,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "30": {
+        "dem_votes": 45782,
+        "rep_votes": 41031,
+        "other_votes": 2237,
+        "total_votes": 89050,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Eric Hovde",
+        "margin": -4751,
+        "margin_pct": -5.335204941044357,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "31": {
+        "dem_votes": 51560,
+        "rep_votes": 47082,
+        "other_votes": 2359,
+        "total_votes": 101000,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Eric Hovde",
+        "margin": -4479,
+        "margin_pct": -4.434334483492653,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "32": {
+        "dem_votes": 52619,
+        "rep_votes": 47028,
+        "other_votes": 2350,
+        "total_votes": 101997,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Eric Hovde",
+        "margin": -5591,
+        "margin_pct": -5.4815337706010965,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "33": {
+        "dem_votes": 39907,
+        "rep_votes": 83608,
+        "other_votes": 1926,
+        "total_votes": 125441,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Eric Hovde",
+        "margin": 43700,
+        "margin_pct": 34.8374933235545,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "4": {
+        "dem_votes": 69332,
+        "rep_votes": 12348,
+        "other_votes": 1718,
+        "total_votes": 83398,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Eric Hovde",
+        "margin": -56984,
+        "margin_pct": -68.32777764454782,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "5": {
+        "dem_votes": 53636,
+        "rep_votes": 48255,
+        "other_votes": 1808,
+        "total_votes": 103700,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Eric Hovde",
+        "margin": -5382,
+        "margin_pct": -5.189597853418167,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "6": {
+        "dem_votes": 68329,
+        "rep_votes": 13241,
+        "other_votes": 1838,
+        "total_votes": 83408,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Eric Hovde",
+        "margin": -55088,
+        "margin_pct": -66.04642240552465,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "7": {
+        "dem_votes": 53241,
+        "rep_votes": 31707,
+        "other_votes": 2278,
+        "total_votes": 87226,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Eric Hovde",
+        "margin": -21534,
+        "margin_pct": -24.68759314883177,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "8": {
+        "dem_votes": 59036,
+        "rep_votes": 57992,
+        "other_votes": 1712,
+        "total_votes": 118741,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Eric Hovde",
+        "margin": -1044,
+        "margin_pct": -0.8788034461559192,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "9": {
+        "dem_votes": 41862,
+        "rep_votes": 55881,
+        "other_votes": 2388,
+        "total_votes": 100131,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Eric Hovde",
+        "margin": 14019,
+        "margin_pct": 14.000659136531143,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      }
+    }
+  }
+}

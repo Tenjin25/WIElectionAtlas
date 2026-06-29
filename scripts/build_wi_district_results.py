@@ -4,6 +4,7 @@ import csv
 import json
 import math
 import re
+import sys
 from collections import defaultdict
 from pathlib import Path
 
@@ -34,6 +35,9 @@ REP_PARTIES = {"REP"}
 NONPARTISAN_ALIGNMENT = {
     ("2005", "supreme court"): {
         "Ann W. Bradley": "dem",
+    },
+    ("2006", "supreme court"): {
+        "Patrick Crooks": "rep",
     },
     ("2005", "state superintendent of public instruction"): {
         "Elizabeth Burmaster": "dem",
@@ -75,6 +79,9 @@ NONPARTISAN_ALIGNMENT = {
     ("2016", "supreme court"): {
         "JoAnne F. Kloppenburg": "dem",
         "Rebecca G. Bradley": "rep",
+    },
+    ("2017", "supreme court"): {
+        "Annette Ziegler": "rep",
     },
     ("2017", "state superintendent of public instruction"): {
         "Tony Evers": "dem",
@@ -432,10 +439,35 @@ def write_slice_dir(out_dir: Path, results_by_year: dict[str, dict[str, dict[str
         for scope, contests in scopes.items():
             for contest_type, payload in contests.items():
                 filename = f"{scope}_{contest_type}_{year}.json"
-                (out_dir / filename).write_text(json.dumps(payload), encoding="utf-8")
+                (out_dir / filename).write_text(json.dumps(payload, indent=2), encoding="utf-8")
+
+
+def copy_scope_slices(
+    out_dir: Path,
+    results_by_year: dict[str, dict[str, dict[str, dict[str, object]]]],
+    scope_filter: str,
+) -> None:
+    out_dir.mkdir(parents=True, exist_ok=True)
+    for year, scopes in results_by_year.items():
+        contests = scopes.get(scope_filter) or {}
+        for contest_type, payload in contests.items():
+            filename = f"{scope_filter}_{contest_type}_{year}.json"
+            (out_dir / filename).write_text(json.dumps(payload), encoding="utf-8")
+
+
+def parse_requested_scopes(argv: list[str]) -> set[str] | None:
+    requested = {arg.strip().lower() for arg in argv[1:] if arg.strip()}
+    if not requested:
+        return None
+    valid = {"congressional", "state_house", "state_senate"}
+    chosen = requested & valid
+    if not chosen:
+        raise SystemExit(f"Expected optional scope arguments from {sorted(valid)}, got: {sorted(requested)}")
+    return chosen
 
 
 def main() -> None:
+    requested_scopes = parse_requested_scopes(sys.argv)
     precincts_by_county, _ = build_precinct_records()
     precinct_lookup_by_kind, precinct_lookup_by_any_kind = build_precinct_lookup(precincts_by_county)
     district_assignments = build_district_assignment_by_scope_year(precincts_by_county)
@@ -498,6 +530,8 @@ def main() -> None:
                 share = 1.0 / len(matched_precincts)
 
                 for scope in ("congressional", "state_house", "state_senate"):
+                    if requested_scopes and scope not in requested_scopes:
+                        continue
                     lines_year = "2024" if (scope != "congressional" and int(year) >= 2024) else "2022"
                     district_cache_key = (lines_year, scope, county_norm, ward_label)
                     district_share_by_num = row_district_cache.get(district_cache_key)
@@ -561,9 +595,11 @@ def main() -> None:
         },
         "results_by_year": results_2022,
     }
-    OUT_2022_JSON.write_text(json.dumps(out_2022_payload), encoding="utf-8")
+    OUT_2022_JSON.write_text(json.dumps(out_2022_payload, indent=2), encoding="utf-8")
     write_slice_dir(OUT_2022_DIR, results_2022)
     write_slice_dir(OUT_2024_DIR, results_2024)
+    if not requested_scopes or "congressional" in requested_scopes:
+        copy_scope_slices(OUT_2024_DIR, results_2022, "congressional")
     print(f"Wrote {OUT_2022_JSON}")
     print(f"Matched rows: {matched_rows}")
     print(f"Unmatched rows: {unmatched_rows}")

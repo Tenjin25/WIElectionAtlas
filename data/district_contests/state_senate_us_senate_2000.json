@@ -1,0 +1,468 @@
+{
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 33875,
+        "rep_votes": 28408,
+        "other_votes": 804,
+        "total_votes": 63087,
+        "dem_candidate": "Herbert H. Kohl",
+        "rep_candidate": "John Gillespie",
+        "margin": -5466,
+        "margin_pct": -8.665018149539524,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "10": {
+        "dem_votes": 29241,
+        "rep_votes": 20601,
+        "other_votes": 1309,
+        "total_votes": 51151,
+        "dem_candidate": "Herbert H. Kohl",
+        "rep_candidate": "John Gillespie",
+        "margin": -8640,
+        "margin_pct": -16.891165373110987,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "11": {
+        "dem_votes": 38257,
+        "rep_votes": 27059,
+        "other_votes": 1239,
+        "total_votes": 66556,
+        "dem_candidate": "Herbert H. Kohl",
+        "rep_candidate": "John Gillespie",
+        "margin": -11198,
+        "margin_pct": -16.825013647723456,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "12": {
+        "dem_votes": 38150,
+        "rep_votes": 21524,
+        "other_votes": 1000,
+        "total_votes": 60674,
+        "dem_candidate": "Herbert H. Kohl",
+        "rep_candidate": "John Gillespie",
+        "margin": -16626,
+        "margin_pct": -27.402182153805583,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "13": {
+        "dem_votes": 33840,
+        "rep_votes": 26959,
+        "other_votes": 831,
+        "total_votes": 61630,
+        "dem_candidate": "Herbert H. Kohl",
+        "rep_candidate": "John Gillespie",
+        "margin": -6881,
+        "margin_pct": -11.165300597114571,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "14": {
+        "dem_votes": 31388,
+        "rep_votes": 26986,
+        "other_votes": 700,
+        "total_votes": 59074,
+        "dem_candidate": "Herbert H. Kohl",
+        "rep_candidate": "John Gillespie",
+        "margin": -4402,
+        "margin_pct": -7.4516707857940885,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "15": {
+        "dem_votes": 51199,
+        "rep_votes": 19849,
+        "other_votes": 1112,
+        "total_votes": 72159,
+        "dem_candidate": "Herbert H. Kohl",
+        "rep_candidate": "John Gillespie",
+        "margin": -31350,
+        "margin_pct": -43.44552333262502,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "16": {
+        "dem_votes": 74523,
+        "rep_votes": 20294,
+        "other_votes": 2204,
+        "total_votes": 97022,
+        "dem_candidate": "Herbert H. Kohl",
+        "rep_candidate": "John Gillespie",
+        "margin": -54230,
+        "margin_pct": -55.89431208546559,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "17": {
+        "dem_votes": 31775,
+        "rep_votes": 17754,
+        "other_votes": 502,
+        "total_votes": 50031,
+        "dem_candidate": "Herbert H. Kohl",
+        "rep_candidate": "John Gillespie",
+        "margin": -14021,
+        "margin_pct": -28.02462473266575,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "18": {
+        "dem_votes": 38052,
+        "rep_votes": 29364,
+        "other_votes": 1041,
+        "total_votes": 68457,
+        "dem_candidate": "Herbert H. Kohl",
+        "rep_candidate": "John Gillespie",
+        "margin": -8688,
+        "margin_pct": -12.691543596710344,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "19": {
+        "dem_votes": 31151,
+        "rep_votes": 34435,
+        "other_votes": 1038,
+        "total_votes": 66624,
+        "dem_candidate": "Herbert H. Kohl",
+        "rep_candidate": "John Gillespie",
+        "margin": 3284,
+        "margin_pct": 4.929154658981749,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "2": {
+        "dem_votes": 34444,
+        "rep_votes": 30136,
+        "other_votes": 778,
+        "total_votes": 65358,
+        "dem_candidate": "Herbert H. Kohl",
+        "rep_candidate": "John Gillespie",
+        "margin": -4309,
+        "margin_pct": -6.592868563385022,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "20": {
+        "dem_votes": 32988,
+        "rep_votes": 38576,
+        "other_votes": 818,
+        "total_votes": 72382,
+        "dem_candidate": "Herbert H. Kohl",
+        "rep_candidate": "John Gillespie",
+        "margin": 5588,
+        "margin_pct": 7.720151418861043,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "21": {
+        "dem_votes": 39616,
+        "rep_votes": 30533,
+        "other_votes": 841,
+        "total_votes": 70990,
+        "dem_candidate": "Herbert H. Kohl",
+        "rep_candidate": "John Gillespie",
+        "margin": -9084,
+        "margin_pct": -12.795698924731186,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "22": {
+        "dem_votes": 47643,
+        "rep_votes": 19241,
+        "other_votes": 983,
+        "total_votes": 67867,
+        "dem_candidate": "Herbert H. Kohl",
+        "rep_candidate": "John Gillespie",
+        "margin": -28402,
+        "margin_pct": -41.84949975687742,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "23": {
+        "dem_votes": 38774,
+        "rep_votes": 18664,
+        "other_votes": 893,
+        "total_votes": 58331,
+        "dem_candidate": "Herbert H. Kohl",
+        "rep_candidate": "John Gillespie",
+        "margin": -20109,
+        "margin_pct": -34.475006202673356,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "24": {
+        "dem_votes": 43325,
+        "rep_votes": 21632,
+        "other_votes": 1083,
+        "total_votes": 66040,
+        "dem_candidate": "Herbert H. Kohl",
+        "rep_candidate": "John Gillespie",
+        "margin": -21693,
+        "margin_pct": -32.84827377347062,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "25": {
+        "dem_votes": 36086,
+        "rep_votes": 15326,
+        "other_votes": 664,
+        "total_votes": 52076,
+        "dem_candidate": "Herbert H. Kohl",
+        "rep_candidate": "John Gillespie",
+        "margin": -20760,
+        "margin_pct": -39.864812965665564,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "26": {
+        "dem_votes": 45661,
+        "rep_votes": 11066,
+        "other_votes": 1081,
+        "total_votes": 57808,
+        "dem_candidate": "Herbert H. Kohl",
+        "rep_candidate": "John Gillespie",
+        "margin": -34595,
+        "margin_pct": -59.84465817879878,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "27": {
+        "dem_votes": 38620,
+        "rep_votes": 16026,
+        "other_votes": 719,
+        "total_votes": 55365,
+        "dem_candidate": "Herbert H. Kohl",
+        "rep_candidate": "John Gillespie",
+        "margin": -22594,
+        "margin_pct": -40.80997849329189,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "28": {
+        "dem_votes": 45049,
+        "rep_votes": 36511,
+        "other_votes": 838,
+        "total_votes": 82398,
+        "dem_candidate": "Herbert H. Kohl",
+        "rep_candidate": "John Gillespie",
+        "margin": -8538,
+        "margin_pct": -10.361731155684868,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "29": {
+        "dem_votes": 38792,
+        "rep_votes": 19698,
+        "other_votes": 866,
+        "total_votes": 59356,
+        "dem_candidate": "Herbert H. Kohl",
+        "rep_candidate": "John Gillespie",
+        "margin": -19094,
+        "margin_pct": -32.168898710286406,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "3": {
+        "dem_votes": 46896,
+        "rep_votes": 17962,
+        "other_votes": 990,
+        "total_votes": 65848,
+        "dem_candidate": "Herbert H. Kohl",
+        "rep_candidate": "John Gillespie",
+        "margin": -28934,
+        "margin_pct": -43.94059045073503,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "30": {
+        "dem_votes": 37690,
+        "rep_votes": 25710,
+        "other_votes": 940,
+        "total_votes": 64340,
+        "dem_candidate": "Herbert H. Kohl",
+        "rep_candidate": "John Gillespie",
+        "margin": -11981,
+        "margin_pct": -18.621241675150177,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "31": {
+        "dem_votes": 40305,
+        "rep_votes": 18125,
+        "other_votes": 1146,
+        "total_votes": 59576,
+        "dem_candidate": "Herbert H. Kohl",
+        "rep_candidate": "John Gillespie",
+        "margin": -22180,
+        "margin_pct": -37.230129955388456,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "32": {
+        "dem_votes": 45371,
+        "rep_votes": 19616,
+        "other_votes": 857,
+        "total_votes": 65844,
+        "dem_candidate": "Herbert H. Kohl",
+        "rep_candidate": "John Gillespie",
+        "margin": -25755,
+        "margin_pct": -39.115181337707305,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "33": {
+        "dem_votes": 37792,
+        "rep_votes": 42951,
+        "other_votes": 907,
+        "total_votes": 81650,
+        "dem_candidate": "Herbert H. Kohl",
+        "rep_candidate": "John Gillespie",
+        "margin": 5159,
+        "margin_pct": 6.3178070671421445,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "4": {
+        "dem_votes": 67323,
+        "rep_votes": 15266,
+        "other_votes": 1323,
+        "total_votes": 83912,
+        "dem_candidate": "Herbert H. Kohl",
+        "rep_candidate": "John Gillespie",
+        "margin": -52057,
+        "margin_pct": -62.03761083039374,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "5": {
+        "dem_votes": 47592,
+        "rep_votes": 45253,
+        "other_votes": 918,
+        "total_votes": 93762,
+        "dem_candidate": "Herbert H. Kohl",
+        "rep_candidate": "John Gillespie",
+        "margin": -2338,
+        "margin_pct": -2.49406745767231,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "6": {
+        "dem_votes": 60854,
+        "rep_votes": 19430,
+        "other_votes": 1010,
+        "total_votes": 81294,
+        "dem_candidate": "Herbert H. Kohl",
+        "rep_candidate": "John Gillespie",
+        "margin": -41424,
+        "margin_pct": -50.95579009520998,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "7": {
+        "dem_votes": 50278,
+        "rep_votes": 19882,
+        "other_votes": 815,
+        "total_votes": 70974,
+        "dem_candidate": "Herbert H. Kohl",
+        "rep_candidate": "John Gillespie",
+        "margin": -30396,
+        "margin_pct": -42.82609537966234,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "8": {
+        "dem_votes": 44340,
+        "rep_votes": 43350,
+        "other_votes": 778,
+        "total_votes": 88468,
+        "dem_candidate": "Herbert H. Kohl",
+        "rep_candidate": "John Gillespie",
+        "margin": -990,
+        "margin_pct": -1.1190444791921863,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "9": {
+        "dem_votes": 44469,
+        "rep_votes": 32512,
+        "other_votes": 964,
+        "total_votes": 77945,
+        "dem_candidate": "Herbert H. Kohl",
+        "rep_candidate": "John Gillespie",
+        "margin": -11957,
+        "margin_pct": -15.340304060555521,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      }
+    }
+  }
+}

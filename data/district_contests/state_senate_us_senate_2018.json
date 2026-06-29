@@ -1,0 +1,468 @@
+{
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 42121,
+        "rep_votes": 43256,
+        "other_votes": 65,
+        "total_votes": 85442,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Leah Vukmir",
+        "margin": 1135,
+        "margin_pct": 1.328194034538128,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "10": {
+        "dem_votes": 35786,
+        "rep_votes": 38728,
+        "other_votes": 32,
+        "total_votes": 74546,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Leah Vukmir",
+        "margin": 2942,
+        "margin_pct": 3.946556488611059,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "11": {
+        "dem_votes": 38212,
+        "rep_votes": 38333,
+        "other_votes": 111,
+        "total_votes": 76656,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Leah Vukmir",
+        "margin": 121,
+        "margin_pct": 0.15784736203575267,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "12": {
+        "dem_votes": 38260,
+        "rep_votes": 47128,
+        "other_votes": 65,
+        "total_votes": 85453,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Leah Vukmir",
+        "margin": 8868,
+        "margin_pct": 10.377634489134378,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "13": {
+        "dem_votes": 38787,
+        "rep_votes": 43241,
+        "other_votes": 56,
+        "total_votes": 82085,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Leah Vukmir",
+        "margin": 4454,
+        "margin_pct": 5.426104753628359,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "14": {
+        "dem_votes": 36151,
+        "rep_votes": 40240,
+        "other_votes": 65,
+        "total_votes": 76456,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Leah Vukmir",
+        "margin": 4089,
+        "margin_pct": 5.348174113215444,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "15": {
+        "dem_votes": 51195,
+        "rep_votes": 26655,
+        "other_votes": 91,
+        "total_votes": 77941,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Leah Vukmir",
+        "margin": -24540,
+        "margin_pct": -31.485488961688805,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "16": {
+        "dem_votes": 69236,
+        "rep_votes": 18956,
+        "other_votes": 134,
+        "total_votes": 88326,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Leah Vukmir",
+        "margin": -50280,
+        "margin_pct": -56.92459227978013,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "17": {
+        "dem_votes": 39553,
+        "rep_votes": 32254,
+        "other_votes": 33,
+        "total_votes": 71840,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Leah Vukmir",
+        "margin": -7299,
+        "margin_pct": -10.160077951002227,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "18": {
+        "dem_votes": 34389,
+        "rep_votes": 34659,
+        "other_votes": 88,
+        "total_votes": 69137,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Leah Vukmir",
+        "margin": 270,
+        "margin_pct": 0.3901687597406589,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "19": {
+        "dem_votes": 41559,
+        "rep_votes": 37523,
+        "other_votes": 54,
+        "total_votes": 79136,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Leah Vukmir",
+        "margin": -4036,
+        "margin_pct": -5.100080873433077,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "2": {
+        "dem_votes": 37041,
+        "rep_votes": 42174,
+        "other_votes": 66,
+        "total_votes": 79281,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Leah Vukmir",
+        "margin": 5133,
+        "margin_pct": 6.474439020698528,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "20": {
+        "dem_votes": 31839,
+        "rep_votes": 58213,
+        "other_votes": 49,
+        "total_votes": 90101,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Leah Vukmir",
+        "margin": 26374,
+        "margin_pct": 29.271595209820088,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "21": {
+        "dem_votes": 38733,
+        "rep_votes": 45978,
+        "other_votes": 126,
+        "total_votes": 84837,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Leah Vukmir",
+        "margin": 7245,
+        "margin_pct": 8.540131616945894,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "22": {
+        "dem_votes": 42962,
+        "rep_votes": 21129,
+        "other_votes": 115,
+        "total_votes": 64206,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Leah Vukmir",
+        "margin": -21833,
+        "margin_pct": -34.00461016104414,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "23": {
+        "dem_votes": 35979,
+        "rep_votes": 36288,
+        "other_votes": 24,
+        "total_votes": 72291,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Leah Vukmir",
+        "margin": 309,
+        "margin_pct": 0.4271268445030796,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "24": {
+        "dem_votes": 41449,
+        "rep_votes": 37712,
+        "other_votes": 88,
+        "total_votes": 79249,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Leah Vukmir",
+        "margin": -3737,
+        "margin_pct": -4.715516915039938,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "25": {
+        "dem_votes": 42126,
+        "rep_votes": 36451,
+        "other_votes": 31,
+        "total_votes": 78608,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Leah Vukmir",
+        "margin": -5675,
+        "margin_pct": -7.219366985548545,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "26": {
+        "dem_votes": 83285,
+        "rep_votes": 13527,
+        "other_votes": 156,
+        "total_votes": 96968,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Leah Vukmir",
+        "margin": -69758,
+        "margin_pct": -71.93919643593762,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "27": {
+        "dem_votes": 65017,
+        "rep_votes": 28752,
+        "other_votes": 86,
+        "total_votes": 93855,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Leah Vukmir",
+        "margin": -36265,
+        "margin_pct": -38.638926427159674,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "28": {
+        "dem_votes": 38541,
+        "rep_votes": 50709,
+        "other_votes": 131,
+        "total_votes": 89381,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Leah Vukmir",
+        "margin": 12168,
+        "margin_pct": 13.613423002006014,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "29": {
+        "dem_votes": 36977,
+        "rep_votes": 42225,
+        "other_votes": 81,
+        "total_votes": 79283,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Leah Vukmir",
+        "margin": 5248,
+        "margin_pct": 6.619409942621333,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "3": {
+        "dem_votes": 35801,
+        "rep_votes": 13859,
+        "other_votes": 116,
+        "total_votes": 49776,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Leah Vukmir",
+        "margin": -21942,
+        "margin_pct": -44.08148505303761,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "30": {
+        "dem_votes": 35950,
+        "rep_votes": 33296,
+        "other_votes": 96,
+        "total_votes": 69342,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Leah Vukmir",
+        "margin": -2654,
+        "margin_pct": -3.8274061896109144,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "31": {
+        "dem_votes": 44100,
+        "rep_votes": 33091,
+        "other_votes": 70,
+        "total_votes": 77261,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Leah Vukmir",
+        "margin": -11009,
+        "margin_pct": -14.248945132075752,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "32": {
+        "dem_votes": 48745,
+        "rep_votes": 31515,
+        "other_votes": 8,
+        "total_votes": 80268,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Leah Vukmir",
+        "margin": -17230,
+        "margin_pct": -21.465590272586834,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "33": {
+        "dem_votes": 35501,
+        "rep_votes": 58352,
+        "other_votes": 123,
+        "total_votes": 93976,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Leah Vukmir",
+        "margin": 22852,
+        "margin_pct": 24.31639242910667,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "4": {
+        "dem_votes": 61200,
+        "rep_votes": 10566,
+        "other_votes": 104,
+        "total_votes": 71870,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Leah Vukmir",
+        "margin": -50634,
+        "margin_pct": -70.45290107137888,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "5": {
+        "dem_votes": 46057,
+        "rep_votes": 49975,
+        "other_votes": 174,
+        "total_votes": 96207,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Leah Vukmir",
+        "margin": 3918,
+        "margin_pct": 4.072477205353469,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "6": {
+        "dem_votes": 61370,
+        "rep_votes": 9525,
+        "other_votes": 120,
+        "total_votes": 71015,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Leah Vukmir",
+        "margin": -51845,
+        "margin_pct": -73.00570302048864,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "7": {
+        "dem_votes": 57724,
+        "rep_votes": 28611,
+        "other_votes": 200,
+        "total_votes": 86535,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Leah Vukmir",
+        "margin": -29113,
+        "margin_pct": -33.6430346102733,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "8": {
+        "dem_votes": 45423,
+        "rep_votes": 54619,
+        "other_votes": 100,
+        "total_votes": 100142,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Leah Vukmir",
+        "margin": 9196,
+        "margin_pct": 9.182914347055446,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "9": {
+        "dem_votes": 36589,
+        "rep_votes": 42276,
+        "other_votes": 93,
+        "total_votes": 78958,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Leah Vukmir",
+        "margin": 5687,
+        "margin_pct": 7.202563388130398,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      }
+    }
+  }
+}

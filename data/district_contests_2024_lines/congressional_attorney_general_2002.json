@@ -1,0 +1,118 @@
+{
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 99454,
+        "rep_votes": 92263,
+        "other_votes": 127,
+        "total_votes": 191843,
+        "dem_candidate": "Peggy A. Lautenschlager",
+        "rep_candidate": "Vince Biskupic",
+        "margin": -7191,
+        "margin_pct": -3.7481173238080907,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "2": {
+        "dem_votes": 132405,
+        "rep_votes": 68785,
+        "other_votes": 186,
+        "total_votes": 201377,
+        "dem_candidate": "Peggy A. Lautenschlager",
+        "rep_candidate": "Vince Biskupic",
+        "margin": -63620,
+        "margin_pct": -31.592757373560787,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "3": {
+        "dem_votes": 96662,
+        "rep_votes": 76286,
+        "other_votes": 234,
+        "total_votes": 173182,
+        "dem_candidate": "Peggy A. Lautenschlager",
+        "rep_candidate": "Vince Biskupic",
+        "margin": -20376,
+        "margin_pct": -11.765784311036494,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "4": {
+        "dem_votes": 122533,
+        "rep_votes": 71312,
+        "other_votes": 370,
+        "total_votes": 194215,
+        "dem_candidate": "Peggy A. Lautenschlager",
+        "rep_candidate": "Vince Biskupic",
+        "margin": -51221,
+        "margin_pct": -26.373349123394174,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "5": {
+        "dem_votes": 80428,
+        "rep_votes": 150772,
+        "other_votes": 133,
+        "total_votes": 231333,
+        "dem_candidate": "Peggy A. Lautenschlager",
+        "rep_candidate": "Vince Biskupic",
+        "margin": 70344,
+        "margin_pct": 30.40811297998988,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "6": {
+        "dem_votes": 97688,
+        "rep_votes": 110844,
+        "other_votes": 108,
+        "total_votes": 208639,
+        "dem_candidate": "Peggy A. Lautenschlager",
+        "rep_candidate": "Vince Biskupic",
+        "margin": 13156,
+        "margin_pct": 6.305860474479275,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "7": {
+        "dem_votes": 90213,
+        "rep_votes": 79005,
+        "other_votes": 107,
+        "total_votes": 169325,
+        "dem_candidate": "Peggy A. Lautenschlager",
+        "rep_candidate": "Vince Biskupic",
+        "margin": -11208,
+        "margin_pct": -6.619085514669297,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "8": {
+        "dem_votes": 81858,
+        "rep_votes": 99017,
+        "other_votes": 161,
+        "total_votes": 181037,
+        "dem_candidate": "Peggy A. Lautenschlager",
+        "rep_candidate": "Vince Biskupic",
+        "margin": 17158,
+        "margin_pct": 9.477909871890652,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      }
+    }
+  }
+}

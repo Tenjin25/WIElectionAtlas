@@ -10159,6 +10159,82 @@ document.addEventListener('DOMContentLoaded', function() {
       return base ? `${base}/${cleaned}` : cleaned;
     }
 
+    const DISTRICT_SLICE_FILE_SPEC_BY_LINES = {
+      '2022': {
+        congressional: {
+          attorney_general: [2002, 2006, 2010, 2014, 2018, 2022],
+          governor: [2002, 2006, 2010, 2014, 2018, 2022],
+          presidential: [2000, 2004, 2008, 2012, 2016, 2020, 2024],
+          state_supreme_court: [2005, 2006, 2007, 2008, 2009, 2011, 2013, 2015, 2016, 2017, 2018, 2019, 2020, 2025, 2026],
+          superintendent: [2005, 2009, 2013, 2017, 2021, 2025],
+          treasurer: [2002, 2006, 2010, 2014, 2018, 2022],
+          us_senate: [2000, 2004, 2006, 2010, 2012, 2016, 2018, 2022, 2024]
+        },
+        state_house: {
+          attorney_general: [2002, 2006, 2010, 2014, 2018, 2022],
+          governor: [2002, 2006, 2010, 2014, 2018, 2022],
+          presidential: [2000, 2004, 2008, 2012, 2016, 2020],
+          state_supreme_court: [2005, 2006, 2007, 2008, 2009, 2011, 2013, 2015, 2016, 2017, 2018, 2019, 2020],
+          superintendent: [2005, 2009, 2013, 2017, 2021],
+          treasurer: [2002, 2006, 2010, 2014, 2018, 2022],
+          us_senate: [2000, 2004, 2006, 2010, 2012, 2016, 2018, 2022]
+        },
+        state_senate: {
+          attorney_general: [2002, 2006, 2010, 2014, 2018, 2022],
+          governor: [2002, 2006, 2010, 2014, 2018, 2022],
+          presidential: [2000, 2004, 2008, 2012, 2016, 2020],
+          state_supreme_court: [2005, 2006, 2007, 2008, 2009, 2011, 2013, 2015, 2016, 2017, 2018, 2019, 2020],
+          superintendent: [2005, 2009, 2013, 2017, 2021],
+          treasurer: [2002, 2006, 2010, 2014, 2018, 2022],
+          us_senate: [2000, 2004, 2006, 2010, 2012, 2016, 2018, 2022]
+        }
+      },
+      '2024': {
+        state_house: {
+          presidential: [2024],
+          state_supreme_court: [2025, 2026],
+          superintendent: [2025],
+          us_senate: [2024]
+        },
+        state_senate: {
+          presidential: [2024],
+          state_supreme_court: [2025, 2026],
+          superintendent: [2025],
+          us_senate: [2024]
+        }
+      },
+      '2026': {
+        congressional: {
+          attorney_general: [2002, 2006, 2010, 2014, 2018, 2022],
+          governor: [2002, 2006, 2010, 2014, 2018, 2022],
+          presidential: [2000, 2004, 2008, 2012, 2016, 2020, 2024],
+          state_supreme_court: [2005, 2006, 2007, 2008, 2009, 2011, 2013, 2015, 2016, 2017, 2018, 2019, 2020, 2025, 2026],
+          superintendent: [2005, 2009, 2013, 2017, 2021, 2025],
+          treasurer: [2002, 2006, 2010, 2014, 2018, 2022],
+          us_senate: [2000, 2004, 2006, 2010, 2012, 2016, 2018, 2022, 2024]
+        }
+      }
+    };
+
+    function buildKnownDistrictManifest(linesYear) {
+      const spec = DISTRICT_SLICE_FILE_SPEC_BY_LINES[String(normalizeDistrictLinesYear(linesYear))] || {};
+      const entries = [];
+      Object.entries(spec).forEach(([scope, contests]) => {
+        Object.entries(contests || {}).forEach(([contestType, years]) => {
+          (Array.isArray(years) ? years : []).forEach((year) => {
+            entries.push({
+              scope,
+              contest_type: contestType,
+              year: Number(year),
+              file: `${scope}_${contestType}_${year}.json`,
+              rows: 1
+            });
+          });
+        });
+      });
+      return entries;
+    }
+
     function toAbsoluteUrl(path) {
       const p = (path || '').toString().trim();
       if (!p) return p;
@@ -10206,9 +10282,9 @@ document.addEventListener('DOMContentLoaded', function() {
         counties: withBase('./data/tiger/tl_2020_55_county20.geojson'),
         precincts: withBase('./data/tiger/tl_2020_55_vtd20.geojson'),
         precincts_fallback_vtd20: withBase('./data/tiger/tl_2020_55_vtd20.geojson'),
-        precinct_centroids: withBase('./data/precinct_centroids.geojson'),
-        precinct_aliases: withBase('./data/precinct_alias_index.json'),
-        precinct_friendly_names: withBase('./data/precinct_friendly_names.json'),
+        precinct_centroids: '',
+        precinct_aliases: '',
+        precinct_friendly_names: '',
         precinct_variant_overrides: withBase('./data/mappings/precinct_variant_overrides.json'),
         districts: withBase('./data/tiger/tl_2022_55_cd118.geojson'),
         districts_2022: withBase('./data/tiger/tl_2022_55_cd118.geojson'),
@@ -10220,35 +10296,35 @@ document.addEventListener('DOMContentLoaded', function() {
         state_senate: withBase('./data/tiger/tl_2022_55_sldu.geojson'),
         state_senate_2022: withBase('./data/tiger/tl_2022_55_sldu.geojson'),
         state_senate_2024: withBase('./data/tiger/tl_2024_55_sldu.geojson'),
-        county_demographics: withBase('./data/county_demographics_2020_dp1.json'),
-        county_population_estimates: withBase('./data/CO-EST2025-POP-55-clean.csv'),
-        precinct_demographics: withBase('./data/precinct_demographics_2020_vap.csv'),
+        county_demographics: '',
+        county_population_estimates: '',
+        precinct_demographics: '',
         cvap_aggregates: {
-          county_2020: withBase('./data/cvap_aggregates/county_2020__cvap24.csv'),
-          precinct_2020: withBase('./data/cvap_aggregates/precinct_2020__cvap24.csv'),
-          cd118_2022: withBase('./data/cvap_aggregates/cd118_2022_lines__cvap24.csv'),
-          cd119_2024: withBase('./data/cvap_aggregates/cd119_2024_lines__cvap24.csv'),
-          state_house_2022: withBase('./data/cvap_aggregates/state_house_2022_lines__cvap24.csv'),
-          state_house_2024: withBase('./data/cvap_aggregates/state_house_2024_lines__cvap24.csv'),
-          state_senate_2022: withBase('./data/cvap_aggregates/state_senate_2022_lines__cvap24.csv'),
-          state_senate_2024: withBase('./data/cvap_aggregates/state_senate_2024_lines__cvap24.csv')
+          county_2020: '',
+          precinct_2020: '',
+          cd118_2022: '',
+          cd119_2024: '',
+          state_house_2022: '',
+          state_house_2024: '',
+          state_senate_2022: '',
+          state_senate_2024: ''
         },
         election: withBase('./data/wi_elections_aggregated.json'),
         district_election: withBase('./data/wi_district_results_2022_lines.json'),
         district_contests_dir: withBase('./data/district_contests'),
-        district_contests_2020_2024_dir: withBase('./data/district_contests_2020_2024'),
+        district_contests_2020_2024_dir: '',
         district_contests_dirs: {
           '2022': withBase('./data/district_contests'),
           '2024': withBase('./data/district_contests_2024_lines'),
-          '2026': withBase('./data/district_contests_2026_lines')
+          '2026': ''
         },
-        districts_info: withBase('./data/wi_congressional_districts.csv'),
-        state_house_info: withBase('./data/wi_state_house_districts.csv'),
-        state_senate_info: withBase('./data/wi_state_senate_districts.csv'),
-        district_descriptions: withBase('./data/district_descriptions.json'),
-        contests_dir: withBase('./data/contests'),
-        reports_match_year_summary: withBase('./data/reports/precinct_match_year_summary_fresh_2026-03-19.csv'),
-        reports_top_unmatched: withBase('./data/reports/precinct_match_top_unmatched_file_county.csv'),
+        districts_info: '',
+        state_house_info: '',
+        state_senate_info: '',
+        district_descriptions: '',
+        contests_dir: '',
+        reports_match_year_summary: '',
+        reports_top_unmatched: '',
         crosswalks: {
           congressional: withBase('./data/crosswalks/precinct_to_cd118.csv'),
           congressional_2022: withBase('./data/crosswalks/precinct_to_cd118.csv'),
@@ -15401,6 +15477,7 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 
     async function loadJSON(path) {
+      if (!path) throw new Error('No data path configured');
       const requestPath = withCacheBuster(path);
       if (jsonInflightByPath.has(requestPath)) return jsonInflightByPath.get(requestPath);
       const p = atlasPerf(`json:${requestPath}`, async () => {
@@ -15417,6 +15494,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
 	    async function loadCSV(path) {
+        if (!path) throw new Error('No data path configured');
 	      const requestPath = withCacheBuster(path);
 	      if (csvInflightByPath.has(requestPath)) return csvInflightByPath.get(requestPath);
 	      const p = atlasPerf(`csv:${requestPath}`, async () => {
@@ -18610,6 +18688,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
         const p = atlasPerf(`slice.contest:${key}`, async () => {
 
+          const contestDir = (CONFIG.paths?.contests_dir || '').toString().trim();
           const manifestHasEntries = Array.isArray(contestManifest) && contestManifest.length > 0;
           const manifestEntry = manifestHasEntries
             ? (contestManifest.find(e => e && e.contest_type === contestType && Number(e.year) === Number(year) && !e.scope) || null)
@@ -18628,16 +18707,21 @@ document.addEventListener('DOMContentLoaded', function() {
           }
 
 	        try {
+            if (!contestDir) {
+              const fallback = getContestRowsFromAggregatedElectionData(contestType, year);
+              contestSliceCache.set(key, fallback);
+              return fallback;
+            }
             if (manifestHasEntries && !manifestEntry) {
               // Manifest is present but this contest/year isn't indexed: don't guess a JSON filename that will 404.
-              const fallback = (electionData || []).filter(row => row.year == year);
+              const fallback = getContestRowsFromAggregatedElectionData(contestType, year);
               contestSliceCache.set(key, fallback);
               return fallback;
             }
 
             const payloadPath = manifestFile
-              ? `${CONFIG.paths.contests_dir}/${manifestFile}`
-              : `${CONFIG.paths.contests_dir}/${key}.json`;
+              ? `${contestDir}/${manifestFile}`
+              : `${contestDir}/${key}.json`;
 	          const payload = await loadJSON(payloadPath);
 	          const rows = (payload.rows || []).map(r => ({
 	            year: Number(year),
@@ -18656,7 +18740,7 @@ document.addEventListener('DOMContentLoaded', function() {
 	          contestSliceCache.set(key, rows);
 	          return rows;
 	        } catch (_) {
-	          const fallback = (electionData || []).filter(row => row.year == year);
+	          const fallback = getContestRowsFromAggregatedElectionData(contestType, year);
 	          contestSliceCache.set(key, fallback);
 	          return fallback;
 	        }
@@ -25597,7 +25681,7 @@ document.addEventListener('DOMContentLoaded', function() {
       }
       const download = document.createElement('a');
       download.href = dataUrl;
-      download.download = `nc-election-atlas-story-${snapshotStoryVariant}-${Date.now()}.png`;
+      download.download = `wi-election-atlas-story-${snapshotStoryVariant}-${Date.now()}.png`;
       document.body.appendChild(download);
       download.click();
       download.remove();
@@ -25606,6 +25690,11 @@ document.addEventListener('DOMContentLoaded', function() {
 
     async function ensureUnmatchedAuditDataLoaded() {
       if (Array.isArray(unmatchedYearSummaryRows) && Array.isArray(unmatchedTopRows)) return;
+      if (!CONFIG.paths?.reports_match_year_summary || !CONFIG.paths?.reports_top_unmatched) {
+        unmatchedYearSummaryRows = [];
+        unmatchedTopRows = [];
+        return;
+      }
       const [yearRes, topRes] = await Promise.allSettled([
         loadCSV(CONFIG.paths.reports_match_year_summary),
         loadCSV(CONFIG.paths.reports_top_unmatched)
@@ -25618,6 +25707,15 @@ document.addEventListener('DOMContentLoaded', function() {
           topUnmatched: topRes.status === 'fulfilled' ? 'ok' : (topRes.reason?.message || topRes.reason || 'error')
         });
       }
+    }
+
+    function getContestRowsFromAggregatedElectionData(contestType, year) {
+      const ct = String(contestType || '').trim();
+      const y = Number(year);
+      return (Array.isArray(electionData) ? electionData : []).filter(row => {
+        if (Number(row?.year) !== y) return false;
+        return Number(row?.[`${ct}_total`] || 0) > 0;
+      });
     }
 
     async function renderRealignmentIndex(contestType, year, contestRows) {
@@ -26438,7 +26536,7 @@ document.addEventListener('DOMContentLoaded', function() {
       const districtNumText = String(districtNum);
       const paddedDistrictNum = districtNumText.padStart(2, '0');
       const formattedDistrictLabel = scope === 'congressional'
-        ? `NC-${paddedDistrictNum}`
+        ? `WI-${paddedDistrictNum}`
         : `${districtLabel}-${paddedDistrictNum}`;
       const panelDistrictLabel = scope === 'state_house'
         ? 'State House District'
@@ -28735,6 +28833,7 @@ document.addEventListener('DOMContentLoaded', function() {
 	    async function ensurePrecinctCentroidsLoaded() {
 	      if (precinctCentroidsLoaded || map.getSource('precinct-centroids')) return true;
 	      if (precinctCentroidsLoadInFlight) return false;
+        if (!CONFIG.paths?.precinct_centroids) return false;
 	      precinctCentroidsLoadInFlight = true;
 	      try {
 	        const pts = await loadJSON(CONFIG.paths.precinct_centroids);
@@ -31466,6 +31565,7 @@ document.addEventListener('DOMContentLoaded', function() {
     async function hydrateAtlasDataAndDistrictSources() {
       setStatus('Loading election index...');
       try {
+        if (!CONFIG.paths?.contests_dir) throw new Error('No county contest manifest directory configured');
         const manifest = await loadJSON(`${CONFIG.paths.contests_dir}/manifest.json`);
         contestManifest = manifest?.files || [];
         try { contestYearsByTypeCache.clear(); } catch (_) {}
@@ -31499,15 +31599,25 @@ document.addEventListener('DOMContentLoaded', function() {
         let loadedAnyDistrictManifest = false;
         districtManifestByLines = { '2022': [], '2024': [], '2026': [] };
         for (const linesYear of [2022, 2024, 2026]) {
-          const dir = getActiveDistrictContestsDir(linesYear);
-          if (!dir) continue;
+          const dir = (CONFIG.paths?.district_contests_dirs || {})[String(linesYear)] || '';
+          if (!dir) {
+            const synthesized = buildKnownDistrictManifest(linesYear);
+            districtManifestByLines[String(linesYear)] = synthesized;
+            if (synthesized.length > 0) loadedAnyDistrictManifest = true;
+            continue;
+          }
           try {
             const dManifest = await loadJSON(`${dir}/manifest.json`);
             const files = dManifest?.files || [];
             districtManifestByLines[String(linesYear)] = files;
             if (files.length > 0) loadedAnyDistrictManifest = true;
           } catch (err) {
-            districtManifestByLines[String(linesYear)] = [];
+            const synthesized = buildKnownDistrictManifest(linesYear);
+            districtManifestByLines[String(linesYear)] = synthesized;
+            if (synthesized.length > 0) {
+              loadedAnyDistrictManifest = true;
+              continue;
+            }
             if (linesYear === 2022) {
               console.warn('Primary district manifest not loaded:', err?.message || err);
             }
@@ -31537,7 +31647,7 @@ document.addEventListener('DOMContentLoaded', function() {
       }
 
       // Optional district resources: do not fail app initialization if absent
-      try {
+      if (CONFIG.paths?.districts_info) try {
         const districtsCSV = await loadCSV(CONFIG.paths.districts_info);
         districtsInfo = parseCSV(districtsCSV);
         setStatus('Congressional data loaded');
@@ -31546,14 +31656,14 @@ document.addEventListener('DOMContentLoaded', function() {
       }
 
       // Optional descriptive district labels (manual overrides).
-      try {
+      if (CONFIG.paths?.district_descriptions) try {
         districtDescriptions = await loadJSON(CONFIG.paths.district_descriptions);
       } catch (_) {
         districtDescriptions = null;
       }
 
       // Optional county demographics (DP1-derived) for sidebar/tooltips.
-      try {
+      if (CONFIG.paths?.county_demographics) try {
         countyDemographics = await loadJSON(CONFIG.paths.county_demographics);
       } catch (err) {
         countyDemographics = null;
@@ -31561,7 +31671,7 @@ document.addEventListener('DOMContentLoaded', function() {
       }
 
       // Optional county population estimates (Census Vintage 2025) for county insight + trajectory confirmation.
-      try {
+      if (CONFIG.paths?.county_population_estimates) try {
         const countyPopulationEstimatesCSV = await loadCSV(CONFIG.paths.county_population_estimates);
         const rows = parseCSV(countyPopulationEstimatesCSV);
         const idx = buildCountyPopulationEstimateIndex(rows);
@@ -31574,7 +31684,7 @@ document.addEventListener('DOMContentLoaded', function() {
       }
 
       // Optional precinct demographics (VAP by race from block aggregation).
-      try {
+      if (CONFIG.paths?.precinct_demographics) try {
         const precinctDemographicsCSV = await loadCSV(CONFIG.paths.precinct_demographics);
         const rows = parseCSV(precinctDemographicsCSV);
         const idx = buildPrecinctDemographicsIndexes(rows);
@@ -31624,8 +31734,10 @@ document.addEventListener('DOMContentLoaded', function() {
           }
           window['state-house__search_geojson'] = stateHouseGeoJSON;
         }
-        const stateHouseCSV = await loadCSV(CONFIG.paths.state_house_info);
-        stateHouseInfo = parseCSV(stateHouseCSV);
+        if (CONFIG.paths?.state_house_info) {
+          const stateHouseCSV = await loadCSV(CONFIG.paths.state_house_info);
+          stateHouseInfo = parseCSV(stateHouseCSV);
+        }
         setStatus('State house districts loaded');
       } catch (err) {
         console.warn('State house resources not loaded:', err.message);
@@ -31646,8 +31758,10 @@ document.addEventListener('DOMContentLoaded', function() {
           }
           window['state-senate__search_geojson'] = stateSenateGeoJSON;
         }
-        const stateSenateCSV = await loadCSV(CONFIG.paths.state_senate_info);
-        stateSenateInfo = parseCSV(stateSenateCSV);
+        if (CONFIG.paths?.state_senate_info) {
+          const stateSenateCSV = await loadCSV(CONFIG.paths.state_senate_info);
+          stateSenateInfo = parseCSV(stateSenateCSV);
+        }
         setStatus('State senate districts loaded');
       } catch (err) {
         console.warn('State senate resources not loaded:', err.message);
@@ -31990,8 +32104,13 @@ document.addEventListener('DOMContentLoaded', function() {
 
 	    async function tryLoadContestSliceStrict(contestType, year) {
 	      const key = `${contestType}_${year}`;
+        const contestDir = (CONFIG.paths?.contests_dir || '').toString().trim();
 	      try {
-	        const payload = await loadJSON(`${CONFIG.paths.contests_dir}/${key}.json`);
+          if (!contestDir) {
+            const fallback = getContestRowsFromAggregatedElectionData(contestType, year);
+            return fallback.length ? fallback : null;
+          }
+	        const payload = await loadJSON(`${contestDir}/${key}.json`);
 	        return (payload.rows || []).map(r => ({
 	          year: Number(year),
 	          county: r.county,
@@ -32014,15 +32133,8 @@ document.addEventListener('DOMContentLoaded', function() {
 	            console.warn('Strict presidential CSV load failed for', year, err?.message || err);
 	          }
 	        }
-          try {
-            const fallback = (Array.isArray(electionData) ? electionData : []).filter(row => {
-              if (Number(row?.year) !== Number(year)) return false;
-              return Number(row?.[`${contestType}_total`] || 0) > 0;
-            });
-            return fallback.length ? fallback : null;
-          } catch (_) {
-            return null;
-          }
+          const fallback = getContestRowsFromAggregatedElectionData(contestType, year);
+          return fallback.length ? fallback : null;
 	      }
 	    }
 

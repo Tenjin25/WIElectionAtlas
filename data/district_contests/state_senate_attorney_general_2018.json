@@ -1,0 +1,468 @@
+{
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 36055,
+        "rep_votes": 47427,
+        "other_votes": 1489,
+        "total_votes": 84971,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Brad Schimel",
+        "margin": 11372,
+        "margin_pct": 13.383821295367321,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "10": {
+        "dem_votes": 32095,
+        "rep_votes": 40510,
+        "other_votes": 1697,
+        "total_votes": 74302,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Brad Schimel",
+        "margin": 8415,
+        "margin_pct": 11.325401738849559,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "11": {
+        "dem_votes": 33231,
+        "rep_votes": 41433,
+        "other_votes": 1455,
+        "total_votes": 76119,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Brad Schimel",
+        "margin": 8202,
+        "margin_pct": 10.775233515942144,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "12": {
+        "dem_votes": 31675,
+        "rep_votes": 51567,
+        "other_votes": 1545,
+        "total_votes": 84787,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Brad Schimel",
+        "margin": 19892,
+        "margin_pct": 23.46114380742331,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "13": {
+        "dem_votes": 33502,
+        "rep_votes": 46975,
+        "other_votes": 1304,
+        "total_votes": 81781,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Brad Schimel",
+        "margin": 13473,
+        "margin_pct": 16.474961482338944,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "14": {
+        "dem_votes": 30751,
+        "rep_votes": 43701,
+        "other_votes": 1510,
+        "total_votes": 75962,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Brad Schimel",
+        "margin": 12950,
+        "margin_pct": 17.047997683052053,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "15": {
+        "dem_votes": 46530,
+        "rep_votes": 28953,
+        "other_votes": 1620,
+        "total_votes": 77103,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Brad Schimel",
+        "margin": -17577,
+        "margin_pct": -22.796778335473327,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "16": {
+        "dem_votes": 65296,
+        "rep_votes": 21138,
+        "other_votes": 1189,
+        "total_votes": 87624,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Brad Schimel",
+        "margin": -44158,
+        "margin_pct": -50.39544186205755,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "17": {
+        "dem_votes": 33655,
+        "rep_votes": 36167,
+        "other_votes": 1474,
+        "total_votes": 71296,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Brad Schimel",
+        "margin": 2512,
+        "margin_pct": 3.523339317773788,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "18": {
+        "dem_votes": 30774,
+        "rep_votes": 37158,
+        "other_votes": 1186,
+        "total_votes": 69119,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Brad Schimel",
+        "margin": 6384,
+        "margin_pct": 9.235849636678639,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "19": {
+        "dem_votes": 36669,
+        "rep_votes": 40638,
+        "other_votes": 1525,
+        "total_votes": 78832,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Brad Schimel",
+        "margin": 3969,
+        "margin_pct": 5.034757458899939,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "2": {
+        "dem_votes": 31538,
+        "rep_votes": 45882,
+        "other_votes": 1464,
+        "total_votes": 78884,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Brad Schimel",
+        "margin": 14345,
+        "margin_pct": 18.18504503476646,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "20": {
+        "dem_votes": 26396,
+        "rep_votes": 62344,
+        "other_votes": 1255,
+        "total_votes": 89995,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Brad Schimel",
+        "margin": 35948,
+        "margin_pct": 39.944441357853215,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "21": {
+        "dem_votes": 33045,
+        "rep_votes": 49891,
+        "other_votes": 1489,
+        "total_votes": 84426,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Brad Schimel",
+        "margin": 16846,
+        "margin_pct": 19.953805699665985,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "22": {
+        "dem_votes": 38942,
+        "rep_votes": 23304,
+        "other_votes": 1475,
+        "total_votes": 63721,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Brad Schimel",
+        "margin": -15639,
+        "margin_pct": -24.542929332559122,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "23": {
+        "dem_votes": 30046,
+        "rep_votes": 39900,
+        "other_votes": 1827,
+        "total_votes": 71773,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Brad Schimel",
+        "margin": 9855,
+        "margin_pct": 13.730801862029669,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "24": {
+        "dem_votes": 35877,
+        "rep_votes": 40987,
+        "other_votes": 1619,
+        "total_votes": 78483,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Brad Schimel",
+        "margin": 5110,
+        "margin_pct": 6.510964157843099,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "25": {
+        "dem_votes": 38014,
+        "rep_votes": 38445,
+        "other_votes": 1542,
+        "total_votes": 78001,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Brad Schimel",
+        "margin": 431,
+        "margin_pct": 0.5525570184997628,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "26": {
+        "dem_votes": 79789,
+        "rep_votes": 15119,
+        "other_votes": 1122,
+        "total_votes": 96030,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Brad Schimel",
+        "margin": -64670,
+        "margin_pct": -67.3435384775591,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "27": {
+        "dem_votes": 59873,
+        "rep_votes": 32156,
+        "other_votes": 1279,
+        "total_votes": 93308,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Brad Schimel",
+        "margin": -27717,
+        "margin_pct": -29.70499082785118,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "28": {
+        "dem_votes": 32754,
+        "rep_votes": 54973,
+        "other_votes": 1258,
+        "total_votes": 88985,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Brad Schimel",
+        "margin": 22219,
+        "margin_pct": 24.96915210428724,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "29": {
+        "dem_votes": 30740,
+        "rep_votes": 46717,
+        "other_votes": 1442,
+        "total_votes": 78900,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Brad Schimel",
+        "margin": 15977,
+        "margin_pct": 20.24943044813197,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "3": {
+        "dem_votes": 32777,
+        "rep_votes": 15296,
+        "other_votes": 1194,
+        "total_votes": 49267,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Brad Schimel",
+        "margin": -17481,
+        "margin_pct": -35.48216859155215,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "30": {
+        "dem_votes": 31298,
+        "rep_votes": 36254,
+        "other_votes": 1452,
+        "total_votes": 69004,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Brad Schimel",
+        "margin": 4956,
+        "margin_pct": 7.182140295198139,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "31": {
+        "dem_votes": 38550,
+        "rep_votes": 35932,
+        "other_votes": 2047,
+        "total_votes": 76530,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Brad Schimel",
+        "margin": -2618,
+        "margin_pct": -3.420526519160657,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "32": {
+        "dem_votes": 42744,
+        "rep_votes": 34982,
+        "other_votes": 1781,
+        "total_votes": 79507,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Brad Schimel",
+        "margin": -7762,
+        "margin_pct": -9.762662407083653,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "33": {
+        "dem_votes": 29757,
+        "rep_votes": 62703,
+        "other_votes": 1293,
+        "total_votes": 93752,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Brad Schimel",
+        "margin": 32946,
+        "margin_pct": 35.1414369826777,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "4": {
+        "dem_votes": 57336,
+        "rep_votes": 12113,
+        "other_votes": 1258,
+        "total_votes": 70707,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Brad Schimel",
+        "margin": -45223,
+        "margin_pct": -63.958306815449674,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "5": {
+        "dem_votes": 40328,
+        "rep_votes": 53906,
+        "other_votes": 1378,
+        "total_votes": 95613,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Brad Schimel",
+        "margin": 13578,
+        "margin_pct": 14.201206948845874,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "6": {
+        "dem_votes": 57647,
+        "rep_votes": 10712,
+        "other_votes": 1392,
+        "total_votes": 69751,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Brad Schimel",
+        "margin": -46935,
+        "margin_pct": -67.2893578586687,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "7": {
+        "dem_votes": 52899,
+        "rep_votes": 31222,
+        "other_votes": 1765,
+        "total_votes": 85886,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Brad Schimel",
+        "margin": -21677,
+        "margin_pct": -25.239270661108907,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "8": {
+        "dem_votes": 39620,
+        "rep_votes": 58981,
+        "other_votes": 1146,
+        "total_votes": 99747,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Brad Schimel",
+        "margin": 19361,
+        "margin_pct": 19.41010757215756,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "9": {
+        "dem_votes": 31085,
+        "rep_votes": 45707,
+        "other_votes": 1621,
+        "total_votes": 78413,
+        "dem_candidate": "Josh Kaul",
+        "rep_candidate": "Brad Schimel",
+        "margin": 14622,
+        "margin_pct": 18.64741815770344,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      }
+    }
+  }
+}

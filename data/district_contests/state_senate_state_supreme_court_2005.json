@@ -1,0 +1,567 @@
+{
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 17186,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 17186,
+        "dem_candidate": "Ann W. Bradley",
+        "rep_candidate": "",
+        "margin": -17186,
+        "margin_pct": -100.0,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "10": {
+        "dem_votes": 14700,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 14700,
+        "dem_candidate": "Ann W. Bradley",
+        "rep_candidate": "",
+        "margin": -14700,
+        "margin_pct": -100.0,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "11": {
+        "dem_votes": 12060,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 12060,
+        "dem_candidate": "Ann W. Bradley",
+        "rep_candidate": "",
+        "margin": -12060,
+        "margin_pct": -100.0,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "12": {
+        "dem_votes": 20995,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 20995,
+        "dem_candidate": "Ann W. Bradley",
+        "rep_candidate": "",
+        "margin": -20995,
+        "margin_pct": -100.0,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "13": {
+        "dem_votes": 13062,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 13062,
+        "dem_candidate": "Ann W. Bradley",
+        "rep_candidate": "",
+        "margin": -13062,
+        "margin_pct": -100.0,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "14": {
+        "dem_votes": 14453,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 14453,
+        "dem_candidate": "Ann W. Bradley",
+        "rep_candidate": "",
+        "margin": -14453,
+        "margin_pct": -100.0,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "15": {
+        "dem_votes": 12855,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 12855,
+        "dem_candidate": "Ann W. Bradley",
+        "rep_candidate": "",
+        "margin": -12855,
+        "margin_pct": -100.0,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "16": {
+        "dem_votes": 16902,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 16902,
+        "dem_candidate": "Ann W. Bradley",
+        "rep_candidate": "",
+        "margin": -16902,
+        "margin_pct": -100.0,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "17": {
+        "dem_votes": 12462,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 12462,
+        "dem_candidate": "Ann W. Bradley",
+        "rep_candidate": "",
+        "margin": -12462,
+        "margin_pct": -100.0,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "18": {
+        "dem_votes": 16902,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 16902,
+        "dem_candidate": "Ann W. Bradley",
+        "rep_candidate": "",
+        "margin": -16902,
+        "margin_pct": -100.0,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "19": {
+        "dem_votes": 18535,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 18535,
+        "dem_candidate": "Ann W. Bradley",
+        "rep_candidate": "",
+        "margin": -18535,
+        "margin_pct": -100.0,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "2": {
+        "dem_votes": 17071,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 17071,
+        "dem_candidate": "Ann W. Bradley",
+        "rep_candidate": "",
+        "margin": -17071,
+        "margin_pct": -100.0,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "20": {
+        "dem_votes": 15076,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 15076,
+        "dem_candidate": "Ann W. Bradley",
+        "rep_candidate": "",
+        "margin": -15076,
+        "margin_pct": -100.0,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "21": {
+        "dem_votes": 15999,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 15999,
+        "dem_candidate": "Ann W. Bradley",
+        "rep_candidate": "",
+        "margin": -15999,
+        "margin_pct": -100.0,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "22": {
+        "dem_votes": 10752,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 10752,
+        "dem_candidate": "Ann W. Bradley",
+        "rep_candidate": "",
+        "margin": -10752,
+        "margin_pct": -100.0,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "23": {
+        "dem_votes": 16869,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 16869,
+        "dem_candidate": "Ann W. Bradley",
+        "rep_candidate": "",
+        "margin": -16869,
+        "margin_pct": -100.0,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "24": {
+        "dem_votes": 19423,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 19423,
+        "dem_candidate": "Ann W. Bradley",
+        "rep_candidate": "",
+        "margin": -19423,
+        "margin_pct": -100.0,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "25": {
+        "dem_votes": 12289,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 12289,
+        "dem_candidate": "Ann W. Bradley",
+        "rep_candidate": "",
+        "margin": -12289,
+        "margin_pct": -100.0,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "26": {
+        "dem_votes": 12657,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 12657,
+        "dem_candidate": "Ann W. Bradley",
+        "rep_candidate": "",
+        "margin": -12657,
+        "margin_pct": -100.0,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "27": {
+        "dem_votes": 12800,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 12800,
+        "dem_candidate": "Ann W. Bradley",
+        "rep_candidate": "",
+        "margin": -12800,
+        "margin_pct": -100.0,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "28": {
+        "dem_votes": 16116,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 16116,
+        "dem_candidate": "Ann W. Bradley",
+        "rep_candidate": "",
+        "margin": -16116,
+        "margin_pct": -100.0,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "29": {
+        "dem_votes": 15171,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 15171,
+        "dem_candidate": "Ann W. Bradley",
+        "rep_candidate": "",
+        "margin": -15171,
+        "margin_pct": -100.0,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "3": {
+        "dem_votes": 6470,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 6470,
+        "dem_candidate": "Ann W. Bradley",
+        "rep_candidate": "",
+        "margin": -6470,
+        "margin_pct": -100.0,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "30": {
+        "dem_votes": 12426,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 12426,
+        "dem_candidate": "Ann W. Bradley",
+        "rep_candidate": "",
+        "margin": -12426,
+        "margin_pct": -100.0,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "31": {
+        "dem_votes": 12150,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 12150,
+        "dem_candidate": "Ann W. Bradley",
+        "rep_candidate": "",
+        "margin": -12150,
+        "margin_pct": -100.0,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "32": {
+        "dem_votes": 16903,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 16903,
+        "dem_candidate": "Ann W. Bradley",
+        "rep_candidate": "",
+        "margin": -16903,
+        "margin_pct": -100.0,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "33": {
+        "dem_votes": 16862,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 16862,
+        "dem_candidate": "Ann W. Bradley",
+        "rep_candidate": "",
+        "margin": -16862,
+        "margin_pct": -100.0,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "4": {
+        "dem_votes": 7997,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 7997,
+        "dem_candidate": "Ann W. Bradley",
+        "rep_candidate": "",
+        "margin": -7997,
+        "margin_pct": -100.0,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "5": {
+        "dem_votes": 18223,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 18223,
+        "dem_candidate": "Ann W. Bradley",
+        "rep_candidate": "",
+        "margin": -18223,
+        "margin_pct": -100.0,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "6": {
+        "dem_votes": 7921,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 7921,
+        "dem_candidate": "Ann W. Bradley",
+        "rep_candidate": "",
+        "margin": -7921,
+        "margin_pct": -100.0,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "7": {
+        "dem_votes": 6176,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 6176,
+        "dem_candidate": "Ann W. Bradley",
+        "rep_candidate": "",
+        "margin": -6176,
+        "margin_pct": -100.0,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "8": {
+        "dem_votes": 20523,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 20523,
+        "dem_candidate": "Ann W. Bradley",
+        "rep_candidate": "",
+        "margin": -20523,
+        "margin_pct": -100.0,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "9": {
+        "dem_votes": 25109,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 25109,
+        "dem_candidate": "Ann W. Bradley",
+        "rep_candidate": "",
+        "margin": -25109,
+        "margin_pct": -100.0,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      }
+    }
+  }
+}
