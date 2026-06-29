@@ -12016,9 +12016,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     function getActiveDistrictManifest(linesYear = currentDistrictLinesYear) {
       const y = normalizeDistrictLinesYear(linesYear);
-      if (y === 2026) {
-        const m2026 = Array.isArray(districtManifestByLines?.['2026']) ? districtManifestByLines['2026'] : [];
-        const m2024 = Array.isArray(districtManifestByLines?.['2024']) ? districtManifestByLines['2024'] : [];
+      const mergeEntries = (...lists) => {
         const merged = [];
         const seen = new Set();
         const add = (entry) => {
@@ -12031,12 +12029,35 @@ document.addEventListener('DOMContentLoaded', function() {
           seen.add(key);
           merged.push(entry);
         };
-        m2026.filter(e => (e?.scope || '').toString().trim() === 'congressional').forEach(add);
-        m2024.filter(e => {
-          const s = (e?.scope || '').toString().trim();
-          return s === 'state_house' || s === 'state_senate';
-        }).forEach(add);
+        lists.forEach(list => (Array.isArray(list) ? list : []).forEach(add));
         return merged;
+      };
+
+      if (y === 2024) {
+        const m2022 = Array.isArray(districtManifestByLines?.['2022']) ? districtManifestByLines['2022'] : [];
+        const m2024 = Array.isArray(districtManifestByLines?.['2024']) ? districtManifestByLines['2024'] : [];
+        // Wisconsin uses the same congressional geography for this atlas while 2024-line
+        // legislative slices live in their own folder. Keep congressional contests available
+        // when the line toggle is on 2024.
+        return mergeEntries(
+          m2022.filter(e => (e?.scope || '').toString().trim() === 'congressional'),
+          m2024.filter(e => {
+            const s = (e?.scope || '').toString().trim();
+            return s === 'state_house' || s === 'state_senate';
+          })
+        );
+      }
+
+      if (y === 2026) {
+        const m2026 = Array.isArray(districtManifestByLines?.['2026']) ? districtManifestByLines['2026'] : [];
+        const m2024 = Array.isArray(districtManifestByLines?.['2024']) ? districtManifestByLines['2024'] : [];
+        return mergeEntries(
+          m2026.filter(e => (e?.scope || '').toString().trim() === 'congressional'),
+          m2024.filter(e => {
+            const s = (e?.scope || '').toString().trim();
+            return s === 'state_house' || s === 'state_senate';
+          })
+        );
       }
       return districtManifestByLines?.[String(y)] || [];
     }
@@ -13214,7 +13235,7 @@ document.addEventListener('DOMContentLoaded', function() {
       entries.forEach(([districtId, totalVotes]) => {
         const districtNum = Number(districtId);
         if (!Number.isFinite(districtNum)) return;
-        expr.push(['==', ['to-number', ['coalesce', ['get', 'DISTRICT'], ['get', 'CD118FP'], ['get', 'CD119FP'], ['get', 'SLDLST'], ['get', 'SLDUST'], ['get', 'district_id'], ['get', 'district']]], districtNum]);
+        expr.push(['==', ['to-number', ['coalesce', ['get', 'DISTRICT'], ['get', 'CD118FP'], ['get', 'CD119FP'], ['get', 'SLDLST'], ['get', 'SLDUST'], ['get', 'district_id'], ['get', 'district']], -999999], districtNum]);
         expr.push(opacityFromTurnout(totalVotes, meta, baseOpacity));
       });
       expr.push(Math.max(0.18, baseOpacity - 0.20));
@@ -18721,7 +18742,18 @@ document.addEventListener('DOMContentLoaded', function() {
             : null;
           const manifestFile = (manifestEntry?.file || '').toString().trim();
 
-          // Prefer OpenElections CSV for older presidential cycles to avoid a known-missing JSON fetch (and console 404 noise).
+          // Wisconsin county results already exist in the aggregated JSON for 2000+.
+          // Use that first so older presidential elections render at county level instead
+          // of returning ward/precinct-keyed OpenElections rows that do not match counties.
+          if (contestType === 'president') {
+            const aggregatedRows = getContestRowsFromAggregatedElectionData(contestType, year);
+            if (aggregatedRows.length) {
+              contestSliceCache.set(key, aggregatedRows);
+              return aggregatedRows;
+            }
+          }
+
+          // Fallback to OpenElections CSV only if the aggregated JSON does not contain this year.
           if (contestType === 'president' && PRESIDENT_OPEN_ELECTIONS_CSV[Number(year)]) {
             try {
               const rows = await loadPresidentSliceFromOpenElectionsCSV(Number(year));
@@ -18881,11 +18913,13 @@ document.addEventListener('DOMContentLoaded', function() {
           } catch (_) {}
         }
 
-        if (linesYear === 2022 && !districtElectionDataJSON) {
+        const fallbackLinesYear = (scope === 'congressional' && (linesYear === 2024 || linesYear === 2026)) ? 2022 : linesYear;
+        if (fallbackLinesYear === 2022 && !districtElectionDataJSON) {
           try { await ensureDistrictElectionDataLoaded(); } catch (_) {}
         }
-        const fallback = linesYear === 2022
-          ? (districtElectionDataJSON?.results_by_year?.[year]?.[scope]?.[contestType] || null)
+        const legacyContestType = contestType === 'president' ? 'presidential' : contestType;
+        const fallback = fallbackLinesYear === 2022
+          ? (districtElectionDataJSON?.results_by_year?.[year]?.[scope]?.[legacyContestType] || null)
           : null;
         districtSliceCache.set(cacheKey, fallback);
         return fallback;
@@ -24211,7 +24245,7 @@ document.addEventListener('DOMContentLoaded', function() {
       (keys || []).forEach(k => {
         clauses.push(['==', ['to-string', ['get', k]], raw]);
         clauses.push(['==', ['to-string', ['get', k]], padded3]);
-        if (Number.isFinite(num)) clauses.push(['==', ['to-number', ['get', k]], num]);
+        if (Number.isFinite(num)) clauses.push(['==', ['to-number', ['get', k], -999999], num]);
       });
 
       return clauses.length ? ['any', ...clauses] : ['==', 1, 0];
@@ -31679,8 +31713,24 @@ document.addEventListener('DOMContentLoaded', function() {
           try {
             const dManifest = await loadJSON(`${dir}/manifest.json`);
             const files = dManifest?.files || [];
-            districtManifestByLines[String(linesYear)] = files;
-            if (files.length > 0) loadedAnyDistrictManifest = true;
+            const synthesized = buildKnownDistrictManifest(linesYear);
+            const merged = [];
+            const seen = new Set();
+            const addManifestEntry = (entry) => {
+              const scope = (entry?.scope || '').toString().trim();
+              const contest = (entry?.contest_type || '').toString().trim();
+              const year = Number(entry?.year);
+              if (!scope || !contest || !Number.isFinite(year)) return;
+              const key = `${scope}|${contest}|${year}`;
+              if (seen.has(key)) return;
+              seen.add(key);
+              merged.push(entry);
+            };
+            // Real manifest rows win; synthesized rows fill missing scopes like congressional.
+            files.forEach(addManifestEntry);
+            synthesized.forEach(addManifestEntry);
+            districtManifestByLines[String(linesYear)] = merged;
+            if (merged.length > 0) loadedAnyDistrictManifest = true;
           } catch (err) {
             const synthesized = buildKnownDistrictManifest(linesYear);
             districtManifestByLines[String(linesYear)] = synthesized;
@@ -32435,6 +32485,16 @@ document.addEventListener('DOMContentLoaded', function() {
         try {
           return await loadJSON(path);
         } catch (_) {}
+      }
+      const normalizedLinesYear = normalizeDistrictLinesYear(linesYear);
+      const fallbackLinesYear = (scope === 'congressional' && (normalizedLinesYear === 2024 || normalizedLinesYear === 2026)) ? 2022 : normalizedLinesYear;
+      if (fallbackLinesYear === 2022) {
+        if (!districtElectionDataJSON) {
+          try { await ensureDistrictElectionDataLoaded(); } catch (_) {}
+        }
+        const legacyContestType = contestType === 'president' ? 'presidential' : contestType;
+        const fallback = districtElectionDataJSON?.results_by_year?.[year]?.[scope]?.[legacyContestType] || null;
+        if (fallback) return fallback;
       }
       return null;
     }
@@ -33603,7 +33663,7 @@ document.addEventListener('DOMContentLoaded', function() {
         
         expr.push([
           '==',
-          ['to-number', ['coalesce', ['get', 'DISTRICT'], ['get', 'CD118FP'], ['get', 'CD119FP'], ['get', 'district_id'], ['get', 'district']]],
+          ['to-number', ['coalesce', ['get', 'DISTRICT'], ['get', 'CD118FP'], ['get', 'CD119FP'], ['get', 'district_id'], ['get', 'district']], -999999],
           Number(district)
         ]);
         expr.push(color);
@@ -33857,7 +33917,7 @@ document.addEventListener('DOMContentLoaded', function() {
             }
 
             if (!isNaN(districtNum)) {
-              expr.push(['==', ['to-number', ['coalesce', ['get', 'DISTRICT'], ['get', 'CD118FP'], ['get', 'CD119FP'], ['get', 'SLDLST'], ['get', 'SLDUST'], ['get', 'district_id'], ['get', 'district']]], districtNum]);
+              expr.push(['==', ['to-number', ['coalesce', ['get', 'DISTRICT'], ['get', 'CD118FP'], ['get', 'CD119FP'], ['get', 'SLDLST'], ['get', 'SLDUST'], ['get', 'district_id'], ['get', 'district']], -999999], districtNum]);
               expr.push(color);
             }
           });
@@ -33972,7 +34032,7 @@ document.addEventListener('DOMContentLoaded', function() {
             row?.pacific_vap_pct ?? row?.pacific_pct ?? row?.Pacific,
             row?.multiracial_vap_pct ?? row?.multiracial_pct ?? row?.Multiracial
           );
-          expr.push(['==', ['to-number', ['coalesce', ['get', 'DISTRICT'], ['get', 'CD118FP'], ['get', 'CD119FP'], ['get', 'SLDLST'], ['get', 'SLDUST'], ['get', 'district_id'], ['get', 'district']]], districtNum]);
+          expr.push(['==', ['to-number', ['coalesce', ['get', 'DISTRICT'], ['get', 'CD118FP'], ['get', 'CD119FP'], ['get', 'SLDLST'], ['get', 'SLDUST'], ['get', 'district_id'], ['get', 'district']], -999999], districtNum]);
           expr.push(color);
           mapped += 1;
         });
