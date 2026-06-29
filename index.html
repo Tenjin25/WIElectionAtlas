@@ -2736,28 +2736,28 @@ body.focus-active #hover-tooltip[data-context="preview"] {
     --state-blue-strong: #1d4ed8;
     --state-red: #dc2626;
     --state-red-strong: #b91c1c;
-    --state-ribbon: linear-gradient(90deg, var(--state-red) 0%, #f8fafc 50%, var(--state-blue) 100%);
-    --state-accent-gradient: linear-gradient(135deg, var(--state-red-strong) 0%, var(--state-blue-strong) 100%);
-    --ui-bg: rgba(255, 255, 255, 0.9);
-    --ui-border: rgba(15, 23, 42, 0.12);
-    --ui-shadow: 0 14px 36px rgba(15, 23, 42, 0.2);
-    --ui-text: #0f172a;
-    --ui-muted: #475569;
-    --ui-accent: var(--state-blue);
-    --ui-accent-2: var(--state-blue-strong);
+    --state-ribbon: linear-gradient(92deg, #18392b 0%, #24553d 28%, #f6f0e2 54%, #d2a54a 78%, #a87a27 100%);
+    --state-accent-gradient: linear-gradient(135deg, #1c4734 0%, #2f6b4b 46%, #c89b3c 100%);
+    --ui-bg: rgba(255, 251, 243, 0.92);
+    --ui-border: rgba(28, 54, 40, 0.14);
+    --ui-shadow: 0 14px 36px rgba(28, 54, 40, 0.18);
+    --ui-text: #16261c;
+    --ui-muted: #526353;
+    --ui-accent: #24553d;
+    --ui-accent-2: #18392b;
   }
 
   body {
     font-family: 'Manrope', 'IBM Plex Sans', system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif;
     background:
-      radial-gradient(circle at 16% 12%, rgba(37, 99, 235, 0.18) 0%, rgba(219, 234, 254, 0.64) 28%, rgba(248, 250, 252, 0) 58%),
-      radial-gradient(circle at 86% 8%, rgba(220, 38, 38, 0.12) 0%, rgba(254, 226, 226, 0.58) 24%, rgba(248, 250, 252, 0) 56%),
-      #f8fafc;
+      radial-gradient(circle at 14% 12%, rgba(36, 85, 61, 0.18) 0%, rgba(223, 238, 229, 0.72) 30%, rgba(248, 245, 236, 0) 60%),
+      radial-gradient(circle at 86% 10%, rgba(210, 165, 74, 0.18) 0%, rgba(244, 230, 195, 0.68) 26%, rgba(248, 245, 236, 0) 58%),
+      #f8f5ec;
     color: var(--ui-text);
   }
 
   #map {
-    background: linear-gradient(180deg, #e9eff7 0%, #e7edf7 46%, #f0ecf1 100%);
+    background: linear-gradient(180deg, #eef3ec 0%, #edf1e6 48%, #f4efe1 100%);
   }
 
   .main-controls,
@@ -5921,9 +5921,9 @@ body.focus-active #hover-tooltip[data-context="preview"] {
     margin: 0;
     padding: 0 14px;
     border-radius: 999px;
-    background: linear-gradient(135deg, rgba(185, 28, 28, 0.96) 0%, rgba(29, 78, 216, 0.92) 100%);
-    border: 1px solid rgba(148, 163, 184, 0.18);
-    box-shadow: 0 14px 30px rgba(37, 99, 235, 0.16), 0 8px 22px rgba(185, 28, 28, 0.16), inset 0 1px 0 rgba(255, 255, 255, 0.16);
+    background: var(--state-accent-gradient);
+    border: 1px solid rgba(36, 85, 61, 0.18);
+    box-shadow: 0 14px 30px rgba(36, 85, 61, 0.2), 0 8px 22px rgba(200, 155, 60, 0.16), inset 0 1px 0 rgba(255, 255, 255, 0.16);
     color: #f8fafc !important;
     font-size: 14px;
     font-weight: 800;
@@ -5936,7 +5936,7 @@ body.focus-active #hover-tooltip[data-context="preview"] {
     width: 8px;
     height: 8px;
     border-radius: 999px;
-    background: linear-gradient(135deg, var(--state-red) 0%, var(--state-blue) 100%);
+    background: linear-gradient(135deg, #f6f0e2 0%, #d2a54a 100%);
     box-shadow: 0 0 0 4px rgba(248, 250, 252, 0.12);
     flex: 0 0 auto;
   }
@@ -6185,8 +6185,8 @@ body.focus-active #hover-tooltip[data-context="preview"] {
     min-height: 30px;
     padding: 0 10px;
     border-radius: 999px;
-    border: 1px solid rgba(45, 212, 191, 0.30);
-    background: #0f766e;
+    border: 1px solid rgba(37, 99, 235, 0.28);
+    background: var(--ui-accent);
     color: #ffffff;
     font-size: 11px;
     font-weight: 850;
@@ -6194,7 +6194,7 @@ body.focus-active #hover-tooltip[data-context="preview"] {
   }
 
   .smart-insights-inline-close:hover {
-    background: #0b5f5a;
+    background: var(--ui-accent-2);
   }
 
   .contest-search-wrap-secondary #contestSearch {
@@ -6381,8 +6381,8 @@ body.focus-active #hover-tooltip[data-context="preview"] {
   }
 
   #precinct-toggle {
-    background: linear-gradient(180deg, #065f46 0%, #047857 100%) !important;
-    box-shadow: 0 12px 22px rgba(6, 95, 70, 0.20) !important;
+    background: linear-gradient(180deg, rgba(51, 65, 85, 0.98) 0%, rgba(15, 23, 42, 0.96) 100%) !important;
+    box-shadow: 0 12px 22px rgba(15, 23, 42, 0.18) !important;
   }
 
   .desktop-statewide-panel {
@@ -8371,7 +8371,7 @@ body.focus-active #hover-tooltip[data-context="preview"] {
   }
 
   .tool-chip-btn {
-    background: #0f766e;
+    background: var(--ui-accent);
     color: #ffffff;
     border-radius: 8px;
     height: 32px;
@@ -8388,7 +8388,7 @@ body.focus-active #hover-tooltip[data-context="preview"] {
   }
 
   .tool-chip-btn:hover {
-    background: #0b5f5a;
+    background: var(--ui-accent-2);
   }
 
   .tool-chip-btn:focus-visible,
@@ -8416,13 +8416,13 @@ body.focus-active #hover-tooltip[data-context="preview"] {
   }
 
   #smart-insights-toggle[aria-pressed="true"] {
-    background: #0f766e;
-    box-shadow: 0 0 0 2px rgba(45, 212, 191, 0.24), 0 10px 22px rgba(15, 23, 42, 0.14);
+    background: var(--ui-accent);
+    box-shadow: 0 0 0 2px rgba(37, 99, 235, 0.22), 0 10px 22px rgba(15, 23, 42, 0.14);
   }
 
   #follow-hover-toggle[aria-pressed="true"] {
-    background: #0f766e;
-    box-shadow: 0 0 0 2px rgba(45, 212, 191, 0.24), 0 10px 22px rgba(15, 23, 42, 0.14);
+    background: var(--ui-accent);
+    box-shadow: 0 0 0 2px rgba(37, 99, 235, 0.22), 0 10px 22px rgba(15, 23, 42, 0.14);
   }
 
   @media (min-width: 769px) {
@@ -8823,22 +8823,22 @@ body.focus-active #hover-tooltip[data-context="preview"] {
 
   /* Ribbon + UI aesthetic polish */
   :root {
-    --state-ribbon: linear-gradient(92deg, #7d1f2e 0%, #ba3d3a 22%, #f6f0e2 49%, #d6a75c 74%, #8b5e34 100%);
-    --state-accent-gradient: linear-gradient(136deg, #8f2433 0%, #b8843d 100%);
-    --ui-bg: rgba(255, 255, 255, 0.95);
-    --ui-border: rgba(18, 33, 52, 0.15);
-    --ui-shadow: 0 18px 42px rgba(16, 30, 49, 0.2);
-    --ui-text: #122236;
-    --ui-muted: #4a5f77;
-    --ui-accent: #8f2433;
-    --ui-accent-2: #6e1d2a;
+    --state-ribbon: linear-gradient(92deg, #18392b 0%, #24553d 28%, #f6f0e2 54%, #d2a54a 78%, #a87a27 100%);
+    --state-accent-gradient: linear-gradient(135deg, #1c4734 0%, #2f6b4b 46%, #c89b3c 100%);
+    --ui-bg: rgba(255, 251, 243, 0.95);
+    --ui-border: rgba(28, 54, 40, 0.15);
+    --ui-shadow: 0 18px 42px rgba(28, 54, 40, 0.18);
+    --ui-text: #16261c;
+    --ui-muted: #526353;
+    --ui-accent: #24553d;
+    --ui-accent-2: #18392b;
   }
 
   body {
     background:
-      radial-gradient(circle at 16% 10%, rgba(48, 95, 152, 0.17) 0%, rgba(48, 95, 152, 0) 44%),
-      radial-gradient(circle at 86% 9%, rgba(143, 36, 51, 0.14) 0%, rgba(143, 36, 51, 0) 40%),
-      #f3f6fb;
+      radial-gradient(circle at 16% 10%, rgba(36, 85, 61, 0.15) 0%, rgba(36, 85, 61, 0) 44%),
+      radial-gradient(circle at 86% 9%, rgba(200, 155, 60, 0.15) 0%, rgba(200, 155, 60, 0) 40%),
+      #f8f5ec;
   }
 
   @media (min-width: 769px) {
@@ -8911,20 +8911,20 @@ body.focus-active #hover-tooltip[data-context="preview"] {
 
     .controls-title-pill,
     .legend-badge {
-      background: linear-gradient(125deg, #8f2433 0%, #b8843d 100%);
+      background: var(--state-accent-gradient);
       border-color: rgba(234, 220, 197, 0.62);
       color: #f8fafc;
-      box-shadow: 0 10px 22px rgba(23, 45, 70, 0.28);
+      box-shadow: 0 10px 22px rgba(28, 54, 40, 0.24);
       text-shadow: 0 1px 0 rgba(15, 23, 42, 0.24);
     }
 
     .view-toggle-btn.active,
     .viz-mode-btn.active,
     .mode-toggle.active {
-      background: linear-gradient(180deg, #8f2433 0%, #6e1d2a 100%);
+      background: linear-gradient(180deg, var(--ui-accent) 0%, var(--ui-accent-2) 100%);
       border-color: rgba(224, 190, 142, 0.78);
       color: #ffffff;
-      box-shadow: 0 10px 22px rgba(19, 42, 68, 0.28);
+      box-shadow: 0 10px 22px rgba(28, 54, 40, 0.22);
     }
 
     .view-toggle-btn:not(.active),
@@ -10322,7 +10322,7 @@ document.addEventListener('DOMContentLoaded', function() {
         state_senate_2022: withBase('./data/tiger/tl_2022_55_sldu.geojson'),
         state_senate_2024: withBase('./data/tiger/tl_2024_55_sldu.geojson'),
         county_demographics: '',
-        county_population_estimates: '',
+        county_population_estimates: withBase('./data/wi_county_population_estimates_2025.csv'),
         precinct_demographics: '',
         cvap_aggregates: {
           county_2020: '',
@@ -12283,12 +12283,12 @@ document.addEventListener('DOMContentLoaded', function() {
       return county || '';
     }
 
-    function modeledGetNcCensusContextCached(countyNorm) {
+    function modeledGetWiCensusContextCached(countyNorm) {
       const c = normalizeCountyToken(countyNorm);
       if (!c) return null;
       if (modeledCensusContextMemo.has(c)) return modeledCensusContextMemo.get(c) || null;
       let ctx = null;
-      try { ctx = getNcCensusContext(c); } catch (_) { ctx = null; }
+      try { ctx = getWiCensusContext(c); } catch (_) { ctx = null; }
       try { modeledCensusContextMemo.set(c, ctx); } catch (_) {}
       return ctx;
     }
@@ -15236,7 +15236,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
         if ((meta.kind === 'county' || meta.kind === 'precinct') && meta.county) {
           try {
-            censusContext = getNcCensusContext(meta.county);
+            censusContext = getWiCensusContext(meta.county);
             trendOptions.censusContext = censusContext;
             trendOptions.censusContextTitle = meta.kind === 'precinct'
               ? `${displayCountyName(meta.county)} County Census Insight`
@@ -15968,7 +15968,7 @@ document.addEventListener('DOMContentLoaded', function() {
         const clamp01 = (v) => Math.max(0, Math.min(1, Number.isFinite(Number(v)) ? Number(v) : 0));
         const lerp = (a, b, t) => (Number(a) + ((Number(b) - Number(a)) * clamp01(t)));
         const getCountyCensusContextSafe = (countyNorm) => {
-          return modeledGetNcCensusContextCached(countyNorm);
+          return modeledGetWiCensusContextCached(countyNorm);
         };
         const normalizeRowKey = (raw) => (raw || '').toString().trim().toUpperCase().replace(/\s+/g, ' ');
         const countyFromRowKey = (key) => {
@@ -16636,7 +16636,7 @@ document.addEventListener('DOMContentLoaded', function() {
             const out = new Map();
             baseAgg.forEach((totals, county) => {
               const ctx = (() => {
-                try { return getNcCensusContext(county); } catch (_) { return null; }
+                try { return getWiCensusContext(county); } catch (_) { return null; }
               })();
               const pattern = String(ctx?.patternLabel || '');
               const note = String(ctx?.noteLabel || '');
@@ -22554,7 +22554,7 @@ document.addEventListener('DOMContentLoaded', function() {
           changePct2023To2024: Number.isFinite(changePct2023To2024) ? changePct2023To2024 : NaN
         };
 
-        if (countyNorm === 'NORTH CAROLINA') statewide = entry;
+        if (countyNorm === 'WISCONSIN') statewide = entry;
         else byNorm.set(countyNorm, entry);
       });
       return { byNorm, statewide };
@@ -22719,6 +22719,157 @@ document.addEventListener('DOMContentLoaded', function() {
       };
     }
 
+    function getWiCensusContext(countyNorm) {
+      const norm = String(countyNorm || '').trim().toUpperCase();
+      const majorMetros = new Set(['MILWAUKEE', 'DANE']);
+      const milwaukeeCorridor = new Set(['WAUKESHA', 'OZAUKEE', 'WASHINGTON', 'RACINE', 'KENOSHA', 'WALWORTH']);
+      const madisonOrbit = new Set(['COLUMBIA', 'SAUK', 'IOWA', 'GREEN', 'ROCK', 'JEFFERSON', 'DODGE']);
+      const foxValley = new Set(['BROWN', 'OUTAGAMIE', 'WINNEBAGO', 'CALUMET', 'FOND DU LAC']);
+      const regionalHubs = new Set(['EAU CLAIRE', 'LA CROSSE', 'PORTAGE', 'DUNN', 'MARATHON', 'SHEBOYGAN', 'MANITOWOC']);
+      const amenityNorthwoods = new Set(['DOOR', 'VILAS', 'BAYFIELD', 'BURNETT', 'SAWYER', 'WASHBURN', 'POLK', 'ONEIDA', 'ASHLAND', 'IRON']);
+
+      let signalEmoji = 'o';
+      let signalLabel = 'Steady population signal';
+      let patternEmoji = '~';
+      let patternLabel = 'Mixed local and regional forces';
+      let noteEmoji = '*';
+      let noteLabel = 'Population change may shape the electorate over time, even when margins remain stable in the short run.';
+      let sourceNote = 'Qualitative context inspired by recent Census population-estimate patterns; not a raw population table.';
+
+      const estimate = countyPopulationEstimatesByNorm?.get(norm) || null;
+      const statewide = countyPopulationEstimateStatewide || null;
+      const totalPct = Number(estimate?.changePct2020To2025);
+      const recentPct = Number(estimate?.changePct2024To2025);
+      const priorPct = Number(estimate?.changePct2023To2024);
+      const stateTotalPct = Number(statewide?.changePct2020To2025);
+      const slowedIn2025 = Number.isFinite(recentPct) && Number.isFinite(priorPct) && recentPct + 0.05 < priorPct;
+      const aboveStatewide = Number.isFinite(totalPct) && Number.isFinite(stateTotalPct) && totalPct > stateTotalPct + 1.0;
+      const belowStatewide = Number.isFinite(totalPct) && Number.isFinite(stateTotalPct) && totalPct < stateTotalPct - 1.0;
+      const isFlatOrDeclining = (Number.isFinite(totalPct) && totalPct < 0.6) || (Number.isFinite(recentPct) && recentPct < 0);
+      const fastGrowth = Number.isFinite(totalPct) && (
+        totalPct >= 3.5 ||
+        (Number.isFinite(stateTotalPct) && totalPct > stateTotalPct + 1.0)
+      );
+      const countyPop2025 = Number(estimate?.population2025 || 0);
+      const isLargeCounty = countyPop2025 >= 100000;
+
+      if (estimate) {
+        signalLabel = `Population ${formatPopulationChangePct(totalPct)} since April 2020`;
+        noteLabel = `2025 estimate: ${countyPop2025.toLocaleString()}. Net change from April 1, 2020 to July 1, 2025 is ${formatPopulationChangePct(totalPct)}; the 2024 to 2025 change was ${formatPopulationChangePct(recentPct)}.`;
+        sourceNote = 'Based on U.S. Census Bureau Vintage 2025 Wisconsin county population estimates; long-run change is measured from April 1, 2020 to July 1, 2025.';
+
+        if (majorMetros.has(norm)) {
+          signalEmoji = '+';
+          patternEmoji = 'M';
+          patternLabel = slowedIn2025
+            ? 'Major metro anchor with slower 2025 growth'
+            : 'Major metro anchor with continued growth';
+          noteLabel = `2025 estimate: ${countyPop2025.toLocaleString()}. Since April 2020, this county is ${formatPopulationChangePct(totalPct)}${Number.isFinite(stateTotalPct) ? ` versus ${formatPopulationChangePct(stateTotalPct)} statewide` : ''}. ${norm === 'DANE' ? 'Dane remains the clearest Madison-area population engine.' : 'Milwaukee still matters because even modest change can reshape a very large voter pool.'} ${slowedIn2025 ? 'Growth cooled a bit from the prior year.' : 'That points to continued churn rather than a frozen electorate.'}`;
+        } else if (milwaukeeCorridor.has(norm) && !isFlatOrDeclining) {
+          signalEmoji = '+';
+          patternEmoji = 'S';
+          patternLabel = fastGrowth
+            ? 'Milwaukee collar / I-94 growth corridor'
+            : 'Large suburban county with modest growth';
+          noteLabel = `2025 estimate: ${countyPop2025.toLocaleString()}. Since April 2020, the county is ${formatPopulationChangePct(totalPct)} and ${formatPopulationChangePct(recentPct)} from 2024 to 2025. In southeast Wisconsin, even moderate growth can matter because these suburban counties often decide how much statewide margins tighten or loosen.`;
+        } else if (madisonOrbit.has(norm) && !isFlatOrDeclining) {
+          signalEmoji = '+';
+          patternEmoji = 'E';
+          patternLabel = fastGrowth
+            ? 'Madison spillover / exurban growth'
+            : 'Madison orbit county with steadier growth';
+          noteLabel = `2025 estimate: ${countyPop2025.toLocaleString()}. Since April 2020, this county is ${formatPopulationChangePct(totalPct)}${Number.isFinite(stateTotalPct) ? ` versus ${formatPopulationChangePct(stateTotalPct)} statewide` : ''}. Counties on Madison's edge often show electorate churn earlier than slower-growth rural territory.`;
+        } else if (foxValley.has(norm) && !isFlatOrDeclining) {
+          signalEmoji = aboveStatewide ? '+' : 'o';
+          patternEmoji = 'F';
+          patternLabel = fastGrowth
+            ? 'Fox Valley regional hub with steady growth'
+            : 'Fox Valley county with mixed but positive growth';
+          noteLabel = `2025 estimate: ${countyPop2025.toLocaleString()}. Since April 2020, the county is ${formatPopulationChangePct(totalPct)} and ${formatPopulationChangePct(recentPct)} from 2024 to 2025. In the Fox Valley, population movement usually changes the mix gradually rather than all at once.`;
+        } else if (regionalHubs.has(norm) && !isFlatOrDeclining) {
+          signalEmoji = aboveStatewide ? '+' : 'o';
+          patternEmoji = 'H';
+          patternLabel = fastGrowth
+            ? 'Regional hub growing faster than much of the state'
+            : 'Regional center with steadier population change';
+          noteLabel = `2025 estimate: ${countyPop2025.toLocaleString()}. Since April 2020, the county is ${formatPopulationChangePct(totalPct)}${Number.isFinite(stateTotalPct) ? ` versus ${formatPopulationChangePct(stateTotalPct)} statewide` : ''}. Places like this often move through turnout, student churn, and metro pull rather than pure large-scale in-migration.`;
+        } else if (amenityNorthwoods.has(norm) && !belowStatewide) {
+          signalEmoji = '+';
+          patternEmoji = 'N';
+          patternLabel = slowedIn2025
+            ? 'Amenity / Northwoods county with slower recent growth'
+            : 'Amenity / Northwoods county with positive growth';
+          noteLabel = `2025 estimate: ${countyPop2025.toLocaleString()}. Since April 2020, the county is ${formatPopulationChangePct(totalPct)}. In northern and vacation-heavy counties, small population gains can still change turnout mix because the baseline electorate is smaller.`;
+        } else if (Number.isFinite(totalPct) && totalPct < 0) {
+          signalEmoji = '-';
+          patternEmoji = 'R';
+          patternLabel = isLargeCounty
+            ? 'Large county with slight population loss'
+            : 'Slow-growth or declining rural county';
+          noteLabel = `2025 estimate: ${countyPop2025.toLocaleString()}. Since April 2020, this county is ${formatPopulationChangePct(totalPct)}, and the 2024 to 2025 change was ${formatPopulationChangePct(recentPct)}. Slower growth usually means less electorate churn from in-migration, so political change shows up more through turnout and coalition shifts.`;
+        } else if (isFlatOrDeclining) {
+          signalEmoji = 'o';
+          patternEmoji = 'R';
+          patternLabel = 'Low-growth county';
+          noteLabel = `2025 estimate: ${countyPop2025.toLocaleString()}. Since April 2020, growth has been ${formatPopulationChangePct(totalPct)}${Number.isFinite(stateTotalPct) ? ` versus ${formatPopulationChangePct(stateTotalPct)} statewide` : ''}. That is a slower-moving population backdrop than the faster-growing Wisconsin metros and exurbs.`;
+        } else {
+          signalEmoji = aboveStatewide ? '+' : 'o';
+          patternEmoji = '~';
+          patternLabel = aboveStatewide
+            ? 'Above-state growth county'
+            : 'Mixed-growth county';
+          noteLabel = `2025 estimate: ${countyPop2025.toLocaleString()}. Since April 2020, this county is ${formatPopulationChangePct(totalPct)}${Number.isFinite(stateTotalPct) ? ` versus ${formatPopulationChangePct(stateTotalPct)} statewide` : ''}. Use this as electorate context, not as a direct prediction of vote movement.`;
+        }
+      }
+
+      if (!estimate && majorMetros.has(norm)) {
+        signalEmoji = '+';
+        signalLabel = 'Major metro anchor';
+        patternEmoji = 'M';
+        patternLabel = 'Big population base, even when growth is modest';
+        noteLabel = 'Large Wisconsin metro counties can matter electorally even when they are not the fastest-growing places, because a small shift applies to a huge vote pool.';
+      } else if (!estimate && milwaukeeCorridor.has(norm)) {
+        signalEmoji = '+';
+        signalLabel = 'Suburban corridor county';
+        patternEmoji = 'S';
+        patternLabel = 'Milwaukee collar / I-94 growth corridor';
+        noteLabel = 'Southeast Wisconsin suburbs often show the connection between moderate growth, coalition churn, and statewide competitiveness.';
+      } else if (!estimate && madisonOrbit.has(norm)) {
+        signalEmoji = '+';
+        signalLabel = 'Madison orbit county';
+        patternEmoji = 'E';
+        patternLabel = 'Exurban growth around Dane County';
+        noteLabel = 'Counties on Madison\'s outer edge are useful places to watch for gradual electorate churn.';
+      } else if (!estimate && foxValley.has(norm)) {
+        signalEmoji = 'o';
+        signalLabel = 'Fox Valley county';
+        patternEmoji = 'F';
+        patternLabel = 'Regional hub with mixed growth signals';
+        noteLabel = 'Fox Valley change is often gradual and coalition-based rather than driven by one giant population jump.';
+      } else if (!estimate && amenityNorthwoods.has(norm)) {
+        signalEmoji = 'o';
+        signalLabel = 'Amenity / Northwoods county';
+        patternEmoji = 'N';
+        patternLabel = 'Retirement and seasonal-migration county';
+        noteLabel = 'Smaller northern counties can feel turnout-mix changes quickly because even modest population movement lands on a small base.';
+      }
+
+      return {
+        title: 'Census Context',
+        countyNorm: norm,
+        changePct2020To2025: Number.isFinite(totalPct) ? totalPct : NaN,
+        changePct2024To2025: Number.isFinite(recentPct) ? recentPct : NaN,
+        stateChangePct2020To2025: Number.isFinite(stateTotalPct) ? stateTotalPct : NaN,
+        signalEmoji,
+        signalLabel,
+        patternEmoji,
+        patternLabel,
+        noteEmoji,
+        noteLabel,
+        sourceNote
+      };
+    }
+
     function addCensusConfirmationToTrajectory(meta, context) {
       if (!meta || !context) return meta;
       const statusText = String(meta?.status || meta?.statusMain || '');
@@ -22732,16 +22883,17 @@ document.addEventListener('DOMContentLoaded', function() {
       const recentPct = Number(context?.changePct2024To2025);
       const stateTotalPct = Number(context?.stateChangePct2020To2025);
       const fastGrowth = Number.isFinite(totalPct) && (
-        totalPct >= 8 ||
-        (Number.isFinite(stateTotalPct) && totalPct > stateTotalPct + 1.25)
+        totalPct >= 3.5 ||
+        (Number.isFinite(stateTotalPct) && totalPct > stateTotalPct + 1.0)
       );
-      const slowGrowth = (Number.isFinite(totalPct) && totalPct < 1) || (Number.isFinite(recentPct) && recentPct < 0);
-      const demGrowthPattern = /Urban anchor|Metro spillover|outer-suburban|Above-state growth county|Coastal growth/i.test(patternLabel);
-      const repGrowthPattern = /Slow-growth|declining county|Rural slowdown/i.test(patternLabel);
+      const slowGrowth = (Number.isFinite(totalPct) && totalPct < 0.6) || (Number.isFinite(recentPct) && recentPct < 0);
+      const demGrowthPattern = /Major metro|Madison spillover|Milwaukee collar|suburban county|Fox Valley regional hub|Regional hub|Above-state growth county/i.test(patternLabel);
+      const repGrowthPattern = /Slow-growth|declining rural|Low-growth county|population loss/i.test(patternLabel);
       const growthLabel = (() => {
-        if (/Metro spillover|outer-suburban expansion/i.test(patternLabel)) return 'fast outer-suburban growth';
-        if (/Urban anchor/i.test(patternLabel)) return 'continued urban growth';
-        if (/Coastal growth/i.test(patternLabel)) return 'fast coastal growth';
+        if (/Madison spillover|Milwaukee collar/i.test(patternLabel)) return 'fast suburban and exurban growth';
+        if (/Major metro/i.test(patternLabel)) return 'continued metro growth';
+        if (/Fox Valley|Regional hub/i.test(patternLabel)) return 'regional-hub growth';
+        if (/Amenity \/ Northwoods/i.test(patternLabel)) return 'amenity-county growth';
         if (/Above-state growth county/i.test(patternLabel)) return 'above-average growth';
         return 'fast county growth';
       })();
@@ -26423,7 +26575,7 @@ document.addEventListener('DOMContentLoaded', function() {
       const deltaBlock = buildCountyDeltaBlockHTML(norm, contestType, { presentation: 'desktop-expanded' });
       const censusDetailLine = (() => {
         try {
-          const ctx = getNcCensusContext(norm);
+          const ctx = getWiCensusContext(norm);
           const signal = String(ctx?.signalLabel || '').trim();
           if (!signal) return '';
           return `<div class="tooltip-insight">Census insight: ${escapeHtml(signal)}.</div>`;
@@ -28002,8 +28154,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
       const censusContext = (() => {
         try {
-          if (typeof getNcCensusContext !== 'function') return null;
-          return getNcCensusContext(norm);
+          if (typeof getWiCensusContext !== 'function') return null;
+          return getWiCensusContext(norm);
         } catch (_) {
           return null;
         }
@@ -29712,7 +29864,9 @@ document.addEventListener('DOMContentLoaded', function() {
         } else {
           btn.textContent = precinctsEnabled ? 'Precincts On' : 'Precincts Off';
         }
-        btn.style.background = precinctsEnabled ? '#1d4ed8' : '#065f46';
+        btn.style.background = precinctsEnabled
+          ? 'linear-gradient(180deg, var(--ui-accent) 0%, var(--ui-accent-2) 100%)'
+          : '';
         btn.style.opacity = precinctLoadInFlight ? '0.75' : '1';
         btn.setAttribute('aria-pressed', precinctsEnabled ? 'true' : 'false');
         btn.setAttribute('aria-busy', precinctLoadInFlight ? 'true' : 'false');
@@ -33907,7 +34061,7 @@ document.addEventListener('DOMContentLoaded', function() {
         setStatus(`Applied demographic mode for Congressional districts.`);
       } else {
         setStatewideContestTitle(`US House (${year})`);
-        setStatus(`Applied contest: NC US House ${year}`);
+        setStatus(`Applied contest: US House ${year}`);
       }
     }
 
