@@ -14,6 +14,10 @@ If this repository is published as a standard project site, the expected URL is:
 
 If your Pages settings use a different custom domain or branch configuration, update this link accordingly.
 
+## License
+
+This project is available under the MIT License. See `LICENSE`.
+
 ## What This Atlas Shows
 
 - County and precinct-level election results across modern Wisconsin political history
