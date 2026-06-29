@@ -22,6 +22,7 @@ OFFICE_MAP = {
     "Governor": "governor",
     "Attorney General": "attorney_general",
     "Secretary Of State": "secretary_of_state",
+    "Secretary of State": "secretary_of_state",
     "State Treasurer": "treasurer",
     "Supreme Court": "state_supreme_court",
     "State Superintendent Of Public Instruction": "superintendent",
@@ -31,15 +32,80 @@ OFFICE_MAP = {
 DEM_PARTIES = {"DEM"}
 REP_PARTIES = {"REP"}
 NONPARTISAN_ALIGNMENT = {
-    ("2025", "Supreme Court"): {
+    ("2005", "supreme court"): {
+        "Ann W. Bradley": "dem",
+    },
+    ("2005", "state superintendent of public instruction"): {
+        "Elizabeth Burmaster": "dem",
+        "Gregg Underheim": "rep",
+    },
+    ("2007", "supreme court"): {
+        "Linda M. Clifford": "dem",
+        "Annette K. Ziegler": "rep",
+    },
+    ("2008", "supreme court"): {
+        "Louis Butler": "dem",
+        "Mike Gableman": "rep",
+    },
+    ("2009", "supreme court"): {
+        "Shirley S. Abrahamson": "dem",
+        "Randy R. Koschnick": "rep",
+    },
+    ("2009", "state superintendent of public instruction"): {
+        "Tony Evers": "dem",
+        "Lowell E. Holtz": "rep",
+    },
+    ("2011", "supreme court"): {
+        "Joanne F. Kloppenburg": "dem",
+        "David T. Prosser, Jr.": "rep",
+        "David T. Prosser Jr": "rep",
+    },
+    ("2013", "supreme court"): {
+        "Ed Fallone": "dem",
+        "Pat Roggensack": "rep",
+    },
+    ("2013", "state superintendent of public instruction"): {
+        "Tony Evers": "dem",
+        "Don Pridemore": "rep",
+    },
+    ("2015", "supreme court"): {
+        "Ann W. Bradley": "dem",
+        "James P. Daley": "rep",
+    },
+    ("2016", "supreme court"): {
+        "JoAnne F. Kloppenburg": "dem",
+        "Rebecca G. Bradley": "rep",
+    },
+    ("2017", "state superintendent of public instruction"): {
+        "Tony Evers": "dem",
+        "Lowell E. Holtz": "rep",
+    },
+    ("2018", "supreme court"): {
+        "Rebecca Dallet": "dem",
+        "Michael Screnock": "rep",
+    },
+    ("2019", "supreme court"): {
+        "Lisa Neubauer": "dem",
+        "Brian Hagedorn": "rep",
+    },
+    ("2020", "supreme court"): {
+        "Jill J. Karofsky": "dem",
+        "Daniel Kelly": "rep",
+        "Ed Fallone": "dem",
+    },
+    ("2021", "state superintendent of public instruction"): {
+        "Jill Underly": "dem",
+        "Deborah Kerr": "rep",
+    },
+    ("2025", "supreme court"): {
         "Susan Crawford": "dem",
         "Brad Schimel": "rep",
     },
-    ("2025", "State Superintendent Of Public Instruction"): {
+    ("2025", "state superintendent of public instruction"): {
         "Jill Underly": "dem",
         "Brittany Kinser": "rep",
     },
-    ("2026", "Supreme Court"): {
+    ("2026", "supreme court"): {
         "Chris Taylor": "dem",
         "Maria S. Lazar": "rep",
     },
@@ -56,6 +122,19 @@ CONTEST_DISPLAY = {
         "rep_label": "Conservative",
     },
 }
+PRESIDENTIAL_TOP_TICKET_NAMES = {
+    "Kamala D. Harris Tim Walz": "Kamala D. Harris",
+    "Donald J. Trump JD Vance": "Donald J. Trump",
+}
+NOVEMBER_ONLY_CONTESTS = {
+    "presidential",
+    "us_senate",
+    "governor",
+    "attorney_general",
+    "secretary_of_state",
+    "treasurer",
+}
+SPRING_ONLY_CONTESTS = {"state_supreme_court", "superintendent"}
 
 SCOPE_CONFIGS = {
     "congressional": {
@@ -83,6 +162,25 @@ def normalize_token(value: str) -> str:
 
 def normalize_county(value: str) -> str:
     return " ".join((value or "").strip().split()).title()
+
+
+def normalize_office(value: str) -> str:
+    return " ".join((value or "").strip().split()).lower()
+
+
+def normalize_candidate_label(office_key: str, candidate: str) -> str:
+    candidate = " ".join((candidate or "").strip().split())
+    if office_key == "presidential":
+        return PRESIDENTIAL_TOP_TICKET_NAMES.get(candidate, candidate)
+    return candidate
+
+
+def should_include_contest(office_key: str, election_month: str) -> bool:
+    if office_key in NOVEMBER_ONLY_CONTESTS:
+        return election_month == "11"
+    if office_key in SPRING_ONLY_CONTESTS:
+        return election_month != "11"
+    return True
 
 
 def winner_from_votes(dem: float, rep: float) -> str:
@@ -360,12 +458,16 @@ def main() -> None:
 
     for csv_path in sorted(DATA_DIR.glob("*/*__wi__general__ward.csv")):
         year = csv_path.parent.name
+        election_date = csv_path.name.split("__", 1)[0]
+        election_month = election_date[4:6] if len(election_date) >= 6 else ""
         with csv_path.open(newline="", encoding="utf-8") as fh:
             reader = csv.DictReader(fh)
             for row in reader:
                 office_label = (row.get("office") or "").strip()
                 office_key = OFFICE_MAP.get(office_label)
                 if not office_key:
+                    continue
+                if not should_include_contest(office_key, election_month):
                     continue
                 county = normalize_county(row.get("county") or "")
                 ward_label = " ".join((row.get("ward") or "").strip().split())
@@ -391,8 +493,8 @@ def main() -> None:
                 votes = float(row.get("votes") or 0)
                 total_votes = float(row.get("total.votes") or 0)
                 party = (row.get("party") or "").strip().upper()
-                candidate = (row.get("candidate") or "").strip()
-                aligned_party = NONPARTISAN_ALIGNMENT.get((year, office_label), {}).get(candidate, "")
+                candidate = normalize_candidate_label(office_key, row.get("candidate") or "")
+                aligned_party = NONPARTISAN_ALIGNMENT.get((year, normalize_office(office_label)), {}).get(candidate, "")
                 share = 1.0 / len(matched_precincts)
 
                 for scope in ("congressional", "state_house", "state_senate"):

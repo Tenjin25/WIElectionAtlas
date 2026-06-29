@@ -10944,6 +10944,17 @@ document.addEventListener('DOMContentLoaded', function() {
           years.add(y);
         });
       } catch (_) {}
+      if (!years.size) {
+        try {
+          (Array.isArray(electionData) ? electionData : []).forEach(row => {
+            const y = Number(row?.year);
+            const total = Number(row?.[`${ct}_total`] || 0);
+            if (!Number.isFinite(y) || y <= 0) return;
+            if (!Number.isFinite(total) || total <= 0) return;
+            years.add(y);
+          });
+        } catch (_) {}
+      }
       const out = Array.from(years).filter(Number.isFinite).sort((a, b) => a - b);
       contestYearsByTypeCache.set(ct, out);
       return out;
@@ -32003,7 +32014,15 @@ document.addEventListener('DOMContentLoaded', function() {
 	            console.warn('Strict presidential CSV load failed for', year, err?.message || err);
 	          }
 	        }
-	        return null;
+          try {
+            const fallback = (Array.isArray(electionData) ? electionData : []).filter(row => {
+              if (Number(row?.year) !== Number(year)) return false;
+              return Number(row?.[`${contestType}_total`] || 0) > 0;
+            });
+            return fallback.length ? fallback : null;
+          } catch (_) {
+            return null;
+          }
 	      }
 	    }
 

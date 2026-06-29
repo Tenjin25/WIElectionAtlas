@@ -118,6 +118,10 @@ CONTEST_DISPLAY = {
         "rep_label": "Conservative",
     },
 }
+PRESIDENTIAL_TOP_TICKET_NAMES = {
+    "Kamala D. Harris Tim Walz": "Kamala D. Harris",
+    "Donald J. Trump JD Vance": "Donald J. Trump",
+}
 
 
 def normalize_county(raw: str) -> str:
@@ -126,6 +130,13 @@ def normalize_county(raw: str) -> str:
 
 def normalize_office(raw: str) -> str:
     return " ".join((raw or "").strip().split()).lower()
+
+
+def normalize_candidate_label(office_key: str, candidate: str) -> str:
+    candidate = " ".join((candidate or "").strip().split())
+    if office_key == "presidential":
+        return PRESIDENTIAL_TOP_TICKET_NAMES.get(candidate, candidate)
+    return candidate
 
 
 def winner_from_votes(dem: int, rep: int) -> str:
@@ -172,6 +183,8 @@ def main() -> None:
 
     for csv_path in sorted(DATA_DIR.glob("*/*__wi__general__ward.csv")):
         year = csv_path.parent.name
+        election_date = csv_path.name.split("__", 1)[0]
+        election_month = election_date[4:6] if len(election_date) >= 6 else ""
         with csv_path.open(newline="", encoding="utf-8") as fh:
             reader = csv.DictReader(fh)
             for row in reader:
@@ -179,13 +192,17 @@ def main() -> None:
                 office_key = OFFICE_MAP.get(office_raw)
                 if not office_key:
                     continue
+                # Wisconsin's spring election files can include presidential preference contests.
+                # Keep the presidential series tied to the November general only.
+                if office_key == "presidential" and election_month != "11":
+                    continue
                 county = normalize_county(row.get("county") or "")
                 if not county or county.endswith(":") or "total" in county.lower():
                     continue
                 votes = int(float(row.get("votes") or 0))
                 total_votes = int(float(row.get("total.votes") or 0))
                 party = (row.get("party") or "").strip().upper()
-                candidate = (row.get("candidate") or "").strip()
+                candidate = normalize_candidate_label(office_key, row.get("candidate") or "")
                 ward = " ".join((row.get("ward") or "").strip().split())
                 if ward.lower().startswith("county totals"):
                     continue
