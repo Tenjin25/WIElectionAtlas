@@ -10323,7 +10323,7 @@ document.addEventListener('DOMContentLoaded', function() {
         state_house_info: '',
         state_senate_info: '',
         district_descriptions: '',
-        contests_dir: '',
+        contests_dir: withBase('./data/contests'),
         reports_match_year_summary: '',
         reports_top_unmatched: '',
         crosswalks: {
@@ -31925,6 +31925,12 @@ document.addEventListener('DOMContentLoaded', function() {
             .catch(err => {
               setContestSelectDeferredLoading(false);
               console.warn('Deferred atlas hydration failed:', err?.message || err);
+              try {
+                const sel = document.getElementById('contestSelect');
+                if (sel && !sel.dataset.populated) {
+                  sel.innerHTML = '<option value="">Contest data failed to load</option>';
+                }
+              } catch (_) {}
             });
         } else {
           setContestSelectDeferredLoading(false);
