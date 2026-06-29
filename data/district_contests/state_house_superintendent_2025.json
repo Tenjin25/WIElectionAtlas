@@ -1,0 +1,1689 @@
+{
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 12354,
+        "rep_votes": 13818,
+        "other_votes": 66,
+        "total_votes": 26238,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": 1464,
+        "margin_pct": 5.577787941154051,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "10": {
+        "dem_votes": 17822,
+        "rep_votes": 4826,
+        "other_votes": 87,
+        "total_votes": 22735,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": -12996,
+        "margin_pct": -57.16296459203871,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "11": {
+        "dem_votes": 9238,
+        "rep_votes": 3724,
+        "other_votes": 64,
+        "total_votes": 13026,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": -5514,
+        "margin_pct": -42.33072316904652,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "12": {
+        "dem_votes": 9116,
+        "rep_votes": 4420,
+        "other_votes": 57,
+        "total_votes": 13593,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": -4696,
+        "margin_pct": -34.54719340837195,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "13": {
+        "dem_votes": 13185,
+        "rep_votes": 14580,
+        "other_votes": 58,
+        "total_votes": 27823,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": 1395,
+        "margin_pct": 5.0138374725946155,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "14": {
+        "dem_votes": 15250,
+        "rep_votes": 8071,
+        "other_votes": 72,
+        "total_votes": 23393,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": -7179,
+        "margin_pct": -30.688667550121828,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "15": {
+        "dem_votes": 11044,
+        "rep_votes": 13715,
+        "other_votes": 69,
+        "total_votes": 24828,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": 2670,
+        "margin_pct": 10.755856883936364,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "16": {
+        "dem_votes": 10330,
+        "rep_votes": 2907,
+        "other_votes": 65,
+        "total_votes": 13302,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": -7423,
+        "margin_pct": -55.803638550593895,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "17": {
+        "dem_votes": 13904,
+        "rep_votes": 4808,
+        "other_votes": 75,
+        "total_votes": 18787,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": -9096,
+        "margin_pct": -48.41645818917337,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "18": {
+        "dem_votes": 12142,
+        "rep_votes": 4824,
+        "other_votes": 63,
+        "total_votes": 17029,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": -7318,
+        "margin_pct": -42.973750660637734,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "19": {
+        "dem_votes": 13136,
+        "rep_votes": 3159,
+        "other_votes": 89,
+        "total_votes": 16384,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": -9977,
+        "margin_pct": -60.894775390625,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "2": {
+        "dem_votes": 10548,
+        "rep_votes": 12104,
+        "other_votes": 64,
+        "total_votes": 22716,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": 1556,
+        "margin_pct": 6.849797499559782,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "20": {
+        "dem_votes": 10867,
+        "rep_votes": 6851,
+        "other_votes": 48,
+        "total_votes": 17766,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": -4016,
+        "margin_pct": -22.60497579646516,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "21": {
+        "dem_votes": 10483,
+        "rep_votes": 9849,
+        "other_votes": 82,
+        "total_votes": 20414,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": -634,
+        "margin_pct": -3.1057117664347995,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "22": {
+        "dem_votes": 10578,
+        "rep_votes": 16894,
+        "other_votes": 74,
+        "total_votes": 27545,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": 6316,
+        "margin_pct": 22.92793610455618,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "23": {
+        "dem_votes": 17761,
+        "rep_votes": 10897,
+        "other_votes": 97,
+        "total_votes": 28755,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": -6864,
+        "margin_pct": -23.872067142724653,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "24": {
+        "dem_votes": 11583,
+        "rep_votes": 14938,
+        "other_votes": 66,
+        "total_votes": 26587,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": 3355,
+        "margin_pct": 12.620044632782523,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "25": {
+        "dem_votes": 9038,
+        "rep_votes": 12573,
+        "other_votes": 59,
+        "total_votes": 21670,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": 3535,
+        "margin_pct": 16.312874942316565,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "26": {
+        "dem_votes": 7321,
+        "rep_votes": 10908,
+        "other_votes": 39,
+        "total_votes": 18268,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": 3587,
+        "margin_pct": 19.63542807094373,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "27": {
+        "dem_votes": 12057,
+        "rep_votes": 13851,
+        "other_votes": 70,
+        "total_votes": 25978,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": 1794,
+        "margin_pct": 6.905843405958888,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "28": {
+        "dem_votes": 8902,
+        "rep_votes": 12422,
+        "other_votes": 41,
+        "total_votes": 21365,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": 3520,
+        "margin_pct": 16.475544114205476,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "29": {
+        "dem_votes": 9015,
+        "rep_votes": 10431,
+        "other_votes": 70,
+        "total_votes": 19516,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": 1416,
+        "margin_pct": 7.2555851608936255,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "3": {
+        "dem_votes": 10362,
+        "rep_votes": 11515,
+        "other_votes": 55,
+        "total_votes": 21932,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": 1153,
+        "margin_pct": 5.2571584898778045,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "30": {
+        "dem_votes": 11753,
+        "rep_votes": 12663,
+        "other_votes": 132,
+        "total_votes": 24548,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": 910,
+        "margin_pct": 3.7070229753951445,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "31": {
+        "dem_votes": 9594,
+        "rep_votes": 11016,
+        "other_votes": 83,
+        "total_votes": 20693,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": 1421,
+        "margin_pct": 6.868089383747007,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "32": {
+        "dem_votes": 8399,
+        "rep_votes": 11674,
+        "other_votes": 90,
+        "total_votes": 20163,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": 3275,
+        "margin_pct": 16.24262262560135,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "33": {
+        "dem_votes": 12578,
+        "rep_votes": 10871,
+        "other_votes": 109,
+        "total_votes": 23558,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": -1707,
+        "margin_pct": -7.2459461753968935,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "34": {
+        "dem_votes": 10763,
+        "rep_votes": 13509,
+        "other_votes": 109,
+        "total_votes": 24381,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": 2746,
+        "margin_pct": 11.262868627209713,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "35": {
+        "dem_votes": 8847,
+        "rep_votes": 13437,
+        "other_votes": 49,
+        "total_votes": 22333,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": 4590,
+        "margin_pct": 20.5525455603815,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "36": {
+        "dem_votes": 8102,
+        "rep_votes": 13419,
+        "other_votes": 65,
+        "total_votes": 21586,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": 5317,
+        "margin_pct": 24.63170573519874,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "37": {
+        "dem_votes": 10963,
+        "rep_votes": 10956,
+        "other_votes": 62,
+        "total_votes": 21981,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": -7,
+        "margin_pct": -0.03324131228222471,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "38": {
+        "dem_votes": 12190,
+        "rep_votes": 13627,
+        "other_votes": 98,
+        "total_votes": 25915,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": 1437,
+        "margin_pct": 5.5450511286899475,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "39": {
+        "dem_votes": 8288,
+        "rep_votes": 12611,
+        "other_votes": 5,
+        "total_votes": 20904,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": 4322,
+        "margin_pct": 20.677366117343155,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "4": {
+        "dem_votes": 11362,
+        "rep_votes": 10555,
+        "other_votes": 66,
+        "total_votes": 21983,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": -808,
+        "margin_pct": -3.673292999135696,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "40": {
+        "dem_votes": 8196,
+        "rep_votes": 12503,
+        "other_votes": 45,
+        "total_votes": 20744,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": 4307,
+        "margin_pct": 20.762630158118007,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "41": {
+        "dem_votes": 9309,
+        "rep_votes": 10840,
+        "other_votes": 65,
+        "total_votes": 20214,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": 1531,
+        "margin_pct": 7.573958642524984,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "42": {
+        "dem_votes": 10297,
+        "rep_votes": 11852,
+        "other_votes": 65,
+        "total_votes": 22214,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": 1555,
+        "margin_pct": 7.0000900333123255,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "43": {
+        "dem_votes": 18148,
+        "rep_votes": 8924,
+        "other_votes": 60,
+        "total_votes": 27132,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": -9224,
+        "margin_pct": -33.9992259919282,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "44": {
+        "dem_votes": 10024,
+        "rep_votes": 5496,
+        "other_votes": 50,
+        "total_votes": 15570,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": -4528,
+        "margin_pct": -29.081567116249197,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "45": {
+        "dem_votes": 10405,
+        "rep_votes": 7469,
+        "other_votes": 71,
+        "total_votes": 17945,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": -2936,
+        "margin_pct": -16.359705093983184,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "46": {
+        "dem_votes": 18719,
+        "rep_votes": 7258,
+        "other_votes": 82,
+        "total_votes": 26058,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": -11460,
+        "margin_pct": -43.9798913982002,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "47": {
+        "dem_votes": 22265,
+        "rep_votes": 6138,
+        "other_votes": 83,
+        "total_votes": 28486,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": -16127,
+        "margin_pct": -56.613775187811555,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "48": {
+        "dem_votes": 26217,
+        "rep_votes": 4996,
+        "other_votes": 127,
+        "total_votes": 31340,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": -21221,
+        "margin_pct": -67.71218889597958,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "49": {
+        "dem_votes": 9817,
+        "rep_votes": 8919,
+        "other_votes": 30,
+        "total_votes": 18766,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": -898,
+        "margin_pct": -4.785249920068209,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "5": {
+        "dem_votes": 9624,
+        "rep_votes": 11144,
+        "other_votes": 20,
+        "total_votes": 20788,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": 1520,
+        "margin_pct": 7.309505483933039,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "50": {
+        "dem_votes": 9051,
+        "rep_votes": 9750,
+        "other_votes": 37,
+        "total_votes": 18838,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": 699,
+        "margin_pct": 3.7105849877906363,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "51": {
+        "dem_votes": 12549,
+        "rep_votes": 9732,
+        "other_votes": 39,
+        "total_votes": 22320,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": -2817,
+        "margin_pct": -12.620967741935484,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "52": {
+        "dem_votes": 8127,
+        "rep_votes": 11085,
+        "other_votes": 42,
+        "total_votes": 19254,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": 2958,
+        "margin_pct": 15.363041445933312,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "53": {
+        "dem_votes": 7885,
+        "rep_votes": 11559,
+        "other_votes": 48,
+        "total_votes": 19493,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": 3674,
+        "margin_pct": 18.847791514902788,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "54": {
+        "dem_votes": 10404,
+        "rep_votes": 7618,
+        "other_votes": 71,
+        "total_votes": 18093,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": -2786,
+        "margin_pct": -15.398220306195768,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "55": {
+        "dem_votes": 11504,
+        "rep_votes": 10944,
+        "other_votes": 50,
+        "total_votes": 22499,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": -560,
+        "margin_pct": -2.489692027562999,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "56": {
+        "dem_votes": 11028,
+        "rep_votes": 12090,
+        "other_votes": 1,
+        "total_votes": 23119,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": 1062,
+        "margin_pct": 4.592625701546014,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "57": {
+        "dem_votes": 10157,
+        "rep_votes": 6806,
+        "other_votes": 29,
+        "total_votes": 16992,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": -3351,
+        "margin_pct": -19.71909732133136,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "58": {
+        "dem_votes": 8659,
+        "rep_votes": 16161,
+        "other_votes": 82,
+        "total_votes": 24903,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": 7502,
+        "margin_pct": 30.126446632774694,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "59": {
+        "dem_votes": 7949,
+        "rep_votes": 17079,
+        "other_votes": 53,
+        "total_votes": 25080,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": 9130,
+        "margin_pct": 36.40321847513178,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "6": {
+        "dem_votes": 8022,
+        "rep_votes": 13734,
+        "other_votes": 27,
+        "total_votes": 21784,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": 5712,
+        "margin_pct": 26.221079691516707,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "60": {
+        "dem_votes": 10941,
+        "rep_votes": 16641,
+        "other_votes": 116,
+        "total_votes": 27698,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": 5700,
+        "margin_pct": 20.577965515996436,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "61": {
+        "dem_votes": 9216,
+        "rep_votes": 12908,
+        "other_votes": 107,
+        "total_votes": 22231,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": 3693,
+        "margin_pct": 16.61193828437767,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "62": {
+        "dem_votes": 9956,
+        "rep_votes": 13430,
+        "other_votes": 82,
+        "total_votes": 23467,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": 3474,
+        "margin_pct": 14.803719785971689,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "63": {
+        "dem_votes": 9948,
+        "rep_votes": 12815,
+        "other_votes": 97,
+        "total_votes": 22860,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": 2867,
+        "margin_pct": 12.541848935549726,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "64": {
+        "dem_votes": 7736,
+        "rep_votes": 6124,
+        "other_votes": 59,
+        "total_votes": 13919,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": -1612,
+        "margin_pct": -11.584165529132843,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "65": {
+        "dem_votes": 10355,
+        "rep_votes": 8013,
+        "other_votes": 99,
+        "total_votes": 18467,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": -2342,
+        "margin_pct": -12.682081550874532,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "66": {
+        "dem_votes": 7028,
+        "rep_votes": 4100,
+        "other_votes": 80,
+        "total_votes": 11208,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": -2928,
+        "margin_pct": -26.124197002141326,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "67": {
+        "dem_votes": 8877,
+        "rep_votes": 10980,
+        "other_votes": 96,
+        "total_votes": 19953,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": 2103,
+        "margin_pct": 10.539768455871297,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "68": {
+        "dem_votes": 9238,
+        "rep_votes": 10149,
+        "other_votes": 138,
+        "total_votes": 19525,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": 911,
+        "margin_pct": 4.665847198443002,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "69": {
+        "dem_votes": 8253,
+        "rep_votes": 11065,
+        "other_votes": 36,
+        "total_votes": 19354,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": 2813,
+        "margin_pct": 14.53274086321518,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "7": {
+        "dem_votes": 8967,
+        "rep_votes": 5766,
+        "other_votes": 57,
+        "total_votes": 14790,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": -3201,
+        "margin_pct": -21.643002028397564,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "70": {
+        "dem_votes": 8550,
+        "rep_votes": 11154,
+        "other_votes": 76,
+        "total_votes": 19781,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": 2604,
+        "margin_pct": 13.163049934911466,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "71": {
+        "dem_votes": 13248,
+        "rep_votes": 10035,
+        "other_votes": 158,
+        "total_votes": 23441,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": -3213,
+        "margin_pct": -13.705540446861836,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "72": {
+        "dem_votes": 9129,
+        "rep_votes": 12388,
+        "other_votes": 113,
+        "total_votes": 21630,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": 3259,
+        "margin_pct": 15.067036523347202,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "73": {
+        "dem_votes": 10298,
+        "rep_votes": 9952,
+        "other_votes": 66,
+        "total_votes": 20316,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": -346,
+        "margin_pct": -1.7030911596771017,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "74": {
+        "dem_votes": 12299,
+        "rep_votes": 11638,
+        "other_votes": 83,
+        "total_votes": 24020,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": -661,
+        "margin_pct": -2.7518734388009993,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "75": {
+        "dem_votes": 8364,
+        "rep_votes": 13073,
+        "other_votes": 122,
+        "total_votes": 21559,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": 4709,
+        "margin_pct": 21.842386010482862,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "76": {
+        "dem_votes": 20183,
+        "rep_votes": 2665,
+        "other_votes": 132,
+        "total_votes": 22980,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": -17518,
+        "margin_pct": -76.23150565709312,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "77": {
+        "dem_votes": 21678,
+        "rep_votes": 3572,
+        "other_votes": 119,
+        "total_votes": 25369,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": -18106,
+        "margin_pct": -71.37057038117388,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "78": {
+        "dem_votes": 27261,
+        "rep_votes": 5847,
+        "other_votes": 126,
+        "total_votes": 33234,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": -21414,
+        "margin_pct": -64.43401335981224,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "79": {
+        "dem_votes": 20892,
+        "rep_votes": 6614,
+        "other_votes": 90,
+        "total_votes": 27595,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": -14278,
+        "margin_pct": -51.739463809796774,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "8": {
+        "dem_votes": 9158,
+        "rep_votes": 3173,
+        "other_votes": 53,
+        "total_votes": 12384,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": -5985,
+        "margin_pct": -48.32848837209303,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "80": {
+        "dem_votes": 20189,
+        "rep_votes": 7934,
+        "other_votes": 84,
+        "total_votes": 28208,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": -12255,
+        "margin_pct": -43.4458920499867,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "81": {
+        "dem_votes": 15652,
+        "rep_votes": 9349,
+        "other_votes": 44,
+        "total_votes": 25045,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": -6303,
+        "margin_pct": -25.166699940107804,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "82": {
+        "dem_votes": 10446,
+        "rep_votes": 11842,
+        "other_votes": 67,
+        "total_votes": 22354,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": 1396,
+        "margin_pct": 6.2463187874178905,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "83": {
+        "dem_votes": 9732,
+        "rep_votes": 18653,
+        "other_votes": 88,
+        "total_votes": 28473,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": 8921,
+        "margin_pct": 31.330813718731065,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "84": {
+        "dem_votes": 8739,
+        "rep_votes": 7303,
+        "other_votes": 50,
+        "total_votes": 16092,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": -1436,
+        "margin_pct": -8.923873640600725,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "85": {
+        "dem_votes": 10016,
+        "rep_votes": 9818,
+        "other_votes": 89,
+        "total_votes": 19923,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": -198,
+        "margin_pct": -0.9938262309893089,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "86": {
+        "dem_votes": 9575,
+        "rep_votes": 13111,
+        "other_votes": 66,
+        "total_votes": 22752,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": 3535,
+        "margin_pct": 15.538560712611341,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "87": {
+        "dem_votes": 7867,
+        "rep_votes": 13357,
+        "other_votes": 64,
+        "total_votes": 21288,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": 5490,
+        "margin_pct": 25.789177001127396,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "88": {
+        "dem_votes": 10382,
+        "rep_votes": 10280,
+        "other_votes": 40,
+        "total_votes": 20702,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": -102,
+        "margin_pct": -0.4927060187421505,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "89": {
+        "dem_votes": 8489,
+        "rep_votes": 12759,
+        "other_votes": 127,
+        "total_votes": 21375,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": 4270,
+        "margin_pct": 19.976608187134502,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "9": {
+        "dem_votes": 8647,
+        "rep_votes": 3635,
+        "other_votes": 40,
+        "total_votes": 12322,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": -5012,
+        "margin_pct": -40.675215062489855,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "90": {
+        "dem_votes": 8248,
+        "rep_votes": 5616,
+        "other_votes": 54,
+        "total_votes": 13918,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": -2632,
+        "margin_pct": -18.91076304066676,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "91": {
+        "dem_votes": 14610,
+        "rep_votes": 6792,
+        "other_votes": 126,
+        "total_votes": 21528,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": -7818,
+        "margin_pct": -36.315496098104795,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "92": {
+        "dem_votes": 8826,
+        "rep_votes": 11676,
+        "other_votes": 550,
+        "total_votes": 21052,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": 2850,
+        "margin_pct": 13.537906137184116,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "93": {
+        "dem_votes": 10524,
+        "rep_votes": 11835,
+        "other_votes": 79,
+        "total_votes": 22438,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": 1311,
+        "margin_pct": 5.842729535803192,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "94": {
+        "dem_votes": 12518,
+        "rep_votes": 10206,
+        "other_votes": 1,
+        "total_votes": 22726,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": -2312,
+        "margin_pct": -10.17579371190953,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "95": {
+        "dem_votes": 13528,
+        "rep_votes": 6093,
+        "other_votes": 2,
+        "total_votes": 19624,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": -7436,
+        "margin_pct": -37.89079420083063,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "96": {
+        "dem_votes": 10677,
+        "rep_votes": 10420,
+        "other_votes": 85,
+        "total_votes": 21182,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": -257,
+        "margin_pct": -1.2132943064866395,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "97": {
+        "dem_votes": 12537,
+        "rep_votes": 16511,
+        "other_votes": 73,
+        "total_votes": 29122,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": 3974,
+        "margin_pct": 13.647145374582276,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "98": {
+        "dem_votes": 8081,
+        "rep_votes": 10769,
+        "other_votes": 49,
+        "total_votes": 18899,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": 2688,
+        "margin_pct": 14.22310019136984,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "99": {
+        "dem_votes": 9478,
+        "rep_votes": 17485,
+        "other_votes": 72,
+        "total_votes": 27035,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Brittany Kinser",
+        "margin": 8007,
+        "margin_pct": 29.61691161964884,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      }
+    }
+  }
+}

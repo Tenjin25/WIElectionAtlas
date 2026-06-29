@@ -1,0 +1,567 @@
+{
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 8323,
+        "rep_votes": 16542,
+        "other_votes": 49,
+        "total_votes": 24914,
+        "dem_candidate": "Linda M. Clifford",
+        "rep_candidate": "Annette K. Ziegler",
+        "margin": 8218,
+        "margin_pct": 32.987251797822616,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "10": {
+        "dem_votes": 6044,
+        "rep_votes": 7464,
+        "other_votes": 25,
+        "total_votes": 13533,
+        "dem_candidate": "Linda M. Clifford",
+        "rep_candidate": "Annette K. Ziegler",
+        "margin": 1420,
+        "margin_pct": 10.492869282494642,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "11": {
+        "dem_votes": 7952,
+        "rep_votes": 15046,
+        "other_votes": 56,
+        "total_votes": 23054,
+        "dem_candidate": "Linda M. Clifford",
+        "rep_candidate": "Annette K. Ziegler",
+        "margin": 7094,
+        "margin_pct": 30.77123275787282,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "12": {
+        "dem_votes": 10535,
+        "rep_votes": 14413,
+        "other_votes": 50,
+        "total_votes": 24998,
+        "dem_candidate": "Linda M. Clifford",
+        "rep_candidate": "Annette K. Ziegler",
+        "margin": 3878,
+        "margin_pct": 15.513241059284743,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "13": {
+        "dem_votes": 7676,
+        "rep_votes": 15155,
+        "other_votes": 28,
+        "total_votes": 22859,
+        "dem_candidate": "Linda M. Clifford",
+        "rep_candidate": "Annette K. Ziegler",
+        "margin": 7479,
+        "margin_pct": 32.720153987488516,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "14": {
+        "dem_votes": 10709,
+        "rep_votes": 11895,
+        "other_votes": 69,
+        "total_votes": 22673,
+        "dem_candidate": "Linda M. Clifford",
+        "rep_candidate": "Annette K. Ziegler",
+        "margin": 1186,
+        "margin_pct": 5.2330389335450365,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "15": {
+        "dem_votes": 8921,
+        "rep_votes": 8991,
+        "other_votes": 73,
+        "total_votes": 17985,
+        "dem_candidate": "Linda M. Clifford",
+        "rep_candidate": "Annette K. Ziegler",
+        "margin": 70,
+        "margin_pct": 0.3892132332499305,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "16": {
+        "dem_votes": 12181,
+        "rep_votes": 11319,
+        "other_votes": 72,
+        "total_votes": 23573,
+        "dem_candidate": "Linda M. Clifford",
+        "rep_candidate": "Annette K. Ziegler",
+        "margin": -862,
+        "margin_pct": -3.6561808273222787,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "17": {
+        "dem_votes": 9537,
+        "rep_votes": 10059,
+        "other_votes": 62,
+        "total_votes": 19658,
+        "dem_candidate": "Linda M. Clifford",
+        "rep_candidate": "Annette K. Ziegler",
+        "margin": 522,
+        "margin_pct": 2.6554074676976294,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "18": {
+        "dem_votes": 7729,
+        "rep_votes": 11706,
+        "other_votes": 50,
+        "total_votes": 19486,
+        "dem_candidate": "Linda M. Clifford",
+        "rep_candidate": "Annette K. Ziegler",
+        "margin": 3977,
+        "margin_pct": 20.40787286776498,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "19": {
+        "dem_votes": 7174,
+        "rep_votes": 14152,
+        "other_votes": 40,
+        "total_votes": 21364,
+        "dem_candidate": "Linda M. Clifford",
+        "rep_candidate": "Annette K. Ziegler",
+        "margin": 6978,
+        "margin_pct": 32.66165835849189,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "2": {
+        "dem_votes": 7380,
+        "rep_votes": 14255,
+        "other_votes": 45,
+        "total_votes": 21679,
+        "dem_candidate": "Linda M. Clifford",
+        "rep_candidate": "Annette K. Ziegler",
+        "margin": 6875,
+        "margin_pct": 31.712439766168192,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "20": {
+        "dem_votes": 5910,
+        "rep_votes": 20949,
+        "other_votes": 32,
+        "total_votes": 26891,
+        "dem_candidate": "Linda M. Clifford",
+        "rep_candidate": "Annette K. Ziegler",
+        "margin": 15039,
+        "margin_pct": 55.92577442266929,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "21": {
+        "dem_votes": 10033,
+        "rep_votes": 17151,
+        "other_votes": 70,
+        "total_votes": 27255,
+        "dem_candidate": "Linda M. Clifford",
+        "rep_candidate": "Annette K. Ziegler",
+        "margin": 7118,
+        "margin_pct": 26.115495675975154,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "22": {
+        "dem_votes": 7503,
+        "rep_votes": 9041,
+        "other_votes": 33,
+        "total_votes": 16577,
+        "dem_candidate": "Linda M. Clifford",
+        "rep_candidate": "Annette K. Ziegler",
+        "margin": 1538,
+        "margin_pct": 9.276820616765601,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "23": {
+        "dem_votes": 8132,
+        "rep_votes": 10775,
+        "other_votes": 34,
+        "total_votes": 18940,
+        "dem_candidate": "Linda M. Clifford",
+        "rep_candidate": "Annette K. Ziegler",
+        "margin": 2644,
+        "margin_pct": 13.956864919088725,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "24": {
+        "dem_votes": 10378,
+        "rep_votes": 13909,
+        "other_votes": 47,
+        "total_votes": 24334,
+        "dem_candidate": "Linda M. Clifford",
+        "rep_candidate": "Annette K. Ziegler",
+        "margin": 3531,
+        "margin_pct": 14.510561354483439,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "25": {
+        "dem_votes": 9405,
+        "rep_votes": 9367,
+        "other_votes": 21,
+        "total_votes": 18793,
+        "dem_candidate": "Linda M. Clifford",
+        "rep_candidate": "Annette K. Ziegler",
+        "margin": -38,
+        "margin_pct": -0.20220294790613524,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "26": {
+        "dem_votes": 26891,
+        "rep_votes": 9248,
+        "other_votes": 83,
+        "total_votes": 36222,
+        "dem_candidate": "Linda M. Clifford",
+        "rep_candidate": "Annette K. Ziegler",
+        "margin": -17642,
+        "margin_pct": -48.70540908284198,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "27": {
+        "dem_votes": 14246,
+        "rep_votes": 8513,
+        "other_votes": 47,
+        "total_votes": 22806,
+        "dem_candidate": "Linda M. Clifford",
+        "rep_candidate": "Annette K. Ziegler",
+        "margin": -5733,
+        "margin_pct": -25.13812154696133,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "28": {
+        "dem_votes": 6615,
+        "rep_votes": 17566,
+        "other_votes": 27,
+        "total_votes": 24208,
+        "dem_candidate": "Linda M. Clifford",
+        "rep_candidate": "Annette K. Ziegler",
+        "margin": 10951,
+        "margin_pct": 45.23711169861203,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "29": {
+        "dem_votes": 8892,
+        "rep_votes": 11638,
+        "other_votes": 35,
+        "total_votes": 20565,
+        "dem_candidate": "Linda M. Clifford",
+        "rep_candidate": "Annette K. Ziegler",
+        "margin": 2746,
+        "margin_pct": 13.35278385606613,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "3": {
+        "dem_votes": 6422,
+        "rep_votes": 8150,
+        "other_votes": 55,
+        "total_votes": 14627,
+        "dem_candidate": "Linda M. Clifford",
+        "rep_candidate": "Annette K. Ziegler",
+        "margin": 1728,
+        "margin_pct": 11.813769057222943,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "30": {
+        "dem_votes": 8845,
+        "rep_votes": 15569,
+        "other_votes": 90,
+        "total_votes": 24504,
+        "dem_candidate": "Linda M. Clifford",
+        "rep_candidate": "Annette K. Ziegler",
+        "margin": 6724,
+        "margin_pct": 27.44041789095658,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "31": {
+        "dem_votes": 10368,
+        "rep_votes": 12345,
+        "other_votes": 77,
+        "total_votes": 22790,
+        "dem_candidate": "Linda M. Clifford",
+        "rep_candidate": "Annette K. Ziegler",
+        "margin": 1978,
+        "margin_pct": 8.677241712192018,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "32": {
+        "dem_votes": 10124,
+        "rep_votes": 13015,
+        "other_votes": 71,
+        "total_votes": 23210,
+        "dem_candidate": "Linda M. Clifford",
+        "rep_candidate": "Annette K. Ziegler",
+        "margin": 2891,
+        "margin_pct": 12.455838000861698,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "33": {
+        "dem_votes": 6935,
+        "rep_votes": 21693,
+        "other_votes": 40,
+        "total_votes": 28668,
+        "dem_candidate": "Linda M. Clifford",
+        "rep_candidate": "Annette K. Ziegler",
+        "margin": 14758,
+        "margin_pct": 51.480416916658534,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "4": {
+        "dem_votes": 10336,
+        "rep_votes": 7851,
+        "other_votes": 78,
+        "total_votes": 18264,
+        "dem_candidate": "Linda M. Clifford",
+        "rep_candidate": "Annette K. Ziegler",
+        "margin": -2484,
+        "margin_pct": -13.602102458343223,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "5": {
+        "dem_votes": 8974,
+        "rep_votes": 21683,
+        "other_votes": 62,
+        "total_votes": 30720,
+        "dem_candidate": "Linda M. Clifford",
+        "rep_candidate": "Annette K. Ziegler",
+        "margin": 12708,
+        "margin_pct": 41.369488435684175,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "6": {
+        "dem_votes": 7187,
+        "rep_votes": 8201,
+        "other_votes": 69,
+        "total_votes": 15457,
+        "dem_candidate": "Linda M. Clifford",
+        "rep_candidate": "Annette K. Ziegler",
+        "margin": 1014,
+        "margin_pct": 6.56013456686291,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "7": {
+        "dem_votes": 5828,
+        "rep_votes": 8500,
+        "other_votes": 49,
+        "total_votes": 14377,
+        "dem_candidate": "Linda M. Clifford",
+        "rep_candidate": "Annette K. Ziegler",
+        "margin": 2672,
+        "margin_pct": 18.58524031439104,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "8": {
+        "dem_votes": 9592,
+        "rep_votes": 21548,
+        "other_votes": 62,
+        "total_votes": 31202,
+        "dem_candidate": "Linda M. Clifford",
+        "rep_candidate": "Annette K. Ziegler",
+        "margin": 11956,
+        "margin_pct": 38.318401986193216,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "9": {
+        "dem_votes": 9015,
+        "rep_votes": 17291,
+        "other_votes": 19,
+        "total_votes": 26325,
+        "dem_candidate": "Linda M. Clifford",
+        "rep_candidate": "Annette K. Ziegler",
+        "margin": 8276,
+        "margin_pct": 31.437796771130106,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      }
+    }
+  }
+}

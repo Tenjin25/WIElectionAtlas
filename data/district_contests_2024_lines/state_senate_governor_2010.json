@@ -1,0 +1,468 @@
+{
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 27408,
+        "rep_votes": 38545,
+        "other_votes": 990,
+        "total_votes": 66943,
+        "dem_candidate": "Tom Barrett & Tom Nelson",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": 11137,
+        "margin_pct": 16.637205376726914,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "10": {
+        "dem_votes": 22639,
+        "rep_votes": 31639,
+        "other_votes": 1084,
+        "total_votes": 55362,
+        "dem_candidate": "Tom Barrett & Tom Nelson",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": 9000,
+        "margin_pct": 16.256638127235288,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "11": {
+        "dem_votes": 17941,
+        "rep_votes": 36867,
+        "other_votes": 688,
+        "total_votes": 55496,
+        "dem_candidate": "Tom Barrett & Tom Nelson",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": 18926,
+        "margin_pct": 34.103666063014124,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "12": {
+        "dem_votes": 28472,
+        "rep_votes": 41012,
+        "other_votes": 1230,
+        "total_votes": 70714,
+        "dem_candidate": "Tom Barrett & Tom Nelson",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": 12540,
+        "margin_pct": 17.733404983454477,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "13": {
+        "dem_votes": 21780,
+        "rep_votes": 39944,
+        "other_votes": 1072,
+        "total_votes": 62796,
+        "dem_candidate": "Tom Barrett & Tom Nelson",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": 18164,
+        "margin_pct": 28.924613032677243,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "14": {
+        "dem_votes": 31187,
+        "rep_votes": 30016,
+        "other_votes": 948,
+        "total_votes": 62151,
+        "dem_candidate": "Tom Barrett & Tom Nelson",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": -1170,
+        "margin_pct": -1.88331643899535,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "15": {
+        "dem_votes": 29643,
+        "rep_votes": 25864,
+        "other_votes": 1046,
+        "total_votes": 56553,
+        "dem_candidate": "Tom Barrett & Tom Nelson",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": -3779,
+        "margin_pct": -6.682227291213552,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "16": {
+        "dem_votes": 36208,
+        "rep_votes": 27995,
+        "other_votes": 754,
+        "total_votes": 64957,
+        "dem_candidate": "Tom Barrett & Tom Nelson",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": -8214,
+        "margin_pct": -12.644628644443905,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "17": {
+        "dem_votes": 31883,
+        "rep_votes": 29212,
+        "other_votes": 1013,
+        "total_votes": 62108,
+        "dem_candidate": "Tom Barrett & Tom Nelson",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": -2671,
+        "margin_pct": -4.300573195079538,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "18": {
+        "dem_votes": 26944,
+        "rep_votes": 28860,
+        "other_votes": 964,
+        "total_votes": 56768,
+        "dem_candidate": "Tom Barrett & Tom Nelson",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": 1916,
+        "margin_pct": 3.3750040369105707,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "19": {
+        "dem_votes": 24402,
+        "rep_votes": 37172,
+        "other_votes": 957,
+        "total_votes": 62531,
+        "dem_candidate": "Tom Barrett & Tom Nelson",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": 12771,
+        "margin_pct": 20.423469958900387,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "2": {
+        "dem_votes": 22973,
+        "rep_votes": 33289,
+        "other_votes": 765,
+        "total_votes": 57026,
+        "dem_candidate": "Tom Barrett & Tom Nelson",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": 10316,
+        "margin_pct": 18.089888297219417,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "20": {
+        "dem_votes": 19496,
+        "rep_votes": 50145,
+        "other_votes": 632,
+        "total_votes": 70273,
+        "dem_candidate": "Tom Barrett & Tom Nelson",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": 30649,
+        "margin_pct": 43.614190371835555,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "21": {
+        "dem_votes": 31173,
+        "rep_votes": 37583,
+        "other_votes": 500,
+        "total_votes": 69256,
+        "dem_candidate": "Tom Barrett & Tom Nelson",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": 6410,
+        "margin_pct": 9.255448947030242,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "22": {
+        "dem_votes": 29166,
+        "rep_votes": 25642,
+        "other_votes": 564,
+        "total_votes": 55372,
+        "dem_candidate": "Tom Barrett & Tom Nelson",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": -3523,
+        "margin_pct": -6.3624788925710885,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "23": {
+        "dem_votes": 24166,
+        "rep_votes": 35119,
+        "other_votes": 1509,
+        "total_votes": 60794,
+        "dem_candidate": "Tom Barrett & Tom Nelson",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": 10952,
+        "margin_pct": 18.015198743307373,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "24": {
+        "dem_votes": 29354,
+        "rep_votes": 31927,
+        "other_votes": 1194,
+        "total_votes": 62475,
+        "dem_candidate": "Tom Barrett & Tom Nelson",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": 2573,
+        "margin_pct": 4.118447378951581,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "25": {
+        "dem_votes": 30502,
+        "rep_votes": 31642,
+        "other_votes": 975,
+        "total_votes": 63119,
+        "dem_candidate": "Tom Barrett & Tom Nelson",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": 1140,
+        "margin_pct": 1.806112264135997,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "26": {
+        "dem_votes": 64194,
+        "rep_votes": 16307,
+        "other_votes": 887,
+        "total_votes": 81388,
+        "dem_candidate": "Tom Barrett & Tom Nelson",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": -47886,
+        "margin_pct": -58.83721011872582,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "27": {
+        "dem_votes": 40326,
+        "rep_votes": 21871,
+        "other_votes": 585,
+        "total_votes": 62782,
+        "dem_candidate": "Tom Barrett & Tom Nelson",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": -18455,
+        "margin_pct": -29.395368099136693,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "28": {
+        "dem_votes": 23214,
+        "rep_votes": 54477,
+        "other_votes": 458,
+        "total_votes": 78149,
+        "dem_candidate": "Tom Barrett & Tom Nelson",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": 31263,
+        "margin_pct": 40.00460659795633,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "29": {
+        "dem_votes": 26909,
+        "rep_votes": 36670,
+        "other_votes": 1201,
+        "total_votes": 64780,
+        "dem_candidate": "Tom Barrett & Tom Nelson",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": 9761,
+        "margin_pct": 15.067922198209324,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "3": {
+        "dem_votes": 31512,
+        "rep_votes": 21404,
+        "other_votes": 556,
+        "total_votes": 53472,
+        "dem_candidate": "Tom Barrett & Tom Nelson",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": -10108,
+        "margin_pct": -18.903351286654697,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "30": {
+        "dem_votes": 25722,
+        "rep_votes": 29055,
+        "other_votes": 867,
+        "total_votes": 55644,
+        "dem_candidate": "Tom Barrett & Tom Nelson",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": 3333,
+        "margin_pct": 5.989864136295019,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "31": {
+        "dem_votes": 28658,
+        "rep_votes": 29538,
+        "other_votes": 1166,
+        "total_votes": 59362,
+        "dem_candidate": "Tom Barrett & Tom Nelson",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": 881,
+        "margin_pct": 1.483705768890611,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "32": {
+        "dem_votes": 29411,
+        "rep_votes": 30590,
+        "other_votes": 1070,
+        "total_votes": 61071,
+        "dem_candidate": "Tom Barrett & Tom Nelson",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": 1179,
+        "margin_pct": 1.9305398634376383,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "33": {
+        "dem_votes": 19730,
+        "rep_votes": 61592,
+        "other_votes": 530,
+        "total_votes": 81852,
+        "dem_candidate": "Tom Barrett & Tom Nelson",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": 41862,
+        "margin_pct": 51.1428834387308,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "4": {
+        "dem_votes": 56767,
+        "rep_votes": 15754,
+        "other_votes": 389,
+        "total_votes": 72910,
+        "dem_candidate": "Tom Barrett & Tom Nelson",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": -41013,
+        "margin_pct": -56.25108581356011,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "5": {
+        "dem_votes": 27332,
+        "rep_votes": 47048,
+        "other_votes": 490,
+        "total_votes": 74870,
+        "dem_candidate": "Tom Barrett & Tom Nelson",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": 19717,
+        "margin_pct": 26.33480476289059,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "6": {
+        "dem_votes": 46582,
+        "rep_votes": 17809,
+        "other_votes": 443,
+        "total_votes": 64834,
+        "dem_candidate": "Tom Barrett & Tom Nelson",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": -28773,
+        "margin_pct": -44.379492241725025,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "7": {
+        "dem_votes": 28837,
+        "rep_votes": 21164,
+        "other_votes": 397,
+        "total_votes": 50398,
+        "dem_candidate": "Tom Barrett & Tom Nelson",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": -7673,
+        "margin_pct": -15.224810508353507,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "8": {
+        "dem_votes": 28800,
+        "rep_votes": 50336,
+        "other_votes": 440,
+        "total_votes": 79576,
+        "dem_candidate": "Tom Barrett & Tom Nelson",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": 21537,
+        "margin_pct": 27.06459333951612,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "9": {
+        "dem_votes": 26170,
+        "rep_votes": 41770,
+        "other_votes": 766,
+        "total_votes": 68706,
+        "dem_candidate": "Tom Barrett & Tom Nelson",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": 15600,
+        "margin_pct": 22.70544057287573,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      }
+    }
+  }
+}

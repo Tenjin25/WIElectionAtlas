@@ -1,0 +1,567 @@
+{
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 9633,
+        "rep_votes": 13233,
+        "other_votes": 84,
+        "total_votes": 22950,
+        "dem_candidate": "Louis Butler",
+        "rep_candidate": "Mike Gableman",
+        "margin": 3600,
+        "margin_pct": 15.685932768349268,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "10": {
+        "dem_votes": 6142,
+        "rep_votes": 8964,
+        "other_votes": 32,
+        "total_votes": 15138,
+        "dem_candidate": "Louis Butler",
+        "rep_candidate": "Mike Gableman",
+        "margin": 2822,
+        "margin_pct": 18.64182851103184,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "11": {
+        "dem_votes": 7686,
+        "rep_votes": 11854,
+        "other_votes": 84,
+        "total_votes": 19625,
+        "dem_candidate": "Louis Butler",
+        "rep_candidate": "Mike Gableman",
+        "margin": 4168,
+        "margin_pct": 21.238216560509553,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "12": {
+        "dem_votes": 10691,
+        "rep_votes": 13127,
+        "other_votes": 109,
+        "total_votes": 23927,
+        "dem_candidate": "Louis Butler",
+        "rep_candidate": "Mike Gableman",
+        "margin": 2436,
+        "margin_pct": 10.180967108287708,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "13": {
+        "dem_votes": 10753,
+        "rep_votes": 15136,
+        "other_votes": 46,
+        "total_votes": 25936,
+        "dem_candidate": "Louis Butler",
+        "rep_candidate": "Mike Gableman",
+        "margin": 4383,
+        "margin_pct": 16.898756546605405,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "14": {
+        "dem_votes": 10809,
+        "rep_votes": 8260,
+        "other_votes": 74,
+        "total_votes": 19143,
+        "dem_candidate": "Louis Butler",
+        "rep_candidate": "Mike Gableman",
+        "margin": -2548,
+        "margin_pct": -13.312960351042156,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "15": {
+        "dem_votes": 10406,
+        "rep_votes": 7720,
+        "other_votes": 29,
+        "total_votes": 18155,
+        "dem_candidate": "Louis Butler",
+        "rep_candidate": "Mike Gableman",
+        "margin": -2686,
+        "margin_pct": -14.794822362985405,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "16": {
+        "dem_votes": 11818,
+        "rep_votes": 7996,
+        "other_votes": 38,
+        "total_votes": 19853,
+        "dem_candidate": "Louis Butler",
+        "rep_candidate": "Mike Gableman",
+        "margin": -3822,
+        "margin_pct": -19.254012551854647,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "17": {
+        "dem_votes": 10038,
+        "rep_votes": 8269,
+        "other_votes": 75,
+        "total_votes": 18382,
+        "dem_candidate": "Louis Butler",
+        "rep_candidate": "Mike Gableman",
+        "margin": -1769,
+        "margin_pct": -9.623544772059624,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "18": {
+        "dem_votes": 10067,
+        "rep_votes": 10439,
+        "other_votes": 77,
+        "total_votes": 20583,
+        "dem_candidate": "Louis Butler",
+        "rep_candidate": "Mike Gableman",
+        "margin": 372,
+        "margin_pct": 1.8072801324690997,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "19": {
+        "dem_votes": 8284,
+        "rep_votes": 12245,
+        "other_votes": 49,
+        "total_votes": 20577,
+        "dem_candidate": "Louis Butler",
+        "rep_candidate": "Mike Gableman",
+        "margin": 3961,
+        "margin_pct": 19.25095574418453,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "2": {
+        "dem_votes": 7403,
+        "rep_votes": 10211,
+        "other_votes": 58,
+        "total_votes": 17672,
+        "dem_candidate": "Louis Butler",
+        "rep_candidate": "Mike Gableman",
+        "margin": 2809,
+        "margin_pct": 15.893315225592266,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "20": {
+        "dem_votes": 6803,
+        "rep_votes": 15455,
+        "other_votes": 32,
+        "total_votes": 22290,
+        "dem_candidate": "Louis Butler",
+        "rep_candidate": "Mike Gableman",
+        "margin": 8652,
+        "margin_pct": 38.81671033269927,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "21": {
+        "dem_votes": 15111,
+        "rep_votes": 17325,
+        "other_votes": 114,
+        "total_votes": 32549,
+        "dem_candidate": "Louis Butler",
+        "rep_candidate": "Mike Gableman",
+        "margin": 2214,
+        "margin_pct": 6.801354249233471,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "22": {
+        "dem_votes": 13370,
+        "rep_votes": 11646,
+        "other_votes": 56,
+        "total_votes": 25073,
+        "dem_candidate": "Louis Butler",
+        "rep_candidate": "Mike Gableman",
+        "margin": -1725,
+        "margin_pct": -6.879222737171251,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "23": {
+        "dem_votes": 8049,
+        "rep_votes": 10712,
+        "other_votes": 51,
+        "total_votes": 18812,
+        "dem_candidate": "Louis Butler",
+        "rep_candidate": "Mike Gableman",
+        "margin": 2663,
+        "margin_pct": 14.157375044852285,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "24": {
+        "dem_votes": 9139,
+        "rep_votes": 9332,
+        "other_votes": 71,
+        "total_votes": 18542,
+        "dem_candidate": "Louis Butler",
+        "rep_candidate": "Mike Gableman",
+        "margin": 193,
+        "margin_pct": 1.0408801639521088,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "25": {
+        "dem_votes": 6388,
+        "rep_votes": 8888,
+        "other_votes": 20,
+        "total_votes": 15296,
+        "dem_candidate": "Louis Butler",
+        "rep_candidate": "Mike Gableman",
+        "margin": 2500,
+        "margin_pct": 16.344142259414227,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "26": {
+        "dem_votes": 21206,
+        "rep_votes": 4304,
+        "other_votes": 38,
+        "total_votes": 25548,
+        "dem_candidate": "Louis Butler",
+        "rep_candidate": "Mike Gableman",
+        "margin": -16903,
+        "margin_pct": -66.16043570158469,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "27": {
+        "dem_votes": 15114,
+        "rep_votes": 6609,
+        "other_votes": 50,
+        "total_votes": 21773,
+        "dem_candidate": "Louis Butler",
+        "rep_candidate": "Mike Gableman",
+        "margin": -8505,
+        "margin_pct": -39.06214118403527,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "28": {
+        "dem_votes": 8117,
+        "rep_votes": 16456,
+        "other_votes": 29,
+        "total_votes": 24602,
+        "dem_candidate": "Louis Butler",
+        "rep_candidate": "Mike Gableman",
+        "margin": 8339,
+        "margin_pct": 33.89670674503492,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "29": {
+        "dem_votes": 11371,
+        "rep_votes": 11815,
+        "other_votes": 80,
+        "total_votes": 23266,
+        "dem_candidate": "Louis Butler",
+        "rep_candidate": "Mike Gableman",
+        "margin": 444,
+        "margin_pct": 1.9083641365082096,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "3": {
+        "dem_votes": 14357,
+        "rep_votes": 11560,
+        "other_votes": 162,
+        "total_votes": 26079,
+        "dem_candidate": "Louis Butler",
+        "rep_candidate": "Mike Gableman",
+        "margin": -2797,
+        "margin_pct": -10.725104490202845,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "30": {
+        "dem_votes": 9168,
+        "rep_votes": 9422,
+        "other_votes": 113,
+        "total_votes": 18703,
+        "dem_candidate": "Louis Butler",
+        "rep_candidate": "Mike Gableman",
+        "margin": 254,
+        "margin_pct": 1.3580708977169438,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "31": {
+        "dem_votes": 9287,
+        "rep_votes": 8048,
+        "other_votes": 41,
+        "total_votes": 17376,
+        "dem_candidate": "Louis Butler",
+        "rep_candidate": "Mike Gableman",
+        "margin": -1239,
+        "margin_pct": -7.131861017193007,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "32": {
+        "dem_votes": 10669,
+        "rep_votes": 9115,
+        "other_votes": 90,
+        "total_votes": 19874,
+        "dem_candidate": "Louis Butler",
+        "rep_candidate": "Mike Gableman",
+        "margin": -1554,
+        "margin_pct": -7.8192613464828415,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "33": {
+        "dem_votes": 8127,
+        "rep_votes": 18806,
+        "other_votes": 41,
+        "total_votes": 26974,
+        "dem_candidate": "Louis Butler",
+        "rep_candidate": "Mike Gableman",
+        "margin": 10679,
+        "margin_pct": 39.58849262252539,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "4": {
+        "dem_votes": 22413,
+        "rep_votes": 8789,
+        "other_votes": 146,
+        "total_votes": 31348,
+        "dem_candidate": "Louis Butler",
+        "rep_candidate": "Mike Gableman",
+        "margin": -13624,
+        "margin_pct": -43.460738913375195,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "5": {
+        "dem_votes": 14157,
+        "rep_votes": 20449,
+        "other_votes": 121,
+        "total_votes": 34727,
+        "dem_candidate": "Louis Butler",
+        "rep_candidate": "Mike Gableman",
+        "margin": 6292,
+        "margin_pct": 18.118466898954704,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "6": {
+        "dem_votes": 18698,
+        "rep_votes": 10546,
+        "other_votes": 155,
+        "total_votes": 29399,
+        "dem_candidate": "Louis Butler",
+        "rep_candidate": "Mike Gableman",
+        "margin": -8152,
+        "margin_pct": -27.728834314092314,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "7": {
+        "dem_votes": 11915,
+        "rep_votes": 10413,
+        "other_votes": 121,
+        "total_votes": 22449,
+        "dem_candidate": "Louis Butler",
+        "rep_candidate": "Mike Gableman",
+        "margin": -1502,
+        "margin_pct": -6.690721190253464,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "8": {
+        "dem_votes": 12879,
+        "rep_votes": 18080,
+        "other_votes": 64,
+        "total_votes": 31023,
+        "dem_candidate": "Louis Butler",
+        "rep_candidate": "Mike Gableman",
+        "margin": 5201,
+        "margin_pct": 16.7643541505272,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "9": {
+        "dem_votes": 9554,
+        "rep_votes": 14146,
+        "other_votes": 34,
+        "total_votes": 23734,
+        "dem_candidate": "Louis Butler",
+        "rep_candidate": "Mike Gableman",
+        "margin": 4592,
+        "margin_pct": 19.347771130024437,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      }
+    }
+  }
+}

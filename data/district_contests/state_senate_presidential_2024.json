@@ -1,0 +1,468 @@
+{
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 46351,
+        "rep_votes": 62699,
+        "other_votes": 1611,
+        "total_votes": 110660,
+        "dem_candidate": "Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump",
+        "margin": 16348,
+        "margin_pct": 14.7728827737916,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "10": {
+        "dem_votes": 43204,
+        "rep_votes": 66448,
+        "other_votes": 1889,
+        "total_votes": 111541,
+        "dem_candidate": "Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump",
+        "margin": 23244,
+        "margin_pct": 20.838974009557024,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "11": {
+        "dem_votes": 43560,
+        "rep_votes": 58260,
+        "other_votes": 1506,
+        "total_votes": 103326,
+        "dem_candidate": "Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump",
+        "margin": 14700,
+        "margin_pct": 14.227231155608678,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "12": {
+        "dem_votes": 39469,
+        "rep_votes": 71899,
+        "other_votes": 1407,
+        "total_votes": 112775,
+        "dem_candidate": "Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump",
+        "margin": 32430,
+        "margin_pct": 28.756373309687433,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "13": {
+        "dem_votes": 43223,
+        "rep_votes": 61944,
+        "other_votes": 1644,
+        "total_votes": 106811,
+        "dem_candidate": "Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump",
+        "margin": 18721,
+        "margin_pct": 17.526968056658315,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "14": {
+        "dem_votes": 37054,
+        "rep_votes": 61928,
+        "other_votes": 1653,
+        "total_votes": 100635,
+        "dem_candidate": "Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump",
+        "margin": 24874,
+        "margin_pct": 24.717046753117703,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "15": {
+        "dem_votes": 55298,
+        "rep_votes": 40044,
+        "other_votes": 1514,
+        "total_votes": 96856,
+        "dem_candidate": "Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump",
+        "margin": -15254,
+        "margin_pct": -15.74975091760406,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "16": {
+        "dem_votes": 90798,
+        "rep_votes": 25571,
+        "other_votes": 2081,
+        "total_votes": 118451,
+        "dem_candidate": "Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump",
+        "margin": -65227,
+        "margin_pct": -55.06666424652875,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "17": {
+        "dem_votes": 40423,
+        "rep_votes": 55336,
+        "other_votes": 1460,
+        "total_votes": 97219,
+        "dem_candidate": "Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump",
+        "margin": 14913,
+        "margin_pct": 15.339594112262006,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "18": {
+        "dem_votes": 38462,
+        "rep_votes": 51112,
+        "other_votes": 1335,
+        "total_votes": 90909,
+        "dem_candidate": "Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump",
+        "margin": 12650,
+        "margin_pct": 13.915064936969706,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "19": {
+        "dem_votes": 47461,
+        "rep_votes": 49819,
+        "other_votes": 1573,
+        "total_votes": 98853,
+        "dem_candidate": "Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump",
+        "margin": 2358,
+        "margin_pct": 2.3853600801189643,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "2": {
+        "dem_votes": 41629,
+        "rep_votes": 63027,
+        "other_votes": 1503,
+        "total_votes": 106159,
+        "dem_candidate": "Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump",
+        "margin": 21398,
+        "margin_pct": 20.156369587999105,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "20": {
+        "dem_votes": 38305,
+        "rep_votes": 78502,
+        "other_votes": 1704,
+        "total_votes": 118511,
+        "dem_candidate": "Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump",
+        "margin": 40197,
+        "margin_pct": 33.918370446625204,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "21": {
+        "dem_votes": 41813,
+        "rep_votes": 64925,
+        "other_votes": 1601,
+        "total_votes": 108339,
+        "dem_candidate": "Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump",
+        "margin": 23112,
+        "margin_pct": 21.332649062065308,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "22": {
+        "dem_votes": 42997,
+        "rep_votes": 31179,
+        "other_votes": 1186,
+        "total_votes": 75361,
+        "dem_candidate": "Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump",
+        "margin": -11818,
+        "margin_pct": -15.681739469671937,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "23": {
+        "dem_votes": 37044,
+        "rep_votes": 57348,
+        "other_votes": 1465,
+        "total_votes": 95857,
+        "dem_candidate": "Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump",
+        "margin": 20305,
+        "margin_pct": 21.182382738624835,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "24": {
+        "dem_votes": 43544,
+        "rep_votes": 57426,
+        "other_votes": 1820,
+        "total_votes": 102790,
+        "dem_candidate": "Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump",
+        "margin": 13882,
+        "margin_pct": 13.505204786457828,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "25": {
+        "dem_votes": 45167,
+        "rep_votes": 60371,
+        "other_votes": 2397,
+        "total_votes": 107935,
+        "dem_candidate": "Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump",
+        "margin": 15204,
+        "margin_pct": 14.086255616806412,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "26": {
+        "dem_votes": 92491,
+        "rep_votes": 16404,
+        "other_votes": 2191,
+        "total_votes": 111086,
+        "dem_candidate": "Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump",
+        "margin": -76087,
+        "margin_pct": -68.49377959418828,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "27": {
+        "dem_votes": 74204,
+        "rep_votes": 37529,
+        "other_votes": 1912,
+        "total_votes": 113645,
+        "dem_candidate": "Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump",
+        "margin": -36675,
+        "margin_pct": -32.27163629354928,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "28": {
+        "dem_votes": 42361,
+        "rep_votes": 60093,
+        "other_votes": 2046,
+        "total_votes": 104500,
+        "dem_candidate": "Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump",
+        "margin": 17732,
+        "margin_pct": 16.96794983744058,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "29": {
+        "dem_votes": 39347,
+        "rep_votes": 61327,
+        "other_votes": 1358,
+        "total_votes": 102033,
+        "dem_candidate": "Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump",
+        "margin": 21980,
+        "margin_pct": 21.54205012103927,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "3": {
+        "dem_votes": 43728,
+        "rep_votes": 21776,
+        "other_votes": 1347,
+        "total_votes": 66851,
+        "dem_candidate": "Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump",
+        "margin": -21952,
+        "margin_pct": -32.83720512782157,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "30": {
+        "dem_votes": 40256,
+        "rep_votes": 50909,
+        "other_votes": 1373,
+        "total_votes": 92538,
+        "dem_candidate": "Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump",
+        "margin": 10653,
+        "margin_pct": 11.512266549237747,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "31": {
+        "dem_votes": 47389,
+        "rep_votes": 53795,
+        "other_votes": 1952,
+        "total_votes": 103137,
+        "dem_candidate": "Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump",
+        "margin": 6406,
+        "margin_pct": 6.211311754024129,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "32": {
+        "dem_votes": 51904,
+        "rep_votes": 49999,
+        "other_votes": 1497,
+        "total_votes": 103400,
+        "dem_candidate": "Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump",
+        "margin": -1905,
+        "margin_pct": -1.842359767891683,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "33": {
+        "dem_votes": 44837,
+        "rep_votes": 70252,
+        "other_votes": 1857,
+        "total_votes": 116946,
+        "dem_candidate": "Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump",
+        "margin": 25415,
+        "margin_pct": 21.731865231438395,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "4": {
+        "dem_votes": 69903,
+        "rep_votes": 13094,
+        "other_votes": 1515,
+        "total_votes": 84512,
+        "dem_candidate": "Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump",
+        "margin": -56809,
+        "margin_pct": -67.22003975766755,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "5": {
+        "dem_votes": 56533,
+        "rep_votes": 52064,
+        "other_votes": 2239,
+        "total_votes": 110836,
+        "dem_candidate": "Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump",
+        "margin": -4469,
+        "margin_pct": -4.032399342268986,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "6": {
+        "dem_votes": 69071,
+        "rep_votes": 13830,
+        "other_votes": 1637,
+        "total_votes": 84538,
+        "dem_candidate": "Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump",
+        "margin": -55241,
+        "margin_pct": -65.34457876931084,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "7": {
+        "dem_votes": 52962,
+        "rep_votes": 34176,
+        "other_votes": 2191,
+        "total_votes": 89329,
+        "dem_candidate": "Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump",
+        "margin": -18786,
+        "margin_pct": -21.030124595596057,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "8": {
+        "dem_votes": 57534,
+        "rep_votes": 61119,
+        "other_votes": 1980,
+        "total_votes": 120633,
+        "dem_candidate": "Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump",
+        "margin": 3584,
+        "margin_pct": 2.9714091500667315,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "9": {
+        "dem_votes": 41064,
+        "rep_votes": 59229,
+        "other_votes": 1617,
+        "total_votes": 101910,
+        "dem_candidate": "Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump",
+        "margin": 18165,
+        "margin_pct": 17.82455107447748,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      }
+    }
+  }
+}

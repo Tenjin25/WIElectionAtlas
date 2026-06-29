@@ -1,0 +1,468 @@
+{
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 37566,
+        "rep_votes": 38779,
+        "other_votes": 356,
+        "total_votes": 76701,
+        "dem_candidate": "Russ Feingold",
+        "rep_candidate": "Tim Michels",
+        "margin": 1213,
+        "margin_pct": 1.5819037168218544,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "10": {
+        "dem_votes": 36168,
+        "rep_votes": 29991,
+        "other_votes": 728,
+        "total_votes": 66887,
+        "dem_candidate": "Russ Feingold",
+        "rep_candidate": "Tim Michels",
+        "margin": -6177,
+        "margin_pct": -9.234978396399898,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "11": {
+        "dem_votes": 32982,
+        "rep_votes": 39814,
+        "other_votes": 512,
+        "total_votes": 73308,
+        "dem_candidate": "Russ Feingold",
+        "rep_candidate": "Tim Michels",
+        "margin": 6832,
+        "margin_pct": 9.320265182517597,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "12": {
+        "dem_votes": 42868,
+        "rep_votes": 38129,
+        "other_votes": 331,
+        "total_votes": 81328,
+        "dem_candidate": "Russ Feingold",
+        "rep_candidate": "Tim Michels",
+        "margin": -4739,
+        "margin_pct": -5.827021444029117,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "13": {
+        "dem_votes": 32214,
+        "rep_votes": 43439,
+        "other_votes": 376,
+        "total_votes": 76028,
+        "dem_candidate": "Russ Feingold",
+        "rep_candidate": "Tim Michels",
+        "margin": 11226,
+        "margin_pct": 14.764857915123933,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "14": {
+        "dem_votes": 38510,
+        "rep_votes": 28242,
+        "other_votes": 409,
+        "total_votes": 67162,
+        "dem_candidate": "Russ Feingold",
+        "rep_candidate": "Tim Michels",
+        "margin": -10269,
+        "margin_pct": -15.289637664435727,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "15": {
+        "dem_votes": 53601,
+        "rep_votes": 29130,
+        "other_votes": 551,
+        "total_votes": 83282,
+        "dem_candidate": "Russ Feingold",
+        "rep_candidate": "Tim Michels",
+        "margin": -24471,
+        "margin_pct": -29.383300112869527,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "16": {
+        "dem_votes": 49906,
+        "rep_votes": 30877,
+        "other_votes": 475,
+        "total_votes": 81258,
+        "dem_candidate": "Russ Feingold",
+        "rep_candidate": "Tim Michels",
+        "margin": -19028,
+        "margin_pct": -23.41712566828468,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "17": {
+        "dem_votes": 37329,
+        "rep_votes": 25198,
+        "other_votes": 250,
+        "total_votes": 62777,
+        "dem_candidate": "Russ Feingold",
+        "rep_candidate": "Tim Michels",
+        "margin": -12131,
+        "margin_pct": -19.323956226006338,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "18": {
+        "dem_votes": 44620,
+        "rep_votes": 37048,
+        "other_votes": 559,
+        "total_votes": 82227,
+        "dem_candidate": "Russ Feingold",
+        "rep_candidate": "Tim Michels",
+        "margin": -7573,
+        "margin_pct": -9.20945552205529,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "19": {
+        "dem_votes": 36346,
+        "rep_votes": 41362,
+        "other_votes": 406,
+        "total_votes": 78115,
+        "dem_candidate": "Russ Feingold",
+        "rep_candidate": "Tim Michels",
+        "margin": 5016,
+        "margin_pct": 6.421756050933665,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "2": {
+        "dem_votes": 36011,
+        "rep_votes": 37572,
+        "other_votes": 306,
+        "total_votes": 73889,
+        "dem_candidate": "Russ Feingold",
+        "rep_candidate": "Tim Michels",
+        "margin": 1561,
+        "margin_pct": 2.1126379327456624,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "20": {
+        "dem_votes": 33651,
+        "rep_votes": 55823,
+        "other_votes": 368,
+        "total_votes": 89842,
+        "dem_candidate": "Russ Feingold",
+        "rep_candidate": "Tim Michels",
+        "margin": 22172,
+        "margin_pct": 24.678880701676277,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "21": {
+        "dem_votes": 51061,
+        "rep_votes": 41884,
+        "other_votes": 408,
+        "total_votes": 93354,
+        "dem_candidate": "Russ Feingold",
+        "rep_candidate": "Tim Michels",
+        "margin": -9177,
+        "margin_pct": -9.830375936627979,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "22": {
+        "dem_votes": 52102,
+        "rep_votes": 29989,
+        "other_votes": 486,
+        "total_votes": 82577,
+        "dem_candidate": "Russ Feingold",
+        "rep_candidate": "Tim Michels",
+        "margin": -22114,
+        "margin_pct": -26.77924845901401,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "23": {
+        "dem_votes": 29716,
+        "rep_votes": 25548,
+        "other_votes": 261,
+        "total_votes": 55524,
+        "dem_candidate": "Russ Feingold",
+        "rep_candidate": "Tim Michels",
+        "margin": -4169,
+        "margin_pct": -7.507946942340768,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "24": {
+        "dem_votes": 43313,
+        "rep_votes": 31767,
+        "other_votes": 473,
+        "total_votes": 75553,
+        "dem_candidate": "Russ Feingold",
+        "rep_candidate": "Tim Michels",
+        "margin": -11546,
+        "margin_pct": -15.28198747898826,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "25": {
+        "dem_votes": 40356,
+        "rep_votes": 25553,
+        "other_votes": 376,
+        "total_votes": 66285,
+        "dem_candidate": "Russ Feingold",
+        "rep_candidate": "Tim Michels",
+        "margin": -14803,
+        "margin_pct": -22.332352719318095,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "26": {
+        "dem_votes": 83573,
+        "rep_votes": 19638,
+        "other_votes": 744,
+        "total_votes": 103955,
+        "dem_candidate": "Russ Feingold",
+        "rep_candidate": "Tim Michels",
+        "margin": -63935,
+        "margin_pct": -61.50307001390713,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "27": {
+        "dem_votes": 50437,
+        "rep_votes": 21849,
+        "other_votes": 369,
+        "total_votes": 72655,
+        "dem_candidate": "Russ Feingold",
+        "rep_candidate": "Tim Michels",
+        "margin": -28588,
+        "margin_pct": -39.347601679168676,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "28": {
+        "dem_votes": 39579,
+        "rep_votes": 56671,
+        "other_votes": 407,
+        "total_votes": 96656,
+        "dem_candidate": "Russ Feingold",
+        "rep_candidate": "Tim Michels",
+        "margin": 17092,
+        "margin_pct": 17.683039681253284,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "29": {
+        "dem_votes": 40879,
+        "rep_votes": 33635,
+        "other_votes": 353,
+        "total_votes": 74867,
+        "dem_candidate": "Russ Feingold",
+        "rep_candidate": "Tim Michels",
+        "margin": -7244,
+        "margin_pct": -9.675825129897017,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "3": {
+        "dem_votes": 48647,
+        "rep_votes": 27349,
+        "other_votes": 436,
+        "total_votes": 76432,
+        "dem_candidate": "Russ Feingold",
+        "rep_candidate": "Tim Michels",
+        "margin": -21298,
+        "margin_pct": -27.865292024283022,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "30": {
+        "dem_votes": 43722,
+        "rep_votes": 37011,
+        "other_votes": 416,
+        "total_votes": 81149,
+        "dem_candidate": "Russ Feingold",
+        "rep_candidate": "Tim Michels",
+        "margin": -6711,
+        "margin_pct": -8.26997251968601,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "31": {
+        "dem_votes": 50812,
+        "rep_votes": 33366,
+        "other_votes": 557,
+        "total_votes": 84736,
+        "dem_candidate": "Russ Feingold",
+        "rep_candidate": "Tim Michels",
+        "margin": -17445,
+        "margin_pct": -20.587888193260202,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "32": {
+        "dem_votes": 46310,
+        "rep_votes": 31199,
+        "other_votes": 442,
+        "total_votes": 77951,
+        "dem_candidate": "Russ Feingold",
+        "rep_candidate": "Tim Michels",
+        "margin": -15111,
+        "margin_pct": -19.385254839578707,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "33": {
+        "dem_votes": 33136,
+        "rep_votes": 62271,
+        "other_votes": 364,
+        "total_votes": 95770,
+        "dem_candidate": "Russ Feingold",
+        "rep_candidate": "Tim Michels",
+        "margin": 29135,
+        "margin_pct": 30.422200163261063,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "4": {
+        "dem_votes": 77285,
+        "rep_votes": 22030,
+        "other_votes": 595,
+        "total_votes": 99910,
+        "dem_candidate": "Russ Feingold",
+        "rep_candidate": "Tim Michels",
+        "margin": -55256,
+        "margin_pct": -55.305349305459394,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "5": {
+        "dem_votes": 42446,
+        "rep_votes": 51842,
+        "other_votes": 524,
+        "total_votes": 94812,
+        "dem_candidate": "Russ Feingold",
+        "rep_candidate": "Tim Michels",
+        "margin": 9396,
+        "margin_pct": 9.91008569545155,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "6": {
+        "dem_votes": 69572,
+        "rep_votes": 23906,
+        "other_votes": 455,
+        "total_votes": 93933,
+        "dem_candidate": "Russ Feingold",
+        "rep_candidate": "Tim Michels",
+        "margin": -45666,
+        "margin_pct": -48.61550253904379,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "7": {
+        "dem_votes": 48582,
+        "rep_votes": 25528,
+        "other_votes": 335,
+        "total_votes": 74445,
+        "dem_candidate": "Russ Feingold",
+        "rep_candidate": "Tim Michels",
+        "margin": -23054,
+        "margin_pct": -30.967828598294044,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "8": {
+        "dem_votes": 42094,
+        "rep_votes": 52775,
+        "other_votes": 370,
+        "total_votes": 95238,
+        "dem_candidate": "Russ Feingold",
+        "rep_candidate": "Tim Michels",
+        "margin": 10680,
+        "margin_pct": 11.214473739013073,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "9": {
+        "dem_votes": 46102,
+        "rep_votes": 44282,
+        "other_votes": 437,
+        "total_votes": 90821,
+        "dem_candidate": "Russ Feingold",
+        "rep_candidate": "Tim Michels",
+        "margin": -1820,
+        "margin_pct": -2.003941819623215,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      }
+    }
+  }
+}

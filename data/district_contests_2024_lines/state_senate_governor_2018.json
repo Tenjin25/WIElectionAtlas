@@ -1,0 +1,468 @@
+{
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 33335,
+        "rep_votes": 50041,
+        "other_votes": 1421,
+        "total_votes": 84797,
+        "dem_candidate": "Tony Evers & Mandela Barnes",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": 16705,
+        "margin_pct": 19.700450746880858,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "10": {
+        "dem_votes": 32196,
+        "rep_votes": 40821,
+        "other_votes": 2190,
+        "total_votes": 75207,
+        "dem_candidate": "Tony Evers & Mandela Barnes",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": 8625,
+        "margin_pct": 11.46834736128286,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "11": {
+        "dem_votes": 27756,
+        "rep_votes": 48273,
+        "other_votes": 1869,
+        "total_votes": 77898,
+        "dem_candidate": "Tony Evers & Mandela Barnes",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": 20517,
+        "margin_pct": 26.338288531156127,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "12": {
+        "dem_votes": 31371,
+        "rep_votes": 52840,
+        "other_votes": 2306,
+        "total_votes": 86517,
+        "dem_candidate": "Tony Evers & Mandela Barnes",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": 21469,
+        "margin_pct": 24.81477628674133,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "13": {
+        "dem_votes": 28008,
+        "rep_votes": 46240,
+        "other_votes": 1454,
+        "total_votes": 75702,
+        "dem_candidate": "Tony Evers & Mandela Barnes",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": 18231,
+        "margin_pct": 24.08330049250238,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "14": {
+        "dem_votes": 43730,
+        "rep_votes": 33917,
+        "other_votes": 1678,
+        "total_votes": 79326,
+        "dem_candidate": "Tony Evers & Mandela Barnes",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": -9813,
+        "margin_pct": -12.370510206332748,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "15": {
+        "dem_votes": 42980,
+        "rep_votes": 29064,
+        "other_votes": 1895,
+        "total_votes": 73939,
+        "dem_candidate": "Tony Evers & Mandela Barnes",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": -13916,
+        "margin_pct": -18.820919947524313,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "16": {
+        "dem_votes": 54395,
+        "rep_votes": 29176,
+        "other_votes": 1440,
+        "total_votes": 85011,
+        "dem_candidate": "Tony Evers & Mandela Barnes",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": -25220,
+        "margin_pct": -29.666015446944883,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "17": {
+        "dem_votes": 43984,
+        "rep_votes": 33271,
+        "other_votes": 1617,
+        "total_votes": 78872,
+        "dem_candidate": "Tony Evers & Mandela Barnes",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": -10713,
+        "margin_pct": -13.582767014910235,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "18": {
+        "dem_votes": 36859,
+        "rep_votes": 31818,
+        "other_votes": 1876,
+        "total_votes": 70553,
+        "dem_candidate": "Tony Evers & Mandela Barnes",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": -5041,
+        "margin_pct": -7.144795281550345,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "19": {
+        "dem_votes": 30657,
+        "rep_votes": 50241,
+        "other_votes": 1482,
+        "total_votes": 82380,
+        "dem_candidate": "Tony Evers & Mandela Barnes",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": 19584,
+        "margin_pct": 23.772413779150813,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "2": {
+        "dem_votes": 29034,
+        "rep_votes": 47726,
+        "other_votes": 1396,
+        "total_votes": 78156,
+        "dem_candidate": "Tony Evers & Mandela Barnes",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": 18691,
+        "margin_pct": 23.915307629120296,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "20": {
+        "dem_votes": 25123,
+        "rep_votes": 57109,
+        "other_votes": 1253,
+        "total_votes": 83485,
+        "dem_candidate": "Tony Evers & Mandela Barnes",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": 31986,
+        "margin_pct": 38.3138568273179,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "21": {
+        "dem_votes": 38225,
+        "rep_votes": 41519,
+        "other_votes": 1650,
+        "total_votes": 81393,
+        "dem_candidate": "Tony Evers & Mandela Barnes",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": 3294,
+        "margin_pct": 4.047219264477023,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "22": {
+        "dem_votes": 40098,
+        "rep_votes": 28869,
+        "other_votes": 1986,
+        "total_votes": 70953,
+        "dem_candidate": "Tony Evers & Mandela Barnes",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": -11229,
+        "margin_pct": -15.826167025667157,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "23": {
+        "dem_votes": 26095,
+        "rep_votes": 44272,
+        "other_votes": 1219,
+        "total_votes": 71587,
+        "dem_candidate": "Tony Evers & Mandela Barnes",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": 18176,
+        "margin_pct": 25.39081980311985,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "24": {
+        "dem_votes": 35833,
+        "rep_votes": 39218,
+        "other_votes": 1761,
+        "total_votes": 76812,
+        "dem_candidate": "Tony Evers & Mandela Barnes",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": 3385,
+        "margin_pct": 4.406863510909754,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "25": {
+        "dem_votes": 38310,
+        "rep_votes": 39482,
+        "other_votes": 1778,
+        "total_votes": 79570,
+        "dem_candidate": "Tony Evers & Mandela Barnes",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": 1172,
+        "margin_pct": 1.4729169284906372,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "26": {
+        "dem_votes": 80768,
+        "rep_votes": 14004,
+        "other_votes": 1938,
+        "total_votes": 96711,
+        "dem_candidate": "Tony Evers & Mandela Barnes",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": -66764,
+        "margin_pct": -69.03454622535183,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "27": {
+        "dem_votes": 72644,
+        "rep_votes": 24202,
+        "other_votes": 1681,
+        "total_votes": 98527,
+        "dem_candidate": "Tony Evers & Mandela Barnes",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": -48442,
+        "margin_pct": -49.166218396987624,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "28": {
+        "dem_votes": 31365,
+        "rep_votes": 60368,
+        "other_votes": 1399,
+        "total_votes": 93132,
+        "dem_candidate": "Tony Evers & Mandela Barnes",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": 29003,
+        "margin_pct": 31.141953966215546,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "29": {
+        "dem_votes": 31959,
+        "rep_votes": 47503,
+        "other_votes": 1543,
+        "total_votes": 81005,
+        "dem_candidate": "Tony Evers & Mandela Barnes",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": 15544,
+        "margin_pct": 19.18893895438553,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "3": {
+        "dem_votes": 33114,
+        "rep_votes": 15782,
+        "other_votes": 1207,
+        "total_votes": 50103,
+        "dem_candidate": "Tony Evers & Mandela Barnes",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": -17332,
+        "margin_pct": -34.592738957747045,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "30": {
+        "dem_votes": 36298,
+        "rep_votes": 35058,
+        "other_votes": 1813,
+        "total_votes": 73168,
+        "dem_candidate": "Tony Evers & Mandela Barnes",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": -1241,
+        "margin_pct": -1.6955156021147568,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "31": {
+        "dem_votes": 41272,
+        "rep_votes": 35607,
+        "other_votes": 1998,
+        "total_votes": 78876,
+        "dem_candidate": "Tony Evers & Mandela Barnes",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": -5664,
+        "margin_pct": -7.18143472754174,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "32": {
+        "dem_votes": 43065,
+        "rep_votes": 35508,
+        "other_votes": 1890,
+        "total_votes": 80463,
+        "dem_candidate": "Tony Evers & Mandela Barnes",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": -7557,
+        "margin_pct": -9.391894411095784,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "33": {
+        "dem_votes": 26869,
+        "rep_votes": 70945,
+        "other_votes": 1210,
+        "total_votes": 99024,
+        "dem_candidate": "Tony Evers & Mandela Barnes",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": 44077,
+        "margin_pct": 44.51116247928526,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "4": {
+        "dem_votes": 58744,
+        "rep_votes": 11958,
+        "other_votes": 1084,
+        "total_votes": 71787,
+        "dem_candidate": "Tony Evers & Mandela Barnes",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": -46786,
+        "margin_pct": -65.17336007912297,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "5": {
+        "dem_votes": 40297,
+        "rep_votes": 50268,
+        "other_votes": 1554,
+        "total_votes": 92118,
+        "dem_candidate": "Tony Evers & Mandela Barnes",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": 9971,
+        "margin_pct": 10.824101564832254,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "6": {
+        "dem_votes": 59070,
+        "rep_votes": 10420,
+        "other_votes": 1313,
+        "total_votes": 70803,
+        "dem_candidate": "Tony Evers & Mandela Barnes",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": -48650,
+        "margin_pct": -68.71177774953038,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "7": {
+        "dem_votes": 53390,
+        "rep_votes": 31426,
+        "other_votes": 2059,
+        "total_votes": 86875,
+        "dem_candidate": "Tony Evers & Mandela Barnes",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": -21964,
+        "margin_pct": -25.282302158273378,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "8": {
+        "dem_votes": 41129,
+        "rep_votes": 56774,
+        "other_votes": 1339,
+        "total_votes": 99242,
+        "dem_candidate": "Tony Evers & Mandela Barnes",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": 15645,
+        "margin_pct": 15.764574296035427,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "9": {
+        "dem_votes": 31725,
+        "rep_votes": 45781,
+        "other_votes": 1439,
+        "total_votes": 78945,
+        "dem_candidate": "Tony Evers & Mandela Barnes",
+        "rep_candidate": "Scott Walker & Rebecca Kleefisch",
+        "margin": 14056,
+        "margin_pct": 17.80480081069099,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      }
+    }
+  }
+}

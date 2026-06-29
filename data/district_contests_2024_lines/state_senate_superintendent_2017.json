@@ -1,0 +1,567 @@
+{
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 16228,
+        "rep_votes": 7161,
+        "other_votes": 24,
+        "total_votes": 23412,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Lowell E. Holtz",
+        "margin": -9067,
+        "margin_pct": -38.7271024774978,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "10": {
+        "dem_votes": 11243,
+        "rep_votes": 4715,
+        "other_votes": 24,
+        "total_votes": 15982,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Lowell E. Holtz",
+        "margin": -6528,
+        "margin_pct": -40.84595169565762,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "11": {
+        "dem_votes": 11939,
+        "rep_votes": 8363,
+        "other_votes": 33,
+        "total_votes": 20335,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Lowell E. Holtz",
+        "margin": -3576,
+        "margin_pct": -17.58737131991345,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "12": {
+        "dem_votes": 17282,
+        "rep_votes": 8066,
+        "other_votes": 95,
+        "total_votes": 25443,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Lowell E. Holtz",
+        "margin": -9216,
+        "margin_pct": -36.22214361513972,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "13": {
+        "dem_votes": 14324,
+        "rep_votes": 8329,
+        "other_votes": 25,
+        "total_votes": 22678,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Lowell E. Holtz",
+        "margin": -5995,
+        "margin_pct": -26.434382555909124,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "14": {
+        "dem_votes": 16036,
+        "rep_votes": 4983,
+        "other_votes": 14,
+        "total_votes": 21033,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Lowell E. Holtz",
+        "margin": -11052,
+        "margin_pct": -52.548376360956595,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "15": {
+        "dem_votes": 13451,
+        "rep_votes": 4223,
+        "other_votes": 28,
+        "total_votes": 17702,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Lowell E. Holtz",
+        "margin": -9228,
+        "margin_pct": -52.12970285843408,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "16": {
+        "dem_votes": 19284,
+        "rep_votes": 5167,
+        "other_votes": 27,
+        "total_votes": 24478,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Lowell E. Holtz",
+        "margin": -14117,
+        "margin_pct": -57.67148377560489,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "17": {
+        "dem_votes": 21414,
+        "rep_votes": 5884,
+        "other_votes": 29,
+        "total_votes": 27327,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Lowell E. Holtz",
+        "margin": -15530,
+        "margin_pct": -56.83024115343799,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "18": {
+        "dem_votes": 11523,
+        "rep_votes": 4237,
+        "other_votes": 17,
+        "total_votes": 15777,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Lowell E. Holtz",
+        "margin": -7285,
+        "margin_pct": -46.17920494897806,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "19": {
+        "dem_votes": 12871,
+        "rep_votes": 6741,
+        "other_votes": 6,
+        "total_votes": 19619,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Lowell E. Holtz",
+        "margin": -6130,
+        "margin_pct": -31.247485532138768,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "2": {
+        "dem_votes": 15113,
+        "rep_votes": 8073,
+        "other_votes": 28,
+        "total_votes": 23214,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Lowell E. Holtz",
+        "margin": -7040,
+        "margin_pct": -30.327277426580658,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "20": {
+        "dem_votes": 9784,
+        "rep_votes": 8808,
+        "other_votes": 14,
+        "total_votes": 18606,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Lowell E. Holtz",
+        "margin": -976,
+        "margin_pct": -5.247656720268292,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "21": {
+        "dem_votes": 12055,
+        "rep_votes": 8164,
+        "other_votes": 17,
+        "total_votes": 20237,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Lowell E. Holtz",
+        "margin": -3891,
+        "margin_pct": -19.226160327127626,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "22": {
+        "dem_votes": 10508,
+        "rep_votes": 4304,
+        "other_votes": 19,
+        "total_votes": 14831,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Lowell E. Holtz",
+        "margin": -6204,
+        "margin_pct": -41.83191265796468,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "23": {
+        "dem_votes": 13857,
+        "rep_votes": 6707,
+        "other_votes": 22,
+        "total_votes": 20585,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Lowell E. Holtz",
+        "margin": -7150,
+        "margin_pct": -34.73352343662711,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "24": {
+        "dem_votes": 13892,
+        "rep_votes": 4748,
+        "other_votes": 19,
+        "total_votes": 18659,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Lowell E. Holtz",
+        "margin": -9144,
+        "margin_pct": -49.00584168497776,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "25": {
+        "dem_votes": 20194,
+        "rep_votes": 8616,
+        "other_votes": 66,
+        "total_votes": 28876,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Lowell E. Holtz",
+        "margin": -11578,
+        "margin_pct": -40.09558110541626,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "26": {
+        "dem_votes": 30046,
+        "rep_votes": 2319,
+        "other_votes": 40,
+        "total_votes": 32405,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Lowell E. Holtz",
+        "margin": -27728,
+        "margin_pct": -85.56716070371525,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "27": {
+        "dem_votes": 30105,
+        "rep_votes": 4833,
+        "other_votes": 44,
+        "total_votes": 34982,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Lowell E. Holtz",
+        "margin": -25272,
+        "margin_pct": -72.24286776056258,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "28": {
+        "dem_votes": 8914,
+        "rep_votes": 9125,
+        "other_votes": 12,
+        "total_votes": 18051,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Lowell E. Holtz",
+        "margin": 211,
+        "margin_pct": 1.1711003024696125,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "29": {
+        "dem_votes": 15249,
+        "rep_votes": 6792,
+        "other_votes": 18,
+        "total_votes": 22059,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Lowell E. Holtz",
+        "margin": -8457,
+        "margin_pct": -38.33809329525364,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "3": {
+        "dem_votes": 7015,
+        "rep_votes": 3298,
+        "other_votes": 32,
+        "total_votes": 10345,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Lowell E. Holtz",
+        "margin": -3717,
+        "margin_pct": -35.93040115998067,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "30": {
+        "dem_votes": 13617,
+        "rep_votes": 5333,
+        "other_votes": 37,
+        "total_votes": 18987,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Lowell E. Holtz",
+        "margin": -8284,
+        "margin_pct": -43.63015839018549,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "31": {
+        "dem_votes": 14125,
+        "rep_votes": 4046,
+        "other_votes": 12,
+        "total_votes": 18184,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Lowell E. Holtz",
+        "margin": -10079,
+        "margin_pct": -55.428763123016765,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "32": {
+        "dem_votes": 17665,
+        "rep_votes": 5121,
+        "other_votes": 3,
+        "total_votes": 22789,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Lowell E. Holtz",
+        "margin": -12544,
+        "margin_pct": -55.04410022379218,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "33": {
+        "dem_votes": 9918,
+        "rep_votes": 11661,
+        "other_votes": 16,
+        "total_votes": 21596,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Lowell E. Holtz",
+        "margin": 1743,
+        "margin_pct": 8.071051181485203,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "4": {
+        "dem_votes": 12602,
+        "rep_votes": 3040,
+        "other_votes": 40,
+        "total_votes": 15680,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Lowell E. Holtz",
+        "margin": -9562,
+        "margin_pct": -60.980198335512256,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "5": {
+        "dem_votes": 13369,
+        "rep_votes": 9866,
+        "other_votes": 49,
+        "total_votes": 23284,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Lowell E. Holtz",
+        "margin": -3503,
+        "margin_pct": -15.044665864971654,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "6": {
+        "dem_votes": 11132,
+        "rep_votes": 2401,
+        "other_votes": 34,
+        "total_votes": 13567,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Lowell E. Holtz",
+        "margin": -8731,
+        "margin_pct": -64.35468416009435,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "7": {
+        "dem_votes": 15708,
+        "rep_votes": 5472,
+        "other_votes": 31,
+        "total_votes": 21211,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Lowell E. Holtz",
+        "margin": -10236,
+        "margin_pct": -48.25797935033709,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "8": {
+        "dem_votes": 16354,
+        "rep_votes": 12115,
+        "other_votes": 60,
+        "total_votes": 28528,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Lowell E. Holtz",
+        "margin": -4239,
+        "margin_pct": -14.859085810431857,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "9": {
+        "dem_votes": 16017,
+        "rep_votes": 8998,
+        "other_votes": 53,
+        "total_votes": 25068,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Lowell E. Holtz",
+        "margin": -7019,
+        "margin_pct": -27.999840434019468,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      }
+    }
+  }
+}

@@ -1,0 +1,468 @@
+{
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 33772,
+        "rep_votes": 43002,
+        "other_votes": 810,
+        "total_votes": 77584,
+        "dem_candidate": "John Edwards & John F. Kerry",
+        "rep_candidate": "Dick Cheney & George W. Bush",
+        "margin": 9229,
+        "margin_pct": 11.895468362316192,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "10": {
+        "dem_votes": 33744,
+        "rep_votes": 34618,
+        "other_votes": 656,
+        "total_votes": 69018,
+        "dem_candidate": "John Edwards & John F. Kerry",
+        "rep_candidate": "Dick Cheney & George W. Bush",
+        "margin": 874,
+        "margin_pct": 1.266336318061955,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "11": {
+        "dem_votes": 27986,
+        "rep_votes": 45694,
+        "other_votes": 695,
+        "total_votes": 74374,
+        "dem_candidate": "John Edwards & John F. Kerry",
+        "rep_candidate": "Dick Cheney & George W. Bush",
+        "margin": 17708,
+        "margin_pct": 23.8093957565816,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "12": {
+        "dem_votes": 37405,
+        "rep_votes": 44349,
+        "other_votes": 804,
+        "total_votes": 82558,
+        "dem_candidate": "John Edwards & John F. Kerry",
+        "rep_candidate": "Dick Cheney & George W. Bush",
+        "margin": 6944,
+        "margin_pct": 8.411056469391216,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "13": {
+        "dem_votes": 29671,
+        "rep_votes": 46286,
+        "other_votes": 763,
+        "total_votes": 76720,
+        "dem_candidate": "John Edwards & John F. Kerry",
+        "rep_candidate": "Dick Cheney & George W. Bush",
+        "margin": 16615,
+        "margin_pct": 21.65667361835245,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "14": {
+        "dem_votes": 35516,
+        "rep_votes": 31684,
+        "other_votes": 618,
+        "total_votes": 67817,
+        "dem_candidate": "John Edwards & John F. Kerry",
+        "rep_candidate": "Dick Cheney & George W. Bush",
+        "margin": -3832,
+        "margin_pct": -5.65011114428851,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "15": {
+        "dem_votes": 48647,
+        "rep_votes": 34894,
+        "other_votes": 815,
+        "total_votes": 84356,
+        "dem_candidate": "John Edwards & John F. Kerry",
+        "rep_candidate": "Dick Cheney & George W. Bush",
+        "margin": -13753,
+        "margin_pct": -16.30352316373465,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "16": {
+        "dem_votes": 45601,
+        "rep_votes": 35734,
+        "other_votes": 705,
+        "total_votes": 82039,
+        "dem_candidate": "John Edwards & John F. Kerry",
+        "rep_candidate": "Dick Cheney & George W. Bush",
+        "margin": -9867,
+        "margin_pct": -12.02735288010173,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "17": {
+        "dem_votes": 34809,
+        "rep_votes": 28460,
+        "other_votes": 580,
+        "total_votes": 63849,
+        "dem_candidate": "John Edwards & John F. Kerry",
+        "rep_candidate": "Dick Cheney & George W. Bush",
+        "margin": -6349,
+        "margin_pct": -9.943773590815832,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "18": {
+        "dem_votes": 40344,
+        "rep_votes": 41779,
+        "other_votes": 1080,
+        "total_votes": 83203,
+        "dem_candidate": "John Edwards & John F. Kerry",
+        "rep_candidate": "Dick Cheney & George W. Bush",
+        "margin": 1435,
+        "margin_pct": 1.7249961690121662,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "19": {
+        "dem_votes": 32317,
+        "rep_votes": 46212,
+        "other_votes": 826,
+        "total_votes": 79355,
+        "dem_candidate": "John Edwards & John F. Kerry",
+        "rep_candidate": "Dick Cheney & George W. Bush",
+        "margin": 13895,
+        "margin_pct": 17.509923760317562,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "2": {
+        "dem_votes": 32041,
+        "rep_votes": 42404,
+        "other_votes": 695,
+        "total_votes": 75139,
+        "dem_candidate": "John Edwards & John F. Kerry",
+        "rep_candidate": "Dick Cheney & George W. Bush",
+        "margin": 10363,
+        "margin_pct": 13.791772581482324,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "20": {
+        "dem_votes": 29327,
+        "rep_votes": 60480,
+        "other_votes": 825,
+        "total_votes": 90632,
+        "dem_candidate": "John Edwards & John F. Kerry",
+        "rep_candidate": "Dick Cheney & George W. Bush",
+        "margin": 31153,
+        "margin_pct": 34.37306911466148,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "21": {
+        "dem_votes": 45674,
+        "rep_votes": 48114,
+        "other_votes": 780,
+        "total_votes": 94566,
+        "dem_candidate": "John Edwards & John F. Kerry",
+        "rep_candidate": "Dick Cheney & George W. Bush",
+        "margin": 2440,
+        "margin_pct": 2.5801948893106967,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "22": {
+        "dem_votes": 48092,
+        "rep_votes": 36176,
+        "other_votes": 824,
+        "total_votes": 85092,
+        "dem_candidate": "John Edwards & John F. Kerry",
+        "rep_candidate": "Dick Cheney & George W. Bush",
+        "margin": -11917,
+        "margin_pct": -14.004924111103929,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "23": {
+        "dem_votes": 26268,
+        "rep_votes": 29716,
+        "other_votes": 650,
+        "total_votes": 56634,
+        "dem_candidate": "John Edwards & John F. Kerry",
+        "rep_candidate": "Dick Cheney & George W. Bush",
+        "margin": 3448,
+        "margin_pct": 6.0886301134031084,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "24": {
+        "dem_votes": 40214,
+        "rep_votes": 35650,
+        "other_votes": 991,
+        "total_votes": 76855,
+        "dem_candidate": "John Edwards & John F. Kerry",
+        "rep_candidate": "Dick Cheney & George W. Bush",
+        "margin": -4564,
+        "margin_pct": -5.938455533146835,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "25": {
+        "dem_votes": 38263,
+        "rep_votes": 30236,
+        "other_votes": 606,
+        "total_votes": 69105,
+        "dem_candidate": "John Edwards & John F. Kerry",
+        "rep_candidate": "Dick Cheney & George W. Bush",
+        "margin": -8027,
+        "margin_pct": -11.615657333043918,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "26": {
+        "dem_votes": 79978,
+        "rep_votes": 24065,
+        "other_votes": 1293,
+        "total_votes": 105336,
+        "dem_candidate": "John Edwards & John F. Kerry",
+        "rep_candidate": "Dick Cheney & George W. Bush",
+        "margin": -55912,
+        "margin_pct": -53.07987647673902,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "27": {
+        "dem_votes": 45479,
+        "rep_votes": 27079,
+        "other_votes": 683,
+        "total_votes": 73241,
+        "dem_candidate": "John Edwards & John F. Kerry",
+        "rep_candidate": "Dick Cheney & George W. Bush",
+        "margin": -18400,
+        "margin_pct": -25.12254065345913,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "28": {
+        "dem_votes": 33766,
+        "rep_votes": 63253,
+        "other_votes": 767,
+        "total_votes": 97786,
+        "dem_candidate": "John Edwards & John F. Kerry",
+        "rep_candidate": "Dick Cheney & George W. Bush",
+        "margin": 29487,
+        "margin_pct": 30.154168853982732,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "29": {
+        "dem_votes": 34717,
+        "rep_votes": 39836,
+        "other_votes": 817,
+        "total_votes": 75370,
+        "dem_candidate": "John Edwards & John F. Kerry",
+        "rep_candidate": "Dick Cheney & George W. Bush",
+        "margin": 5119,
+        "margin_pct": 6.7918269868648,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "3": {
+        "dem_votes": 45901,
+        "rep_votes": 31251,
+        "other_votes": 778,
+        "total_votes": 77930,
+        "dem_candidate": "John Edwards & John F. Kerry",
+        "rep_candidate": "Dick Cheney & George W. Bush",
+        "margin": -14650,
+        "margin_pct": -18.798922109585526,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "30": {
+        "dem_votes": 39023,
+        "rep_votes": 42593,
+        "other_votes": 829,
+        "total_votes": 82445,
+        "dem_candidate": "John Edwards & John F. Kerry",
+        "rep_candidate": "Dick Cheney & George W. Bush",
+        "margin": 3570,
+        "margin_pct": 4.330159500272909,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "31": {
+        "dem_votes": 46114,
+        "rep_votes": 38902,
+        "other_votes": 1012,
+        "total_votes": 86027,
+        "dem_candidate": "John Edwards & John F. Kerry",
+        "rep_candidate": "Dick Cheney & George W. Bush",
+        "margin": -7212,
+        "margin_pct": -8.383729479493297,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "32": {
+        "dem_votes": 41960,
+        "rep_votes": 36281,
+        "other_votes": 831,
+        "total_votes": 79072,
+        "dem_candidate": "John Edwards & John F. Kerry",
+        "rep_candidate": "Dick Cheney & George W. Bush",
+        "margin": -5679,
+        "margin_pct": -7.18206191825172,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "33": {
+        "dem_votes": 28085,
+        "rep_votes": 68283,
+        "other_votes": 805,
+        "total_votes": 97173,
+        "dem_candidate": "John Edwards & John F. Kerry",
+        "rep_candidate": "Dick Cheney & George W. Bush",
+        "margin": 40199,
+        "margin_pct": 41.3679509458807,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "4": {
+        "dem_votes": 75151,
+        "rep_votes": 25917,
+        "other_votes": 950,
+        "total_votes": 102018,
+        "dem_candidate": "John Edwards & John F. Kerry",
+        "rep_candidate": "Dick Cheney & George W. Bush",
+        "margin": -49234,
+        "margin_pct": -48.26003211846256,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "5": {
+        "dem_votes": 37464,
+        "rep_votes": 57692,
+        "other_votes": 879,
+        "total_votes": 96034,
+        "dem_candidate": "John Edwards & John F. Kerry",
+        "rep_candidate": "Dick Cheney & George W. Bush",
+        "margin": 20228,
+        "margin_pct": 21.06337338859154,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "6": {
+        "dem_votes": 68218,
+        "rep_votes": 27130,
+        "other_votes": 750,
+        "total_votes": 96098,
+        "dem_candidate": "John Edwards & John F. Kerry",
+        "rep_candidate": "Dick Cheney & George W. Bush",
+        "margin": -41088,
+        "margin_pct": -42.75635288975837,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "7": {
+        "dem_votes": 46424,
+        "rep_votes": 29030,
+        "other_votes": 625,
+        "total_votes": 76079,
+        "dem_candidate": "John Edwards & John F. Kerry",
+        "rep_candidate": "Dick Cheney & George W. Bush",
+        "margin": -17394,
+        "margin_pct": -22.86307653886092,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "8": {
+        "dem_votes": 36250,
+        "rep_votes": 59028,
+        "other_votes": 751,
+        "total_votes": 96028,
+        "dem_candidate": "John Edwards & John F. Kerry",
+        "rep_candidate": "Dick Cheney & George W. Bush",
+        "margin": 22778,
+        "margin_pct": 23.719849641755406,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "9": {
+        "dem_votes": 42735,
+        "rep_votes": 48157,
+        "other_votes": 879,
+        "total_votes": 91771,
+        "dem_candidate": "John Edwards & John F. Kerry",
+        "rep_candidate": "Dick Cheney & George W. Bush",
+        "margin": 5422,
+        "margin_pct": 5.908184502729621,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      }
+    }
+  }
+}

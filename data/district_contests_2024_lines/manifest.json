@@ -1,368 +1,788 @@
 {
   "files": [
     {
-      "scope": "congressional",
+      "scope": "state_house",
       "contest_type": "president",
       "year": 2000,
-      "file": "congressional_presidential_2000.json",
-      "rows": 8
+      "file": "state_house_presidential_2000.json",
+      "rows": 99
     },
     {
-      "scope": "congressional",
+      "scope": "state_house",
       "contest_type": "us_senate",
       "year": 2000,
-      "file": "congressional_us_senate_2000.json",
-      "rows": 8
+      "file": "state_house_us_senate_2000.json",
+      "rows": 99
     },
     {
-      "scope": "congressional",
+      "scope": "state_senate",
+      "contest_type": "president",
+      "year": 2000,
+      "file": "state_senate_presidential_2000.json",
+      "rows": 33
+    },
+    {
+      "scope": "state_senate",
+      "contest_type": "us_senate",
+      "year": 2000,
+      "file": "state_senate_us_senate_2000.json",
+      "rows": 33
+    },
+    {
+      "scope": "state_house",
       "contest_type": "attorney_general",
       "year": 2002,
-      "file": "congressional_attorney_general_2002.json",
-      "rows": 8
+      "file": "state_house_attorney_general_2002.json",
+      "rows": 99
     },
     {
-      "scope": "congressional",
+      "scope": "state_house",
       "contest_type": "governor",
       "year": 2002,
-      "file": "congressional_governor_2002.json",
-      "rows": 8
+      "file": "state_house_governor_2002.json",
+      "rows": 99
     },
     {
-      "scope": "congressional",
+      "scope": "state_house",
+      "contest_type": "secretary_of_state",
+      "year": 2002,
+      "file": "state_house_secretary_of_state_2002.json",
+      "rows": 99
+    },
+    {
+      "scope": "state_house",
       "contest_type": "treasurer",
       "year": 2002,
-      "file": "congressional_treasurer_2002.json",
-      "rows": 8
+      "file": "state_house_treasurer_2002.json",
+      "rows": 99
     },
     {
-      "scope": "congressional",
+      "scope": "state_senate",
+      "contest_type": "attorney_general",
+      "year": 2002,
+      "file": "state_senate_attorney_general_2002.json",
+      "rows": 33
+    },
+    {
+      "scope": "state_senate",
+      "contest_type": "governor",
+      "year": 2002,
+      "file": "state_senate_governor_2002.json",
+      "rows": 33
+    },
+    {
+      "scope": "state_senate",
+      "contest_type": "secretary_of_state",
+      "year": 2002,
+      "file": "state_senate_secretary_of_state_2002.json",
+      "rows": 33
+    },
+    {
+      "scope": "state_senate",
+      "contest_type": "treasurer",
+      "year": 2002,
+      "file": "state_senate_treasurer_2002.json",
+      "rows": 33
+    },
+    {
+      "scope": "state_house",
       "contest_type": "president",
       "year": 2004,
-      "file": "congressional_presidential_2004.json",
-      "rows": 8
+      "file": "state_house_presidential_2004.json",
+      "rows": 99
     },
     {
-      "scope": "congressional",
+      "scope": "state_house",
       "contest_type": "us_senate",
       "year": 2004,
-      "file": "congressional_us_senate_2004.json",
-      "rows": 8
+      "file": "state_house_us_senate_2004.json",
+      "rows": 99
     },
     {
-      "scope": "congressional",
+      "scope": "state_senate",
+      "contest_type": "president",
+      "year": 2004,
+      "file": "state_senate_presidential_2004.json",
+      "rows": 33
+    },
+    {
+      "scope": "state_senate",
+      "contest_type": "us_senate",
+      "year": 2004,
+      "file": "state_senate_us_senate_2004.json",
+      "rows": 33
+    },
+    {
+      "scope": "state_house",
       "contest_type": "state_supreme_court",
       "year": 2005,
-      "file": "congressional_state_supreme_court_2005.json",
-      "rows": 8
+      "file": "state_house_state_supreme_court_2005.json",
+      "rows": 99
     },
     {
-      "scope": "congressional",
+      "scope": "state_house",
       "contest_type": "superintendent",
       "year": 2005,
-      "file": "congressional_superintendent_2005.json",
-      "rows": 8
+      "file": "state_house_superintendent_2005.json",
+      "rows": 99
     },
     {
-      "scope": "congressional",
+      "scope": "state_senate",
+      "contest_type": "state_supreme_court",
+      "year": 2005,
+      "file": "state_senate_state_supreme_court_2005.json",
+      "rows": 33
+    },
+    {
+      "scope": "state_senate",
+      "contest_type": "superintendent",
+      "year": 2005,
+      "file": "state_senate_superintendent_2005.json",
+      "rows": 33
+    },
+    {
+      "scope": "state_house",
       "contest_type": "attorney_general",
       "year": 2006,
-      "file": "congressional_attorney_general_2006.json",
-      "rows": 8
+      "file": "state_house_attorney_general_2006.json",
+      "rows": 99
     },
     {
-      "scope": "congressional",
+      "scope": "state_house",
       "contest_type": "governor",
       "year": 2006,
-      "file": "congressional_governor_2006.json",
-      "rows": 8
+      "file": "state_house_governor_2006.json",
+      "rows": 99
     },
     {
-      "scope": "congressional",
+      "scope": "state_house",
+      "contest_type": "secretary_of_state",
+      "year": 2006,
+      "file": "state_house_secretary_of_state_2006.json",
+      "rows": 99
+    },
+    {
+      "scope": "state_house",
       "contest_type": "state_supreme_court",
       "year": 2006,
-      "file": "congressional_state_supreme_court_2006.json",
-      "rows": 8
+      "file": "state_house_state_supreme_court_2006.json",
+      "rows": 99
     },
     {
-      "scope": "congressional",
+      "scope": "state_house",
       "contest_type": "treasurer",
       "year": 2006,
-      "file": "congressional_treasurer_2006.json",
-      "rows": 8
+      "file": "state_house_treasurer_2006.json",
+      "rows": 99
     },
     {
-      "scope": "congressional",
+      "scope": "state_house",
       "contest_type": "us_senate",
       "year": 2006,
-      "file": "congressional_us_senate_2006.json",
-      "rows": 8
+      "file": "state_house_us_senate_2006.json",
+      "rows": 99
     },
     {
-      "scope": "congressional",
+      "scope": "state_senate",
+      "contest_type": "attorney_general",
+      "year": 2006,
+      "file": "state_senate_attorney_general_2006.json",
+      "rows": 33
+    },
+    {
+      "scope": "state_senate",
+      "contest_type": "governor",
+      "year": 2006,
+      "file": "state_senate_governor_2006.json",
+      "rows": 33
+    },
+    {
+      "scope": "state_senate",
+      "contest_type": "secretary_of_state",
+      "year": 2006,
+      "file": "state_senate_secretary_of_state_2006.json",
+      "rows": 33
+    },
+    {
+      "scope": "state_senate",
+      "contest_type": "state_supreme_court",
+      "year": 2006,
+      "file": "state_senate_state_supreme_court_2006.json",
+      "rows": 33
+    },
+    {
+      "scope": "state_senate",
+      "contest_type": "treasurer",
+      "year": 2006,
+      "file": "state_senate_treasurer_2006.json",
+      "rows": 33
+    },
+    {
+      "scope": "state_senate",
+      "contest_type": "us_senate",
+      "year": 2006,
+      "file": "state_senate_us_senate_2006.json",
+      "rows": 33
+    },
+    {
+      "scope": "state_house",
       "contest_type": "state_supreme_court",
       "year": 2007,
-      "file": "congressional_state_supreme_court_2007.json",
-      "rows": 8
+      "file": "state_house_state_supreme_court_2007.json",
+      "rows": 99
     },
     {
-      "scope": "congressional",
+      "scope": "state_senate",
+      "contest_type": "state_supreme_court",
+      "year": 2007,
+      "file": "state_senate_state_supreme_court_2007.json",
+      "rows": 33
+    },
+    {
+      "scope": "state_house",
       "contest_type": "president",
       "year": 2008,
-      "file": "congressional_presidential_2008.json",
-      "rows": 8
+      "file": "state_house_presidential_2008.json",
+      "rows": 99
     },
     {
-      "scope": "congressional",
+      "scope": "state_house",
       "contest_type": "state_supreme_court",
       "year": 2008,
-      "file": "congressional_state_supreme_court_2008.json",
-      "rows": 8
+      "file": "state_house_state_supreme_court_2008.json",
+      "rows": 99
     },
     {
-      "scope": "congressional",
+      "scope": "state_senate",
+      "contest_type": "president",
+      "year": 2008,
+      "file": "state_senate_presidential_2008.json",
+      "rows": 33
+    },
+    {
+      "scope": "state_senate",
+      "contest_type": "state_supreme_court",
+      "year": 2008,
+      "file": "state_senate_state_supreme_court_2008.json",
+      "rows": 33
+    },
+    {
+      "scope": "state_house",
       "contest_type": "state_supreme_court",
       "year": 2009,
-      "file": "congressional_state_supreme_court_2009.json",
-      "rows": 8
+      "file": "state_house_state_supreme_court_2009.json",
+      "rows": 99
     },
     {
-      "scope": "congressional",
+      "scope": "state_house",
       "contest_type": "superintendent",
       "year": 2009,
-      "file": "congressional_superintendent_2009.json",
-      "rows": 8
+      "file": "state_house_superintendent_2009.json",
+      "rows": 99
     },
     {
-      "scope": "congressional",
+      "scope": "state_senate",
+      "contest_type": "state_supreme_court",
+      "year": 2009,
+      "file": "state_senate_state_supreme_court_2009.json",
+      "rows": 33
+    },
+    {
+      "scope": "state_senate",
+      "contest_type": "superintendent",
+      "year": 2009,
+      "file": "state_senate_superintendent_2009.json",
+      "rows": 33
+    },
+    {
+      "scope": "state_house",
       "contest_type": "attorney_general",
       "year": 2010,
-      "file": "congressional_attorney_general_2010.json",
-      "rows": 8
+      "file": "state_house_attorney_general_2010.json",
+      "rows": 99
     },
     {
-      "scope": "congressional",
+      "scope": "state_house",
       "contest_type": "governor",
       "year": 2010,
-      "file": "congressional_governor_2010.json",
-      "rows": 8
+      "file": "state_house_governor_2010.json",
+      "rows": 99
     },
     {
-      "scope": "congressional",
+      "scope": "state_house",
+      "contest_type": "secretary_of_state",
+      "year": 2010,
+      "file": "state_house_secretary_of_state_2010.json",
+      "rows": 99
+    },
+    {
+      "scope": "state_house",
       "contest_type": "treasurer",
       "year": 2010,
-      "file": "congressional_treasurer_2010.json",
-      "rows": 8
+      "file": "state_house_treasurer_2010.json",
+      "rows": 99
     },
     {
-      "scope": "congressional",
+      "scope": "state_house",
       "contest_type": "us_senate",
       "year": 2010,
-      "file": "congressional_us_senate_2010.json",
-      "rows": 8
+      "file": "state_house_us_senate_2010.json",
+      "rows": 99
     },
     {
-      "scope": "congressional",
+      "scope": "state_senate",
+      "contest_type": "attorney_general",
+      "year": 2010,
+      "file": "state_senate_attorney_general_2010.json",
+      "rows": 33
+    },
+    {
+      "scope": "state_senate",
+      "contest_type": "governor",
+      "year": 2010,
+      "file": "state_senate_governor_2010.json",
+      "rows": 33
+    },
+    {
+      "scope": "state_senate",
+      "contest_type": "secretary_of_state",
+      "year": 2010,
+      "file": "state_senate_secretary_of_state_2010.json",
+      "rows": 33
+    },
+    {
+      "scope": "state_senate",
+      "contest_type": "treasurer",
+      "year": 2010,
+      "file": "state_senate_treasurer_2010.json",
+      "rows": 33
+    },
+    {
+      "scope": "state_senate",
+      "contest_type": "us_senate",
+      "year": 2010,
+      "file": "state_senate_us_senate_2010.json",
+      "rows": 33
+    },
+    {
+      "scope": "state_house",
       "contest_type": "state_supreme_court",
       "year": 2011,
-      "file": "congressional_state_supreme_court_2011.json",
-      "rows": 8
+      "file": "state_house_state_supreme_court_2011.json",
+      "rows": 99
     },
     {
-      "scope": "congressional",
+      "scope": "state_senate",
+      "contest_type": "state_supreme_court",
+      "year": 2011,
+      "file": "state_senate_state_supreme_court_2011.json",
+      "rows": 33
+    },
+    {
+      "scope": "state_house",
       "contest_type": "president",
       "year": 2012,
-      "file": "congressional_presidential_2012.json",
-      "rows": 8
+      "file": "state_house_presidential_2012.json",
+      "rows": 99
     },
     {
-      "scope": "congressional",
+      "scope": "state_house",
       "contest_type": "us_senate",
       "year": 2012,
-      "file": "congressional_us_senate_2012.json",
-      "rows": 8
+      "file": "state_house_us_senate_2012.json",
+      "rows": 99
     },
     {
-      "scope": "congressional",
+      "scope": "state_senate",
+      "contest_type": "president",
+      "year": 2012,
+      "file": "state_senate_presidential_2012.json",
+      "rows": 33
+    },
+    {
+      "scope": "state_senate",
+      "contest_type": "us_senate",
+      "year": 2012,
+      "file": "state_senate_us_senate_2012.json",
+      "rows": 33
+    },
+    {
+      "scope": "state_house",
       "contest_type": "state_supreme_court",
       "year": 2013,
-      "file": "congressional_state_supreme_court_2013.json",
-      "rows": 8
+      "file": "state_house_state_supreme_court_2013.json",
+      "rows": 99
     },
     {
-      "scope": "congressional",
+      "scope": "state_house",
       "contest_type": "superintendent",
       "year": 2013,
-      "file": "congressional_superintendent_2013.json",
-      "rows": 8
+      "file": "state_house_superintendent_2013.json",
+      "rows": 99
     },
     {
-      "scope": "congressional",
+      "scope": "state_senate",
+      "contest_type": "state_supreme_court",
+      "year": 2013,
+      "file": "state_senate_state_supreme_court_2013.json",
+      "rows": 33
+    },
+    {
+      "scope": "state_senate",
+      "contest_type": "superintendent",
+      "year": 2013,
+      "file": "state_senate_superintendent_2013.json",
+      "rows": 33
+    },
+    {
+      "scope": "state_house",
       "contest_type": "attorney_general",
       "year": 2014,
-      "file": "congressional_attorney_general_2014.json",
-      "rows": 8
+      "file": "state_house_attorney_general_2014.json",
+      "rows": 99
     },
     {
-      "scope": "congressional",
+      "scope": "state_house",
       "contest_type": "governor",
       "year": 2014,
-      "file": "congressional_governor_2014.json",
-      "rows": 8
+      "file": "state_house_governor_2014.json",
+      "rows": 99
     },
     {
-      "scope": "congressional",
+      "scope": "state_house",
+      "contest_type": "secretary_of_state",
+      "year": 2014,
+      "file": "state_house_secretary_of_state_2014.json",
+      "rows": 99
+    },
+    {
+      "scope": "state_house",
       "contest_type": "treasurer",
       "year": 2014,
-      "file": "congressional_treasurer_2014.json",
-      "rows": 8
+      "file": "state_house_treasurer_2014.json",
+      "rows": 99
     },
     {
-      "scope": "congressional",
+      "scope": "state_senate",
+      "contest_type": "attorney_general",
+      "year": 2014,
+      "file": "state_senate_attorney_general_2014.json",
+      "rows": 33
+    },
+    {
+      "scope": "state_senate",
+      "contest_type": "governor",
+      "year": 2014,
+      "file": "state_senate_governor_2014.json",
+      "rows": 33
+    },
+    {
+      "scope": "state_senate",
+      "contest_type": "secretary_of_state",
+      "year": 2014,
+      "file": "state_senate_secretary_of_state_2014.json",
+      "rows": 33
+    },
+    {
+      "scope": "state_senate",
+      "contest_type": "treasurer",
+      "year": 2014,
+      "file": "state_senate_treasurer_2014.json",
+      "rows": 33
+    },
+    {
+      "scope": "state_house",
       "contest_type": "state_supreme_court",
       "year": 2015,
-      "file": "congressional_state_supreme_court_2015.json",
-      "rows": 8
+      "file": "state_house_state_supreme_court_2015.json",
+      "rows": 99
     },
     {
-      "scope": "congressional",
+      "scope": "state_senate",
+      "contest_type": "state_supreme_court",
+      "year": 2015,
+      "file": "state_senate_state_supreme_court_2015.json",
+      "rows": 33
+    },
+    {
+      "scope": "state_house",
       "contest_type": "president",
       "year": 2016,
-      "file": "congressional_presidential_2016.json",
-      "rows": 8
+      "file": "state_house_presidential_2016.json",
+      "rows": 99
     },
     {
-      "scope": "congressional",
+      "scope": "state_house",
       "contest_type": "state_supreme_court",
       "year": 2016,
-      "file": "congressional_state_supreme_court_2016.json",
-      "rows": 8
+      "file": "state_house_state_supreme_court_2016.json",
+      "rows": 99
     },
     {
-      "scope": "congressional",
+      "scope": "state_house",
       "contest_type": "us_senate",
       "year": 2016,
-      "file": "congressional_us_senate_2016.json",
-      "rows": 8
+      "file": "state_house_us_senate_2016.json",
+      "rows": 99
     },
     {
-      "scope": "congressional",
+      "scope": "state_senate",
+      "contest_type": "president",
+      "year": 2016,
+      "file": "state_senate_presidential_2016.json",
+      "rows": 33
+    },
+    {
+      "scope": "state_senate",
+      "contest_type": "state_supreme_court",
+      "year": 2016,
+      "file": "state_senate_state_supreme_court_2016.json",
+      "rows": 33
+    },
+    {
+      "scope": "state_senate",
+      "contest_type": "us_senate",
+      "year": 2016,
+      "file": "state_senate_us_senate_2016.json",
+      "rows": 33
+    },
+    {
+      "scope": "state_house",
       "contest_type": "state_supreme_court",
       "year": 2017,
-      "file": "congressional_state_supreme_court_2017.json",
-      "rows": 8
+      "file": "state_house_state_supreme_court_2017.json",
+      "rows": 99
     },
     {
-      "scope": "congressional",
+      "scope": "state_house",
       "contest_type": "superintendent",
       "year": 2017,
-      "file": "congressional_superintendent_2017.json",
-      "rows": 8
+      "file": "state_house_superintendent_2017.json",
+      "rows": 99
     },
     {
-      "scope": "congressional",
+      "scope": "state_senate",
+      "contest_type": "state_supreme_court",
+      "year": 2017,
+      "file": "state_senate_state_supreme_court_2017.json",
+      "rows": 33
+    },
+    {
+      "scope": "state_senate",
+      "contest_type": "superintendent",
+      "year": 2017,
+      "file": "state_senate_superintendent_2017.json",
+      "rows": 33
+    },
+    {
+      "scope": "state_house",
       "contest_type": "attorney_general",
       "year": 2018,
-      "file": "congressional_attorney_general_2018.json",
-      "rows": 8
+      "file": "state_house_attorney_general_2018.json",
+      "rows": 99
     },
     {
-      "scope": "congressional",
+      "scope": "state_house",
       "contest_type": "governor",
       "year": 2018,
-      "file": "congressional_governor_2018.json",
-      "rows": 8
+      "file": "state_house_governor_2018.json",
+      "rows": 99
     },
     {
-      "scope": "congressional",
+      "scope": "state_house",
+      "contest_type": "secretary_of_state",
+      "year": 2018,
+      "file": "state_house_secretary_of_state_2018.json",
+      "rows": 99
+    },
+    {
+      "scope": "state_house",
       "contest_type": "state_supreme_court",
       "year": 2018,
-      "file": "congressional_state_supreme_court_2018.json",
-      "rows": 8
+      "file": "state_house_state_supreme_court_2018.json",
+      "rows": 99
     },
     {
-      "scope": "congressional",
+      "scope": "state_house",
       "contest_type": "treasurer",
       "year": 2018,
-      "file": "congressional_treasurer_2018.json",
-      "rows": 8
+      "file": "state_house_treasurer_2018.json",
+      "rows": 99
     },
     {
-      "scope": "congressional",
+      "scope": "state_house",
       "contest_type": "us_senate",
       "year": 2018,
-      "file": "congressional_us_senate_2018.json",
-      "rows": 8
+      "file": "state_house_us_senate_2018.json",
+      "rows": 99
     },
     {
-      "scope": "congressional",
+      "scope": "state_senate",
+      "contest_type": "attorney_general",
+      "year": 2018,
+      "file": "state_senate_attorney_general_2018.json",
+      "rows": 33
+    },
+    {
+      "scope": "state_senate",
+      "contest_type": "governor",
+      "year": 2018,
+      "file": "state_senate_governor_2018.json",
+      "rows": 33
+    },
+    {
+      "scope": "state_senate",
+      "contest_type": "secretary_of_state",
+      "year": 2018,
+      "file": "state_senate_secretary_of_state_2018.json",
+      "rows": 33
+    },
+    {
+      "scope": "state_senate",
+      "contest_type": "state_supreme_court",
+      "year": 2018,
+      "file": "state_senate_state_supreme_court_2018.json",
+      "rows": 33
+    },
+    {
+      "scope": "state_senate",
+      "contest_type": "treasurer",
+      "year": 2018,
+      "file": "state_senate_treasurer_2018.json",
+      "rows": 33
+    },
+    {
+      "scope": "state_senate",
+      "contest_type": "us_senate",
+      "year": 2018,
+      "file": "state_senate_us_senate_2018.json",
+      "rows": 33
+    },
+    {
+      "scope": "state_house",
       "contest_type": "state_supreme_court",
       "year": 2019,
-      "file": "congressional_state_supreme_court_2019.json",
-      "rows": 8
+      "file": "state_house_state_supreme_court_2019.json",
+      "rows": 99
     },
     {
-      "scope": "congressional",
+      "scope": "state_senate",
+      "contest_type": "state_supreme_court",
+      "year": 2019,
+      "file": "state_senate_state_supreme_court_2019.json",
+      "rows": 33
+    },
+    {
+      "scope": "state_house",
       "contest_type": "president",
       "year": 2020,
-      "file": "congressional_presidential_2020.json",
-      "rows": 8
+      "file": "state_house_presidential_2020.json",
+      "rows": 99
     },
     {
-      "scope": "congressional",
+      "scope": "state_house",
       "contest_type": "state_supreme_court",
       "year": 2020,
-      "file": "congressional_state_supreme_court_2020.json",
-      "rows": 8
+      "file": "state_house_state_supreme_court_2020.json",
+      "rows": 99
     },
     {
-      "scope": "congressional",
+      "scope": "state_senate",
+      "contest_type": "president",
+      "year": 2020,
+      "file": "state_senate_presidential_2020.json",
+      "rows": 33
+    },
+    {
+      "scope": "state_senate",
+      "contest_type": "state_supreme_court",
+      "year": 2020,
+      "file": "state_senate_state_supreme_court_2020.json",
+      "rows": 33
+    },
+    {
+      "scope": "state_house",
       "contest_type": "superintendent",
       "year": 2021,
-      "file": "congressional_superintendent_2021.json",
-      "rows": 8
+      "file": "state_house_superintendent_2021.json",
+      "rows": 99
     },
     {
-      "scope": "congressional",
+      "scope": "state_senate",
+      "contest_type": "superintendent",
+      "year": 2021,
+      "file": "state_senate_superintendent_2021.json",
+      "rows": 33
+    },
+    {
+      "scope": "state_house",
       "contest_type": "attorney_general",
       "year": 2022,
-      "file": "congressional_attorney_general_2022.json",
-      "rows": 8
+      "file": "state_house_attorney_general_2022.json",
+      "rows": 99
     },
     {
-      "scope": "congressional",
+      "scope": "state_house",
       "contest_type": "governor",
       "year": 2022,
-      "file": "congressional_governor_2022.json",
-      "rows": 8
+      "file": "state_house_governor_2022.json",
+      "rows": 99
     },
     {
-      "scope": "congressional",
+      "scope": "state_house",
+      "contest_type": "secretary_of_state",
+      "year": 2022,
+      "file": "state_house_secretary_of_state_2022.json",
+      "rows": 99
+    },
+    {
+      "scope": "state_house",
       "contest_type": "treasurer",
       "year": 2022,
-      "file": "congressional_treasurer_2022.json",
-      "rows": 8
+      "file": "state_house_treasurer_2022.json",
+      "rows": 99
     },
     {
-      "scope": "congressional",
+      "scope": "state_house",
       "contest_type": "us_senate",
       "year": 2022,
-      "file": "congressional_us_senate_2022.json",
-      "rows": 8
+      "file": "state_house_us_senate_2022.json",
+      "rows": 99
     },
     {
-      "scope": "congressional",
-      "contest_type": "president",
-      "year": 2024,
-      "file": "congressional_presidential_2024.json",
-      "rows": 8
+      "scope": "state_senate",
+      "contest_type": "attorney_general",
+      "year": 2022,
+      "file": "state_senate_attorney_general_2022.json",
+      "rows": 33
     },
     {
-      "scope": "congressional",
+      "scope": "state_senate",
+      "contest_type": "governor",
+      "year": 2022,
+      "file": "state_senate_governor_2022.json",
+      "rows": 33
+    },
+    {
+      "scope": "state_senate",
+      "contest_type": "secretary_of_state",
+      "year": 2022,
+      "file": "state_senate_secretary_of_state_2022.json",
+      "rows": 33
+    },
+    {
+      "scope": "state_senate",
+      "contest_type": "treasurer",
+      "year": 2022,
+      "file": "state_senate_treasurer_2022.json",
+      "rows": 33
+    },
+    {
+      "scope": "state_senate",
       "contest_type": "us_senate",
-      "year": 2024,
-      "file": "congressional_us_senate_2024.json",
-      "rows": 8
+      "year": 2022,
+      "file": "state_senate_us_senate_2022.json",
+      "rows": 33
     },
     {
       "scope": "state_house",
@@ -393,20 +813,6 @@
       "rows": 33
     },
     {
-      "scope": "congressional",
-      "contest_type": "state_supreme_court",
-      "year": 2025,
-      "file": "congressional_state_supreme_court_2025.json",
-      "rows": 8
-    },
-    {
-      "scope": "congressional",
-      "contest_type": "superintendent",
-      "year": 2025,
-      "file": "congressional_superintendent_2025.json",
-      "rows": 8
-    },
-    {
       "scope": "state_house",
       "contest_type": "state_supreme_court",
       "year": 2025,
@@ -433,13 +839,6 @@
       "year": 2025,
       "file": "state_senate_superintendent_2025.json",
       "rows": 33
-    },
-    {
-      "scope": "congressional",
-      "contest_type": "state_supreme_court",
-      "year": 2026,
-      "file": "congressional_state_supreme_court_2026.json",
-      "rows": 8
     },
     {
       "scope": "state_house",

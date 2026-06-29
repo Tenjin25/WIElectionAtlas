@@ -1,0 +1,1689 @@
+{
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 5325,
+        "rep_votes": 6687,
+        "other_votes": 6,
+        "total_votes": 12018,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 1361,
+        "margin_pct": 11.327976416888552,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "10": {
+        "dem_votes": 5623,
+        "rep_votes": 2817,
+        "other_votes": 6,
+        "total_votes": 8446,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": -2806,
+        "margin_pct": -33.222827373904806,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "11": {
+        "dem_votes": 2726,
+        "rep_votes": 1652,
+        "other_votes": 5,
+        "total_votes": 4383,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": -1074,
+        "margin_pct": -24.503764544832308,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "12": {
+        "dem_votes": 2820,
+        "rep_votes": 2890,
+        "other_votes": 6,
+        "total_votes": 5716,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 70,
+        "margin_pct": 1.2332721070585149,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "13": {
+        "dem_votes": 3976,
+        "rep_votes": 8439,
+        "other_votes": 4,
+        "total_votes": 12419,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 4463,
+        "margin_pct": 35.93687092358483,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "14": {
+        "dem_votes": 2679,
+        "rep_votes": 4696,
+        "other_votes": 4,
+        "total_votes": 7379,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 2016,
+        "margin_pct": 27.32755115869359,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "15": {
+        "dem_votes": 2179,
+        "rep_votes": 8470,
+        "other_votes": 1,
+        "total_votes": 10650,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 6291,
+        "margin_pct": 59.070422535211264,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "16": {
+        "dem_votes": 2581,
+        "rep_votes": 799,
+        "other_votes": 5,
+        "total_votes": 3385,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": -1782,
+        "margin_pct": -52.64401772525849,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "17": {
+        "dem_votes": 3929,
+        "rep_votes": 2514,
+        "other_votes": 9,
+        "total_votes": 6452,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": -1415,
+        "margin_pct": -21.931184128952264,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "18": {
+        "dem_votes": 4107,
+        "rep_votes": 2288,
+        "other_votes": 5,
+        "total_votes": 6400,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": -1819,
+        "margin_pct": -28.421875000000004,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "19": {
+        "dem_votes": 5243,
+        "rep_votes": 2416,
+        "other_votes": 2,
+        "total_votes": 7661,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": -2827,
+        "margin_pct": -36.90118783448636,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "2": {
+        "dem_votes": 3751,
+        "rep_votes": 5592,
+        "other_votes": 1,
+        "total_votes": 9344,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 1841,
+        "margin_pct": 19.701449942761148,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "20": {
+        "dem_votes": 4334,
+        "rep_votes": 5205,
+        "other_votes": 7,
+        "total_votes": 9546,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 871,
+        "margin_pct": 9.124240519589357,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "21": {
+        "dem_votes": 2622,
+        "rep_votes": 4581,
+        "other_votes": 4,
+        "total_votes": 7207,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 1959,
+        "margin_pct": 27.181906479811296,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "22": {
+        "dem_votes": 3148,
+        "rep_votes": 8911,
+        "other_votes": 5,
+        "total_votes": 12063,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 5763,
+        "margin_pct": 47.77598938940738,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "23": {
+        "dem_votes": 5425,
+        "rep_votes": 8553,
+        "other_votes": 8,
+        "total_votes": 13986,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 3128,
+        "margin_pct": 22.364297205505565,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "24": {
+        "dem_votes": 2358,
+        "rep_votes": 8430,
+        "other_votes": 0,
+        "total_votes": 10788,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 6072,
+        "margin_pct": 56.29200463499421,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "25": {
+        "dem_votes": 4514,
+        "rep_votes": 7640,
+        "other_votes": 6,
+        "total_votes": 12160,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 3126,
+        "margin_pct": 25.70890489818744,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "26": {
+        "dem_votes": 3322,
+        "rep_votes": 6317,
+        "other_votes": 9,
+        "total_votes": 9648,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 2995,
+        "margin_pct": 31.04037975208324,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "27": {
+        "dem_votes": 3499,
+        "rep_votes": 8691,
+        "other_votes": 4,
+        "total_votes": 12194,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 5192,
+        "margin_pct": 42.57831720518288,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "28": {
+        "dem_votes": 2883,
+        "rep_votes": 3644,
+        "other_votes": 11,
+        "total_votes": 6538,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 761,
+        "margin_pct": 11.639645151422453,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "29": {
+        "dem_votes": 3525,
+        "rep_votes": 4863,
+        "other_votes": 5,
+        "total_votes": 8393,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 1338,
+        "margin_pct": 15.941856308828786,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "3": {
+        "dem_votes": 2971,
+        "rep_votes": 5008,
+        "other_votes": 3,
+        "total_votes": 7982,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 2037,
+        "margin_pct": 25.51991981959409,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "30": {
+        "dem_votes": 2593,
+        "rep_votes": 3262,
+        "other_votes": 11,
+        "total_votes": 5866,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 669,
+        "margin_pct": 11.404705080122742,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "31": {
+        "dem_votes": 2645,
+        "rep_votes": 5545,
+        "other_votes": 9,
+        "total_votes": 8200,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 2900,
+        "margin_pct": 35.36827407066399,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "32": {
+        "dem_votes": 1714,
+        "rep_votes": 3551,
+        "other_votes": 5,
+        "total_votes": 5270,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 1837,
+        "margin_pct": 34.86565804786723,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "33": {
+        "dem_votes": 3586,
+        "rep_votes": 7846,
+        "other_votes": 16,
+        "total_votes": 11447,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 4260,
+        "margin_pct": 37.21436605261147,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "34": {
+        "dem_votes": 3619,
+        "rep_votes": 6669,
+        "other_votes": 9,
+        "total_votes": 10297,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 3050,
+        "margin_pct": 29.620277750801204,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "35": {
+        "dem_votes": 4430,
+        "rep_votes": 7987,
+        "other_votes": 9,
+        "total_votes": 12426,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 3557,
+        "margin_pct": 28.62546273941735,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "36": {
+        "dem_votes": 4018,
+        "rep_votes": 6410,
+        "other_votes": 4,
+        "total_votes": 10432,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 2392,
+        "margin_pct": 22.929447852760738,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "37": {
+        "dem_votes": 2458,
+        "rep_votes": 4397,
+        "other_votes": 0,
+        "total_votes": 6855,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 1939,
+        "margin_pct": 28.28592268417214,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "38": {
+        "dem_votes": 3372,
+        "rep_votes": 7084,
+        "other_votes": 8,
+        "total_votes": 10464,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 3711,
+        "margin_pct": 35.4644495412844,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "39": {
+        "dem_votes": 3518,
+        "rep_votes": 6677,
+        "other_votes": 2,
+        "total_votes": 10197,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 3159,
+        "margin_pct": 30.979699911738745,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "4": {
+        "dem_votes": 3114,
+        "rep_votes": 4698,
+        "other_votes": 6,
+        "total_votes": 7818,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 1584,
+        "margin_pct": 20.260936300844207,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "40": {
+        "dem_votes": 4929,
+        "rep_votes": 4978,
+        "other_votes": 7,
+        "total_votes": 9914,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 49,
+        "margin_pct": 0.49425055477103086,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "41": {
+        "dem_votes": 3504,
+        "rep_votes": 4087,
+        "other_votes": 3,
+        "total_votes": 7594,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 583,
+        "margin_pct": 7.677113510666316,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "42": {
+        "dem_votes": 5103,
+        "rep_votes": 4606,
+        "other_votes": 8,
+        "total_votes": 9717,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": -497,
+        "margin_pct": -5.114615760631866,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "43": {
+        "dem_votes": 3757,
+        "rep_votes": 3941,
+        "other_votes": 5,
+        "total_votes": 7703,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 184,
+        "margin_pct": 2.3886797351681164,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "44": {
+        "dem_votes": 3543,
+        "rep_votes": 3286,
+        "other_votes": 4,
+        "total_votes": 6833,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": -257,
+        "margin_pct": -3.7611590809307773,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "45": {
+        "dem_votes": 2896,
+        "rep_votes": 3092,
+        "other_votes": 8,
+        "total_votes": 5996,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 196,
+        "margin_pct": 3.268845897264843,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "46": {
+        "dem_votes": 4410,
+        "rep_votes": 4548,
+        "other_votes": 7,
+        "total_votes": 8965,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 137,
+        "margin_pct": 1.528165086447295,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "47": {
+        "dem_votes": 5705,
+        "rep_votes": 3770,
+        "other_votes": 3,
+        "total_votes": 9479,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": -1935,
+        "margin_pct": -20.41397645271553,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "48": {
+        "dem_votes": 3932,
+        "rep_votes": 3238,
+        "other_votes": 2,
+        "total_votes": 7172,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": -694,
+        "margin_pct": -9.676857112978004,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "49": {
+        "dem_votes": 3335,
+        "rep_votes": 4190,
+        "other_votes": 0,
+        "total_votes": 7525,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 855,
+        "margin_pct": 11.362126245847175,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "5": {
+        "dem_votes": 2749,
+        "rep_votes": 4247,
+        "other_votes": 3,
+        "total_votes": 7000,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 1498,
+        "margin_pct": 21.40101909614744,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "50": {
+        "dem_votes": 5428,
+        "rep_votes": 4870,
+        "other_votes": 4,
+        "total_votes": 10302,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": -558,
+        "margin_pct": -5.41642399534071,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "51": {
+        "dem_votes": 5266,
+        "rep_votes": 4901,
+        "other_votes": 3,
+        "total_votes": 10170,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": -365,
+        "margin_pct": -3.5889872173058017,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "52": {
+        "dem_votes": 3495,
+        "rep_votes": 3621,
+        "other_votes": 2,
+        "total_votes": 7118,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 126,
+        "margin_pct": 1.7666648573225752,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "53": {
+        "dem_votes": 3944,
+        "rep_votes": 4715,
+        "other_votes": 6,
+        "total_votes": 8665,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 771,
+        "margin_pct": 8.897864974033467,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "54": {
+        "dem_votes": 1902,
+        "rep_votes": 2200,
+        "other_votes": 4,
+        "total_votes": 4106,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 298,
+        "margin_pct": 7.270734380708806,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "55": {
+        "dem_votes": 2262,
+        "rep_votes": 3842,
+        "other_votes": 3,
+        "total_votes": 6106,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 1580,
+        "margin_pct": 25.871033776867964,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "56": {
+        "dem_votes": 3352,
+        "rep_votes": 5511,
+        "other_votes": 4,
+        "total_votes": 8867,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 2158,
+        "margin_pct": 24.343069809405662,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "57": {
+        "dem_votes": 3218,
+        "rep_votes": 5660,
+        "other_votes": 1,
+        "total_votes": 8879,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 2442,
+        "margin_pct": 27.50309719563014,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "58": {
+        "dem_votes": 2060,
+        "rep_votes": 7649,
+        "other_votes": 8,
+        "total_votes": 9717,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 5590,
+        "margin_pct": 57.52284640083426,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "59": {
+        "dem_votes": 2306,
+        "rep_votes": 8839,
+        "other_votes": 2,
+        "total_votes": 11147,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 6533,
+        "margin_pct": 58.60295436875783,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "6": {
+        "dem_votes": 3658,
+        "rep_votes": 6048,
+        "other_votes": 3,
+        "total_votes": 9709,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 2390,
+        "margin_pct": 24.616335358945307,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "60": {
+        "dem_votes": 2292,
+        "rep_votes": 4357,
+        "other_votes": 0,
+        "total_votes": 6649,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 2065,
+        "margin_pct": 31.05730184990224,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "61": {
+        "dem_votes": 3664,
+        "rep_votes": 7114,
+        "other_votes": 10,
+        "total_votes": 10788,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 3450,
+        "margin_pct": 31.984612532443457,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "62": {
+        "dem_votes": 3221,
+        "rep_votes": 4054,
+        "other_votes": 6,
+        "total_votes": 7281,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 833,
+        "margin_pct": 11.439506308483944,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "63": {
+        "dem_votes": 2802,
+        "rep_votes": 6610,
+        "other_votes": 5,
+        "total_votes": 9417,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 3808,
+        "margin_pct": 40.439276485788106,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "64": {
+        "dem_votes": 2647,
+        "rep_votes": 2925,
+        "other_votes": 8,
+        "total_votes": 5580,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 278,
+        "margin_pct": 4.982078853046595,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "65": {
+        "dem_votes": 3136,
+        "rep_votes": 3326,
+        "other_votes": 10,
+        "total_votes": 6472,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 189,
+        "margin_pct": 2.9255730105588484,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "66": {
+        "dem_votes": 3151,
+        "rep_votes": 4492,
+        "other_votes": 3,
+        "total_votes": 7646,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 1341,
+        "margin_pct": 17.53773313453138,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "67": {
+        "dem_votes": 3474,
+        "rep_votes": 4631,
+        "other_votes": 5,
+        "total_votes": 8110,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 1157,
+        "margin_pct": 14.266337854500616,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "68": {
+        "dem_votes": 4263,
+        "rep_votes": 7058,
+        "other_votes": 8,
+        "total_votes": 11329,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 2796,
+        "margin_pct": 24.676597153260513,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "69": {
+        "dem_votes": 2907,
+        "rep_votes": 5723,
+        "other_votes": 8,
+        "total_votes": 8638,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 2816,
+        "margin_pct": 32.600138921046536,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "7": {
+        "dem_votes": 2897,
+        "rep_votes": 4296,
+        "other_votes": 7,
+        "total_votes": 7200,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 1399,
+        "margin_pct": 19.430555555555557,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "70": {
+        "dem_votes": 3140,
+        "rep_votes": 4322,
+        "other_votes": 1,
+        "total_votes": 7463,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 1182,
+        "margin_pct": 15.83813479833847,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "71": {
+        "dem_votes": 5007,
+        "rep_votes": 4056,
+        "other_votes": 9,
+        "total_votes": 9072,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": -951,
+        "margin_pct": -10.482804232804233,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "72": {
+        "dem_votes": 3225,
+        "rep_votes": 5043,
+        "other_votes": 2,
+        "total_votes": 8270,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 1818,
+        "margin_pct": 21.983071342200724,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "73": {
+        "dem_votes": 4307,
+        "rep_votes": 2643,
+        "other_votes": 6,
+        "total_votes": 6956,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": -1664,
+        "margin_pct": -23.92179413456009,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "74": {
+        "dem_votes": 4428,
+        "rep_votes": 4858,
+        "other_votes": 5,
+        "total_votes": 9291,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 430,
+        "margin_pct": 4.628134754063072,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "75": {
+        "dem_votes": 3485,
+        "rep_votes": 4026,
+        "other_votes": 6,
+        "total_votes": 7517,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 541,
+        "margin_pct": 7.1970200878009845,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "76": {
+        "dem_votes": 10354,
+        "rep_votes": 1806,
+        "other_votes": 11,
+        "total_votes": 12170,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": -8548,
+        "margin_pct": -70.23829087921118,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "77": {
+        "dem_votes": 5800,
+        "rep_votes": 1299,
+        "other_votes": 6,
+        "total_votes": 7105,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": -4501,
+        "margin_pct": -63.35032683826979,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "78": {
+        "dem_votes": 7245,
+        "rep_votes": 3058,
+        "other_votes": 1,
+        "total_votes": 10304,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": -4187,
+        "margin_pct": -40.63327611045453,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "79": {
+        "dem_votes": 9892,
+        "rep_votes": 3114,
+        "other_votes": 5,
+        "total_votes": 13011,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": -6778,
+        "margin_pct": -52.0943816770425,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "8": {
+        "dem_votes": 865,
+        "rep_votes": 633,
+        "other_votes": 3,
+        "total_votes": 1501,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": -232,
+        "margin_pct": -15.456362425049965,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "80": {
+        "dem_votes": 4872,
+        "rep_votes": 3731,
+        "other_votes": 6,
+        "total_votes": 8610,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": -1141,
+        "margin_pct": -13.252802137174053,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "81": {
+        "dem_votes": 6253,
+        "rep_votes": 4101,
+        "other_votes": 2,
+        "total_votes": 10356,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": -2152,
+        "margin_pct": -20.781227367099607,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "82": {
+        "dem_votes": 2109,
+        "rep_votes": 5931,
+        "other_votes": 1,
+        "total_votes": 8041,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 3822,
+        "margin_pct": 47.53308393007036,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "83": {
+        "dem_votes": 3623,
+        "rep_votes": 10826,
+        "other_votes": 3,
+        "total_votes": 14452,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 7203,
+        "margin_pct": 49.839982931512694,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "84": {
+        "dem_votes": 2486,
+        "rep_votes": 8785,
+        "other_votes": 0,
+        "total_votes": 11271,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 6299,
+        "margin_pct": 55.882661332602055,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "85": {
+        "dem_votes": 2865,
+        "rep_votes": 3428,
+        "other_votes": 4,
+        "total_votes": 6297,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 563,
+        "margin_pct": 8.940765443862157,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "86": {
+        "dem_votes": 3464,
+        "rep_votes": 5768,
+        "other_votes": 5,
+        "total_votes": 9237,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 2304,
+        "margin_pct": 24.943163364728807,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "87": {
+        "dem_votes": 3622,
+        "rep_votes": 5232,
+        "other_votes": 3,
+        "total_votes": 8857,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 1610,
+        "margin_pct": 18.177712543750708,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "88": {
+        "dem_votes": 2989,
+        "rep_votes": 4010,
+        "other_votes": 2,
+        "total_votes": 7001,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 1020,
+        "margin_pct": 14.570299481026519,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "89": {
+        "dem_votes": 1877,
+        "rep_votes": 2292,
+        "other_votes": 3,
+        "total_votes": 4172,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 415,
+        "margin_pct": 9.947267497603068,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "9": {
+        "dem_votes": 1707,
+        "rep_votes": 1728,
+        "other_votes": 6,
+        "total_votes": 3441,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 21,
+        "margin_pct": 0.6102877070619006,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "90": {
+        "dem_votes": 2276,
+        "rep_votes": 2336,
+        "other_votes": 0,
+        "total_votes": 4612,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 60,
+        "margin_pct": 1.3009540329575022,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "91": {
+        "dem_votes": 3925,
+        "rep_votes": 3558,
+        "other_votes": 6,
+        "total_votes": 7489,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": -368,
+        "margin_pct": -4.910152226164588,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "92": {
+        "dem_votes": 3042,
+        "rep_votes": 3067,
+        "other_votes": 3,
+        "total_votes": 6112,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 24,
+        "margin_pct": 0.4000163605873421,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "93": {
+        "dem_votes": 4100,
+        "rep_votes": 3772,
+        "other_votes": 6,
+        "total_votes": 7878,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": -327,
+        "margin_pct": -4.154351097974509,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "94": {
+        "dem_votes": 2793,
+        "rep_votes": 3040,
+        "other_votes": 5,
+        "total_votes": 5838,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 246,
+        "margin_pct": 4.222698072805139,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "95": {
+        "dem_votes": 4383,
+        "rep_votes": 4856,
+        "other_votes": 9,
+        "total_votes": 9248,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 474,
+        "margin_pct": 5.119749148510569,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "96": {
+        "dem_votes": 4521,
+        "rep_votes": 5036,
+        "other_votes": 1,
+        "total_votes": 9558,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 515,
+        "margin_pct": 5.388156518100021,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "97": {
+        "dem_votes": 2612,
+        "rep_votes": 9769,
+        "other_votes": 3,
+        "total_votes": 12384,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 7157,
+        "margin_pct": 57.796097546651794,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "98": {
+        "dem_votes": 2362,
+        "rep_votes": 9311,
+        "other_votes": 1,
+        "total_votes": 11673,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 6949,
+        "margin_pct": 59.52490073543585,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "99": {
+        "dem_votes": 2011,
+        "rep_votes": 7704,
+        "other_votes": 0,
+        "total_votes": 9715,
+        "dem_candidate": "Ed Fallone",
+        "rep_candidate": "Pat Roggensack",
+        "margin": 5693,
+        "margin_pct": 58.60010293360782,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      }
+    }
+  }
+}

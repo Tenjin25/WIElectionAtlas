@@ -1,0 +1,468 @@
+{
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 27810,
+        "rep_votes": 32723,
+        "other_votes": 47,
+        "total_votes": 60580,
+        "dem_candidate": "Kathleen Falk",
+        "rep_candidate": "J.B. Van Hollen",
+        "margin": 4913,
+        "margin_pct": 8.109342415855526,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "10": {
+        "dem_votes": 23941,
+        "rep_votes": 20209,
+        "other_votes": 21,
+        "total_votes": 44171,
+        "dem_candidate": "Kathleen Falk",
+        "rep_candidate": "J.B. Van Hollen",
+        "margin": -3732,
+        "margin_pct": -8.448982363994476,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "11": {
+        "dem_votes": 19966,
+        "rep_votes": 31447,
+        "other_votes": 42,
+        "total_votes": 51454,
+        "dem_candidate": "Kathleen Falk",
+        "rep_candidate": "J.B. Van Hollen",
+        "margin": 11482,
+        "margin_pct": 22.31388896986658,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "12": {
+        "dem_votes": 26928,
+        "rep_votes": 32545,
+        "other_votes": 50,
+        "total_votes": 59523,
+        "dem_candidate": "Kathleen Falk",
+        "rep_candidate": "J.B. Van Hollen",
+        "margin": 5617,
+        "margin_pct": 9.43668833896141,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "13": {
+        "dem_votes": 20850,
+        "rep_votes": 33601,
+        "other_votes": 54,
+        "total_votes": 54504,
+        "dem_candidate": "Kathleen Falk",
+        "rep_candidate": "J.B. Van Hollen",
+        "margin": 12751,
+        "margin_pct": 23.39439862763625,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "14": {
+        "dem_votes": 24898,
+        "rep_votes": 24401,
+        "other_votes": 62,
+        "total_votes": 49361,
+        "dem_candidate": "Kathleen Falk",
+        "rep_candidate": "J.B. Van Hollen",
+        "margin": -498,
+        "margin_pct": -1.0078756109296259,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "15": {
+        "dem_votes": 33318,
+        "rep_votes": 23650,
+        "other_votes": 68,
+        "total_votes": 57036,
+        "dem_candidate": "Kathleen Falk",
+        "rep_candidate": "J.B. Van Hollen",
+        "margin": -9668,
+        "margin_pct": -16.950697804895153,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "16": {
+        "dem_votes": 33047,
+        "rep_votes": 27690,
+        "other_votes": 116,
+        "total_votes": 60853,
+        "dem_candidate": "Kathleen Falk",
+        "rep_candidate": "J.B. Van Hollen",
+        "margin": -5357,
+        "margin_pct": -8.803580074829428,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "17": {
+        "dem_votes": 23984,
+        "rep_votes": 21155,
+        "other_votes": 42,
+        "total_votes": 45181,
+        "dem_candidate": "Kathleen Falk",
+        "rep_candidate": "J.B. Van Hollen",
+        "margin": -2829,
+        "margin_pct": -6.26148159624621,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "18": {
+        "dem_votes": 30179,
+        "rep_votes": 30919,
+        "other_votes": 93,
+        "total_votes": 61191,
+        "dem_candidate": "Kathleen Falk",
+        "rep_candidate": "J.B. Van Hollen",
+        "margin": 739,
+        "margin_pct": 1.2083699330650448,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "19": {
+        "dem_votes": 24885,
+        "rep_votes": 33494,
+        "other_votes": 48,
+        "total_votes": 58428,
+        "dem_candidate": "Kathleen Falk",
+        "rep_candidate": "J.B. Van Hollen",
+        "margin": 8610,
+        "margin_pct": 14.735229684397892,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "2": {
+        "dem_votes": 24363,
+        "rep_votes": 30898,
+        "other_votes": 60,
+        "total_votes": 55322,
+        "dem_candidate": "Kathleen Falk",
+        "rep_candidate": "J.B. Van Hollen",
+        "margin": 6535,
+        "margin_pct": 11.812129063356734,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "20": {
+        "dem_votes": 21291,
+        "rep_votes": 43831,
+        "other_votes": 77,
+        "total_votes": 65199,
+        "dem_candidate": "Kathleen Falk",
+        "rep_candidate": "J.B. Van Hollen",
+        "margin": 22540,
+        "margin_pct": 34.571082378564086,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "21": {
+        "dem_votes": 31092,
+        "rep_votes": 35162,
+        "other_votes": 88,
+        "total_votes": 66343,
+        "dem_candidate": "Kathleen Falk",
+        "rep_candidate": "J.B. Van Hollen",
+        "margin": 4070,
+        "margin_pct": 6.135302230585064,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "22": {
+        "dem_votes": 32274,
+        "rep_votes": 23755,
+        "other_votes": 50,
+        "total_votes": 56079,
+        "dem_candidate": "Kathleen Falk",
+        "rep_candidate": "J.B. Van Hollen",
+        "margin": -8519,
+        "margin_pct": -15.19072739430864,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "23": {
+        "dem_votes": 19837,
+        "rep_votes": 20796,
+        "other_votes": 19,
+        "total_votes": 40652,
+        "dem_candidate": "Kathleen Falk",
+        "rep_candidate": "J.B. Van Hollen",
+        "margin": 958,
+        "margin_pct": 2.3578465739271612,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "24": {
+        "dem_votes": 28229,
+        "rep_votes": 25991,
+        "other_votes": 68,
+        "total_votes": 54288,
+        "dem_candidate": "Kathleen Falk",
+        "rep_candidate": "J.B. Van Hollen",
+        "margin": -2238,
+        "margin_pct": -4.122458001768346,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "25": {
+        "dem_votes": 25669,
+        "rep_votes": 19170,
+        "other_votes": 17,
+        "total_votes": 44856,
+        "dem_candidate": "Kathleen Falk",
+        "rep_candidate": "J.B. Van Hollen",
+        "margin": -6499,
+        "margin_pct": -14.488585696450865,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "26": {
+        "dem_votes": 61962,
+        "rep_votes": 18560,
+        "other_votes": 267,
+        "total_votes": 80790,
+        "dem_candidate": "Kathleen Falk",
+        "rep_candidate": "J.B. Van Hollen",
+        "margin": -43401,
+        "margin_pct": -53.72139614907865,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "27": {
+        "dem_votes": 35767,
+        "rep_votes": 22105,
+        "other_votes": 116,
+        "total_votes": 57988,
+        "dem_candidate": "Kathleen Falk",
+        "rep_candidate": "J.B. Van Hollen",
+        "margin": -13662,
+        "margin_pct": -23.560046906256467,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "28": {
+        "dem_votes": 24682,
+        "rep_votes": 47112,
+        "other_votes": 38,
+        "total_votes": 71833,
+        "dem_candidate": "Kathleen Falk",
+        "rep_candidate": "J.B. Van Hollen",
+        "margin": 22430,
+        "margin_pct": 31.22519311857495,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "29": {
+        "dem_votes": 25201,
+        "rep_votes": 28039,
+        "other_votes": 27,
+        "total_votes": 53267,
+        "dem_candidate": "Kathleen Falk",
+        "rep_candidate": "J.B. Van Hollen",
+        "margin": 2838,
+        "margin_pct": 5.327876546454653,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "3": {
+        "dem_votes": 29673,
+        "rep_votes": 22166,
+        "other_votes": 106,
+        "total_votes": 51945,
+        "dem_candidate": "Kathleen Falk",
+        "rep_candidate": "J.B. Van Hollen",
+        "margin": -7507,
+        "margin_pct": -14.451824044662622,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "30": {
+        "dem_votes": 28848,
+        "rep_votes": 30651,
+        "other_votes": 93,
+        "total_votes": 59592,
+        "dem_candidate": "Kathleen Falk",
+        "rep_candidate": "J.B. Van Hollen",
+        "margin": 1803,
+        "margin_pct": 3.0255739025372534,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "31": {
+        "dem_votes": 32861,
+        "rep_votes": 24876,
+        "other_votes": 50,
+        "total_votes": 57788,
+        "dem_candidate": "Kathleen Falk",
+        "rep_candidate": "J.B. Van Hollen",
+        "margin": -7984,
+        "margin_pct": -13.8170019467878,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "32": {
+        "dem_votes": 30744,
+        "rep_votes": 22738,
+        "other_votes": 95,
+        "total_votes": 53577,
+        "dem_candidate": "Kathleen Falk",
+        "rep_candidate": "J.B. Van Hollen",
+        "margin": -8006,
+        "margin_pct": -14.942979263489931,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "33": {
+        "dem_votes": 21303,
+        "rep_votes": 51608,
+        "other_votes": 42,
+        "total_votes": 72952,
+        "dem_candidate": "Kathleen Falk",
+        "rep_candidate": "J.B. Van Hollen",
+        "margin": 30305,
+        "margin_pct": 41.54070161490532,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "4": {
+        "dem_votes": 48651,
+        "rep_votes": 17701,
+        "other_votes": 116,
+        "total_votes": 66468,
+        "dem_candidate": "Kathleen Falk",
+        "rep_candidate": "J.B. Van Hollen",
+        "margin": -30950,
+        "margin_pct": -46.562891007976255,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "5": {
+        "dem_votes": 27296,
+        "rep_votes": 44334,
+        "other_votes": 74,
+        "total_votes": 71704,
+        "dem_candidate": "Kathleen Falk",
+        "rep_candidate": "J.B. Van Hollen",
+        "margin": 17037,
+        "margin_pct": 23.760015061816205,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "6": {
+        "dem_votes": 38960,
+        "rep_votes": 19149,
+        "other_votes": 95,
+        "total_votes": 58204,
+        "dem_candidate": "Kathleen Falk",
+        "rep_candidate": "J.B. Van Hollen",
+        "margin": -19811,
+        "margin_pct": -34.03717957528693,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "7": {
+        "dem_votes": 26788,
+        "rep_votes": 20580,
+        "other_votes": 75,
+        "total_votes": 47443,
+        "dem_candidate": "Kathleen Falk",
+        "rep_candidate": "J.B. Van Hollen",
+        "margin": -6208,
+        "margin_pct": -13.085175895284868,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "8": {
+        "dem_votes": 28212,
+        "rep_votes": 45834,
+        "other_votes": 40,
+        "total_votes": 74087,
+        "dem_candidate": "Kathleen Falk",
+        "rep_candidate": "J.B. Van Hollen",
+        "margin": 17622,
+        "margin_pct": 23.785197999644563,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "9": {
+        "dem_votes": 30618,
+        "rep_votes": 36985,
+        "other_votes": 38,
+        "total_votes": 67641,
+        "dem_candidate": "Kathleen Falk",
+        "rep_candidate": "J.B. Van Hollen",
+        "margin": 6367,
+        "margin_pct": 9.412930027645954,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,567 @@
+{
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 0,
+        "rep_votes": 17948,
+        "other_votes": 95,
+        "total_votes": 18043,
+        "dem_candidate": "",
+        "rep_candidate": "Annette Ziegler",
+        "margin": 17948,
+        "margin_pct": 99.47606273811131,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "10": {
+        "dem_votes": 0,
+        "rep_votes": 12925,
+        "other_votes": 158,
+        "total_votes": 13083,
+        "dem_candidate": "",
+        "rep_candidate": "Annette Ziegler",
+        "margin": 12925,
+        "margin_pct": 98.7923259191317,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "11": {
+        "dem_votes": 0,
+        "rep_votes": 15632,
+        "other_votes": 146,
+        "total_votes": 15778,
+        "dem_candidate": "",
+        "rep_candidate": "Annette Ziegler",
+        "margin": 15632,
+        "margin_pct": 99.07466092026873,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "12": {
+        "dem_votes": 0,
+        "rep_votes": 19977,
+        "other_votes": 130,
+        "total_votes": 20107,
+        "dem_candidate": "",
+        "rep_candidate": "Annette Ziegler",
+        "margin": 19977,
+        "margin_pct": 99.35345899438006,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "13": {
+        "dem_votes": 0,
+        "rep_votes": 17335,
+        "other_votes": 154,
+        "total_votes": 17489,
+        "dem_candidate": "",
+        "rep_candidate": "Annette Ziegler",
+        "margin": 17335,
+        "margin_pct": 99.1175573683007,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "14": {
+        "dem_votes": 0,
+        "rep_votes": 14426,
+        "other_votes": 354,
+        "total_votes": 14781,
+        "dem_candidate": "",
+        "rep_candidate": "Annette Ziegler",
+        "margin": 14426,
+        "margin_pct": 97.60161020245928,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "15": {
+        "dem_votes": 0,
+        "rep_votes": 12110,
+        "other_votes": 301,
+        "total_votes": 12411,
+        "dem_candidate": "",
+        "rep_candidate": "Annette Ziegler",
+        "margin": 12110,
+        "margin_pct": 97.57473209249859,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "16": {
+        "dem_votes": 0,
+        "rep_votes": 14781,
+        "other_votes": 937,
+        "total_votes": 15718,
+        "dem_candidate": "",
+        "rep_candidate": "Annette Ziegler",
+        "margin": 14781,
+        "margin_pct": 94.03643304181438,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "17": {
+        "dem_votes": 0,
+        "rep_votes": 19796,
+        "other_votes": 715,
+        "total_votes": 20511,
+        "dem_candidate": "",
+        "rep_candidate": "Annette Ziegler",
+        "margin": 19796,
+        "margin_pct": 96.51406562332407,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "18": {
+        "dem_votes": 0,
+        "rep_votes": 10131,
+        "other_votes": 175,
+        "total_votes": 10306,
+        "dem_candidate": "",
+        "rep_candidate": "Annette Ziegler",
+        "margin": 10131,
+        "margin_pct": 98.30203277234261,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "19": {
+        "dem_votes": 0,
+        "rep_votes": 14874,
+        "other_votes": 63,
+        "total_votes": 14937,
+        "dem_candidate": "",
+        "rep_candidate": "Annette Ziegler",
+        "margin": 14874,
+        "margin_pct": 99.57823662742322,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "2": {
+        "dem_votes": 0,
+        "rep_votes": 18612,
+        "other_votes": 89,
+        "total_votes": 18700,
+        "dem_candidate": "",
+        "rep_candidate": "Annette Ziegler",
+        "margin": 18612,
+        "margin_pct": 99.52407689633968,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "20": {
+        "dem_votes": 0,
+        "rep_votes": 14141,
+        "other_votes": 132,
+        "total_votes": 14273,
+        "dem_candidate": "",
+        "rep_candidate": "Annette Ziegler",
+        "margin": 14141,
+        "margin_pct": 99.07376268146405,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "21": {
+        "dem_votes": 0,
+        "rep_votes": 12555,
+        "other_votes": 172,
+        "total_votes": 12727,
+        "dem_candidate": "",
+        "rep_candidate": "Annette Ziegler",
+        "margin": 12555,
+        "margin_pct": 98.65244465397686,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "22": {
+        "dem_votes": 0,
+        "rep_votes": 9966,
+        "other_votes": 113,
+        "total_votes": 10079,
+        "dem_candidate": "",
+        "rep_candidate": "Annette Ziegler",
+        "margin": 9966,
+        "margin_pct": 98.87882921989333,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "23": {
+        "dem_votes": 0,
+        "rep_votes": 16622,
+        "other_votes": 68,
+        "total_votes": 16690,
+        "dem_candidate": "",
+        "rep_candidate": "Annette Ziegler",
+        "margin": 16622,
+        "margin_pct": 99.59258016584384,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "24": {
+        "dem_votes": 0,
+        "rep_votes": 13718,
+        "other_votes": 149,
+        "total_votes": 13867,
+        "dem_candidate": "",
+        "rep_candidate": "Annette Ziegler",
+        "margin": 13718,
+        "margin_pct": 98.92550659839908,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "25": {
+        "dem_votes": 0,
+        "rep_votes": 23060,
+        "other_votes": 326,
+        "total_votes": 23386,
+        "dem_candidate": "",
+        "rep_candidate": "Annette Ziegler",
+        "margin": 23060,
+        "margin_pct": 98.60600359189259,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "26": {
+        "dem_votes": 0,
+        "rep_votes": 16370,
+        "other_votes": 2896,
+        "total_votes": 19266,
+        "dem_candidate": "",
+        "rep_candidate": "Annette Ziegler",
+        "margin": 16370,
+        "margin_pct": 84.96928173041533,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "27": {
+        "dem_votes": 0,
+        "rep_votes": 19425,
+        "other_votes": 2345,
+        "total_votes": 21770,
+        "dem_candidate": "",
+        "rep_candidate": "Annette Ziegler",
+        "margin": 19425,
+        "margin_pct": 89.22829581993568,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "28": {
+        "dem_votes": 0,
+        "rep_votes": 11893,
+        "other_votes": 201,
+        "total_votes": 12093,
+        "dem_candidate": "",
+        "rep_candidate": "Annette Ziegler",
+        "margin": 11893,
+        "margin_pct": 98.34124398432202,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "29": {
+        "dem_votes": 0,
+        "rep_votes": 16831,
+        "other_votes": 219,
+        "total_votes": 17050,
+        "dem_candidate": "",
+        "rep_candidate": "Annette Ziegler",
+        "margin": 16831,
+        "margin_pct": 98.71554252199414,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "3": {
+        "dem_votes": 0,
+        "rep_votes": 6443,
+        "other_votes": 225,
+        "total_votes": 6668,
+        "dem_candidate": "",
+        "rep_candidate": "Annette Ziegler",
+        "margin": 6443,
+        "margin_pct": 96.625674865027,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "30": {
+        "dem_votes": 0,
+        "rep_votes": 13531,
+        "other_votes": 333,
+        "total_votes": 13864,
+        "dem_candidate": "",
+        "rep_candidate": "Annette Ziegler",
+        "margin": 13531,
+        "margin_pct": 97.59957877223648,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "31": {
+        "dem_votes": 0,
+        "rep_votes": 13192,
+        "other_votes": 360,
+        "total_votes": 13552,
+        "dem_candidate": "",
+        "rep_candidate": "Annette Ziegler",
+        "margin": 13192,
+        "margin_pct": 97.34348711591251,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "32": {
+        "dem_votes": 0,
+        "rep_votes": 16674,
+        "other_votes": 35,
+        "total_votes": 16709,
+        "dem_candidate": "",
+        "rep_candidate": "Annette Ziegler",
+        "margin": 16674,
+        "margin_pct": 99.79053204859657,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "33": {
+        "dem_votes": 0,
+        "rep_votes": 15339,
+        "other_votes": 208,
+        "total_votes": 15547,
+        "dem_candidate": "",
+        "rep_candidate": "Annette Ziegler",
+        "margin": 15339,
+        "margin_pct": 98.6608391945739,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "4": {
+        "dem_votes": 0,
+        "rep_votes": 9212,
+        "other_votes": 500,
+        "total_votes": 9712,
+        "dem_candidate": "",
+        "rep_candidate": "Annette Ziegler",
+        "margin": 9212,
+        "margin_pct": 94.85199485199485,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "5": {
+        "dem_votes": 0,
+        "rep_votes": 14323,
+        "other_votes": 446,
+        "total_votes": 14770,
+        "dem_candidate": "",
+        "rep_candidate": "Annette Ziegler",
+        "margin": 14323,
+        "margin_pct": 96.976878025661,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "6": {
+        "dem_votes": 0,
+        "rep_votes": 7905,
+        "other_votes": 512,
+        "total_votes": 8417,
+        "dem_candidate": "",
+        "rep_candidate": "Annette Ziegler",
+        "margin": 7905,
+        "margin_pct": 93.9170725911845,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "7": {
+        "dem_votes": 0,
+        "rep_votes": 11757,
+        "other_votes": 855,
+        "total_votes": 12612,
+        "dem_candidate": "",
+        "rep_candidate": "Annette Ziegler",
+        "margin": 11757,
+        "margin_pct": 93.22074215033301,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "8": {
+        "dem_votes": 0,
+        "rep_votes": 19240,
+        "other_votes": 536,
+        "total_votes": 19776,
+        "dem_candidate": "",
+        "rep_candidate": "Annette Ziegler",
+        "margin": 19240,
+        "margin_pct": 97.2896782757095,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "9": {
+        "dem_votes": 0,
+        "rep_votes": 19425,
+        "other_votes": 180,
+        "total_votes": 19605,
+        "dem_candidate": "",
+        "rep_candidate": "Annette Ziegler",
+        "margin": 19425,
+        "margin_pct": 99.08186687069626,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      }
+    }
+  }
+}

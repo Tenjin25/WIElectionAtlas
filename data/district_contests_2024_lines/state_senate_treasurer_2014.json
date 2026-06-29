@@ -1,0 +1,468 @@
+{
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 27762,
+        "rep_votes": 41459,
+        "other_votes": 4694,
+        "total_votes": 73915,
+        "dem_candidate": "David L. Sartori",
+        "rep_candidate": "Matt Adamczyk",
+        "margin": 13697,
+        "margin_pct": 18.530546925997882,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "10": {
+        "dem_votes": 25208,
+        "rep_votes": 32378,
+        "other_votes": 4279,
+        "total_votes": 61865,
+        "dem_candidate": "David L. Sartori",
+        "rep_candidate": "Matt Adamczyk",
+        "margin": 7170,
+        "margin_pct": 11.589751879091569,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "11": {
+        "dem_votes": 18755,
+        "rep_votes": 37312,
+        "other_votes": 3456,
+        "total_votes": 59522,
+        "dem_candidate": "David L. Sartori",
+        "rep_candidate": "Matt Adamczyk",
+        "margin": 18557,
+        "margin_pct": 31.177093191911165,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "12": {
+        "dem_votes": 28090,
+        "rep_votes": 39756,
+        "other_votes": 6535,
+        "total_votes": 74381,
+        "dem_candidate": "David L. Sartori",
+        "rep_candidate": "Matt Adamczyk",
+        "margin": 11666,
+        "margin_pct": 15.684112878288811,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "13": {
+        "dem_votes": 23612,
+        "rep_votes": 40493,
+        "other_votes": 4637,
+        "total_votes": 68742,
+        "dem_candidate": "David L. Sartori",
+        "rep_candidate": "Matt Adamczyk",
+        "margin": 16881,
+        "margin_pct": 24.556856450826885,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "14": {
+        "dem_votes": 33050,
+        "rep_votes": 29131,
+        "other_votes": 5079,
+        "total_votes": 67260,
+        "dem_candidate": "David L. Sartori",
+        "rep_candidate": "Matt Adamczyk",
+        "margin": -3918,
+        "margin_pct": -5.82552780255724,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "15": {
+        "dem_votes": 32019,
+        "rep_votes": 24640,
+        "other_votes": 4228,
+        "total_votes": 60887,
+        "dem_candidate": "David L. Sartori",
+        "rep_candidate": "Matt Adamczyk",
+        "margin": -7379,
+        "margin_pct": -12.11917158014026,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "16": {
+        "dem_votes": 39314,
+        "rep_votes": 27036,
+        "other_votes": 5008,
+        "total_votes": 71358,
+        "dem_candidate": "David L. Sartori",
+        "rep_candidate": "Matt Adamczyk",
+        "margin": -12278,
+        "margin_pct": -17.205952353703143,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "17": {
+        "dem_votes": 34223,
+        "rep_votes": 28573,
+        "other_votes": 5441,
+        "total_votes": 68237,
+        "dem_candidate": "David L. Sartori",
+        "rep_candidate": "Matt Adamczyk",
+        "margin": -5650,
+        "margin_pct": -8.279965414657738,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "18": {
+        "dem_votes": 28892,
+        "rep_votes": 31054,
+        "other_votes": 5616,
+        "total_votes": 65562,
+        "dem_candidate": "David L. Sartori",
+        "rep_candidate": "Matt Adamczyk",
+        "margin": 2162,
+        "margin_pct": 3.2976179306220024,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "19": {
+        "dem_votes": 23094,
+        "rep_votes": 39842,
+        "other_votes": 4381,
+        "total_votes": 67318,
+        "dem_candidate": "David L. Sartori",
+        "rep_candidate": "Matt Adamczyk",
+        "margin": 16748,
+        "margin_pct": 24.879056017984386,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "2": {
+        "dem_votes": 23108,
+        "rep_votes": 38047,
+        "other_votes": 4318,
+        "total_votes": 65472,
+        "dem_candidate": "David L. Sartori",
+        "rep_candidate": "Matt Adamczyk",
+        "margin": 14939,
+        "margin_pct": 22.81738758553275,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "20": {
+        "dem_votes": 20402,
+        "rep_votes": 49401,
+        "other_votes": 3628,
+        "total_votes": 73430,
+        "dem_candidate": "David L. Sartori",
+        "rep_candidate": "Matt Adamczyk",
+        "margin": 28999,
+        "margin_pct": 39.49181810258422,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "21": {
+        "dem_votes": 29384,
+        "rep_votes": 37268,
+        "other_votes": 3454,
+        "total_votes": 70106,
+        "dem_candidate": "David L. Sartori",
+        "rep_candidate": "Matt Adamczyk",
+        "margin": 7883,
+        "margin_pct": 11.244361237407507,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "22": {
+        "dem_votes": 14644,
+        "rep_votes": 13482,
+        "other_votes": 1523,
+        "total_votes": 29648,
+        "dem_candidate": "David L. Sartori",
+        "rep_candidate": "Matt Adamczyk",
+        "margin": -1163,
+        "margin_pct": -3.922075658902529,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "23": {
+        "dem_votes": 23624,
+        "rep_votes": 33748,
+        "other_votes": 4367,
+        "total_votes": 61740,
+        "dem_candidate": "David L. Sartori",
+        "rep_candidate": "Matt Adamczyk",
+        "margin": 10123,
+        "margin_pct": 16.396891791754904,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "24": {
+        "dem_votes": 29986,
+        "rep_votes": 30447,
+        "other_votes": 5072,
+        "total_votes": 65505,
+        "dem_candidate": "David L. Sartori",
+        "rep_candidate": "Matt Adamczyk",
+        "margin": 461,
+        "margin_pct": 0.7037630715212578,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "25": {
+        "dem_votes": 32367,
+        "rep_votes": 29959,
+        "other_votes": 3926,
+        "total_votes": 66252,
+        "dem_candidate": "David L. Sartori",
+        "rep_candidate": "Matt Adamczyk",
+        "margin": -2408,
+        "margin_pct": -3.634607257139407,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "26": {
+        "dem_votes": 54898,
+        "rep_votes": 14139,
+        "other_votes": 8533,
+        "total_votes": 77569,
+        "dem_candidate": "David L. Sartori",
+        "rep_candidate": "Matt Adamczyk",
+        "margin": -40759,
+        "margin_pct": -52.54494684759712,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "27": {
+        "dem_votes": 49693,
+        "rep_votes": 24325,
+        "other_votes": 5919,
+        "total_votes": 79937,
+        "dem_candidate": "David L. Sartori",
+        "rep_candidate": "Matt Adamczyk",
+        "margin": -25368,
+        "margin_pct": -31.734991305653203,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "28": {
+        "dem_votes": 22368,
+        "rep_votes": 55517,
+        "other_votes": 3399,
+        "total_votes": 81284,
+        "dem_candidate": "David L. Sartori",
+        "rep_candidate": "Matt Adamczyk",
+        "margin": 33149,
+        "margin_pct": 40.78198286865456,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "29": {
+        "dem_votes": 27954,
+        "rep_votes": 37634,
+        "other_votes": 4986,
+        "total_votes": 70574,
+        "dem_candidate": "David L. Sartori",
+        "rep_candidate": "Matt Adamczyk",
+        "margin": 9680,
+        "margin_pct": 13.716099413381698,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "3": {
+        "dem_votes": 23663,
+        "rep_votes": 15022,
+        "other_votes": 2510,
+        "total_votes": 41195,
+        "dem_candidate": "David L. Sartori",
+        "rep_candidate": "Matt Adamczyk",
+        "margin": -8641,
+        "margin_pct": -20.975846583323218,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "30": {
+        "dem_votes": 23244,
+        "rep_votes": 26138,
+        "other_votes": 3955,
+        "total_votes": 53337,
+        "dem_candidate": "David L. Sartori",
+        "rep_candidate": "Matt Adamczyk",
+        "margin": 2893,
+        "margin_pct": 5.424800247483761,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "31": {
+        "dem_votes": 30722,
+        "rep_votes": 29249,
+        "other_votes": 4834,
+        "total_votes": 64804,
+        "dem_candidate": "David L. Sartori",
+        "rep_candidate": "Matt Adamczyk",
+        "margin": -1472,
+        "margin_pct": -2.2720732050752868,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "32": {
+        "dem_votes": 32078,
+        "rep_votes": 28894,
+        "other_votes": 5037,
+        "total_votes": 66009,
+        "dem_candidate": "David L. Sartori",
+        "rep_candidate": "Matt Adamczyk",
+        "margin": -3184,
+        "margin_pct": -4.823584662697511,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "33": {
+        "dem_votes": 19682,
+        "rep_votes": 64367,
+        "other_votes": 3577,
+        "total_votes": 87625,
+        "dem_candidate": "David L. Sartori",
+        "rep_candidate": "Matt Adamczyk",
+        "margin": 44685,
+        "margin_pct": 50.99594466669748,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "4": {
+        "dem_votes": 54220,
+        "rep_votes": 12246,
+        "other_votes": 3028,
+        "total_votes": 69496,
+        "dem_candidate": "David L. Sartori",
+        "rep_candidate": "Matt Adamczyk",
+        "margin": -41974,
+        "margin_pct": -60.39815527624091,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "5": {
+        "dem_votes": 27634,
+        "rep_votes": 49412,
+        "other_votes": 3980,
+        "total_votes": 81027,
+        "dem_candidate": "David L. Sartori",
+        "rep_candidate": "Matt Adamczyk",
+        "margin": 21778,
+        "margin_pct": 26.876843521295367,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "6": {
+        "dem_votes": 53691,
+        "rep_votes": 10782,
+        "other_votes": 3436,
+        "total_votes": 67909,
+        "dem_candidate": "David L. Sartori",
+        "rep_candidate": "Matt Adamczyk",
+        "margin": -42909,
+        "margin_pct": -63.18602836148375,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "7": {
+        "dem_votes": 36572,
+        "rep_votes": 28774,
+        "other_votes": 4892,
+        "total_votes": 70238,
+        "dem_candidate": "David L. Sartori",
+        "rep_candidate": "Matt Adamczyk",
+        "margin": -7798,
+        "margin_pct": -11.102252342037074,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "8": {
+        "dem_votes": 27899,
+        "rep_votes": 52496,
+        "other_votes": 3547,
+        "total_votes": 83942,
+        "dem_candidate": "David L. Sartori",
+        "rep_candidate": "Matt Adamczyk",
+        "margin": 24596,
+        "margin_pct": 29.30177980033833,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "9": {
+        "dem_votes": 28703,
+        "rep_votes": 38903,
+        "other_votes": 3930,
+        "total_votes": 71536,
+        "dem_candidate": "David L. Sartori",
+        "rep_candidate": "Matt Adamczyk",
+        "margin": 10200,
+        "margin_pct": 14.258555133079847,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      }
+    }
+  }
+}

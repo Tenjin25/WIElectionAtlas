@@ -1,0 +1,1689 @@
+{
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 7658,
+        "rep_votes": 3675,
+        "other_votes": 18,
+        "total_votes": 11351,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -3983,
+        "margin_pct": -35.09363672976238,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "10": {
+        "dem_votes": 5929,
+        "rep_votes": 1776,
+        "other_votes": 20,
+        "total_votes": 7725,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -4153,
+        "margin_pct": -53.76051779935275,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "11": {
+        "dem_votes": 3167,
+        "rep_votes": 991,
+        "other_votes": 12,
+        "total_votes": 4170,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -2176,
+        "margin_pct": -52.18225419664269,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "12": {
+        "dem_votes": 3548,
+        "rep_votes": 1855,
+        "other_votes": 16,
+        "total_votes": 5418,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -1692,
+        "margin_pct": -31.235581803082034,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "13": {
+        "dem_votes": 5166,
+        "rep_votes": 6064,
+        "other_votes": 19,
+        "total_votes": 11249,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": 898,
+        "margin_pct": 7.982931816161437,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "14": {
+        "dem_votes": 3430,
+        "rep_votes": 3370,
+        "other_votes": 16,
+        "total_votes": 6816,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -61,
+        "margin_pct": -0.8948874055600381,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "15": {
+        "dem_votes": 3360,
+        "rep_votes": 6179,
+        "other_votes": 15,
+        "total_votes": 9554,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": 2819,
+        "margin_pct": 29.505966087502618,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "16": {
+        "dem_votes": 2710,
+        "rep_votes": 467,
+        "other_votes": 19,
+        "total_votes": 3196,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -2243,
+        "margin_pct": -70.18147684605756,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "17": {
+        "dem_votes": 4428,
+        "rep_votes": 1669,
+        "other_votes": 20,
+        "total_votes": 6117,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -2759,
+        "margin_pct": -45.10380905672716,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "18": {
+        "dem_votes": 4422,
+        "rep_votes": 1591,
+        "other_votes": 22,
+        "total_votes": 6035,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -2831,
+        "margin_pct": -46.90969345484673,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "19": {
+        "dem_votes": 5247,
+        "rep_votes": 1729,
+        "other_votes": 29,
+        "total_votes": 7005,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -3518,
+        "margin_pct": -50.2212705210564,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "2": {
+        "dem_votes": 5802,
+        "rep_votes": 3231,
+        "other_votes": 9,
+        "total_votes": 9042,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -2571,
+        "margin_pct": -28.4301532771593,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "20": {
+        "dem_votes": 5399,
+        "rep_votes": 3470,
+        "other_votes": 29,
+        "total_votes": 8898,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -1929,
+        "margin_pct": -21.67902899527984,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "21": {
+        "dem_votes": 3477,
+        "rep_votes": 3177,
+        "other_votes": 22,
+        "total_votes": 6676,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -300,
+        "margin_pct": -4.493708807669263,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "22": {
+        "dem_votes": 4910,
+        "rep_votes": 5927,
+        "other_votes": 34,
+        "total_votes": 10871,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": 1017,
+        "margin_pct": 9.354040028515143,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "23": {
+        "dem_votes": 6776,
+        "rep_votes": 5502,
+        "other_votes": 30,
+        "total_votes": 12308,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -1273,
+        "margin_pct": -10.344360637534356,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "24": {
+        "dem_votes": 3516,
+        "rep_votes": 6592,
+        "other_votes": 10,
+        "total_votes": 10118,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": 3076,
+        "margin_pct": 30.39804313987102,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "25": {
+        "dem_votes": 7331,
+        "rep_votes": 4233,
+        "other_votes": 11,
+        "total_votes": 11575,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -3098,
+        "margin_pct": -26.762388554841387,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "26": {
+        "dem_votes": 5375,
+        "rep_votes": 3700,
+        "other_votes": 15,
+        "total_votes": 9090,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -1675,
+        "margin_pct": -18.42944839270391,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "27": {
+        "dem_votes": 6129,
+        "rep_votes": 5341,
+        "other_votes": 11,
+        "total_votes": 11481,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -788,
+        "margin_pct": -6.863513631216793,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "28": {
+        "dem_votes": 3838,
+        "rep_votes": 2339,
+        "other_votes": 35,
+        "total_votes": 6212,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -1499,
+        "margin_pct": -24.130714745653574,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "29": {
+        "dem_votes": 5393,
+        "rep_votes": 2497,
+        "other_votes": 9,
+        "total_votes": 7899,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -2896,
+        "margin_pct": -36.662868717559185,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "3": {
+        "dem_votes": 4584,
+        "rep_votes": 3048,
+        "other_votes": 7,
+        "total_votes": 7639,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -1536,
+        "margin_pct": -20.107343893179735,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "30": {
+        "dem_votes": 3070,
+        "rep_votes": 2039,
+        "other_votes": 30,
+        "total_votes": 5139,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -1031,
+        "margin_pct": -20.062268923915163,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "31": {
+        "dem_votes": 4140,
+        "rep_votes": 3253,
+        "other_votes": 29,
+        "total_votes": 7422,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -887,
+        "margin_pct": -11.952937372213116,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "32": {
+        "dem_votes": 2485,
+        "rep_votes": 2163,
+        "other_votes": 15,
+        "total_votes": 4663,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -323,
+        "margin_pct": -6.921449200766363,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "33": {
+        "dem_votes": 5624,
+        "rep_votes": 4743,
+        "other_votes": 29,
+        "total_votes": 10396,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -881,
+        "margin_pct": -8.478599100149804,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "34": {
+        "dem_votes": 5974,
+        "rep_votes": 3351,
+        "other_votes": 25,
+        "total_votes": 9350,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -2623,
+        "margin_pct": -28.053475935828875,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "35": {
+        "dem_votes": 7454,
+        "rep_votes": 4147,
+        "other_votes": 14,
+        "total_votes": 11615,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -3307,
+        "margin_pct": -28.471803702109344,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "36": {
+        "dem_votes": 6838,
+        "rep_votes": 3248,
+        "other_votes": 12,
+        "total_votes": 10098,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -3590,
+        "margin_pct": -35.551594375123784,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "37": {
+        "dem_votes": 3849,
+        "rep_votes": 2670,
+        "other_votes": 4,
+        "total_votes": 6523,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -1179,
+        "margin_pct": -18.074505595584853,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "38": {
+        "dem_votes": 4963,
+        "rep_votes": 4765,
+        "other_votes": 17,
+        "total_votes": 9744,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -198,
+        "margin_pct": -2.033625806010222,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "39": {
+        "dem_votes": 5882,
+        "rep_votes": 3910,
+        "other_votes": 5,
+        "total_votes": 9797,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -1972,
+        "margin_pct": -20.12861079922425,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "4": {
+        "dem_votes": 4672,
+        "rep_votes": 2757,
+        "other_votes": 11,
+        "total_votes": 7440,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -1915,
+        "margin_pct": -25.739247311827956,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "40": {
+        "dem_votes": 6445,
+        "rep_votes": 2900,
+        "other_votes": 9,
+        "total_votes": 9354,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -3545,
+        "margin_pct": -37.898225358135555,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "41": {
+        "dem_votes": 4865,
+        "rep_votes": 2418,
+        "other_votes": 10,
+        "total_votes": 7293,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -2447,
+        "margin_pct": -33.5527217880159,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "42": {
+        "dem_votes": 6408,
+        "rep_votes": 2751,
+        "other_votes": 14,
+        "total_votes": 9173,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -3657,
+        "margin_pct": -39.86700098114031,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "43": {
+        "dem_votes": 4926,
+        "rep_votes": 2230,
+        "other_votes": 11,
+        "total_votes": 7167,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -2696,
+        "margin_pct": -37.616855029998604,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "44": {
+        "dem_votes": 4726,
+        "rep_votes": 1707,
+        "other_votes": 4,
+        "total_votes": 6437,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -3019,
+        "margin_pct": -46.90073015379836,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "45": {
+        "dem_votes": 3795,
+        "rep_votes": 1754,
+        "other_votes": 4,
+        "total_votes": 5553,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -2041,
+        "margin_pct": -36.754907257338374,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "46": {
+        "dem_votes": 5414,
+        "rep_votes": 2957,
+        "other_votes": 18,
+        "total_votes": 8389,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -2457,
+        "margin_pct": -29.294073235183077,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "47": {
+        "dem_votes": 6553,
+        "rep_votes": 2289,
+        "other_votes": 11,
+        "total_votes": 8853,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -4264,
+        "margin_pct": -48.16099225086415,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "48": {
+        "dem_votes": 4624,
+        "rep_votes": 2080,
+        "other_votes": 8,
+        "total_votes": 6712,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -2544,
+        "margin_pct": -37.902264600715135,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "49": {
+        "dem_votes": 5297,
+        "rep_votes": 1906,
+        "other_votes": 7,
+        "total_votes": 7210,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -3391,
+        "margin_pct": -47.03190013869625,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "5": {
+        "dem_votes": 4175,
+        "rep_votes": 2525,
+        "other_votes": 5,
+        "total_votes": 6704,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -1650,
+        "margin_pct": -24.610948142992093,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "50": {
+        "dem_votes": 6753,
+        "rep_votes": 2815,
+        "other_votes": 14,
+        "total_votes": 9582,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -3938,
+        "margin_pct": -41.097891880609474,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "51": {
+        "dem_votes": 7125,
+        "rep_votes": 2519,
+        "other_votes": 16,
+        "total_votes": 9660,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -4606,
+        "margin_pct": -47.68115942028985,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "52": {
+        "dem_votes": 4488,
+        "rep_votes": 2292,
+        "other_votes": 5,
+        "total_votes": 6785,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -2196,
+        "margin_pct": -32.36688114848818,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "53": {
+        "dem_votes": 5385,
+        "rep_votes": 2733,
+        "other_votes": 18,
+        "total_votes": 8136,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -2652,
+        "margin_pct": -32.59587020648967,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "54": {
+        "dem_votes": 2548,
+        "rep_votes": 1299,
+        "other_votes": 9,
+        "total_votes": 3856,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -1248,
+        "margin_pct": -32.3802113726253,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "55": {
+        "dem_votes": 3368,
+        "rep_votes": 2372,
+        "other_votes": 17,
+        "total_votes": 5758,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -996,
+        "margin_pct": -17.30276583734966,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "56": {
+        "dem_votes": 5387,
+        "rep_votes": 3104,
+        "other_votes": 10,
+        "total_votes": 8500,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -2282,
+        "margin_pct": -26.85136168460679,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "57": {
+        "dem_votes": 5214,
+        "rep_votes": 3256,
+        "other_votes": 12,
+        "total_votes": 8482,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -1958,
+        "margin_pct": -23.084178259844375,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "58": {
+        "dem_votes": 3277,
+        "rep_votes": 5911,
+        "other_votes": 9,
+        "total_votes": 9196,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": 2634,
+        "margin_pct": 28.64112508608503,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "59": {
+        "dem_votes": 3938,
+        "rep_votes": 6399,
+        "other_votes": 10,
+        "total_votes": 10348,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": 2461,
+        "margin_pct": 23.77991817801115,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "6": {
+        "dem_votes": 6252,
+        "rep_votes": 3144,
+        "other_votes": 11,
+        "total_votes": 9407,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -3108,
+        "margin_pct": -33.039226108217285,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "60": {
+        "dem_votes": 3677,
+        "rep_votes": 2565,
+        "other_votes": 2,
+        "total_votes": 6244,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -1112,
+        "margin_pct": -17.80909673286355,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "61": {
+        "dem_votes": 5132,
+        "rep_votes": 4842,
+        "other_votes": 20,
+        "total_votes": 9994,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -290,
+        "margin_pct": -2.901595877732753,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "62": {
+        "dem_votes": 4161,
+        "rep_votes": 2550,
+        "other_votes": 11,
+        "total_votes": 6723,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -1611,
+        "margin_pct": -23.96034252790353,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "63": {
+        "dem_votes": 3922,
+        "rep_votes": 4614,
+        "other_votes": 16,
+        "total_votes": 8553,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": 692,
+        "margin_pct": 8.091122565306783,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "64": {
+        "dem_votes": 3308,
+        "rep_votes": 1844,
+        "other_votes": 20,
+        "total_votes": 5172,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -1464,
+        "margin_pct": -28.306264501160094,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "65": {
+        "dem_votes": 3809,
+        "rep_votes": 2157,
+        "other_votes": 20,
+        "total_votes": 5986,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -1653,
+        "margin_pct": -27.608865129747183,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "66": {
+        "dem_votes": 4238,
+        "rep_votes": 2803,
+        "other_votes": 10,
+        "total_votes": 7051,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -1434,
+        "margin_pct": -20.341519107625317,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "67": {
+        "dem_votes": 4715,
+        "rep_votes": 3015,
+        "other_votes": 23,
+        "total_votes": 7753,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -1700,
+        "margin_pct": -21.92699600154779,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "68": {
+        "dem_votes": 6632,
+        "rep_votes": 3882,
+        "other_votes": 12,
+        "total_votes": 10526,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -2751,
+        "margin_pct": -26.13398315591466,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "69": {
+        "dem_votes": 4997,
+        "rep_votes": 3018,
+        "other_votes": 15,
+        "total_votes": 8030,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -1979,
+        "margin_pct": -24.645080946450808,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "7": {
+        "dem_votes": 3767,
+        "rep_votes": 2946,
+        "other_votes": 14,
+        "total_votes": 6727,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -821,
+        "margin_pct": -12.2045488330608,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "70": {
+        "dem_votes": 5069,
+        "rep_votes": 2126,
+        "other_votes": 9,
+        "total_votes": 7204,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -2943,
+        "margin_pct": -40.85230427540256,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "71": {
+        "dem_votes": 4835,
+        "rep_votes": 3127,
+        "other_votes": 38,
+        "total_votes": 8000,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -1708,
+        "margin_pct": -21.349999999999998,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "72": {
+        "dem_votes": 4765,
+        "rep_votes": 2966,
+        "other_votes": 9,
+        "total_votes": 7740,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -1799,
+        "margin_pct": -23.242894056847547,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "73": {
+        "dem_votes": 4614,
+        "rep_votes": 2039,
+        "other_votes": 15,
+        "total_votes": 6668,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -2575,
+        "margin_pct": -38.61727654469106,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "74": {
+        "dem_votes": 5689,
+        "rep_votes": 3016,
+        "other_votes": 13,
+        "total_votes": 8718,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -2673,
+        "margin_pct": -30.660701995870614,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "75": {
+        "dem_votes": 4472,
+        "rep_votes": 2855,
+        "other_votes": 11,
+        "total_votes": 7338,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -1617,
+        "margin_pct": -22.03597710547833,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "76": {
+        "dem_votes": 10074,
+        "rep_votes": 1135,
+        "other_votes": 20,
+        "total_votes": 11230,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -8939,
+        "margin_pct": -79.60461871827599,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "77": {
+        "dem_votes": 5776,
+        "rep_votes": 709,
+        "other_votes": 18,
+        "total_votes": 6503,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -5067,
+        "margin_pct": -77.91559883820263,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "78": {
+        "dem_votes": 7830,
+        "rep_votes": 1870,
+        "other_votes": 9,
+        "total_votes": 9709,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -5960,
+        "margin_pct": -61.37923615831624,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "79": {
+        "dem_votes": 10496,
+        "rep_votes": 1823,
+        "other_votes": 10,
+        "total_votes": 12329,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -8673,
+        "margin_pct": -70.34633790250628,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "8": {
+        "dem_votes": 1014,
+        "rep_votes": 389,
+        "other_votes": 9,
+        "total_votes": 1412,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -625,
+        "margin_pct": -44.26345609065156,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "80": {
+        "dem_votes": 5812,
+        "rep_votes": 2126,
+        "other_votes": 6,
+        "total_votes": 7944,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -3685,
+        "margin_pct": -46.39327752250267,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "81": {
+        "dem_votes": 7098,
+        "rep_votes": 2453,
+        "other_votes": 9,
+        "total_votes": 9560,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -4646,
+        "margin_pct": -48.59316981329428,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "82": {
+        "dem_votes": 3013,
+        "rep_votes": 4253,
+        "other_votes": 13,
+        "total_votes": 7280,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": 1240,
+        "margin_pct": 17.03394196096388,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "83": {
+        "dem_votes": 5689,
+        "rep_votes": 7163,
+        "other_votes": 15,
+        "total_votes": 12867,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": 1474,
+        "margin_pct": 11.458475009876876,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "84": {
+        "dem_votes": 3926,
+        "rep_votes": 6179,
+        "other_votes": 9,
+        "total_votes": 10115,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": 2253,
+        "margin_pct": 22.271289216978644,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "85": {
+        "dem_votes": 3681,
+        "rep_votes": 2162,
+        "other_votes": 11,
+        "total_votes": 5854,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -1519,
+        "margin_pct": -25.948069695934407,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "86": {
+        "dem_votes": 5182,
+        "rep_votes": 3408,
+        "other_votes": 16,
+        "total_votes": 8606,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -1774,
+        "margin_pct": -20.613525447362306,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "87": {
+        "dem_votes": 5123,
+        "rep_votes": 3132,
+        "other_votes": 16,
+        "total_votes": 8271,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -1991,
+        "margin_pct": -24.072059001329947,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "88": {
+        "dem_votes": 4075,
+        "rep_votes": 2557,
+        "other_votes": 4,
+        "total_votes": 6636,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -1517,
+        "margin_pct": -22.865796995162725,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "89": {
+        "dem_votes": 2567,
+        "rep_votes": 1433,
+        "other_votes": 5,
+        "total_votes": 4005,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -1134,
+        "margin_pct": -28.314606741573034,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "9": {
+        "dem_votes": 2045,
+        "rep_votes": 1184,
+        "other_votes": 8,
+        "total_votes": 3237,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -861,
+        "margin_pct": -26.59870250231696,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "90": {
+        "dem_votes": 2921,
+        "rep_votes": 1478,
+        "other_votes": 10,
+        "total_votes": 4409,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -1443,
+        "margin_pct": -32.72850986618281,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "91": {
+        "dem_votes": 4699,
+        "rep_votes": 2194,
+        "other_votes": 13,
+        "total_votes": 6907,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -2505,
+        "margin_pct": -36.26566830761594,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "92": {
+        "dem_votes": 3754,
+        "rep_votes": 1838,
+        "other_votes": 13,
+        "total_votes": 5605,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -1915,
+        "margin_pct": -34.16829466284869,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "93": {
+        "dem_votes": 5039,
+        "rep_votes": 2258,
+        "other_votes": 14,
+        "total_votes": 7310,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -2781,
+        "margin_pct": -38.04545365720204,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "94": {
+        "dem_votes": 3774,
+        "rep_votes": 1564,
+        "other_votes": 12,
+        "total_votes": 5350,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -2210,
+        "margin_pct": -41.308411214953274,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "95": {
+        "dem_votes": 6192,
+        "rep_votes": 2200,
+        "other_votes": 24,
+        "total_votes": 8416,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -3992,
+        "margin_pct": -47.43346007604563,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "96": {
+        "dem_votes": 6483,
+        "rep_votes": 2280,
+        "other_votes": 12,
+        "total_votes": 8775,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": -4203,
+        "margin_pct": -47.8974358974359,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "97": {
+        "dem_votes": 4068,
+        "rep_votes": 6954,
+        "other_votes": 13,
+        "total_votes": 11034,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": 2886,
+        "margin_pct": 26.155519303969555,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "98": {
+        "dem_votes": 3162,
+        "rep_votes": 8140,
+        "other_votes": 15,
+        "total_votes": 11317,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": 4977,
+        "margin_pct": 43.981620570822656,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "99": {
+        "dem_votes": 3109,
+        "rep_votes": 5763,
+        "other_votes": 8,
+        "total_votes": 8880,
+        "dem_candidate": "Tony Evers",
+        "rep_candidate": "Don Pridemore",
+        "margin": 2654,
+        "margin_pct": 29.88738738738739,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      }
+    }
+  }
+}

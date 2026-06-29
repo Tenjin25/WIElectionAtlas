@@ -1,0 +1,468 @@
+{
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 33524,
+        "rep_votes": 53658,
+        "other_votes": 119,
+        "total_votes": 87301,
+        "dem_candidate": "Mandela Barnes",
+        "rep_candidate": "Ron Johnson",
+        "margin": 20135,
+        "margin_pct": 23.063309698628885,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "10": {
+        "dem_votes": 32155,
+        "rep_votes": 47795,
+        "other_votes": 85,
+        "total_votes": 80035,
+        "dem_candidate": "Mandela Barnes",
+        "rep_candidate": "Ron Johnson",
+        "margin": 15640,
+        "margin_pct": 19.54145061535578,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "11": {
+        "dem_votes": 28004,
+        "rep_votes": 51016,
+        "other_votes": 227,
+        "total_votes": 79247,
+        "dem_candidate": "Mandela Barnes",
+        "rep_candidate": "Ron Johnson",
+        "margin": 23012,
+        "margin_pct": 29.038865988054184,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "12": {
+        "dem_votes": 30875,
+        "rep_votes": 58124,
+        "other_votes": 155,
+        "total_votes": 89154,
+        "dem_candidate": "Mandela Barnes",
+        "rep_candidate": "Ron Johnson",
+        "margin": 27249,
+        "margin_pct": 30.563967965542773,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "13": {
+        "dem_votes": 25461,
+        "rep_votes": 49792,
+        "other_votes": 53,
+        "total_votes": 75306,
+        "dem_candidate": "Mandela Barnes",
+        "rep_candidate": "Ron Johnson",
+        "margin": 24331,
+        "margin_pct": 32.30892488015616,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "14": {
+        "dem_votes": 42942,
+        "rep_votes": 38778,
+        "other_votes": 120,
+        "total_votes": 81840,
+        "dem_candidate": "Mandela Barnes",
+        "rep_candidate": "Ron Johnson",
+        "margin": -4164,
+        "margin_pct": -5.0882664703492475,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "15": {
+        "dem_votes": 38537,
+        "rep_votes": 30375,
+        "other_votes": 168,
+        "total_votes": 69080,
+        "dem_candidate": "Mandela Barnes",
+        "rep_candidate": "Ron Johnson",
+        "margin": -8162,
+        "margin_pct": -11.815286624203821,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "16": {
+        "dem_votes": 59471,
+        "rep_votes": 30540,
+        "other_votes": 205,
+        "total_votes": 90216,
+        "dem_candidate": "Mandela Barnes",
+        "rep_candidate": "Ron Johnson",
+        "margin": -28931,
+        "margin_pct": -32.06890468013489,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "17": {
+        "dem_votes": 42875,
+        "rep_votes": 38521,
+        "other_votes": 168,
+        "total_votes": 81564,
+        "dem_candidate": "Mandela Barnes",
+        "rep_candidate": "Ron Johnson",
+        "margin": -4354,
+        "margin_pct": -5.338139375214555,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "18": {
+        "dem_votes": 33744,
+        "rep_votes": 30097,
+        "other_votes": 116,
+        "total_votes": 63957,
+        "dem_candidate": "Mandela Barnes",
+        "rep_candidate": "Ron Johnson",
+        "margin": -3648,
+        "margin_pct": -5.70313015076019,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "19": {
+        "dem_votes": 30651,
+        "rep_votes": 54182,
+        "other_votes": 97,
+        "total_votes": 84930,
+        "dem_candidate": "Mandela Barnes",
+        "rep_candidate": "Ron Johnson",
+        "margin": 23530,
+        "margin_pct": 27.70549526543602,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "2": {
+        "dem_votes": 29927,
+        "rep_votes": 53862,
+        "other_votes": 94,
+        "total_votes": 83883,
+        "dem_candidate": "Mandela Barnes",
+        "rep_candidate": "Ron Johnson",
+        "margin": 23935,
+        "margin_pct": 28.533655049747626,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "20": {
+        "dem_votes": 26565,
+        "rep_votes": 60172,
+        "other_votes": 53,
+        "total_votes": 86790,
+        "dem_candidate": "Mandela Barnes",
+        "rep_candidate": "Ron Johnson",
+        "margin": 33608,
+        "margin_pct": 38.72297115643124,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "21": {
+        "dem_votes": 33635,
+        "rep_votes": 33336,
+        "other_votes": 154,
+        "total_votes": 67125,
+        "dem_candidate": "Mandela Barnes",
+        "rep_candidate": "Ron Johnson",
+        "margin": -300,
+        "margin_pct": -0.44618249534450655,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "22": {
+        "dem_votes": 34782,
+        "rep_votes": 29044,
+        "other_votes": 147,
+        "total_votes": 63973,
+        "dem_candidate": "Mandela Barnes",
+        "rep_candidate": "Ron Johnson",
+        "margin": -5738,
+        "margin_pct": -8.969883284701952,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "23": {
+        "dem_votes": 24002,
+        "rep_votes": 51273,
+        "other_votes": 95,
+        "total_votes": 75369,
+        "dem_candidate": "Mandela Barnes",
+        "rep_candidate": "Ron Johnson",
+        "margin": 27271,
+        "margin_pct": 36.18363179703142,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "24": {
+        "dem_votes": 33442,
+        "rep_votes": 42485,
+        "other_votes": 140,
+        "total_votes": 76067,
+        "dem_candidate": "Mandela Barnes",
+        "rep_candidate": "Ron Johnson",
+        "margin": 9043,
+        "margin_pct": 11.8882038203163,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "25": {
+        "dem_votes": 37221,
+        "rep_votes": 46127,
+        "other_votes": 69,
+        "total_votes": 83417,
+        "dem_candidate": "Mandela Barnes",
+        "rep_candidate": "Ron Johnson",
+        "margin": 8906,
+        "margin_pct": 10.676480813263483,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "26": {
+        "dem_votes": 79520,
+        "rep_votes": 12493,
+        "other_votes": 178,
+        "total_votes": 92191,
+        "dem_candidate": "Mandela Barnes",
+        "rep_candidate": "Ron Johnson",
+        "margin": -67027,
+        "margin_pct": -72.70449393107788,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "27": {
+        "dem_votes": 77416,
+        "rep_votes": 22634,
+        "other_votes": 239,
+        "total_votes": 100289,
+        "dem_candidate": "Mandela Barnes",
+        "rep_candidate": "Ron Johnson",
+        "margin": -54782,
+        "margin_pct": -54.62413624624835,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "28": {
+        "dem_votes": 34203,
+        "rep_votes": 58384,
+        "other_votes": 205,
+        "total_votes": 92793,
+        "dem_candidate": "Mandela Barnes",
+        "rep_candidate": "Ron Johnson",
+        "margin": 24181,
+        "margin_pct": 26.059465418678013,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "29": {
+        "dem_votes": 31476,
+        "rep_votes": 48769,
+        "other_votes": 133,
+        "total_votes": 80378,
+        "dem_candidate": "Mandela Barnes",
+        "rep_candidate": "Ron Johnson",
+        "margin": 17293,
+        "margin_pct": 21.514593545497522,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "3": {
+        "dem_votes": 34078,
+        "rep_votes": 16538,
+        "other_votes": 132,
+        "total_votes": 50748,
+        "dem_candidate": "Mandela Barnes",
+        "rep_candidate": "Ron Johnson",
+        "margin": -17540,
+        "margin_pct": -34.56293844092378,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "30": {
+        "dem_votes": 34762,
+        "rep_votes": 33157,
+        "other_votes": 167,
+        "total_votes": 68086,
+        "dem_candidate": "Mandela Barnes",
+        "rep_candidate": "Ron Johnson",
+        "margin": -1605,
+        "margin_pct": -2.3570541743040256,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "31": {
+        "dem_votes": 39113,
+        "rep_votes": 36636,
+        "other_votes": 145,
+        "total_votes": 75895,
+        "dem_candidate": "Mandela Barnes",
+        "rep_candidate": "Ron Johnson",
+        "margin": -2477,
+        "margin_pct": -3.26419367887349,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "32": {
+        "dem_votes": 41115,
+        "rep_votes": 37675,
+        "other_votes": 155,
+        "total_votes": 78945,
+        "dem_candidate": "Mandela Barnes",
+        "rep_candidate": "Ron Johnson",
+        "margin": -3440,
+        "margin_pct": -4.357464057255052,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "33": {
+        "dem_votes": 31222,
+        "rep_votes": 70842,
+        "other_votes": 175,
+        "total_votes": 102239,
+        "dem_candidate": "Mandela Barnes",
+        "rep_candidate": "Ron Johnson",
+        "margin": 39619,
+        "margin_pct": 38.75156088511558,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "4": {
+        "dem_votes": 52221,
+        "rep_votes": 9531,
+        "other_votes": 103,
+        "total_votes": 61855,
+        "dem_candidate": "Mandela Barnes",
+        "rep_candidate": "Ron Johnson",
+        "margin": -42690,
+        "margin_pct": -69.01624767601649,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "5": {
+        "dem_votes": 43131,
+        "rep_votes": 41755,
+        "other_votes": 213,
+        "total_votes": 85099,
+        "dem_candidate": "Mandela Barnes",
+        "rep_candidate": "Ron Johnson",
+        "margin": -1376,
+        "margin_pct": -1.616585206116471,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "6": {
+        "dem_votes": 52218,
+        "rep_votes": 9636,
+        "other_votes": 112,
+        "total_votes": 61966,
+        "dem_candidate": "Mandela Barnes",
+        "rep_candidate": "Ron Johnson",
+        "margin": -42582,
+        "margin_pct": -68.7183294064487,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "7": {
+        "dem_votes": 41386,
+        "rep_votes": 24423,
+        "other_votes": 153,
+        "total_votes": 65962,
+        "dem_candidate": "Mandela Barnes",
+        "rep_candidate": "Ron Johnson",
+        "margin": -16963,
+        "margin_pct": -25.71632151845002,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "8": {
+        "dem_votes": 48259,
+        "rep_votes": 50911,
+        "other_votes": 202,
+        "total_votes": 99372,
+        "dem_candidate": "Mandela Barnes",
+        "rep_candidate": "Ron Johnson",
+        "margin": 2652,
+        "margin_pct": 2.6687598116169546,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "9": {
+        "dem_votes": 32022,
+        "rep_votes": 46978,
+        "other_votes": 174,
+        "total_votes": 79174,
+        "dem_candidate": "Mandela Barnes",
+        "rep_candidate": "Ron Johnson",
+        "margin": 14956,
+        "margin_pct": 18.890039659484174,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      }
+    }
+  }
+}

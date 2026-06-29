@@ -1,0 +1,1689 @@
+{
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 10489,
+        "rep_votes": 13912,
+        "other_votes": 29,
+        "total_votes": 24429,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": 3423,
+        "margin_pct": 14.011843685187198,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "10": {
+        "dem_votes": 13988,
+        "rep_votes": 6125,
+        "other_votes": 76,
+        "total_votes": 20189,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": -7863,
+        "margin_pct": -38.946951310119374,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "11": {
+        "dem_votes": 8672,
+        "rep_votes": 5081,
+        "other_votes": 64,
+        "total_votes": 13817,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": -3591,
+        "margin_pct": -25.98972280523992,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "12": {
+        "dem_votes": 8682,
+        "rep_votes": 6488,
+        "other_votes": 58,
+        "total_votes": 15228,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": -2194,
+        "margin_pct": -14.403913714417046,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "13": {
+        "dem_votes": 11270,
+        "rep_votes": 14736,
+        "other_votes": 61,
+        "total_votes": 26067,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": 3466,
+        "margin_pct": 13.296505159780567,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "14": {
+        "dem_votes": 8454,
+        "rep_votes": 10554,
+        "other_votes": 64,
+        "total_votes": 19072,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": 2100,
+        "margin_pct": 11.011194714626537,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "15": {
+        "dem_votes": 7339,
+        "rep_votes": 15884,
+        "other_votes": 58,
+        "total_votes": 23281,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": 8545,
+        "margin_pct": 36.703749838924445,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "16": {
+        "dem_votes": 8468,
+        "rep_votes": 3618,
+        "other_votes": 77,
+        "total_votes": 12163,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": -4850,
+        "margin_pct": -39.87503083120941,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "17": {
+        "dem_votes": 11477,
+        "rep_votes": 6686,
+        "other_votes": 81,
+        "total_votes": 18244,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": -4791,
+        "margin_pct": -26.260688445516333,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "18": {
+        "dem_votes": 10678,
+        "rep_votes": 5783,
+        "other_votes": 62,
+        "total_votes": 16523,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": -4895,
+        "margin_pct": -29.6253706953943,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "19": {
+        "dem_votes": 14745,
+        "rep_votes": 6020,
+        "other_votes": 87,
+        "total_votes": 20852,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": -8725,
+        "margin_pct": -41.842509111835795,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "2": {
+        "dem_votes": 7485,
+        "rep_votes": 12643,
+        "other_votes": 17,
+        "total_votes": 20146,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": 5158,
+        "margin_pct": 25.60462409892395,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "20": {
+        "dem_votes": 11612,
+        "rep_votes": 10424,
+        "other_votes": 59,
+        "total_votes": 22095,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": -1188,
+        "margin_pct": -5.3767820773930755,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "21": {
+        "dem_votes": 8694,
+        "rep_votes": 10848,
+        "other_votes": 39,
+        "total_votes": 19581,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": 2154,
+        "margin_pct": 11.000459629232418,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "22": {
+        "dem_votes": 9040,
+        "rep_votes": 16683,
+        "other_votes": 0,
+        "total_votes": 25723,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": 7643,
+        "margin_pct": 29.7120253472121,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "23": {
+        "dem_votes": 12779,
+        "rep_votes": 12902,
+        "other_votes": 41,
+        "total_votes": 25722,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": 122,
+        "margin_pct": 0.47625527282623487,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "24": {
+        "dem_votes": 7464,
+        "rep_votes": 16100,
+        "other_votes": 36,
+        "total_votes": 23601,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": 8636,
+        "margin_pct": 36.591669844498114,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "25": {
+        "dem_votes": 7653,
+        "rep_votes": 11713,
+        "other_votes": 36,
+        "total_votes": 19402,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": 4060,
+        "margin_pct": 20.923939654772518,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "26": {
+        "dem_votes": 7645,
+        "rep_votes": 9802,
+        "other_votes": 48,
+        "total_votes": 17495,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": 2157,
+        "margin_pct": 12.331311838036504,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "27": {
+        "dem_votes": 7847,
+        "rep_votes": 15731,
+        "other_votes": 21,
+        "total_votes": 23599,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": 7884,
+        "margin_pct": 33.40819526251113,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "28": {
+        "dem_votes": 5884,
+        "rep_votes": 7255,
+        "other_votes": 48,
+        "total_votes": 13187,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": 1371,
+        "margin_pct": 10.396602714794874,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "29": {
+        "dem_votes": 8012,
+        "rep_votes": 9550,
+        "other_votes": 14,
+        "total_votes": 17576,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": 1538,
+        "margin_pct": 8.75056895766955,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "3": {
+        "dem_votes": 7075,
+        "rep_votes": 12722,
+        "other_votes": 2,
+        "total_votes": 19799,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": 5647,
+        "margin_pct": 28.52164250719733,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "30": {
+        "dem_votes": 7923,
+        "rep_votes": 8285,
+        "other_votes": 48,
+        "total_votes": 16256,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": 362,
+        "margin_pct": 2.226870078740163,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "31": {
+        "dem_votes": 6487,
+        "rep_votes": 10777,
+        "other_votes": 52,
+        "total_votes": 17317,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": 4290,
+        "margin_pct": 24.771317695159556,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "32": {
+        "dem_votes": 4894,
+        "rep_votes": 7491,
+        "other_votes": 53,
+        "total_votes": 12439,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": 2597,
+        "margin_pct": 20.875667067353714,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "33": {
+        "dem_votes": 7001,
+        "rep_votes": 12721,
+        "other_votes": 29,
+        "total_votes": 19750,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": 5720,
+        "margin_pct": 28.960519577463568,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "34": {
+        "dem_votes": 10021,
+        "rep_votes": 12965,
+        "other_votes": 42,
+        "total_votes": 23028,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": 2944,
+        "margin_pct": 12.78443633837068,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "35": {
+        "dem_votes": 8750,
+        "rep_votes": 13298,
+        "other_votes": 34,
+        "total_votes": 22082,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": 4548,
+        "margin_pct": 20.595960510823293,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "36": {
+        "dem_votes": 8018,
+        "rep_votes": 12540,
+        "other_votes": 2,
+        "total_votes": 20560,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": 4522,
+        "margin_pct": 21.994163424124512,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "37": {
+        "dem_votes": 7270,
+        "rep_votes": 10247,
+        "other_votes": 0,
+        "total_votes": 17517,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": 2977,
+        "margin_pct": 16.994919221327855,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "38": {
+        "dem_votes": 7337,
+        "rep_votes": 12398,
+        "other_votes": 26,
+        "total_votes": 19761,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": 5061,
+        "margin_pct": 25.61167947236584,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "39": {
+        "dem_votes": 7792,
+        "rep_votes": 12820,
+        "other_votes": 19,
+        "total_votes": 20631,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": 5028,
+        "margin_pct": 24.371092045950267,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "4": {
+        "dem_votes": 7749,
+        "rep_votes": 12626,
+        "other_votes": 13,
+        "total_votes": 20388,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": 4877,
+        "margin_pct": 23.920933882676085,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "40": {
+        "dem_votes": 11154,
+        "rep_votes": 9250,
+        "other_votes": 18,
+        "total_votes": 20422,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": -1904,
+        "margin_pct": -9.3232788169621,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "41": {
+        "dem_votes": 9062,
+        "rep_votes": 9209,
+        "other_votes": 12,
+        "total_votes": 18283,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": 147,
+        "margin_pct": 0.8040255975496362,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "42": {
+        "dem_votes": 11729,
+        "rep_votes": 8703,
+        "other_votes": 43,
+        "total_votes": 20475,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": -3026,
+        "margin_pct": -14.777777777777779,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "43": {
+        "dem_votes": 10487,
+        "rep_votes": 8855,
+        "other_votes": 77,
+        "total_votes": 19419,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": -1632,
+        "margin_pct": -8.404140274988412,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "44": {
+        "dem_votes": 10148,
+        "rep_votes": 7429,
+        "other_votes": 49,
+        "total_votes": 17626,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": -2719,
+        "margin_pct": -15.426075116305457,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "45": {
+        "dem_votes": 8214,
+        "rep_votes": 7397,
+        "other_votes": 56,
+        "total_votes": 15667,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": -817,
+        "margin_pct": -5.214782664198634,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "46": {
+        "dem_votes": 11669,
+        "rep_votes": 9607,
+        "other_votes": 40,
+        "total_votes": 21317,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": -2062,
+        "margin_pct": -9.67154283391061,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "47": {
+        "dem_votes": 14808,
+        "rep_votes": 7084,
+        "other_votes": 67,
+        "total_votes": 21959,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": -7725,
+        "margin_pct": -35.17660024044592,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "48": {
+        "dem_votes": 11432,
+        "rep_votes": 7103,
+        "other_votes": 49,
+        "total_votes": 18584,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": -4329,
+        "margin_pct": -23.295576840292725,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "49": {
+        "dem_votes": 8956,
+        "rep_votes": 8782,
+        "other_votes": 32,
+        "total_votes": 17770,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": -174,
+        "margin_pct": -0.9791783905458639,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "5": {
+        "dem_votes": 6587,
+        "rep_votes": 10736,
+        "other_votes": 6,
+        "total_votes": 17329,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": 4149,
+        "margin_pct": 23.9425240925616,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "50": {
+        "dem_votes": 13321,
+        "rep_votes": 8921,
+        "other_votes": 35,
+        "total_votes": 22277,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": -4400,
+        "margin_pct": -19.751313013421914,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "51": {
+        "dem_votes": 12053,
+        "rep_votes": 9263,
+        "other_votes": 18,
+        "total_votes": 21334,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": -2790,
+        "margin_pct": -13.077716321364957,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "52": {
+        "dem_votes": 9648,
+        "rep_votes": 10044,
+        "other_votes": 0,
+        "total_votes": 19692,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": 396,
+        "margin_pct": 2.010968921389397,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "53": {
+        "dem_votes": 9971,
+        "rep_votes": 12488,
+        "other_votes": 56,
+        "total_votes": 22515,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": 2517,
+        "margin_pct": 11.179213857428381,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "54": {
+        "dem_votes": 7400,
+        "rep_votes": 7819,
+        "other_votes": 68,
+        "total_votes": 15287,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": 419,
+        "margin_pct": 2.740890953097403,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "55": {
+        "dem_votes": 7090,
+        "rep_votes": 10930,
+        "other_votes": 41,
+        "total_votes": 18061,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": 3840,
+        "margin_pct": 21.261281213664805,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "56": {
+        "dem_votes": 7158,
+        "rep_votes": 12808,
+        "other_votes": 4,
+        "total_votes": 19970,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": 5650,
+        "margin_pct": 28.292438657986978,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "57": {
+        "dem_votes": 7695,
+        "rep_votes": 12244,
+        "other_votes": 15,
+        "total_votes": 19954,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": 4549,
+        "margin_pct": 22.79743409842638,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "58": {
+        "dem_votes": 6207,
+        "rep_votes": 15441,
+        "other_votes": 0,
+        "total_votes": 21648,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": 9234,
+        "margin_pct": 42.65275138808909,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "59": {
+        "dem_votes": 6223,
+        "rep_votes": 16984,
+        "other_votes": 8,
+        "total_votes": 23215,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": 10761,
+        "margin_pct": 46.354420928696555,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "6": {
+        "dem_votes": 6921,
+        "rep_votes": 12282,
+        "other_votes": 21,
+        "total_votes": 19224,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": 5361,
+        "margin_pct": 27.887016229712856,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "60": {
+        "dem_votes": 7065,
+        "rep_votes": 9889,
+        "other_votes": 0,
+        "total_votes": 16954,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": 2824,
+        "margin_pct": 16.65683614486257,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "61": {
+        "dem_votes": 9358,
+        "rep_votes": 13257,
+        "other_votes": 44,
+        "total_votes": 22658,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": 3899,
+        "margin_pct": 17.207670410662665,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "62": {
+        "dem_votes": 7396,
+        "rep_votes": 7264,
+        "other_votes": 0,
+        "total_votes": 14660,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": -132,
+        "margin_pct": -0.9003990404838508,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "63": {
+        "dem_votes": 7833,
+        "rep_votes": 12813,
+        "other_votes": 26,
+        "total_votes": 20671,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": 4980,
+        "margin_pct": 24.091334214854708,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "64": {
+        "dem_votes": 7685,
+        "rep_votes": 7546,
+        "other_votes": 69,
+        "total_votes": 15300,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": -139,
+        "margin_pct": -0.9084967320261438,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "65": {
+        "dem_votes": 8320,
+        "rep_votes": 7842,
+        "other_votes": 80,
+        "total_votes": 16242,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": -478,
+        "margin_pct": -2.942926919367081,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "66": {
+        "dem_votes": 8078,
+        "rep_votes": 8647,
+        "other_votes": 0,
+        "total_votes": 16726,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": 569,
+        "margin_pct": 3.4019909718693015,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "67": {
+        "dem_votes": 8243,
+        "rep_votes": 9580,
+        "other_votes": 14,
+        "total_votes": 17837,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": 1337,
+        "margin_pct": 7.495655098951618,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "68": {
+        "dem_votes": 8621,
+        "rep_votes": 12353,
+        "other_votes": 4,
+        "total_votes": 20978,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": 3732,
+        "margin_pct": 17.79056880340353,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "69": {
+        "dem_votes": 6344,
+        "rep_votes": 10240,
+        "other_votes": 6,
+        "total_votes": 16590,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": 3896,
+        "margin_pct": 23.484026522001205,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "7": {
+        "dem_votes": 8500,
+        "rep_votes": 9407,
+        "other_votes": 56,
+        "total_votes": 17963,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": 907,
+        "margin_pct": 5.049267939653733,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "70": {
+        "dem_votes": 7819,
+        "rep_votes": 8614,
+        "other_votes": 26,
+        "total_votes": 16459,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": 795,
+        "margin_pct": 4.8301840938088585,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "71": {
+        "dem_votes": 11167,
+        "rep_votes": 9443,
+        "other_votes": 59,
+        "total_votes": 20669,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": -1724,
+        "margin_pct": -8.340993758769171,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "72": {
+        "dem_votes": 8914,
+        "rep_votes": 11067,
+        "other_votes": 13,
+        "total_votes": 19994,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": 2153,
+        "margin_pct": 10.768230469140743,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "73": {
+        "dem_votes": 11060,
+        "rep_votes": 7290,
+        "other_votes": 54,
+        "total_votes": 18404,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": -3770,
+        "margin_pct": -20.484677244077375,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "74": {
+        "dem_votes": 9968,
+        "rep_votes": 10358,
+        "other_votes": 32,
+        "total_votes": 20358,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": 390,
+        "margin_pct": 1.9157088122605364,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "75": {
+        "dem_votes": 6920,
+        "rep_votes": 8466,
+        "other_votes": 4,
+        "total_votes": 15390,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": 1546,
+        "margin_pct": 10.0454840805718,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "76": {
+        "dem_votes": 23347,
+        "rep_votes": 3470,
+        "other_votes": 81,
+        "total_votes": 26897,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": -19877,
+        "margin_pct": -73.9004349927501,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "77": {
+        "dem_votes": 19077,
+        "rep_votes": 4734,
+        "other_votes": 116,
+        "total_votes": 23927,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": -14343,
+        "margin_pct": -59.942139626461596,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "78": {
+        "dem_votes": 17759,
+        "rep_votes": 5574,
+        "other_votes": 46,
+        "total_votes": 23379,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": -12185,
+        "margin_pct": -52.12028408594056,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "79": {
+        "dem_votes": 21610,
+        "rep_votes": 5284,
+        "other_votes": 73,
+        "total_votes": 26967,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": -16326,
+        "margin_pct": -60.5406608076538,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "8": {
+        "dem_votes": 3387,
+        "rep_votes": 2613,
+        "other_votes": 34,
+        "total_votes": 6034,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": -774,
+        "margin_pct": -12.827311899237653,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "80": {
+        "dem_votes": 13557,
+        "rep_votes": 7168,
+        "other_votes": 38,
+        "total_votes": 20763,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": -6389,
+        "margin_pct": -30.771268429829686,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "81": {
+        "dem_votes": 15655,
+        "rep_votes": 8158,
+        "other_votes": 38,
+        "total_votes": 23851,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": -7497,
+        "margin_pct": -31.432479600018866,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "82": {
+        "dem_votes": 6990,
+        "rep_votes": 12076,
+        "other_votes": 58,
+        "total_votes": 19124,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": 5086,
+        "margin_pct": 26.592206814331437,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "83": {
+        "dem_votes": 8331,
+        "rep_votes": 16567,
+        "other_votes": 52,
+        "total_votes": 24950,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": 8236,
+        "margin_pct": 33.01193197531574,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "84": {
+        "dem_votes": 7089,
+        "rep_votes": 17294,
+        "other_votes": 22,
+        "total_votes": 24405,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": 10205,
+        "margin_pct": 41.816853218966195,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "85": {
+        "dem_votes": 8443,
+        "rep_votes": 9659,
+        "other_votes": 36,
+        "total_votes": 18138,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": 1216,
+        "margin_pct": 6.704157018414379,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "86": {
+        "dem_votes": 8413,
+        "rep_votes": 13410,
+        "other_votes": 12,
+        "total_votes": 21835,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": 4997,
+        "margin_pct": 22.885275933134874,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "87": {
+        "dem_votes": 8679,
+        "rep_votes": 12992,
+        "other_votes": 23,
+        "total_votes": 21694,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": 4313,
+        "margin_pct": 19.881073107771734,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "88": {
+        "dem_votes": 8695,
+        "rep_votes": 11421,
+        "other_votes": 45,
+        "total_votes": 20160,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": 2726,
+        "margin_pct": 13.520499550823123,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "89": {
+        "dem_votes": 8388,
+        "rep_votes": 10653,
+        "other_votes": 60,
+        "total_votes": 19101,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": 2265,
+        "margin_pct": 11.858017904821736,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "9": {
+        "dem_votes": 5743,
+        "rep_votes": 4959,
+        "other_votes": 45,
+        "total_votes": 10747,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": -784,
+        "margin_pct": -7.29505908625663,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "90": {
+        "dem_votes": 6923,
+        "rep_votes": 7322,
+        "other_votes": 60,
+        "total_votes": 14305,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": 399,
+        "margin_pct": 2.789234533379937,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "91": {
+        "dem_votes": 10705,
+        "rep_votes": 9164,
+        "other_votes": 53,
+        "total_votes": 19922,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": -1541,
+        "margin_pct": -7.734560995898223,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "92": {
+        "dem_votes": 8740,
+        "rep_votes": 8299,
+        "other_votes": 0,
+        "total_votes": 17039,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": -441,
+        "margin_pct": -2.589098378695629,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "93": {
+        "dem_votes": 11348,
+        "rep_votes": 9053,
+        "other_votes": 51,
+        "total_votes": 20452,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": -2295,
+        "margin_pct": -11.221938169677166,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "94": {
+        "dem_votes": 9794,
+        "rep_votes": 9716,
+        "other_votes": 3,
+        "total_votes": 19512,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": -78,
+        "margin_pct": -0.39975399753997537,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "95": {
+        "dem_votes": 10002,
+        "rep_votes": 8250,
+        "other_votes": 4,
+        "total_votes": 18256,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": -1753,
+        "margin_pct": -9.602322524101666,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "96": {
+        "dem_votes": 11251,
+        "rep_votes": 8844,
+        "other_votes": 5,
+        "total_votes": 20100,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": -2407,
+        "margin_pct": -11.975124378109452,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "97": {
+        "dem_votes": 7471,
+        "rep_votes": 18127,
+        "other_votes": 35,
+        "total_votes": 25633,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": 10657,
+        "margin_pct": 41.57401266596444,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "98": {
+        "dem_votes": 6452,
+        "rep_votes": 17118,
+        "other_votes": 12,
+        "total_votes": 23582,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": 10666,
+        "margin_pct": 45.229609306921034,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      },
+      "99": {
+        "dem_votes": 6481,
+        "rep_votes": 16140,
+        "other_votes": 43,
+        "total_votes": 22664,
+        "dem_candidate": "JoAnne F. Kloppenburg",
+        "rep_candidate": "Rebecca G. Bradley",
+        "margin": 9659,
+        "margin_pct": 42.61824920578891,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        },
+        "contest_partisan_style": "nonpartisan_ideology",
+        "dem_label": "Liberal",
+        "rep_label": "Conservative"
+      }
+    }
+  }
+}
