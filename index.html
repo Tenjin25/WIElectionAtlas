@@ -19459,6 +19459,13 @@ document.addEventListener('DOMContentLoaded', function() {
     function populateContestSelectFromManifest(manifestEntries) {
 	      const q = (contestSearchQuery || '').toString().trim().toUpperCase();
 	      const sel = document.getElementById('contestSelect');
+      if (!sel) return;
+      if (sel.dataset) {
+        delete sel.dataset.deferredLoading;
+        delete sel.dataset.populated;
+        delete sel.dataset.sourceView;
+      }
+      sel.disabled = false;
 	      sel.innerHTML = '<option value="">Select a contest...</option>';
 
 	      const contestYearPairs = {};
@@ -19572,6 +19579,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 	      sel.appendChild(fragment);
 	      sel.dataset.populated = 'true';
+      sel.dataset.sourceView = currentView || '';
 	      wireContestSelectHandlers(sel);
 	    }
 
@@ -19606,8 +19614,13 @@ document.addEventListener('DOMContentLoaded', function() {
       if (inManifestMode && currentView !== 'counties' && currentView !== 'vtds_2000') {
         const sel = document.getElementById('contestSelect');
         if (sel) {
+          sel.disabled = false;
           sel.innerHTML = '<option value="">No contests available for this view</option>';
-          sel.dataset.populated = 'true';
+          if (sel.dataset) {
+            delete sel.dataset.deferredLoading;
+            delete sel.dataset.populated;
+            sel.dataset.sourceView = currentView || '';
+          }
           wireContestSelectHandlers(sel);
         }
         return;
@@ -19620,11 +19633,14 @@ document.addEventListener('DOMContentLoaded', function() {
     function populateContestSelectFromCSV(csvData) {
 	      if (!Array.isArray(csvData) || csvData.length === 0) return;
 	      const sel = document.getElementById('contestSelect');
-      const hadDeferredLoading = sel && sel.dataset && sel.dataset.deferredLoading === 'true';
-	      if (sel.dataset.populated === 'true' && !hadDeferredLoading) return; // Only populate once per data load
+      if (!sel) return;
+      // Always rebuild this selector when the active view changes. The previous
+      // data-populated guard could leave "Loading contests..." or
+      // "No contests available" stuck across county/district layer switches.
       if (sel.dataset) {
         delete sel.dataset.deferredLoading;
         delete sel.dataset.populated;
+        delete sel.dataset.sourceView;
       }
       sel.disabled = false;
 	      sel.innerHTML = '<option value="">Select a contest...</option>';
