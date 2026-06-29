@@ -5,25 +5,25 @@
         "dem_votes": 243674,
         "rep_votes": 273507,
         "other_votes": 7530,
-        "total_votes": 128135,
-        "dem_candidate": "Joe Biden",
-        "rep_candidate": "Chris Christie",
+        "total_votes": 524711,
+        "dem_candidate": "Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump",
         "margin": 29833,
-        "margin_pct": 23.282089769670613,
+        "margin_pct": 5.685605981197268,
         "winner": "REP",
         "competitiveness": {
-          "color": "#67000d"
+          "color": "#fb6a4a"
         }
       },
       "2": {
         "dem_votes": 441230,
         "rep_votes": 182624,
         "other_votes": 9041,
-        "total_votes": 191953,
-        "dem_candidate": "Joe Biden",
-        "rep_candidate": "Chris Christie",
+        "total_votes": 632895,
+        "dem_candidate": "Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump",
         "margin": -258606,
-        "margin_pct": -134.72362110103532,
+        "margin_pct": -40.86080629488304,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -33,25 +33,25 @@
         "dem_votes": 258841,
         "rep_votes": 293554,
         "other_votes": 7808,
-        "total_votes": 161354,
-        "dem_candidate": "Joe Biden",
-        "rep_candidate": "Chris Christie",
-        "margin": 34712,
-        "margin_pct": 21.513204920030933,
+        "total_votes": 560203,
+        "dem_candidate": "Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump",
+        "margin": 34713,
+        "margin_pct": 6.196503767384323,
         "winner": "REP",
         "competitiveness": {
-          "color": "#67000d"
+          "color": "#fb6a4a"
         }
       },
       "4": {
         "dem_votes": 340243,
         "rep_votes": 107619,
         "other_votes": 7817,
-        "total_votes": 97509,
-        "dem_candidate": "Joe Biden",
-        "rep_candidate": "Chris Christie",
+        "total_votes": 455679,
+        "dem_candidate": "Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump",
         "margin": -232624,
-        "margin_pct": -238.5666964075111,
+        "margin_pct": -51.04997158087162,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -61,11 +61,11 @@
         "dem_votes": 238733,
         "rep_votes": 396497,
         "other_votes": 8304,
-        "total_votes": 171254,
-        "dem_candidate": "Joe Biden",
-        "rep_candidate": "Chris Christie",
+        "total_votes": 643534,
+        "dem_candidate": "Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump",
         "margin": 157764,
-        "margin_pct": 92.12272207488867,
+        "margin_pct": 24.515254827250775,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
@@ -75,25 +75,25 @@
         "dem_votes": 229131,
         "rep_votes": 325145,
         "other_votes": 7070,
-        "total_votes": 132978,
-        "dem_candidate": "Joe Biden",
-        "rep_candidate": "Chris Christie",
+        "total_votes": 561346,
+        "dem_candidate": "Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump",
         "margin": 96014,
-        "margin_pct": 72.20326194716661,
+        "margin_pct": 17.10424586618592,
         "winner": "REP",
         "competitiveness": {
-          "color": "#67000d"
+          "color": "#cb181d"
         }
       },
       "7": {
         "dem_votes": 227636,
         "rep_votes": 362647,
         "other_votes": 7982,
-        "total_votes": 151710,
-        "dem_candidate": "Joe Biden",
-        "rep_candidate": "Chris Christie",
-        "margin": 135012,
-        "margin_pct": 88.99319974512775,
+        "total_votes": 598265,
+        "dem_candidate": "Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump",
+        "margin": 135011,
+        "margin_pct": 22.567089834772215,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
@@ -103,14 +103,14 @@
         "dem_votes": 228241,
         "rep_votes": 325223,
         "other_votes": 6529,
-        "total_votes": 224699,
-        "dem_candidate": "Joe Biden",
-        "rep_candidate": "Chris Christie",
+        "total_votes": 559993,
+        "dem_candidate": "Kamala D. Harris",
+        "rep_candidate": "Donald J. Trump",
         "margin": 96982,
-        "margin_pct": 43.16070239149561,
+        "margin_pct": 17.31843076609886,
         "winner": "REP",
         "competitiveness": {
-          "color": "#67000d"
+          "color": "#cb181d"
         }
       }
     }
