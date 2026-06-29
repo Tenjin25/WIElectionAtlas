@@ -90,6 +90,7 @@ In the default margin view:
 The threshold bands are:
 
 - under 0.5 points: `Tossup`
+- 0.50 to 0.99 points: `Tilt`
 - 1.00 to 5.49 points: `Lean`
 - 5.50 to 9.99 points: `Likely`
 - 10.00 to 19.99 points: `Safe`
@@ -100,6 +101,7 @@ The threshold bands are:
 Those are the atlas's actual competitiveness labels. If you want them in plain English, they roughly mean:
 
 - `Tossup`: effectively even
+- `Tilt`: barely off even, but with a real edge
 - `Lean`: competitive, but one side has the edge
 - `Likely`: a clear advantage, though not a lock
 - `Safe`: a solid result that would take a meaningful shift to overturn
