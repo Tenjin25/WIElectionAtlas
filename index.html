@@ -10166,6 +10166,7 @@ document.addEventListener('DOMContentLoaded', function() {
           state_supreme_court: [2005, 2006, 2007, 2008, 2009, 2011, 2013, 2015, 2016, 2017, 2018, 2019, 2020, 2025, 2026],
           superintendent: [2005, 2009, 2013, 2017, 2021, 2025],
           treasurer: [2002, 2006, 2010, 2014, 2018, 2022],
+          us_house: [2022, 2024],
           us_senate: [2000, 2004, 2006, 2010, 2012, 2016, 2018, 2022, 2024]
         },
         state_house: {
@@ -10173,6 +10174,7 @@ document.addEventListener('DOMContentLoaded', function() {
           governor: [2002, 2006, 2010, 2014, 2018, 2022],
           presidential: [2000, 2004, 2008, 2012, 2016, 2020],
           state_supreme_court: [2005, 2006, 2007, 2008, 2009, 2011, 2013, 2015, 2016, 2017, 2018, 2019, 2020],
+          state_house: [2022],
           superintendent: [2005, 2009, 2013, 2017, 2021],
           treasurer: [2002, 2006, 2010, 2014, 2018, 2022],
           us_senate: [2000, 2004, 2006, 2010, 2012, 2016, 2018, 2022]
@@ -10181,6 +10183,7 @@ document.addEventListener('DOMContentLoaded', function() {
           attorney_general: [2002, 2006, 2010, 2014, 2018, 2022],
           governor: [2002, 2006, 2010, 2014, 2018, 2022],
           presidential: [2000, 2004, 2008, 2012, 2016, 2020],
+          state_senate: [2022],
           state_supreme_court: [2005, 2006, 2007, 2008, 2009, 2011, 2013, 2015, 2016, 2017, 2018, 2019, 2020],
           superintendent: [2005, 2009, 2013, 2017, 2021],
           treasurer: [2002, 2006, 2010, 2014, 2018, 2022],
@@ -10190,12 +10193,14 @@ document.addEventListener('DOMContentLoaded', function() {
       '2024': {
         state_house: {
           presidential: [2024],
+          state_house: [2024],
           state_supreme_court: [2025, 2026],
           superintendent: [2025],
           us_senate: [2024]
         },
         state_senate: {
           presidential: [2024],
+          state_senate: [2024],
           state_supreme_court: [2025, 2026],
           superintendent: [2025],
           us_senate: [2024]
@@ -10209,6 +10214,7 @@ document.addEventListener('DOMContentLoaded', function() {
           state_supreme_court: [2005, 2006, 2007, 2008, 2009, 2011, 2013, 2015, 2016, 2017, 2018, 2019, 2020, 2025, 2026],
           superintendent: [2005, 2009, 2013, 2017, 2021, 2025],
           treasurer: [2002, 2006, 2010, 2014, 2018, 2022],
+          us_house: [2022, 2024],
           us_senate: [2000, 2004, 2006, 2010, 2012, 2016, 2018, 2022, 2024]
         }
       }
@@ -11010,6 +11016,7 @@ document.addEventListener('DOMContentLoaded', function() {
       'agriculture_commissioner',
       'superintendent'
     ]);
+    const statewideContestYearSummaryCache = new WeakMap();
 
     function parseMajorPartyContested(entry) {
       const raw = entry?.major_party_contested;
@@ -11042,6 +11049,55 @@ document.addEventListener('DOMContentLoaded', function() {
       return (Array.isArray(entries) ? entries : []).filter(shouldIncludeManifestEntry);
     }
 
+    function summarizeStatewideContestYearRows(rows, contestType, targetYear) {
+      const ct = String(contestType || '').trim();
+      const year = Number(targetYear);
+      const rowList = Array.isArray(rows) ? rows : [];
+      if (!ct || !Number.isFinite(year) || rowList.length === 0) return null;
+      let byContestYear = statewideContestYearSummaryCache.get(rowList);
+      if (!byContestYear) {
+        byContestYear = new Map();
+        statewideContestYearSummaryCache.set(rowList, byContestYear);
+      }
+      const cacheKey = `${ct}__${year}`;
+      if (byContestYear.has(cacheKey)) return byContestYear.get(cacheKey);
+      const summary = {
+        hasData: false,
+        demTotal: 0,
+        repTotal: 0,
+        demCandidate: '',
+        repCandidate: ''
+      };
+      rowList.forEach(row => {
+        const rowYear = Number(row?.year);
+        if (!Number.isFinite(rowYear) || rowYear !== year) return;
+        const total = Number(row?.[`${ct}_total`] || 0);
+        const dem = Number(row?.[`${ct}_dem`] || 0);
+        const rep = Number(row?.[`${ct}_rep`] || 0);
+        if (!(total > 0 || dem > 0 || rep > 0)) return;
+        summary.hasData = true;
+        summary.demTotal += dem;
+        summary.repTotal += rep;
+        if (!summary.demCandidate) {
+          summary.demCandidate = (row?.[`${ct}_dem_candidate`] || '').toString().trim();
+        }
+        if (!summary.repCandidate) {
+          summary.repCandidate = (row?.[`${ct}_rep_candidate`] || '').toString().trim();
+        }
+      });
+      const result = summary.hasData ? summary : null;
+      byContestYear.set(cacheKey, result);
+      return result;
+    }
+
+    function isStatewideContestYearMajorPartyContested(rows, contestType, targetYear) {
+      const summary = summarizeStatewideContestYearRows(rows, contestType, targetYear);
+      if (!summary) return false;
+      const demPresent = summary.demTotal > 0 || !!summary.demCandidate;
+      const repPresent = summary.repTotal > 0 || !!summary.repCandidate;
+      return demPresent && repPresent;
+    }
+
     function getAvailableContestYearsForType(contestType) {
       const ct = String(contestType || '').trim();
       if (!ct) return [];
@@ -11066,6 +11122,7 @@ document.addEventListener('DOMContentLoaded', function() {
           const rep = Number(row?.[`${ct}_rep`] || 0);
           if (!Number.isFinite(y) || y <= 0) return;
           if (!(total > 0 || dem > 0 || rep > 0)) return;
+          if (!isStatewideContestYearMajorPartyContested(electionData, ct, y)) return;
           years.add(y);
         });
       } catch (_) {}
@@ -19161,6 +19218,7 @@ document.addEventListener('DOMContentLoaded', function() {
               recordsMap[key][`${mappedOfficeType}_margin_pct`] = countyData.margin_pct || 0;
               recordsMap[key][`${mappedOfficeType}_winner`] = countyData.winner || '';
               recordsMap[key][`${mappedOfficeType}_color`] = countyData.competitiveness?.color || '';
+              recordsMap[key][`${mappedOfficeType}_election_type`] = (contest.election_type || contestKey || 'general');
               recordsMap[key][`${mappedOfficeType}_contest_partisan_style`] = countyData.contest_partisan_style || '';
               recordsMap[key][`${mappedOfficeType}_dem_label`] = countyData.dem_label || '';
               recordsMap[key][`${mappedOfficeType}_rep_label`] = countyData.rep_label || '';
@@ -19347,12 +19405,48 @@ document.addEventListener('DOMContentLoaded', function() {
 	      return nameMap[contestType] || contestType.toUpperCase();
 	    }
 
+    function formatElectionTypeSuffix(electionType) {
+      const key = String(electionType || '').trim().toLowerCase();
+      if (!key || key === 'general') return '';
+      if (key === 'recall') return ' (Recall)';
+      if (key === 'special_general') return ' (Special)';
+      if (key === 'spring') return ' (Spring)';
+      return ` (${key.replace(/_/g, ' ').replace(/\b\w/g, c => c.toUpperCase())})`;
+    }
+
+    function getContestElectionType(contestType, year, options = {}) {
+      const explicit = String(options?.electionType || '').trim();
+      if (explicit) return explicit;
+      const ct = String(contestType || '').trim();
+      const y = Number(year);
+      if (!ct || !Number.isFinite(y)) return 'general';
+      const districtScope = String(options?.districtScope || '').trim().toLowerCase();
+      if (districtScope) {
+        const manifestSets = Object.values(districtManifestByLines || {});
+        for (const list of manifestSets) {
+          const match = (Array.isArray(list) ? list : []).find(item =>
+            String(item?.scope || '').trim().toLowerCase() === districtScope &&
+            String(item?.contest_type || '').trim() === ct &&
+            Number(item?.year) === y
+          );
+          if (match?.election_type) return String(match.election_type);
+        }
+      }
+      const field = `${ct}_election_type`;
+      const row = (Array.isArray(electionData) ? electionData : []).find(item =>
+        Number(item?.year) === y && String(item?.[field] || '').trim()
+      );
+      return String(row?.[field] || 'general');
+    }
+
     function formatContestLabel(contestType, year) {
       const modeledDef = getModeledContestDefinition(contestType, year) || getModeledContestDefinitionByType(contestType);
       const modeledOptionLabel = String(modeledDef?.optionLabel || '').trim();
       if (modeledOptionLabel) return modeledOptionLabel;
       const officeName = formatContestName(contestType, year);
-      return Number.isFinite(Number(year)) ? `${officeName} ${year}` : officeName;
+      const yearNum = Number(year);
+      const suffix = formatElectionTypeSuffix(getContestElectionType(contestType, yearNum));
+      return Number.isFinite(yearNum) ? `${officeName} (${yearNum})${suffix}` : `${officeName}${suffix}`;
     }
 
     function populateContestSelectFromElectionJSON(electionData) {
@@ -19666,7 +19760,7 @@ document.addEventListener('DOMContentLoaded', function() {
               opt.textContent = modeledOptionLabel;
             } else
 	          if (isJudicial || modeledDef) {
-              opt.textContent = `${formatContestName(item.contestType, item.year)} (${item.year})${modeledSuffix}`;
+              opt.textContent = `${formatContestLabel(item.contestType, item.year)}${modeledSuffix}`;
 	          } else {
               opt.textContent = `${label} (${item.year})${modeledSuffix}`;
 	          }
@@ -19777,9 +19871,11 @@ document.addEventListener('DOMContentLoaded', function() {
       const contestYearPairs = {};
       csvData.forEach(row => {
         contestTypes.forEach(contestType => {
-          if (row[`${contestType}_total`] > 0) {
+          const year = Number(row?.year);
+          if (!Number.isFinite(year) || year <= 0) return;
+          if (row[`${contestType}_total`] > 0 && isStatewideContestYearMajorPartyContested(csvData, contestType, year)) {
             if (!contestYearPairs[contestType]) contestYearPairs[contestType] = new Set();
-            contestYearPairs[contestType].add(row.year);
+            contestYearPairs[contestType].add(year);
           }
         });
       });
@@ -19867,7 +19963,7 @@ document.addEventListener('DOMContentLoaded', function() {
         if (hasData) {
           const opt = document.createElement('option');
           opt.value = `state_house_${year}`;
-          opt.textContent = `${formatContestName('state_house', year)} (${year})`;
+          opt.textContent = formatContestLabel('state_house', year);
           sel.appendChild(opt);
         }
       });
@@ -19886,7 +19982,7 @@ document.addEventListener('DOMContentLoaded', function() {
         if (hasData) {
           const opt = document.createElement('option');
           opt.value = `state_senate_${year}`;
-          opt.textContent = `${formatContestName('state_senate', year)} (${year})`;
+          opt.textContent = formatContestLabel('state_senate', year);
           sel.appendChild(opt);
         }
       });
@@ -19905,7 +20001,7 @@ document.addEventListener('DOMContentLoaded', function() {
         if (hasData) {
           const opt = document.createElement('option');
           opt.value = `us_house_${year}`;
-          opt.textContent = `${formatContestName('us_house', year)} (${year})`;
+          opt.textContent = formatContestLabel('us_house', year);
           sel.appendChild(opt);
         }
       });
@@ -31328,7 +31424,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
       return `
         <div style="margin-bottom: 12px;">
-          <h5 style="margin:0 0 6px 0;">${year} ${formatContestName(contestType, year)}</h5>
+          <h5 style="margin:0 0 6px 0;">${formatContestLabel(contestType, year)}</h5>
           <div style="font-size:15px;font-weight:800;color:${winColor};">Winner: ${winName} (${winnerParty})</div>
           <div style="margin-top:4px;font-size:15px;font-weight:800;color:${winColor};">
             ${marginLineText}
@@ -33338,7 +33434,7 @@ document.addEventListener('DOMContentLoaded', function() {
         applyLayerOpacityTuning();
         try { scheduleAnalyticsPanelsUpdate(contestType, year, contestData, 150); } catch (_) {}
         if (staleCheck()) return;
-        setStatewideContestTitle(`${formatContestName(contestType, year)} (${year})`);
+        setStatewideContestTitle(`${formatContestLabel(contestType, year)}`);
         setStatus(`Applied demographic mode: ${formatContestLabel(contestType, year)}`);
         return;
       }
@@ -33679,7 +33775,7 @@ document.addEventListener('DOMContentLoaded', function() {
       applyLayerOpacityTuning();
       try { scheduleAnalyticsPanelsUpdate(contestType, year, contestData, 150); } catch (_) {}
       if (staleCheck()) return;
-      setStatewideContestTitle(`${formatContestName(contestType, year)} (${year})`);
+      setStatewideContestTitle(`${formatContestLabel(contestType, year)}`);
       setStatus(`Applied contest: ${formatContestLabel(contestType, year)}`);
     }
 
@@ -33858,7 +33954,7 @@ document.addEventListener('DOMContentLoaded', function() {
           repCandidate: statewideTotals.repCandidate || resolvedStatewideCandidates().repCandidate
         };
 
-        setStatewideContestTitle(`${formatContestName(contestType, year)} (${year})${titleSuffix}`);
+        setStatewideContestTitle(`${formatContestLabel(contestType, year)}${titleSuffix}`);
         updateStatewideResults(contestType, year, statewideDem, statewideRep, statewideTotal, {
           otherVotes: statewideOther,
           ...candidateNames
@@ -33885,7 +33981,7 @@ document.addEventListener('DOMContentLoaded', function() {
         if (districtTotal <= 0) return null;
 
         const candidateNames = resolvedStatewideCandidates();
-        setStatewideContestTitle(`${formatContestName(contestType, year)} (${year})${titleSuffix}`);
+        setStatewideContestTitle(`${formatContestLabel(contestType, year)}${titleSuffix}`);
         updateStatewideResults(contestType, year, districtDem, districtRep, districtTotal, {
           otherVotes: districtOther,
           ...candidateNames
@@ -34048,7 +34144,7 @@ document.addEventListener('DOMContentLoaded', function() {
           const linesLabel = getDistrictLinesLabel();
           const preserveDistrictViewSummary = isLegislativeContest;
           if (mode === 'demographics') {
-            setStatewideContestTitle(`${formatContestName(contestType, year)} (${year}) - ${getReadableViewLabel(currentView)} demographic profile (${linesLabel})`);
+            setStatewideContestTitle(`${formatContestLabel(contestType, year)} - ${getReadableViewLabel(currentView)} demographic profile (${linesLabel})`);
             setStatus(`Applied demographic mode for ${getReadableViewLabel(currentView)} (${linesLabel}).`);
             if (isLegislativeContest) {
               refreshStatewideSummaryFromDistrictTotals(
