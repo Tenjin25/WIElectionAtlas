@@ -1134,8 +1134,8 @@ body.focus-active #hover-tooltip[data-context="preview"] {
 }
 
 .minimize-btn {
-  background: #2563eb;
-  border: 1px solid #1d4ed8;
+  background: var(--ui-accent);
+  border: 1px solid rgba(36, 85, 61, 0.42);
   border-radius: 6px;
   width: 30px;
   height: 30px;
@@ -1149,8 +1149,8 @@ body.focus-active #hover-tooltip[data-context="preview"] {
   transition: all 0.2s ease;
 }
 .minimize-btn:hover {
-  background: #1d4ed8;
-  border-color: #2563eb;
+  background: var(--ui-accent-2);
+  border-color: rgba(210, 165, 74, 0.52);
   transform: scale(1.05);
 }
 
@@ -3346,8 +3346,8 @@ body.focus-active #hover-tooltip[data-context="preview"] {
   #accessibility-toggle,
   #label-toggle,
   #precinct-toggle {
-    border: 1px solid rgba(37, 99, 235, 0.34);
-    box-shadow: 0 6px 14px rgba(37, 99, 235, 0.18);
+    border: 1px solid rgba(36, 85, 61, 0.28);
+    box-shadow: 0 6px 14px rgba(28, 54, 40, 0.16);
   }
 
   .minimize-btn {
@@ -9034,7 +9034,7 @@ body.focus-active #hover-tooltip[data-context="preview"] {
     .tool-chip-btn:focus-visible,
     .minimize-btn:focus-visible {
       outline: none;
-      box-shadow: 0 0 0 3px rgba(70, 120, 186, 0.18);
+      box-shadow: 0 0 0 3px rgba(210, 165, 74, 0.18);
     }
 
     .vote-counter,
@@ -9746,14 +9746,14 @@ document.addEventListener('DOMContentLoaded', function() {
                   <button id="state-senate-view" class="view-toggle-btn" onclick="setMapView('state_senate')" data-testid="view-state-senate" aria-label="Show state senate districts view" aria-pressed="false">State Senate</button>
                 </div>
             </div>
-            <div class="control-group" style="margin-bottom:10px;">
+            <div class="control-group" id="district-lines-group" style="margin-bottom:10px;">
                 <span class="section-kicker">District Lines</span>
                 <div class="view-toggle-row" style="display:flex;gap:6px;flex-wrap:wrap;">
                   <button id="district-lines-2022" class="view-toggle-btn active" type="button" data-testid="lines-2022" aria-label="Use 2022 district lines" aria-pressed="true">2022 Lines</button>
                   <button id="district-lines-2024" class="view-toggle-btn" type="button" data-testid="lines-2024" aria-label="Use 2024 district lines" aria-pressed="false">2024 Lines</button>
                   <button id="district-lines-2026" class="view-toggle-btn" type="button" data-testid="lines-2026" aria-label="Use 2026 district lines" aria-pressed="false">2026 Lines</button>
                 </div>
-                <div style="margin-top:4px;font-size:11px;color:#6b7280;">
+                <div id="district-lines-help" style="margin-top:4px;font-size:11px;color:#6b7280;">
                   2022 keeps the longer history; 2024 and 2026 use newer boundaries.
                 </div>
                 <div id="district-lines-loading-hint" class="district-lines-loading-hint" aria-live="polite" aria-atomic="true"></div>
@@ -12900,19 +12900,29 @@ document.addEventListener('DOMContentLoaded', function() {
 
     function updateDistrictLinesToggleUI() {
       const y = normalizeDistrictLinesYear(currentDistrictLinesYear);
+      const group = document.getElementById('district-lines-group');
+      const help = document.getElementById('district-lines-help');
       const btn2022 = document.getElementById('district-lines-2022');
       const btn2024 = document.getElementById('district-lines-2024');
       const btn2026 = document.getElementById('district-lines-2026');
+      const countyLikeView = currentView === 'counties' || currentView === 'vtds_2000';
+      const congressView = currentView === 'districts';
+      if (group) group.style.display = countyLikeView ? 'none' : '';
+      if (help) {
+        help.textContent = congressView
+          ? 'Congress uses 2022 and 2026 options here; 2024 does not add a distinct congressional map in this atlas.'
+          : '2022 keeps the longer history; 2024 uses newer legislative boundaries.';
+      }
       if (btn2022) {
         btn2022.classList.toggle('active', y === 2022);
         btn2022.setAttribute('aria-pressed', y === 2022 ? 'true' : 'false');
       }
       if (btn2024) {
+        btn2024.style.display = congressView ? 'none' : '';
         btn2024.classList.toggle('active', y === 2024);
         btn2024.setAttribute('aria-pressed', y === 2024 ? 'true' : 'false');
       }
       if (btn2026) {
-        const congressView = currentView === 'districts';
         btn2026.style.display = congressView ? '' : 'none';
         btn2026.classList.toggle('active', y === 2026);
         btn2026.setAttribute('aria-pressed', y === 2026 ? 'true' : 'false');
@@ -20484,6 +20494,9 @@ document.addEventListener('DOMContentLoaded', function() {
       currentView = view;
       if (currentView !== 'districts' && normalizeDistrictLinesYear(currentDistrictLinesYear) === 2026) {
         currentDistrictLinesYear = 2024;
+      }
+      if (currentView === 'districts' && normalizeDistrictLinesYear(currentDistrictLinesYear) === 2024) {
+        currentDistrictLinesYear = 2022;
       }
       updateDistrictLinesToggleUI();
       
