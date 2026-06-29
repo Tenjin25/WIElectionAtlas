@@ -10268,7 +10268,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Cache destroyer token for static data requests.
     // Bump this value when you want browsers/CDNs to fetch fresh files immediately.
-    const DATA_CACHE_BUSTER = '2026-06-29-1';
+    const DATA_CACHE_BUSTER = '2026-06-29-2';
     const APP_BUILD_ID = '2026-06-29-1';
 
     function withCacheBuster(path) {
@@ -10307,7 +10307,7 @@ document.addEventListener('DOMContentLoaded', function() {
         counties: withBase('./data/tiger/tl_2020_55_county20.geojson'),
         precincts: withBase('./data/tiger/tl_2020_55_vtd20.geojson'),
         precincts_fallback_vtd20: withBase('./data/tiger/tl_2020_55_vtd20.geojson'),
-        precinct_centroids: '',
+        precinct_centroids: withBase('./data/mappings/precinct_centroids.geojson'),
         precinct_aliases: '',
         precinct_friendly_names: '',
         precinct_variant_overrides: withBase('./data/mappings/precinct_variant_overrides.json'),

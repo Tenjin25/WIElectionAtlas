@@ -544,6 +544,8 @@ def build_result_node(dem_votes: float, rep_votes: float, other_votes: float, to
 
 
 def should_write_slice(scope: str, contest_type: str, year: str) -> bool:
+    if scope == "congressional" and contest_type == "us_house":
+        return year in {"2022", "2024"}
     return True
 
 

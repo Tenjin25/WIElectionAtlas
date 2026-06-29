@@ -10,14 +10,6 @@
     },
     {
       "scope": "congressional",
-      "contest_type": "us_house",
-      "year": 2000,
-      "election_type": "general",
-      "file": "congressional_us_house_2000.json",
-      "rows": 7
-    },
-    {
-      "scope": "congressional",
       "contest_type": "us_senate",
       "year": 2000,
       "election_type": "general",
@@ -102,14 +94,6 @@
       "year": 2002,
       "election_type": "general",
       "file": "congressional_treasurer_2002.json",
-      "rows": 8
-    },
-    {
-      "scope": "congressional",
-      "contest_type": "us_house",
-      "year": 2002,
-      "election_type": "general",
-      "file": "congressional_us_house_2002.json",
       "rows": 8
     },
     {
@@ -330,14 +314,6 @@
     },
     {
       "scope": "congressional",
-      "contest_type": "us_house",
-      "year": 2006,
-      "election_type": "general",
-      "file": "congressional_us_house_2006.json",
-      "rows": 8
-    },
-    {
-      "scope": "congressional",
       "contest_type": "us_senate",
       "year": 2006,
       "election_type": "general",
@@ -497,14 +473,6 @@
       "rows": 8
     },
     {
-      "scope": "congressional",
-      "contest_type": "us_house",
-      "year": 2008,
-      "election_type": "general",
-      "file": "congressional_us_house_2008.json",
-      "rows": 8
-    },
-    {
       "scope": "state_house",
       "contest_type": "president",
       "year": 2008,
@@ -630,14 +598,6 @@
       "year": 2010,
       "election_type": "general",
       "file": "congressional_treasurer_2010.json",
-      "rows": 8
-    },
-    {
-      "scope": "congressional",
-      "contest_type": "us_house",
-      "year": 2010,
-      "election_type": "general",
-      "file": "congressional_us_house_2010.json",
       "rows": 8
     },
     {
@@ -806,14 +766,6 @@
       "year": 2012,
       "election_type": "general",
       "file": "congressional_presidential_2012.json",
-      "rows": 8
-    },
-    {
-      "scope": "congressional",
-      "contest_type": "us_house",
-      "year": 2012,
-      "election_type": "general",
-      "file": "congressional_us_house_2012.json",
       "rows": 8
     },
     {
@@ -993,14 +945,6 @@
       "rows": 8
     },
     {
-      "scope": "congressional",
-      "contest_type": "us_house",
-      "year": 2014,
-      "election_type": "general",
-      "file": "congressional_us_house_2014.json",
-      "rows": 8
-    },
-    {
       "scope": "state_house",
       "contest_type": "attorney_general",
       "year": 2014,
@@ -1134,14 +1078,6 @@
       "year": 2016,
       "election_type": "spring",
       "file": "congressional_state_supreme_court_2016.json",
-      "rows": 8
-    },
-    {
-      "scope": "congressional",
-      "contest_type": "us_house",
-      "year": 2016,
-      "election_type": "general",
-      "file": "congressional_us_house_2016.json",
       "rows": 8
     },
     {
@@ -1302,14 +1238,6 @@
       "year": 2018,
       "election_type": "general",
       "file": "congressional_treasurer_2018.json",
-      "rows": 8
-    },
-    {
-      "scope": "congressional",
-      "contest_type": "us_house",
-      "year": 2018,
-      "election_type": "general",
-      "file": "congressional_us_house_2018.json",
       "rows": 8
     },
     {
@@ -1478,14 +1406,6 @@
       "year": 2020,
       "election_type": "spring",
       "file": "congressional_state_supreme_court_2020.json",
-      "rows": 8
-    },
-    {
-      "scope": "congressional",
-      "contest_type": "us_house",
-      "year": 2020,
-      "election_type": "special_general",
-      "file": "congressional_us_house_2020.json",
       "rows": 8
     },
     {
