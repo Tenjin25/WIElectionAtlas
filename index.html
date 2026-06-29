@@ -9542,7 +9542,7 @@ document.addEventListener('DOMContentLoaded', function() {
       <div class="map-topbar-badge"><span class="badge-state-name">Wisconsin</span> <span class="badge-atlas-name">Election Atlas</span></div>
       <div class="map-topbar-copy">
         <strong>Fly to a county, district, or precinct</strong>
-        <span>Try Manitowoc, CD 3, AD 14, or SD 25.</span>
+        <span>Try Wake, CD 13, HD 73, SD 18, or Wake 01-14.</span>
       </div>
     </div>
     <form class="fly-search-bar" id="fly-search-form" role="search">
@@ -9554,7 +9554,7 @@ document.addEventListener('DOMContentLoaded', function() {
             <path d="M16 16L21 21" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"></path>
           </svg>
         </span>
-        <input type="search" id="county-search" placeholder="Fly to Milwaukee, CD 2, AD 14..." autocomplete="off" spellcheck="false" />
+        <input type="search" id="county-search" placeholder="Fly to Wake, CD 13, HD 73..." autocomplete="off" spellcheck="false" />
         <button type="button" class="fly-search-clear" id="fly-search-clear" aria-label="Clear search">x</button>
       </div>
       <button type="submit" class="fly-search-submit" data-testid="fly-submit">Fly to</button>
@@ -9564,10 +9564,11 @@ document.addEventListener('DOMContentLoaded', function() {
     <button type="button" class="mobile-topbar-toggle" id="mobile-topbar-toggle" aria-controls="map-topbar-details" aria-expanded="false">Show details</button>
     <div class="map-topbar-details" id="map-topbar-details">
       <div class="map-topbar-hints" aria-label="Search examples">
-        <button type="button" class="fly-search-chip" data-search-example="Manitowoc">Manitowoc</button>
-        <button type="button" class="fly-search-chip" data-search-example="CD 3">CD 3</button>
-        <button type="button" class="fly-search-chip" data-search-example="AD 14">AD 14</button>
-        <button type="button" class="fly-search-chip" data-search-example="SD 25">SD 25</button>
+        <button type="button" class="fly-search-chip" data-search-example="Wake">Wake</button>
+        <button type="button" class="fly-search-chip" data-search-example="CD 13">CD 13</button>
+        <button type="button" class="fly-search-chip" data-search-example="HD 73">HD 73</button>
+        <button type="button" class="fly-search-chip" data-search-example="SD 18">SD 18</button>
+        <button type="button" class="fly-search-chip" data-search-example="Wake 01-14">Wake 01-14</button>
       </div>
       <div class="context-banner" id="context-banner" aria-label="Current map state">
         <div class="context-banner-item">
@@ -9635,17 +9636,18 @@ document.addEventListener('DOMContentLoaded', function() {
                 <label class="control-section-label" for="desktop-fly-search">Fly to</label>
                 <div class="desktop-fly-search-wrap">
                   <div class="desktop-fly-search-field fly-search-field">
-                    <input id="desktop-fly-search" type="search" placeholder="Milwaukee County, CD 2, AD 14, SD 8" autocomplete="off" spellcheck="false" inputmode="search" />
+                    <input id="desktop-fly-search" type="search" placeholder="Wake County, CD 13, HD 73, SD 18, Wake 01-14" autocomplete="off" spellcheck="false" inputmode="search" />
                   </div>
                   <button id="desktop-fly-submit" class="desktop-fly-submit" type="button">Go</button>
                 </div>
                 <div class="desktop-fly-helper">Jump to counties, districts, or precincts without changing the selected contest.</div>
                 <div class="desktop-quick-stats" data-viewport-precinct-count>Viewing precincts...</div>
                 <div class="desktop-fly-chip-row" aria-label="Fly-to examples">
-                  <button class="desktop-fly-chip" type="button" data-search-example="Milwaukee">Milwaukee</button>
-                  <button class="desktop-fly-chip" type="button" data-search-example="CD 2">CD 2</button>
-                  <button class="desktop-fly-chip" type="button" data-search-example="AD 14">AD 14</button>
-                  <button class="desktop-fly-chip" type="button" data-search-example="SD 8">SD 8</button>
+                  <button class="desktop-fly-chip" type="button" data-search-example="Wake">Wake</button>
+                  <button class="desktop-fly-chip" type="button" data-search-example="CD 13">CD 13</button>
+                  <button class="desktop-fly-chip" type="button" data-search-example="HD 73">HD 73</button>
+                  <button class="desktop-fly-chip" type="button" data-search-example="SD 18">SD 18</button>
+                  <button class="desktop-fly-chip" type="button" data-search-example="Wake 01-14">Wake 01-14</button>
                 </div>
             </div>
             <div class="control-group control-group-contest control-group-primary">
@@ -9742,7 +9744,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 <div class="view-toggle-row" style="display:flex;gap:6px;flex-wrap:wrap;">
                   <button id="counties-view" class="view-toggle-btn active" onclick="setMapView('counties')" data-testid="view-counties" aria-label="Show counties view" aria-pressed="true">Counties</button>
                   <button id="districts-view" class="view-toggle-btn" onclick="setMapView('districts')" data-testid="view-congress" aria-label="Show congressional districts view" aria-pressed="false">Congress</button>
-                  <button id="state-house-view" class="view-toggle-btn" onclick="setMapView('state_house')" data-testid="view-state-house" aria-label="Show State Assembly districts view" aria-pressed="false">State Assembly</button>
+                  <button id="state-house-view" class="view-toggle-btn" onclick="setMapView('state_house')" data-testid="view-state-house" aria-label="Show state house districts view" aria-pressed="false">State House</button>
                   <button id="state-senate-view" class="view-toggle-btn" onclick="setMapView('state_senate')" data-testid="view-state-senate" aria-label="Show state senate districts view" aria-pressed="false">State Senate</button>
                 </div>
             </div>
@@ -9778,7 +9780,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 <label for="scenario-scope">Scope</label>
                 <select id="scenario-scope" data-testid="scenario-scope" aria-label="Scenario scope">
                   <option value="statewide">Statewide</option>
-                  <option value="milwaukee">Milwaukee County only</option>
+                  <option value="wake">Wake County only</option>
                 </select>
               </div>
               <div class="scenario-row">
@@ -10242,8 +10244,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Cache destroyer token for static data requests.
     // Bump this value when you want browsers/CDNs to fetch fresh files immediately.
-    const DATA_CACHE_BUSTER = '2026-06-28-6';
-    const APP_BUILD_ID = '2026-06-28-6';
+    const DATA_CACHE_BUSTER = '2026-06-28-3';
+    const APP_BUILD_ID = '2026-06-28-3';
 
     function withCacheBuster(path) {
       const p = (path || '').toString().trim();
@@ -10821,27 +10823,6 @@ document.addEventListener('DOMContentLoaded', function() {
       };
     }
 
-
-    function getCountyRowsFromAggregatedElectionData(contestType, year) {
-      const ct = String(contestType || '').trim();
-      const y = Number(year);
-      if (!ct || !Number.isFinite(y) || y <= 0) return [];
-      return (Array.isArray(electionData) ? electionData : []).filter(row => {
-        const rowYear = Number(row?.year);
-        if (!Number.isFinite(rowYear) || rowYear !== y) return false;
-        const total = Number(row?.[`${ct}_total`] || 0);
-        const dem = Number(row?.[`${ct}_dem`] || 0);
-        const rep = Number(row?.[`${ct}_rep`] || 0);
-        return total > 0 || dem > 0 || rep > 0;
-      });
-    }
-
-    function buildCountyAggregateBundleFromAggregatedElectionData(contestType, year) {
-      const rows = getCountyRowsFromAggregatedElectionData(contestType, year);
-      if (!rows.length) return null;
-      return buildCountyAggregateBundleFromSliceRows(rows, contestType);
-    }
-
     async function ensureCountyAggregateBundle(contestType, year, opts = null) {
       const ct = String(contestType || '').trim();
       const y = Number(year);
@@ -10858,27 +10839,19 @@ document.addEventListener('DOMContentLoaded', function() {
       if (countyAggregateByContestYearInflight.has(key)) return countyAggregateByContestYearInflight.get(key);
 
       const p = (async () => {
-        // Wisconsin county history is carried by the aggregated JSON, not county contest slices.
-        // Prefer it first so statewide/county timeline + shift do not depend on missing or ward-level slices.
-        try {
-          const bundle = buildCountyAggregateBundleFromAggregatedElectionData(ct, y);
-          if (bundle) {
-            countyAggregateByContestYearCache.set(key, bundle);
-            return bundle;
-          }
-        } catch (_) {}
-
         try {
           const rows = strict ? await tryLoadContestSliceStrict(ct, y) : await loadContestSlice(ct, y);
-          if (rows && rows.length) {
-            const bundle = buildCountyAggregateBundleFromSliceRows(rows, ct);
-            countyAggregateByContestYearCache.set(key, bundle);
-            return bundle;
+          if (!rows || !rows.length) {
+            countyAggregateByContestYearCache.set(key, null);
+            return null;
           }
-        } catch (_) {}
-
-        countyAggregateByContestYearCache.set(key, null);
-        return null;
+          const bundle = buildCountyAggregateBundleFromSliceRows(rows, ct);
+          countyAggregateByContestYearCache.set(key, bundle);
+          return bundle;
+        } catch (_) {
+          countyAggregateByContestYearCache.set(key, null);
+          return null;
+        }
       })();
 
       countyAggregateByContestYearInflight.set(key, p);
@@ -11056,19 +11029,17 @@ document.addEventListener('DOMContentLoaded', function() {
           years.add(y);
         });
       } catch (_) {}
-      // Always merge years from the flattened aggregated Wisconsin JSON.
-      // The manifest can be missing/partial for county statewide history, but the aggregate JSON has it.
-      try {
-        (Array.isArray(electionData) ? electionData : []).forEach(row => {
-          const y = Number(row?.year);
-          const total = Number(row?.[`${ct}_total`] || 0);
-          const dem = Number(row?.[`${ct}_dem`] || 0);
-          const rep = Number(row?.[`${ct}_rep`] || 0);
-          if (!Number.isFinite(y) || y <= 0) return;
-          if (!(total > 0 || dem > 0 || rep > 0)) return;
-          years.add(y);
-        });
-      } catch (_) {}
+      if (!years.size) {
+        try {
+          (Array.isArray(electionData) ? electionData : []).forEach(row => {
+            const y = Number(row?.year);
+            const total = Number(row?.[`${ct}_total`] || 0);
+            if (!Number.isFinite(y) || y <= 0) return;
+            if (!Number.isFinite(total) || total <= 0) return;
+            years.add(y);
+          });
+        } catch (_) {}
+      }
       const out = Array.from(years).filter(Number.isFinite).sort((a, b) => a - b);
       contestYearsByTypeCache.set(ct, out);
       return out;
@@ -11091,37 +11062,6 @@ document.addEventListener('DOMContentLoaded', function() {
         });
       } catch (_) {}
       return Array.from(years).filter(Number.isFinite).sort((a, b) => a - b);
-    }
-
-    function getUsSenateSeatCycleMod(year) {
-      const y = Number(year);
-      if (!Number.isFinite(y)) return null;
-      return ((Math.round(y) % 6) + 6) % 6;
-    }
-
-    function isSameUsSenateSeatCycle(yearA, yearB) {
-      const a = getUsSenateSeatCycleMod(yearA);
-      const b = getUsSenateSeatCycleMod(yearB);
-      return a !== null && b !== null && a === b;
-    }
-
-    function filterUsSenateTrendSeriesToSameSeat(series, selectedYear) {
-      const y = Number(selectedYear);
-      const rows = Array.isArray(series) ? series : [];
-      if (!Number.isFinite(y)) return rows.slice();
-      return rows
-        .filter(row => {
-          const rowYear = Number(row?.year);
-          return Number.isFinite(rowYear) && isSameUsSenateSeatCycle(rowYear, y);
-        })
-        .sort((a, b) => Number(a.year) - Number(b.year));
-    }
-
-    function normalizeTrendSeriesForContestSeat(series, contestType, selectedYear) {
-      const ct = String(contestType || '').trim();
-      const rows = Array.isArray(series) ? series.slice() : [];
-      if (ct === 'us_senate') return filterUsSenateTrendSeriesToSameSeat(rows, selectedYear);
-      return rows;
     }
 
     function getPriorContestYearsFromAvailableYears(contestType, year, availableYears) {
@@ -11147,8 +11087,8 @@ document.addEventListener('DOMContentLoaded', function() {
       if (Array.isArray(years) && years.length) {
         let prev = null;
         // Prefer "last time this contest was up" when a seat/class cadence exists.
-        // US Senate is a special case: same seat repeats every 6 years, but Wisconsin has two seats so
-        // the generic series contains elections every 2 years. For deltas, prefer same-seat y-6
+        // US Senate is a special case: same seat repeats every 6 years, but NC has two seats so
+        // the generic series contains elections every 2 years. For deltas, prefer same-class y-6
         // when available, otherwise fall back to the most recent earlier year.
         if (ct === 'us_senate') {
           const preferred = y - 6;
@@ -11372,7 +11312,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Session persistence was removed to avoid surprises on shared/low-memory machines.
     let contestSearchQuery = '';
     let scenarioSwingPct = 0;
-    let scenarioScope = 'statewide'; // statewide | milwaukee
+    let scenarioScope = 'statewide'; // statewide | wake
     let turnoutBivariateEnabled = false;
     let demographicsHighContrastEnabled = false;
     let overlayOpacityPreset = 'focus'; // reveal | balanced | focus
@@ -11712,7 +11652,7 @@ document.addEventListener('DOMContentLoaded', function() {
       const swingRaw = String(params.get('swing') || '').trim();
       const swing = swingRaw ? Number(swingRaw) : null;
       const sscopeRaw = String(params.get('sscope') || '').trim().toLowerCase();
-      const sscope = sscopeRaw ? ((sscopeRaw === 'milwaukee' || sscopeRaw === 'wake') ? 'milwaukee' : 'statewide') : null;
+      const sscope = sscopeRaw ? (sscopeRaw === 'wake' ? 'wake' : 'statewide') : null;
       const barometerRaw = String(params.get('barometer') || params.get('bar') || '').trim().toLowerCase();
       const barometerEnabled = barometerRaw
         ? (barometerRaw === '1' || barometerRaw === 'true' || barometerRaw === 'on' || barometerRaw === 'yes')
@@ -11756,7 +11696,7 @@ document.addEventListener('DOMContentLoaded', function() {
         if (meta.kind === 'district' && Number.isFinite(Number(meta.districtNum))) {
           const num = Number(meta.districtNum);
           if (meta.scope === 'congressional') return `cd:${num}`;
-          if (meta.scope === 'state_house') return `ad:${num}`;
+          if (meta.scope === 'state_house') return `hd:${num}`;
           if (meta.scope === 'state_senate') return `sd:${num}`;
         }
         if (meta.kind === 'precinct') {
@@ -11775,8 +11715,8 @@ document.addEventListener('DOMContentLoaded', function() {
       if (!raw || /^statewide$/i.test(raw)) return '';
       const cdMatch = raw.match(/congressional district\s+(\d+)/i);
       if (cdMatch) return `cd:${Number(cdMatch[1])}`;
-      const hdMatch = raw.match(/(?:assembly|state assembly|state house) district\s+(\d+)/i);
-      if (hdMatch) return `ad:${Number(hdMatch[1])}`;
+      const hdMatch = raw.match(/state house district\s+(\d+)/i);
+      if (hdMatch) return `hd:${Number(hdMatch[1])}`;
       const sdMatch = raw.match(/state senate district\s+(\d+)/i);
       if (sdMatch) return `sd:${Number(sdMatch[1])}`;
       if (raw.includes(' - ')) return `precinct:${raw}`;
@@ -11794,8 +11734,8 @@ document.addEventListener('DOMContentLoaded', function() {
       if (Number.isFinite(Number(scenarioSwingPct)) && Math.abs(Number(scenarioSwingPct)) >= 0.05) {
         params.set('swing', Number(scenarioSwingPct).toFixed(1));
       }
-      if (String(scenarioScope || '').toLowerCase() === 'milwaukee') {
-        params.set('sscope', 'milwaukee');
+      if (String(scenarioScope || '').toLowerCase() === 'wake') {
+        params.set('sscope', 'wake');
       }
       if (barometerOverlayEnabled) params.set('barometer', '1');
       if (demographicsHighContrastEnabled) params.set('democontrast', 'high');
@@ -11882,7 +11822,7 @@ document.addEventListener('DOMContentLoaded', function() {
         }
         if (kind === 'hd') {
           await setMapView('state_house');
-          await handleDistrictSelection(num, 'state-house', 'house', 'Assembly District');
+          await handleDistrictSelection(num, 'state-house', 'house', 'State House District');
           return;
         }
         await setMapView('state_senate');
@@ -11955,7 +11895,7 @@ document.addEventListener('DOMContentLoaded', function() {
         }
 
         if (state.sscope !== null) {
-          scenarioScope = String(state.sscope || 'statewide').toLowerCase() === 'milwaukee' ? 'milwaukee' : 'statewide';
+          scenarioScope = String(state.sscope || 'statewide').toLowerCase() === 'wake' ? 'wake' : 'statewide';
           const scopeEl = document.getElementById('scenario-scope');
           if (scopeEl) scopeEl.value = scenarioScope;
         }
@@ -13187,7 +13127,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     function getScenarioCountyNorm() {
-      return scenarioScope === 'milwaukee' ? 'MILWAUKEE' : '';
+      return scenarioScope === 'wake' ? 'WAKE' : '';
     }
 
     function shouldApplyScenarioToCounty(countyNorm) {
@@ -13797,7 +13737,7 @@ document.addEventListener('DOMContentLoaded', function() {
         if (v) addVariantFn(v);
       };
 
-      // Legacy labels like "PRECINCT 01-14A".
+      // Wake-style legacy labels like "PRECINCT 01-14A".
       const codeLike = t.match(/\b(\d{2}-\d{2}[A-Z]{0,2})\b/);
       if (codeLike) {
         const code = codeLike[1];
@@ -14046,7 +13986,7 @@ document.addEventListener('DOMContentLoaded', function() {
       if (c.includes('ACCUM')) return true;
       if (c.startsWith('OS ') || c.startsWith('OS-') || c.startsWith('OS_')) return true;
       if (/(^|[\s\-_])OS($|[\s\-_])/.test(c)) return true;
-      // Some counties use compact one-stop bucket codes like "OSAB 1-40" or "OSNB81-91".
+      // Wake (and others) sometimes use compact one-stop bucket codes like "OSAB 1-40" or "OSNB81-91".
       if (/^OS[A-Z0-9]/.test(c)) return true;
       // Buncombe legacy exports sometimes use 4-letter early-vote site abbreviations.
       if (countyNorm === 'BUNCOMBE' && /^[A-Z]{4}$/.test(c)) return true;
@@ -14775,8 +14715,7 @@ document.addEventListener('DOMContentLoaded', function() {
         return;
       }
 
-      const baseSeries = normalizeTrendSeriesForContestSeat(series, contestTypeHint, selectedYear);
-      const sortedSeries = baseSeries
+      const sortedSeries = series
         .slice()
         .sort((a, b) => a.year - b.year);
       const signedTrendDisplayMarginPct = (trendItem) => {
@@ -14798,9 +14737,7 @@ document.addEventListener('DOMContentLoaded', function() {
         return 0;
       };
       const annotated = sortedSeries.map((item, idx) => {
-        const prev = contestTypeHint === 'us_senate'
-          ? (sortedSeries.find(candidate => Number(candidate?.year) === Number(item?.year) - 6) || null)
-          : (idx > 0 ? sortedSeries[idx - 1] : null);
+        const prev = idx > 0 ? sortedSeries[idx - 1] : null;
         const totalVotes = Number(item.total_votes || 0);
         const demVotes = Number(item.dem_votes || 0);
         const repVotes = Number(item.rep_votes || 0);
@@ -15029,34 +14966,33 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     async function getStatewideTrendSeries(contestType) {
-      const years = getAvailableContestYearsForType(contestType)
-        .map(Number)
-        .filter(y => Number.isFinite(y))
-        .sort((a, b) => a - b);
-      const entries = years.map(year => ({ year, contest_type: contestType }));
+      const entries = getVisibleManifestEntries(contestManifest)
+        .filter(f => f && f.contest_type === contestType && Number.isFinite(Number(f.year)))
+        .slice()
+        .sort((a, b) => Number(a.year) - Number(b.year));
 
       const out = [];
       const loaded = await mapWithConcurrency(entries, 4, async (e) => {
         const year = Number(e?.year);
         if (!Number.isFinite(year)) return null;
-        const bundle = await ensureCountyAggregateBundle(contestType, year);
-        return { year, bundle };
+        const rows = await loadContestSlice(contestType, year);
+        return { year, rows };
       });
-      for (const item of loaded) {
-        if (!item) continue;
-        const year = Number(item.year);
-        const agg = item.bundle?.statewide || null;
-        if (!agg || !(Number(agg.total || 0) > 0)) continue;
-        const dem = Number(agg.dem || 0);
-        const rep = Number(agg.rep || 0);
-        const oth = Number(agg.other || 0);
-        const tot = Number(agg.total || 0);
+      for (const bundle of loaded) {
+        if (!bundle) continue;
+        const year = Number(bundle.year);
+        const rows = bundle.rows || [];
+        let dem = 0, rep = 0, oth = 0, tot = 0;
         let demCand = '', repCand = '';
-        try {
-          const cand = await getContestCandidates(contestType, year);
-          demCand = cand?.dem || '';
-          repCand = cand?.rep || '';
-        } catch (_) {}
+        rows.forEach(r => {
+          dem += Number(r[`${contestType}_dem`]) || 0;
+          rep += Number(r[`${contestType}_rep`]) || 0;
+          oth += Number(r[`${contestType}_other`]) || 0;
+          tot += Number(r[`${contestType}_total`]) || 0;
+          if (!demCand) demCand = r[`${contestType}_dem_candidate`] || '';
+          if (!repCand) repCand = r[`${contestType}_rep_candidate`] || '';
+        });
+        if (tot <= 0) continue;
         const margin = rep - dem;
         out.push({
           year,
@@ -15121,7 +15057,7 @@ document.addEventListener('DOMContentLoaded', function() {
             : (meta.kind === 'district'
               ? (meta.scope === 'congressional'
                 ? `Congressional District ${meta.districtNum}`
-                : (meta.scope === 'state_house' ? `Assembly District ${meta.districtNum}` : `State Senate District ${meta.districtNum}`))
+                : (meta.scope === 'state_house' ? `State House District ${meta.districtNum}` : `State Senate District ${meta.districtNum}`))
               : (meta.kind === 'precinct' ? `${meta.precinct}` : 'Trend history'))));
 
       renderFocusTrendEmpty('Loading trend history...', baseCaption);
@@ -15150,11 +15086,6 @@ document.addEventListener('DOMContentLoaded', function() {
           }
         } else {
           series = await getStatewideTrendSeries(contestType);
-        }
-
-        series = normalizeTrendSeriesForContestSeat(series, contestType, year);
-        if (contestType === 'us_senate' && series && series.length) {
-          trendOptions.fallbackBadge = trendOptions.fallbackBadge || 'Same Senate seat cycle';
         }
 
         if ((meta.kind === 'county' || meta.kind === 'precinct') && meta.county) {
@@ -15942,7 +15873,7 @@ document.addEventListener('DOMContentLoaded', function() {
         };
 
         const classifyCountyBehaviorType = (county, totals = null) => {
-          // Senate calibration: force the metro core routing even if a context label is missing/noisy.
+          // Senate calibration: force Wake into metro-core routing even if a context label is missing/noisy.
           if (isSenateDeviationModel && county === 'WAKE') return 'urban';
           const ctx = getCountyCensusContextSafe(county);
           const pattern = String(ctx?.patternLabel || '').toLowerCase();
@@ -15981,7 +15912,7 @@ document.addEventListener('DOMContentLoaded', function() {
           const pop = Number(countyPopulationEstimatesByNorm?.get(county)?.population2025 || 0);
           const countyType = classifyCountyBehaviorType(county, totals);
 
-          // Senate calibration: the largest metro should route with urban-core handling.
+          // Senate calibration: Wake should route with Mecklenburg/Durham-style urban-core handling.
           if (isSenateDeviationModel && county === 'WAKE') return 'urban_core';
 
           if (COLLEGE_COUNTIES.has(county) && countyType !== 'urban') return 'college';
@@ -19155,8 +19086,8 @@ document.addEventListener('DOMContentLoaded', function() {
               recordsMap[key][`${mappedOfficeType}_rep`] = countyData.rep_votes || 0;
               recordsMap[key][`${mappedOfficeType}_other`] = countyData.other_votes || 0;
               recordsMap[key][`${mappedOfficeType}_total`] = countyData.total_votes || 0;
-              recordsMap[key][`${mappedOfficeType}_dem_candidate`] = mappedOfficeType === 'president' ? normalizePresidentialTicketOrder(countyData.dem_candidate || '') : (countyData.dem_candidate || '');
-              recordsMap[key][`${mappedOfficeType}_rep_candidate`] = mappedOfficeType === 'president' ? normalizePresidentialTicketOrder(countyData.rep_candidate || '') : (countyData.rep_candidate || '');
+              recordsMap[key][`${mappedOfficeType}_dem_candidate`] = countyData.dem_candidate || '';
+              recordsMap[key][`${mappedOfficeType}_rep_candidate`] = countyData.rep_candidate || '';
               recordsMap[key][`${mappedOfficeType}_margin`] = countyData.margin || 0;
               recordsMap[key][`${mappedOfficeType}_margin_pct`] = countyData.margin_pct || 0;
               recordsMap[key][`${mappedOfficeType}_winner`] = countyData.winner || '';
@@ -19235,9 +19166,8 @@ document.addEventListener('DOMContentLoaded', function() {
       }
       
       if (record && record[candidateField]) {
-        const normalizedCandidate = officeType === 'president' ? normalizePresidentialTicketOrder(record[candidateField]) : record[candidateField];
-        candidateNameCache.set(cacheKey, normalizedCandidate);
-        return normalizedCandidate;
+        candidateNameCache.set(cacheKey, record[candidateField]);
+        return record[candidateField];
       }
       
       const fallback = party === 'Democrat' ? 'D' : 'R';
@@ -19310,7 +19240,7 @@ document.addEventListener('DOMContentLoaded', function() {
 	        'treasurer': 'Treasurer',
 	        'us_house': 'US House',
 	        'state_senate': 'State Senate',
-	        'state_house': 'State Assembly'
+	        'state_house': 'State House'
 	      };
 
 	      if (contestType.startsWith('a') && contestType.length <= 3) {
@@ -20206,7 +20136,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     function getDistrictTitleForScope(scope, districtNum) {
-      if (scope === 'state_house') return `Assembly District ${districtNum}`;
+      if (scope === 'state_house') return `State House District ${districtNum}`;
       if (scope === 'state_senate') return `State Senate District ${districtNum}`;
       return `Congressional District ${districtNum}`;
     }
@@ -20992,23 +20922,8 @@ document.addEventListener('DOMContentLoaded', function() {
       return raw;
     }
 
-    function normalizePresidentialTicketOrder(name) {
-      const raw = (name || '').toString().trim();
-      if (!raw) return '';
-      const key = raw.toUpperCase().replace(/\s+/g, ' ').replace(/\s*&\s*/g, ' & ').trim();
-      const map = {
-        'JOHN EDWARDS & JOHN F. KERRY': 'John F. Kerry & John Edwards',
-        'DICK CHENEY & GEORGE W. BUSH': 'George W. Bush & Dick Cheney',
-        'JOE BIDEN BARACK OBAMA': 'Barack Obama & Joe Biden',
-        'SARAH PALIN JOHN MCCAIN': 'John McCain & Sarah Palin',
-        'JOE BIDEN & BARACK OBAMA': 'Barack Obama & Joe Biden',
-        'SARAH PALIN & JOHN MCCAIN': 'John McCain & Sarah Palin'
-      };
-      return map[key] || raw;
-    }
-
     function stripRunningMateName(name) {
-      const raw = normalizePresidentialTicketOrder((name || '').toString().trim());
+      const raw = (name || '').toString().trim();
       if (!raw) return '';
       // Common presidential ticket separators.
       const seps = [' / ', '/', ' & ', '&', ' + ', '+', ' - ', ' – ', ' — '];
@@ -22309,9 +22224,9 @@ document.addEventListener('DOMContentLoaded', function() {
         if (Array.isArray(cached)) return cached.slice();
       } catch (_) {}
 
-      const entries = getAvailableContestYearsForType(contestType)
-        .map(year => ({ year, contest_type: contestType }))
-        .filter(f => Number.isFinite(Number(f.year)))
+      const entries = getVisibleManifestEntries(contestManifest)
+        .filter(f => f && f.contest_type === contestType && Number.isFinite(Number(f.year)))
+        .slice()
         .sort((a, b) => Number(a.year) - Number(b.year));
 
       const target = normalizeCountyToken(countyName);
@@ -24371,7 +24286,7 @@ document.addEventListener('DOMContentLoaded', function() {
       const labels = {
         counties: 'Counties',
         districts: 'Congress',
-        state_house: 'State Assembly',
+        state_house: 'State House',
         state_senate: 'State Senate',
         vtds_2000: 'Precincts 2000'
       };
@@ -24456,7 +24371,7 @@ document.addEventListener('DOMContentLoaded', function() {
       }
       const raw = (window.lastSelectedCounty || '').toString().trim();
       if (!raw) return 'Statewide';
-      if (/district|cd\s|ad\s|hd\s|sd\s/i.test(raw)) return raw;
+      if (/district|cd\s|hd\s|sd\s/i.test(raw)) return raw;
       if (raw.includes(' - ')) return raw;
       return `${displayCountyName(raw)} County`;
     }
@@ -24506,7 +24421,7 @@ document.addEventListener('DOMContentLoaded', function() {
         const d = Number(meta.districtNum);
         if (!Number.isFinite(d)) return getReadableFocusLabel();
         if (meta.scope === 'congressional') return `CD ${d}`;
-        if (meta.scope === 'state_house') return `AD ${d}`;
+        if (meta.scope === 'state_house') return `HD ${d}`;
         if (meta.scope === 'state_senate') return `SD ${d}`;
       }
       if (meta.kind === 'county' && meta.county) return `${displayCountyName(meta.county)} County`;
@@ -26674,7 +26589,7 @@ document.addEventListener('DOMContentLoaded', function() {
       } else if (layerName === 'district-fill') {
         await renderDistrictHover(evt, 'congressional', 'Congressional District', ['DISTRICT', 'CD118FP', 'CD119FP', 'district_id', 'district', 'NAMELSAD'], { forceTooltip });
       } else if (layerName === 'state-house-fill') {
-        await renderDistrictHover(evt, 'state_house', 'AD', ['DISTRICT', 'SLDLST', 'district_id', 'district', 'NAMELSAD'], { forceTooltip });
+        await renderDistrictHover(evt, 'state_house', 'HD', ['DISTRICT', 'SLDLST', 'district_id', 'district', 'NAMELSAD'], { forceTooltip });
       } else if (layerName === 'state-senate-fill') {
         await renderDistrictHover(evt, 'state_senate', 'SD', ['DISTRICT', 'SLDUST', 'district_id', 'district', 'NAMELSAD'], { forceTooltip });
       }
@@ -26706,7 +26621,7 @@ document.addEventListener('DOMContentLoaded', function() {
         ? `WI-${paddedDistrictNum}`
         : `${districtLabel}-${paddedDistrictNum}`;
       const panelDistrictLabel = scope === 'state_house'
-        ? 'Assembly District'
+        ? 'State House District'
         : scope === 'state_senate'
           ? 'State Senate District'
           : 'Congressional District';
@@ -26873,7 +26788,7 @@ document.addEventListener('DOMContentLoaded', function() {
       const pinnedShell = !!(tooltipPinned || (forceTooltip && isTouchInteractionMode()));
       const subtitleByScope = scope === 'congressional'
         ? 'Congressional District'
-        : (scope === 'state_senate' ? 'State Senate' : 'State Assembly');
+        : (scope === 'state_senate' ? 'State Senate' : 'State House');
       const districtTitle = formattedDistrictLabel;
       const winnerName = signedMarginPct > 0
         ? shortCandidateLabel(repCandidate, 'Republican')
@@ -29924,7 +29839,7 @@ document.addEventListener('DOMContentLoaded', function() {
           paint: DISTRICT_LINE_STYLE.state_house.hover
         });
         
-        // Add click handler for State Assembly districts with full trends popup
+        // Add click handler for state house districts with full trends popup
         map.on('click', 'state-house-fill', async (e) => {
           if (e.features && e.features[0] && e.features[0].properties) {
             const props = e.features[0].properties;
@@ -29934,7 +29849,7 @@ document.addEventListener('DOMContentLoaded', function() {
               // Show detailed sidebar (results + trends).
               showStateDistrictDetails(districtNum, 'house');
               const districtNumDisplay = String(districtNum).padStart(2, '0');
-              lastSelectedCounty = `Assembly District ${districtNumDisplay}`;
+              lastSelectedCounty = `State House District ${districtNumDisplay}`;
 
               const contestValue = document.getElementById('contestSelect')?.value || '';
               if (contestValue) {
@@ -29948,7 +29863,7 @@ document.addEventListener('DOMContentLoaded', function() {
                   const repVotes = Number(row.rep_votes || 0);
                   const otherVotes = Number(row.other_votes || 0);
                   pinVoteCounterState(
-                    `Selected: Assembly District ${districtNumDisplay}`,
+                    `Selected: State House District ${districtNumDisplay}`,
                     `${formatContestLabel(contestType, year)}`,
                     demVotes,
                     repVotes,
@@ -29966,7 +29881,7 @@ document.addEventListener('DOMContentLoaded', function() {
                   await renderDistrictHover(
                     e,
                     'state_house',
-                    'AD',
+                    'HD',
                     ['DISTRICT', 'SLDLST', 'district_id', 'district', 'NAMELSAD'],
                     { forceTooltip: true }
                   );
@@ -30176,7 +30091,7 @@ document.addEventListener('DOMContentLoaded', function() {
     function getSearchSuggestionLabel(parsed, fallbackRaw) {
       if (!parsed) return fallbackRaw;
       if (parsed.kind === 'cd') return `Congressional District ${parsed.num}`;
-      if (parsed.kind === 'hd') return `Assembly District ${parsed.num}`;
+      if (parsed.kind === 'hd') return `State House District ${parsed.num}`;
       if (parsed.kind === 'sd') return `State Senate District ${parsed.num}`;
       if (parsed.kind === 'precinct') {
         const countyDisplay = displayCountyName(parsed.county || '');
@@ -30431,12 +30346,12 @@ document.addEventListener('DOMContentLoaded', function() {
 
       const cd = q.match(/^(CD|CONG(?:RESS)?|US HOUSE)\s*[-#:]?\s*(\d{1,2})$/i);
       if (cd) return { kind: 'cd', num: Number(cd[2]), raw };
-      const hd = q.match(/^(AD|ASSEMBLY|HD|HOUSE)\s*[-#:]?\s*(\d{1,3})$/i);
+      const hd = q.match(/^(HD|HOUSE)\s*[-#:]?\s*(\d{1,3})$/i);
       if (hd) return { kind: 'hd', num: Number(hd[2]), raw };
       const sd = q.match(/^(SD|SENATE)\s*[-#:]?\s*(\d{1,3})$/i);
       if (sd) return { kind: 'sd', num: Number(sd[2]), raw };
 
-      // Precinct: "MILWAUKEE 327" or "MILWAUKEE - 327".
+      // Precinct: "WAKE 01-14" or "WAKE - 01-14".
       const p1 = q.match(/^([A-Z .'-]+)\s*-\s*([0-9A-Z .'-]+)$/);
       if (p1) return { kind: 'precinct', county: p1[1].trim(), code: p1[2].trim(), raw };
       const p2 = q.match(/^([A-Z .'-]+)\s+(\d{1,3}-\d{1,3}[A-Z]?)$/);
@@ -30454,7 +30369,7 @@ document.addEventListener('DOMContentLoaded', function() {
       }
       if (parsed.kind === 'hd') {
         await setMapView('state_house');
-        await handleDistrictSelection(parsed.num, 'state-house', 'house', 'Assembly District');
+        await handleDistrictSelection(parsed.num, 'state-house', 'house', 'State House District');
         return;
       }
       if (parsed.kind === 'sd') {
@@ -30512,7 +30427,7 @@ document.addEventListener('DOMContentLoaded', function() {
       const bbox = turf.bbox(match);
       const canonicalQuery = sourceId === 'districts'
         ? `CD ${districtNum}`
-        : (sourceId === 'state-house' ? `AD ${districtNum}` : `SD ${districtNum}`);
+        : (sourceId === 'state-house' ? `HD ${districtNum}` : `SD ${districtNum}`);
       syncFlySearchInputs(canonicalQuery);
       setFlySearchFeedback('#10b981');
       map.fitBounds([[bbox[0], bbox[1]], [bbox[2], bbox[3]]], { padding: computeMapViewportPadding(28), duration: 900 });
@@ -30678,8 +30593,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
     function getHistoricalTrends(countyName, isDistrict = false, districtNum = null) {
       const presidentialYears = [2024, 2020, 2016, 2012, 2008];
-      const stateHouseYears = [2024, 2022, 2020, 2018, 2016]; // Recent State Assembly elections
-      // Governor elections align with presidential years (e.g., 2016, 2020, 2024).
+      const stateHouseYears = [2024, 2022, 2020, 2018, 2016]; // Recent state house elections
+      // NC governor elections align with presidential years (e.g., 2016, 2020, 2024).
       const governorYears = [2024, 2020, 2016, 2012, 2008];
       const trends = [];
       
@@ -30713,7 +30628,7 @@ document.addEventListener('DOMContentLoaded', function() {
         });
 
       } else {
-        // For counties, show both presidential and recent State Assembly trends
+        // For counties, show both presidential and recent state house trends
         
         // Presidential trends
         presidentialYears.forEach(year => {
@@ -30755,13 +30670,13 @@ document.addEventListener('DOMContentLoaded', function() {
         if (trends.length > 0) {
           trends.push({
             year: 0,
-            display: '--- State Assembly ---',
+            display: '--- State House ---',
             margin: 0,
             type: 'separator'
           });
         }
         
-        // State Assembly trends (recent years only)
+        // State House trends (recent years only)
         // Governor trends (recent years only)
         governorYears.forEach(year => {
           const data = electionData.find(row => 
@@ -31164,7 +31079,7 @@ document.addEventListener('DOMContentLoaded', function() {
       const contentEl = document.getElementById('county-info-content');
       
       const districtNumDisplay = String(districtNum).padStart(2, '0');
-      const title = chamber === 'house' ? `Assembly District ${districtNumDisplay}` : `State Senate District ${districtNumDisplay}`;
+      const title = chamber === 'house' ? `State House District ${districtNumDisplay}` : `State Senate District ${districtNumDisplay}`;
       nameEl.textContent = title;
       if (subEl) subEl.textContent = '';
       // Get district info from appropriate CSV
@@ -31197,7 +31112,7 @@ document.addEventListener('DOMContentLoaded', function() {
           // This is complex without a county-to-district mapping, so show general message
           electionInfo = `
             <div style="margin-bottom: 16px;">
-              <h5>${year} ${chamber === 'house' ? 'State Assembly' : 'State Senate'}</h5>
+              <h5>${year} ${chamber === 'house' ? 'State House' : 'State Senate'}</h5>
               <p style="color: #666; font-style: italic;">District-level results require county-to-district mapping. 
               Click to see general trends for this contest type.</p>
             </div>
@@ -31496,7 +31411,7 @@ document.addEventListener('DOMContentLoaded', function() {
       const contentEl = document.getElementById('county-info-content');
       if (!detailsDiv || !nameEl || !contentEl) return;
 
-      const title = chamber === 'house' ? `Assembly District ${districtNum}` : `State Senate District ${districtNum}`;
+      const title = chamber === 'house' ? `State House District ${districtNum}` : `State Senate District ${districtNum}`;
       window.lastSelectedCounty = title;
       updateContextBanner();
       nameEl.textContent = title;
@@ -31690,7 +31605,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </div>`;
         }
       } else if (type === 'house') {
-        displayName = `Assembly District ${districtNum}`;
+        displayName = `State House District ${districtNum}`;
       } else if (type === 'senate') {
         displayName = `State Senate District ${districtNum}`;
       }
@@ -31925,7 +31840,7 @@ document.addEventListener('DOMContentLoaded', function() {
       }
 
       try {
-        setStatus('Loading State Assembly districts...');
+        setStatus('Loading state house districts...');
         if (CONFIG.tilesets?.enabled && CONFIG.tilesets?.sources?.state_house?.url) {
           if (!map.getSource('state-house')) {
             map.addSource('state-house', { type: 'vector', url: CONFIG.tilesets.sources.state_house.url });
@@ -31943,9 +31858,9 @@ document.addEventListener('DOMContentLoaded', function() {
           const stateHouseCSV = await loadCSV(CONFIG.paths.state_house_info);
           stateHouseInfo = parseCSV(stateHouseCSV);
         }
-        setStatus('State Assembly districts loaded');
+        setStatus('State house districts loaded');
       } catch (err) {
-        console.warn('State Assembly resources not loaded:', err.message);
+        console.warn('State house resources not loaded:', err.message);
       }
 
       try {
