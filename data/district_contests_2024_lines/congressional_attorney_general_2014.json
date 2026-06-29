@@ -2,56 +2,56 @@
   "general": {
     "results": {
       "1": {
-        "dem_votes": 99915,
-        "rep_votes": 125856,
-        "other_votes": 6729,
-        "total_votes": 232500,
+        "dem_votes": 99941,
+        "rep_votes": 125922,
+        "other_votes": 6731,
+        "total_votes": 232594,
         "dem_candidate": "Susan V. Happ",
         "rep_candidate": "Brad Schimel",
-        "margin": 25941,
-        "margin_pct": 11.157267987621516,
+        "margin": 25981,
+        "margin_pct": 11.170333875347593,
         "winner": "REP",
         "competitiveness": {
           "color": "#cb181d"
         }
       },
       "2": {
-        "dem_votes": 202215,
-        "rep_votes": 105388,
-        "other_votes": 9367,
-        "total_votes": 316970,
+        "dem_votes": 202224,
+        "rep_votes": 105396,
+        "other_votes": 9369,
+        "total_votes": 316990,
         "dem_candidate": "Susan V. Happ",
         "rep_candidate": "Brad Schimel",
-        "margin": -96827,
-        "margin_pct": -30.547596800747073,
+        "margin": -96828,
+        "margin_pct": -30.546093399779416,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
         }
       },
       "3": {
-        "dem_votes": 127296,
-        "rep_votes": 135883,
-        "other_votes": 9904,
-        "total_votes": 273084,
+        "dem_votes": 127258,
+        "rep_votes": 135847,
+        "other_votes": 9900,
+        "total_votes": 273005,
         "dem_candidate": "Susan V. Happ",
         "rep_candidate": "Brad Schimel",
-        "margin": 8587,
-        "margin_pct": 3.144367931420243,
+        "margin": 8589,
+        "margin_pct": 3.1459851674685084,
         "winner": "REP",
         "competitiveness": {
           "color": "#fcbba1"
         }
       },
       "4": {
-        "dem_votes": 186250,
-        "rep_votes": 80248,
-        "other_votes": 7651,
-        "total_votes": 274149,
+        "dem_votes": 186224,
+        "rep_votes": 80257,
+        "other_votes": 7649,
+        "total_votes": 274131,
         "dem_candidate": "Susan V. Happ",
         "rep_candidate": "Brad Schimel",
-        "margin": -106002,
-        "margin_pct": -38.665835002133875,
+        "margin": -105967,
+        "margin_pct": -38.655686002488906,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -59,60 +59,61 @@
       },
       "5": {
         "dem_votes": 95323,
-        "rep_votes": 241012,
-        "other_votes": 7458,
-        "total_votes": 343792,
+        "rep_votes": 240944,
+        "other_votes": 7457,
+        "total_votes": 343724,
         "dem_candidate": "Susan V. Happ",
         "rep_candidate": "Brad Schimel",
-        "margin": 145689,
-        "margin_pct": 42.37714640302766,
+        "margin": 145622,
+        "margin_pct": 42.36587476083545,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
         }
       },
       "6": {
-        "dem_votes": 111173,
-        "rep_votes": 175616,
-        "other_votes": 9424,
-        "total_votes": 296213,
+        "dem_votes": 111205,
+        "rep_votes": 175683,
+        "other_votes": 9428,
+        "total_votes": 296317,
         "dem_candidate": "Susan V. Happ",
         "rep_candidate": "Brad Schimel",
-        "margin": 64444,
-        "margin_pct": 21.755827966339794,
+        "margin": 64477,
+        "margin_pct": 21.759576993637257,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
         }
       },
       "7": {
-        "dem_votes": 112816,
-        "rep_votes": 158979,
-        "other_votes": 8676,
-        "total_votes": 280472,
+        "dem_votes": 112843,
+        "rep_votes": 158996,
+        "other_votes": 8679,
+        "total_votes": 280517,
         "dem_candidate": "Susan V. Happ",
         "rep_candidate": "Brad Schimel",
-        "margin": 46162,
-        "margin_pct": 16.45880240951398,
+        "margin": 46153,
+        "margin_pct": 16.452859911906582,
         "winner": "REP",
         "competitiveness": {
           "color": "#cb181d"
         }
       },
       "8": {
-        "dem_votes": 105046,
-        "rep_votes": 158631,
-        "other_votes": 11070,
-        "total_votes": 274746,
+        "dem_votes": 105015,
+        "rep_votes": 158567,
+        "other_votes": 11066,
+        "total_votes": 274649,
         "dem_candidate": "Susan V. Happ",
         "rep_candidate": "Brad Schimel",
-        "margin": 53585,
-        "margin_pct": 19.503438235255885,
+        "margin": 53552,
+        "margin_pct": 19.498354730906485,
         "winner": "REP",
         "competitiveness": {
           "color": "#cb181d"
         }
       }
-    }
+    },
+    "election_type": "general"
   }
 }

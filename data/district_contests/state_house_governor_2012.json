@@ -1,0 +1,1393 @@
+{
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 11354,
+        "rep_votes": 17471,
+        "other_votes": 155,
+        "total_votes": 28980,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 6117,
+        "margin_pct": 21.10844117617153,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "10": {
+        "dem_votes": 24605,
+        "rep_votes": 5874,
+        "other_votes": 155,
+        "total_votes": 30634,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": -18731,
+        "margin_pct": -61.146213150564535,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "11": {
+        "dem_votes": 21988,
+        "rep_votes": 2995,
+        "other_votes": 119,
+        "total_votes": 25102,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": -18993,
+        "margin_pct": -75.66104201194614,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "12": {
+        "dem_votes": 17787,
+        "rep_votes": 6543,
+        "other_votes": 129,
+        "total_votes": 24458,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": -11244,
+        "margin_pct": -45.9715656524594,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "13": {
+        "dem_votes": 9146,
+        "rep_votes": 23870,
+        "other_votes": 136,
+        "total_votes": 33152,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 14723,
+        "margin_pct": 44.41147807922917,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "14": {
+        "dem_votes": 13611,
+        "rep_votes": 16393,
+        "other_votes": 188,
+        "total_votes": 30192,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 2783,
+        "margin_pct": 9.216886996497237,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "15": {
+        "dem_votes": 10213,
+        "rep_votes": 21687,
+        "other_votes": 145,
+        "total_votes": 32045,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 11474,
+        "margin_pct": 35.806449053055694,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "16": {
+        "dem_votes": 20142,
+        "rep_votes": 1666,
+        "other_votes": 154,
+        "total_votes": 21962,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": -18477,
+        "margin_pct": -84.12882883975419,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "17": {
+        "dem_votes": 23285,
+        "rep_votes": 5853,
+        "other_votes": 154,
+        "total_votes": 29292,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": -17432,
+        "margin_pct": -59.51057645780076,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "18": {
+        "dem_votes": 21604,
+        "rep_votes": 5231,
+        "other_votes": 129,
+        "total_votes": 26964,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": -16373,
+        "margin_pct": -60.71952710299352,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "19": {
+        "dem_votes": 17008,
+        "rep_votes": 7818,
+        "other_votes": 175,
+        "total_votes": 25001,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": -9190,
+        "margin_pct": -36.756528811603154,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "2": {
+        "dem_votes": 9399,
+        "rep_votes": 16427,
+        "other_votes": 164,
+        "total_votes": 25990,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 7028,
+        "margin_pct": 27.041936632857418,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "20": {
+        "dem_votes": 15690,
+        "rep_votes": 12898,
+        "other_votes": 184,
+        "total_votes": 28772,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": -2792,
+        "margin_pct": -9.703941969433,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "21": {
+        "dem_votes": 10237,
+        "rep_votes": 13603,
+        "other_votes": 116,
+        "total_votes": 23956,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 3366,
+        "margin_pct": 14.050905376407567,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "22": {
+        "dem_votes": 8154,
+        "rep_votes": 23851,
+        "other_votes": 119,
+        "total_votes": 32125,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 15697,
+        "margin_pct": 48.86178104352268,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "23": {
+        "dem_votes": 14333,
+        "rep_votes": 18518,
+        "other_votes": 113,
+        "total_votes": 32964,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 4184,
+        "margin_pct": 12.694015488932836,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "24": {
+        "dem_votes": 8011,
+        "rep_votes": 20319,
+        "other_votes": 76,
+        "total_votes": 28405,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 12308,
+        "margin_pct": 43.330294225818356,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "25": {
+        "dem_votes": 8642,
+        "rep_votes": 15736,
+        "other_votes": 208,
+        "total_votes": 24586,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 7094,
+        "margin_pct": 28.85303892316306,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "26": {
+        "dem_votes": 9015,
+        "rep_votes": 16869,
+        "other_votes": 156,
+        "total_votes": 26040,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 7854,
+        "margin_pct": 30.160088200263317,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "27": {
+        "dem_votes": 9905,
+        "rep_votes": 17685,
+        "other_votes": 152,
+        "total_votes": 27742,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 7780,
+        "margin_pct": 28.045242568333872,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "28": {
+        "dem_votes": 8313,
+        "rep_votes": 12422,
+        "other_votes": 139,
+        "total_votes": 20874,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 4109,
+        "margin_pct": 19.68204702131121,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "29": {
+        "dem_votes": 8649,
+        "rep_votes": 11269,
+        "other_votes": 139,
+        "total_votes": 20057,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 2620,
+        "margin_pct": 13.062741369875527,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "3": {
+        "dem_votes": 8885,
+        "rep_votes": 15384,
+        "other_votes": 112,
+        "total_votes": 24381,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 6499,
+        "margin_pct": 26.65599425948236,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "30": {
+        "dem_votes": 9105,
+        "rep_votes": 14456,
+        "other_votes": 66,
+        "total_votes": 23627,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 5351,
+        "margin_pct": 22.65028468702161,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "31": {
+        "dem_votes": 9846,
+        "rep_votes": 13973,
+        "other_votes": 144,
+        "total_votes": 23963,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 4128,
+        "margin_pct": 17.22525511358501,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "32": {
+        "dem_votes": 7016,
+        "rep_votes": 13256,
+        "other_votes": 127,
+        "total_votes": 20399,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 6240,
+        "margin_pct": 30.589734790921124,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "33": {
+        "dem_votes": 12072,
+        "rep_votes": 14042,
+        "other_votes": 203,
+        "total_votes": 26317,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 1971,
+        "margin_pct": 7.488173760992227,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "34": {
+        "dem_votes": 11195,
+        "rep_votes": 17311,
+        "other_votes": 238,
+        "total_votes": 28744,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 6116,
+        "margin_pct": 21.277483996660173,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "35": {
+        "dem_votes": 10122,
+        "rep_votes": 16582,
+        "other_votes": 221,
+        "total_votes": 26925,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 6460,
+        "margin_pct": 23.992571959145774,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "36": {
+        "dem_votes": 8762,
+        "rep_votes": 15328,
+        "other_votes": 150,
+        "total_votes": 24240,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 6566,
+        "margin_pct": 27.08745874587459,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "37": {
+        "dem_votes": 10621,
+        "rep_votes": 15225,
+        "other_votes": 200,
+        "total_votes": 26046,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 4604,
+        "margin_pct": 17.675844388772546,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "38": {
+        "dem_votes": 10520,
+        "rep_votes": 16716,
+        "other_votes": 189,
+        "total_votes": 27425,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 6196,
+        "margin_pct": 22.59305912496645,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "39": {
+        "dem_votes": 9951,
+        "rep_votes": 16071,
+        "other_votes": 181,
+        "total_votes": 26204,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 6120,
+        "margin_pct": 23.354780041267954,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "4": {
+        "dem_votes": 8663,
+        "rep_votes": 12670,
+        "other_votes": 127,
+        "total_votes": 21460,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 4006,
+        "margin_pct": 18.669631559861028,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "40": {
+        "dem_votes": 8707,
+        "rep_votes": 15981,
+        "other_votes": 164,
+        "total_votes": 24852,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 7274,
+        "margin_pct": 29.269274102687916,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "41": {
+        "dem_votes": 9923,
+        "rep_votes": 12715,
+        "other_votes": 199,
+        "total_votes": 22837,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 2791,
+        "margin_pct": 12.222506007532223,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "42": {
+        "dem_votes": 11262,
+        "rep_votes": 15512,
+        "other_votes": 189,
+        "total_votes": 26962,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 4251,
+        "margin_pct": 15.764923958062793,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "43": {
+        "dem_votes": 17446,
+        "rep_votes": 11377,
+        "other_votes": 189,
+        "total_votes": 29013,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": -6069,
+        "margin_pct": -20.91803376308262,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "44": {
+        "dem_votes": 13690,
+        "rep_votes": 9158,
+        "other_votes": 205,
+        "total_votes": 23054,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": -4532,
+        "margin_pct": -19.65745544164107,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "45": {
+        "dem_votes": 11544,
+        "rep_votes": 9175,
+        "other_votes": 172,
+        "total_votes": 20892,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": -2369,
+        "margin_pct": -11.337946746071513,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "46": {
+        "dem_votes": 14204,
+        "rep_votes": 9700,
+        "other_votes": 126,
+        "total_votes": 24031,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": -4503,
+        "margin_pct": -18.740278712199643,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "47": {
+        "dem_votes": 18565,
+        "rep_votes": 7924,
+        "other_votes": 145,
+        "total_votes": 26634,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": -10642,
+        "margin_pct": -39.954917849726186,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "48": {
+        "dem_votes": 23572,
+        "rep_votes": 6212,
+        "other_votes": 189,
+        "total_votes": 29972,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": -17360,
+        "margin_pct": -57.92050057160611,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "49": {
+        "dem_votes": 10113,
+        "rep_votes": 11309,
+        "other_votes": 184,
+        "total_votes": 21606,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 1196,
+        "margin_pct": 5.535500334398063,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "5": {
+        "dem_votes": 7455,
+        "rep_votes": 12877,
+        "other_votes": 142,
+        "total_votes": 20474,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 5422,
+        "margin_pct": 26.48254451399073,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "50": {
+        "dem_votes": 8969,
+        "rep_votes": 11683,
+        "other_votes": 176,
+        "total_votes": 20828,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 2714,
+        "margin_pct": 13.030535817169195,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "51": {
+        "dem_votes": 11741,
+        "rep_votes": 13857,
+        "other_votes": 177,
+        "total_votes": 25775,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 2116,
+        "margin_pct": 8.209493211773571,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "52": {
+        "dem_votes": 9407,
+        "rep_votes": 14806,
+        "other_votes": 196,
+        "total_votes": 24409,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 5399,
+        "margin_pct": 22.11773910701647,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "53": {
+        "dem_votes": 8397,
+        "rep_votes": 13622,
+        "other_votes": 132,
+        "total_votes": 22151,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 5224,
+        "margin_pct": 23.585797442061978,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "54": {
+        "dem_votes": 9655,
+        "rep_votes": 8777,
+        "other_votes": 134,
+        "total_votes": 18566,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": -878,
+        "margin_pct": -4.726372274790897,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "55": {
+        "dem_votes": 8326,
+        "rep_votes": 13026,
+        "other_votes": 155,
+        "total_votes": 21507,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 4700,
+        "margin_pct": 21.85135904685823,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "56": {
+        "dem_votes": 8338,
+        "rep_votes": 16374,
+        "other_votes": 127,
+        "total_votes": 24840,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 8036,
+        "margin_pct": 32.35173744761227,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "57": {
+        "dem_votes": 12961,
+        "rep_votes": 14647,
+        "other_votes": 239,
+        "total_votes": 27847,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 1686,
+        "margin_pct": 6.054103275261221,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "58": {
+        "dem_votes": 7545,
+        "rep_votes": 21303,
+        "other_votes": 136,
+        "total_votes": 28983,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 13758,
+        "margin_pct": 47.46732282461217,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "59": {
+        "dem_votes": 7610,
+        "rep_votes": 22282,
+        "other_votes": 132,
+        "total_votes": 30024,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 14672,
+        "margin_pct": 48.86607255551989,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "6": {
+        "dem_votes": 7972,
+        "rep_votes": 16730,
+        "other_votes": 150,
+        "total_votes": 24853,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 8758,
+        "margin_pct": 35.237194704864606,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "60": {
+        "dem_votes": 8223,
+        "rep_votes": 22541,
+        "other_votes": 123,
+        "total_votes": 30887,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 14318,
+        "margin_pct": 46.356911023156805,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "61": {
+        "dem_votes": 6989,
+        "rep_votes": 10451,
+        "other_votes": 90,
+        "total_votes": 17530,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 3463,
+        "margin_pct": 19.752197523612498,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "62": {
+        "dem_votes": 13285,
+        "rep_votes": 19538,
+        "other_votes": 189,
+        "total_votes": 33012,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 6254,
+        "margin_pct": 18.94412153667739,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "63": {
+        "dem_votes": 10592,
+        "rep_votes": 16212,
+        "other_votes": 134,
+        "total_votes": 26939,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 5620,
+        "margin_pct": 20.86270996839037,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "64": {
+        "dem_votes": 12167,
+        "rep_votes": 9706,
+        "other_votes": 138,
+        "total_votes": 22011,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": -2461,
+        "margin_pct": -11.18220601475811,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "65": {
+        "dem_votes": 10677,
+        "rep_votes": 6449,
+        "other_votes": 145,
+        "total_votes": 17270,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": -4228,
+        "margin_pct": -24.482251215107986,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "66": {
+        "dem_votes": 13255,
+        "rep_votes": 5980,
+        "other_votes": 175,
+        "total_votes": 19411,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": -7275,
+        "margin_pct": -37.478313444208005,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "67": {
+        "dem_votes": 9821,
+        "rep_votes": 13971,
+        "other_votes": 237,
+        "total_votes": 24029,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 4150,
+        "margin_pct": 17.269170995621028,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "68": {
+        "dem_votes": 8632,
+        "rep_votes": 12305,
+        "other_votes": 177,
+        "total_votes": 21113,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 3673,
+        "margin_pct": 17.396842509966685,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "69": {
+        "dem_votes": 7676,
+        "rep_votes": 14695,
+        "other_votes": 170,
+        "total_votes": 22541,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 7019,
+        "margin_pct": 31.137619659780935,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "7": {
+        "dem_votes": 12205,
+        "rep_votes": 11617,
+        "other_votes": 156,
+        "total_votes": 23979,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": -588,
+        "margin_pct": -2.4517702535021484,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "70": {
+        "dem_votes": 9257,
+        "rep_votes": 13111,
+        "other_votes": 242,
+        "total_votes": 22610,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 3854,
+        "margin_pct": 17.047799946203156,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "71": {
+        "dem_votes": 13286,
+        "rep_votes": 12003,
+        "other_votes": 212,
+        "total_votes": 25501,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": -1283,
+        "margin_pct": -5.032951763075023,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "72": {
+        "dem_votes": 10733,
+        "rep_votes": 13967,
+        "other_votes": 267,
+        "total_votes": 24967,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 3234,
+        "margin_pct": 12.953098089478111,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "73": {
+        "dem_votes": 13710,
+        "rep_votes": 10219,
+        "other_votes": 151,
+        "total_votes": 24080,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": -3491,
+        "margin_pct": -14.4965696743478,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "74": {
+        "dem_votes": 14544,
+        "rep_votes": 13182,
+        "other_votes": 227,
+        "total_votes": 27953,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": -1362,
+        "margin_pct": -4.873274399572188,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "75": {
+        "dem_votes": 9346,
+        "rep_votes": 13663,
+        "other_votes": 195,
+        "total_votes": 23204,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 4317,
+        "margin_pct": 18.604551253653757,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "76": {
+        "dem_votes": 19041,
+        "rep_votes": 2833,
+        "other_votes": 150,
+        "total_votes": 22025,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": -16208,
+        "margin_pct": -73.58942939866454,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "77": {
+        "dem_votes": 23339,
+        "rep_votes": 4262,
+        "other_votes": 123,
+        "total_votes": 27724,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": -19077,
+        "margin_pct": -68.81088728869015,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "78": {
+        "dem_votes": 19335,
+        "rep_votes": 7591,
+        "other_votes": 131,
+        "total_votes": 27057,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": -11743,
+        "margin_pct": -43.40183206003893,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "79": {
+        "dem_votes": 18064,
+        "rep_votes": 10302,
+        "other_votes": 146,
+        "total_votes": 28512,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": -7762,
+        "margin_pct": -27.222141070761474,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "8": {
+        "dem_votes": 7180,
+        "rep_votes": 1846,
+        "other_votes": 95,
+        "total_votes": 9121,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": -5334,
+        "margin_pct": -58.48164095446854,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "80": {
+        "dem_votes": 16727,
+        "rep_votes": 11629,
+        "other_votes": 134,
+        "total_votes": 28490,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": -5098,
+        "margin_pct": -17.89418464106188,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "81": {
+        "dem_votes": 14661,
+        "rep_votes": 12725,
+        "other_votes": 196,
+        "total_votes": 27583,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": -1936,
+        "margin_pct": -7.018078146033862,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "82": {
+        "dem_votes": 9254,
+        "rep_votes": 18029,
+        "other_votes": 100,
+        "total_votes": 27384,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 8775,
+        "margin_pct": 32.04586675755621,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "83": {
+        "dem_votes": 8364,
+        "rep_votes": 22567,
+        "other_votes": 103,
+        "total_votes": 31033,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 14203,
+        "margin_pct": 45.76548826342682,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "84": {
+        "dem_votes": 11828,
+        "rep_votes": 15590,
+        "other_votes": 141,
+        "total_votes": 27559,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 3762,
+        "margin_pct": 13.650713015711746,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "85": {
+        "dem_votes": 10448,
+        "rep_votes": 13431,
+        "other_votes": 207,
+        "total_votes": 24085,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 2983,
+        "margin_pct": 12.383875140841138,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "86": {
+        "dem_votes": 9543,
+        "rep_votes": 16923,
+        "other_votes": 183,
+        "total_votes": 26649,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 7380,
+        "margin_pct": 27.692020766450646,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "87": {
+        "dem_votes": 7667,
+        "rep_votes": 15119,
+        "other_votes": 210,
+        "total_votes": 22996,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 7452,
+        "margin_pct": 32.40563576274135,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "88": {
+        "dem_votes": 8422,
+        "rep_votes": 13394,
+        "other_votes": 107,
+        "total_votes": 21923,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 4972,
+        "margin_pct": 22.680773511842784,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "89": {
+        "dem_votes": 8738,
+        "rep_votes": 14589,
+        "other_votes": 141,
+        "total_votes": 23467,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 5851,
+        "margin_pct": 24.93342870522834,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "9": {
+        "dem_votes": 10002,
+        "rep_votes": 4947,
+        "other_votes": 118,
+        "total_votes": 15067,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": -5055,
+        "margin_pct": -33.547425908180976,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "90": {
+        "dem_votes": 9077,
+        "rep_votes": 8539,
+        "other_votes": 217,
+        "total_votes": 17832,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": -539,
+        "margin_pct": -3.0216119471955314,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "91": {
+        "dem_votes": 12349,
+        "rep_votes": 9925,
+        "other_votes": 202,
+        "total_votes": 22476,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": -2424,
+        "margin_pct": -10.787063739761042,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "92": {
+        "dem_votes": 9451,
+        "rep_votes": 13124,
+        "other_votes": 196,
+        "total_votes": 22771,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 3673,
+        "margin_pct": 16.13016556145975,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "93": {
+        "dem_votes": 9826,
+        "rep_votes": 13064,
+        "other_votes": 124,
+        "total_votes": 23014,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 3238,
+        "margin_pct": 14.069101074896734,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "94": {
+        "dem_votes": 11359,
+        "rep_votes": 13607,
+        "other_votes": 165,
+        "total_votes": 25131,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 2248,
+        "margin_pct": 8.946046210614316,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "95": {
+        "dem_votes": 13018,
+        "rep_votes": 8563,
+        "other_votes": 235,
+        "total_votes": 21817,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": -4454,
+        "margin_pct": -20.416818528683635,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "96": {
+        "dem_votes": 10348,
+        "rep_votes": 12456,
+        "other_votes": 209,
+        "total_votes": 23013,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 2108,
+        "margin_pct": 9.16003343597423,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "97": {
+        "dem_votes": 8836,
+        "rep_votes": 20544,
+        "other_votes": 111,
+        "total_votes": 29490,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 11708,
+        "margin_pct": 39.70041602433205,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "98": {
+        "dem_votes": 8155,
+        "rep_votes": 19296,
+        "other_votes": 119,
+        "total_votes": 27570,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 11141,
+        "margin_pct": 40.40816643028498,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "99": {
+        "dem_votes": 7199,
+        "rep_votes": 24757,
+        "other_votes": 100,
+        "total_votes": 32056,
+        "dem_candidate": "Tom Barrett",
+        "rep_candidate": "Scott Walker",
+        "margin": 17559,
+        "margin_pct": 54.7741642000291,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      }
+    },
+    "election_type": "recall"
+  }
+}

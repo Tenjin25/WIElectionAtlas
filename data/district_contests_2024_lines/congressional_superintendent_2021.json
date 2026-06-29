@@ -2,141 +2,142 @@
   "general": {
     "results": {
       "1": {
-        "dem_votes": 0,
-        "rep_votes": 0,
-        "other_votes": 95382,
-        "total_votes": 95382,
-        "dem_candidate": "",
-        "rep_candidate": "",
-        "margin": 0,
-        "margin_pct": 0.0,
-        "winner": "TIE",
+        "dem_votes": 51480,
+        "rep_votes": 43705,
+        "other_votes": 244,
+        "total_votes": 95429,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Deborah Kerr",
+        "margin": -7775,
+        "margin_pct": -8.14766456449393,
+        "winner": "DEM",
         "competitiveness": {
-          "color": "#9ca3af"
+          "color": "#6baed6"
         },
         "contest_partisan_style": "nonpartisan_ideology",
         "dem_label": "Liberal",
         "rep_label": "Conservative"
       },
       "2": {
-        "dem_votes": 0,
-        "rep_votes": 0,
-        "other_votes": 149407,
-        "total_votes": 149407,
-        "dem_candidate": "",
-        "rep_candidate": "",
-        "margin": 0,
-        "margin_pct": 0.0,
-        "winner": "TIE",
+        "dem_votes": 114651,
+        "rep_votes": 34585,
+        "other_votes": 189,
+        "total_votes": 149424,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Deborah Kerr",
+        "margin": -80066,
+        "margin_pct": -53.5832216131113,
+        "winner": "DEM",
         "competitiveness": {
-          "color": "#9ca3af"
+          "color": "#08306b"
         },
         "contest_partisan_style": "nonpartisan_ideology",
         "dem_label": "Liberal",
         "rep_label": "Conservative"
       },
       "3": {
-        "dem_votes": 0,
-        "rep_votes": 0,
-        "other_votes": 103495,
-        "total_votes": 103495,
-        "dem_candidate": "",
-        "rep_candidate": "",
-        "margin": 0,
-        "margin_pct": 0.0,
-        "winner": "TIE",
+        "dem_votes": 62129,
+        "rep_votes": 41154,
+        "other_votes": 167,
+        "total_votes": 103450,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Deborah Kerr",
+        "margin": -20975,
+        "margin_pct": -20.27496541935915,
+        "winner": "DEM",
         "competitiveness": {
-          "color": "#9ca3af"
+          "color": "#08306b"
         },
         "contest_partisan_style": "nonpartisan_ideology",
         "dem_label": "Liberal",
         "rep_label": "Conservative"
       },
       "4": {
-        "dem_votes": 0,
-        "rep_votes": 0,
-        "other_votes": 76164,
-        "total_votes": 76164,
-        "dem_candidate": "",
-        "rep_candidate": "",
-        "margin": 0,
-        "margin_pct": 0.0,
-        "winner": "TIE",
+        "dem_votes": 56277,
+        "rep_votes": 19725,
+        "other_votes": 170,
+        "total_votes": 76172,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Deborah Kerr",
+        "margin": -36553,
+        "margin_pct": -47.986829282966646,
+        "winner": "DEM",
         "competitiveness": {
-          "color": "#9ca3af"
+          "color": "#08306b"
         },
         "contest_partisan_style": "nonpartisan_ideology",
         "dem_label": "Liberal",
         "rep_label": "Conservative"
       },
       "5": {
-        "dem_votes": 0,
-        "rep_votes": 0,
-        "other_votes": 134573,
-        "total_votes": 134573,
-        "dem_candidate": "",
-        "rep_candidate": "",
-        "margin": 0,
-        "margin_pct": 0.0,
-        "winner": "TIE",
+        "dem_votes": 56997,
+        "rep_votes": 77344,
+        "other_votes": 177,
+        "total_votes": 134519,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Deborah Kerr",
+        "margin": 20346,
+        "margin_pct": 15.125349765292265,
+        "winner": "REP",
         "competitiveness": {
-          "color": "#9ca3af"
+          "color": "#cb181d"
         },
         "contest_partisan_style": "nonpartisan_ideology",
         "dem_label": "Liberal",
         "rep_label": "Conservative"
       },
       "6": {
-        "dem_votes": 0,
-        "rep_votes": 0,
-        "other_votes": 117815,
-        "total_votes": 117815,
-        "dem_candidate": "",
-        "rep_candidate": "",
-        "margin": 0,
-        "margin_pct": 0.0,
-        "winner": "TIE",
+        "dem_votes": 60109,
+        "rep_votes": 57591,
+        "other_votes": 183,
+        "total_votes": 117883,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Deborah Kerr",
+        "margin": -2517,
+        "margin_pct": -2.135323702301937,
+        "winner": "DEM",
         "competitiveness": {
-          "color": "#9ca3af"
+          "color": "#c6dbef"
         },
         "contest_partisan_style": "nonpartisan_ideology",
         "dem_label": "Liberal",
         "rep_label": "Conservative"
       },
       "7": {
-        "dem_votes": 0,
-        "rep_votes": 0,
-        "other_votes": 120009,
-        "total_votes": 120009,
-        "dem_candidate": "",
-        "rep_candidate": "",
-        "margin": 0,
-        "margin_pct": 0.0,
-        "winner": "TIE",
+        "dem_votes": 60661,
+        "rep_votes": 59183,
+        "other_votes": 192,
+        "total_votes": 120035,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Deborah Kerr",
+        "margin": -1478,
+        "margin_pct": -1.2311969858610772,
+        "winner": "DEM",
         "competitiveness": {
-          "color": "#9ca3af"
+          "color": "#c6dbef"
         },
         "contest_partisan_style": "nonpartisan_ideology",
         "dem_label": "Liberal",
         "rep_label": "Conservative"
       },
       "8": {
-        "dem_votes": 0,
-        "rep_votes": 0,
-        "other_votes": 114109,
-        "total_votes": 114109,
-        "dem_candidate": "",
-        "rep_candidate": "",
-        "margin": 0,
-        "margin_pct": 0.0,
-        "winner": "TIE",
+        "dem_votes": 62153,
+        "rep_votes": 51798,
+        "other_votes": 91,
+        "total_votes": 114041,
+        "dem_candidate": "Jill Underly",
+        "rep_candidate": "Deborah Kerr",
+        "margin": -10355,
+        "margin_pct": -9.079933508349454,
+        "winner": "DEM",
         "competitiveness": {
-          "color": "#9ca3af"
+          "color": "#6baed6"
         },
         "contest_partisan_style": "nonpartisan_ideology",
         "dem_label": "Liberal",
         "rep_label": "Conservative"
       }
-    }
+    },
+    "election_type": "spring"
   }
 }

@@ -3,13 +3,13 @@
     "results": {
       "1": {
         "dem_votes": 0,
-        "rep_votes": 51726,
-        "other_votes": 0,
-        "total_votes": 51726,
+        "rep_votes": 51413,
+        "other_votes": 330,
+        "total_votes": 51743,
         "dem_candidate": "",
         "rep_candidate": "Patrick Crooks",
-        "margin": 51726,
-        "margin_pct": 100.0,
+        "margin": 51413,
+        "margin_pct": 99.36243961493916,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
@@ -20,13 +20,13 @@
       },
       "2": {
         "dem_votes": 0,
-        "rep_votes": 66835,
-        "other_votes": 0,
-        "total_votes": 66835,
+        "rep_votes": 66121,
+        "other_votes": 713,
+        "total_votes": 66834,
         "dem_candidate": "",
         "rep_candidate": "Patrick Crooks",
-        "margin": 66835,
-        "margin_pct": 100.0,
+        "margin": 66121,
+        "margin_pct": 98.93282130486838,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
@@ -37,13 +37,13 @@
       },
       "3": {
         "dem_votes": 0,
-        "rep_votes": 52389,
-        "other_votes": 0,
+        "rep_votes": 52114,
+        "other_votes": 275,
         "total_votes": 52389,
         "dem_candidate": "",
         "rep_candidate": "Patrick Crooks",
-        "margin": 52389,
-        "margin_pct": 100.0,
+        "margin": 52114,
+        "margin_pct": 99.47507960900627,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
@@ -54,13 +54,13 @@
       },
       "4": {
         "dem_votes": 0,
-        "rep_votes": 21617,
-        "other_votes": 0,
-        "total_votes": 21617,
+        "rep_votes": 21220,
+        "other_votes": 406,
+        "total_votes": 21626,
         "dem_candidate": "",
         "rep_candidate": "Patrick Crooks",
-        "margin": 21617,
-        "margin_pct": 100.0,
+        "margin": 21220,
+        "margin_pct": 98.12119265453744,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
@@ -71,13 +71,13 @@
       },
       "5": {
         "dem_votes": 0,
-        "rep_votes": 51707,
-        "other_votes": 0,
-        "total_votes": 51707,
+        "rep_votes": 51419,
+        "other_votes": 263,
+        "total_votes": 51682,
         "dem_candidate": "",
         "rep_candidate": "Patrick Crooks",
-        "margin": 51707,
-        "margin_pct": 100.0,
+        "margin": 51419,
+        "margin_pct": 99.4908024065547,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
@@ -88,13 +88,13 @@
       },
       "6": {
         "dem_votes": 0,
-        "rep_votes": 76865,
-        "other_votes": 0,
-        "total_votes": 76865,
+        "rep_votes": 76575,
+        "other_votes": 353,
+        "total_votes": 76929,
         "dem_candidate": "",
         "rep_candidate": "Patrick Crooks",
-        "margin": 76865,
-        "margin_pct": 100.0,
+        "margin": 76575,
+        "margin_pct": 99.5406588084631,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
@@ -105,13 +105,13 @@
       },
       "7": {
         "dem_votes": 0,
-        "rep_votes": 54425,
-        "other_votes": 0,
+        "rep_votes": 54204,
+        "other_votes": 221,
         "total_votes": 54425,
         "dem_candidate": "",
         "rep_candidate": "Patrick Crooks",
-        "margin": 54425,
-        "margin_pct": 100.0,
+        "margin": 54204,
+        "margin_pct": 99.59393738271339,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
@@ -122,13 +122,13 @@
       },
       "8": {
         "dem_votes": 0,
-        "rep_votes": 72695,
-        "other_votes": 0,
-        "total_votes": 72695,
+        "rep_votes": 72318,
+        "other_votes": 314,
+        "total_votes": 72632,
         "dem_candidate": "",
         "rep_candidate": "Patrick Crooks",
-        "margin": 72695,
-        "margin_pct": 100.0,
+        "margin": 72318,
+        "margin_pct": 99.56763370165267,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
@@ -137,6 +137,7 @@
         "dem_label": "Liberal",
         "rep_label": "Conservative"
       }
-    }
+    },
+    "election_type": "spring"
   }
 }

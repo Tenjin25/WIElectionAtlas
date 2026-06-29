@@ -2,141 +2,142 @@
   "general": {
     "results": {
       "1": {
-        "dem_votes": 0,
-        "rep_votes": 0,
-        "other_votes": 72843,
-        "total_votes": 72843,
-        "dem_candidate": "",
-        "rep_candidate": "",
-        "margin": 0,
-        "margin_pct": 0.0,
-        "winner": "TIE",
+        "dem_votes": 46698,
+        "rep_votes": 26082,
+        "other_votes": 95,
+        "total_votes": 72875,
+        "dem_candidate": "Elizabeth Burmaster",
+        "rep_candidate": "Gregg Underheim",
+        "margin": -20616,
+        "margin_pct": -28.289581403306187,
+        "winner": "DEM",
         "competitiveness": {
-          "color": "#9ca3af"
+          "color": "#08306b"
         },
         "contest_partisan_style": "nonpartisan_ideology",
         "dem_label": "Liberal",
         "rep_label": "Conservative"
       },
       "2": {
-        "dem_votes": 0,
-        "rep_votes": 0,
-        "other_votes": 75819,
-        "total_votes": 75819,
-        "dem_candidate": "",
-        "rep_candidate": "",
-        "margin": 0,
-        "margin_pct": 0.0,
-        "winner": "TIE",
+        "dem_votes": 50492,
+        "rep_votes": 25250,
+        "other_votes": 72,
+        "total_votes": 75814,
+        "dem_candidate": "Elizabeth Burmaster",
+        "rep_candidate": "Gregg Underheim",
+        "margin": -25242,
+        "margin_pct": -33.29460452076965,
+        "winner": "DEM",
         "competitiveness": {
-          "color": "#9ca3af"
+          "color": "#08306b"
         },
         "contest_partisan_style": "nonpartisan_ideology",
         "dem_label": "Liberal",
         "rep_label": "Conservative"
       },
       "3": {
-        "dem_votes": 0,
-        "rep_votes": 0,
-        "other_votes": 76053,
+        "dem_votes": 47848,
+        "rep_votes": 28068,
+        "other_votes": 137,
         "total_votes": 76053,
-        "dem_candidate": "",
-        "rep_candidate": "",
-        "margin": 0,
-        "margin_pct": 0.0,
-        "winner": "TIE",
+        "dem_candidate": "Elizabeth Burmaster",
+        "rep_candidate": "Gregg Underheim",
+        "margin": -19779,
+        "margin_pct": -26.007656852363098,
+        "winner": "DEM",
         "competitiveness": {
-          "color": "#9ca3af"
+          "color": "#08306b"
         },
         "contest_partisan_style": "nonpartisan_ideology",
         "dem_label": "Liberal",
         "rep_label": "Conservative"
       },
       "4": {
-        "dem_votes": 0,
-        "rep_votes": 0,
-        "other_votes": 51631,
-        "total_votes": 51631,
-        "dem_candidate": "",
-        "rep_candidate": "",
-        "margin": 0,
-        "margin_pct": 0.0,
-        "winner": "TIE",
+        "dem_votes": 35368,
+        "rep_votes": 16193,
+        "other_votes": 101,
+        "total_votes": 51662,
+        "dem_candidate": "Elizabeth Burmaster",
+        "rep_candidate": "Gregg Underheim",
+        "margin": -19175,
+        "margin_pct": -37.11555687223402,
+        "winner": "DEM",
         "competitiveness": {
-          "color": "#9ca3af"
+          "color": "#08306b"
         },
         "contest_partisan_style": "nonpartisan_ideology",
         "dem_label": "Liberal",
         "rep_label": "Conservative"
       },
       "5": {
-        "dem_votes": 0,
-        "rep_votes": 0,
-        "other_votes": 97329,
-        "total_votes": 97329,
-        "dem_candidate": "",
-        "rep_candidate": "",
-        "margin": 0,
-        "margin_pct": 0.0,
-        "winner": "TIE",
+        "dem_votes": 50093,
+        "rep_votes": 47087,
+        "other_votes": 91,
+        "total_votes": 97271,
+        "dem_candidate": "Elizabeth Burmaster",
+        "rep_candidate": "Gregg Underheim",
+        "margin": -3007,
+        "margin_pct": -3.0912848965562403,
+        "winner": "DEM",
         "competitiveness": {
-          "color": "#9ca3af"
+          "color": "#c6dbef"
         },
         "contest_partisan_style": "nonpartisan_ideology",
         "dem_label": "Liberal",
         "rep_label": "Conservative"
       },
       "6": {
-        "dem_votes": 0,
-        "rep_votes": 0,
-        "other_votes": 96666,
-        "total_votes": 96666,
-        "dem_candidate": "",
-        "rep_candidate": "",
-        "margin": 0,
-        "margin_pct": 0.0,
-        "winner": "TIE",
+        "dem_votes": 58353,
+        "rep_votes": 38300,
+        "other_votes": 54,
+        "total_votes": 96707,
+        "dem_candidate": "Elizabeth Burmaster",
+        "rep_candidate": "Gregg Underheim",
+        "margin": -20054,
+        "margin_pct": -20.736543579895034,
+        "winner": "DEM",
         "competitiveness": {
-          "color": "#9ca3af"
+          "color": "#08306b"
         },
         "contest_partisan_style": "nonpartisan_ideology",
         "dem_label": "Liberal",
         "rep_label": "Conservative"
       },
       "7": {
-        "dem_votes": 0,
-        "rep_votes": 0,
-        "other_votes": 82011,
+        "dem_votes": 51234,
+        "rep_votes": 30688,
+        "other_votes": 89,
         "total_votes": 82011,
-        "dem_candidate": "",
-        "rep_candidate": "",
-        "margin": 0,
-        "margin_pct": 0.0,
-        "winner": "TIE",
+        "dem_candidate": "Elizabeth Burmaster",
+        "rep_candidate": "Gregg Underheim",
+        "margin": -20547,
+        "margin_pct": -25.053225381789336,
+        "winner": "DEM",
         "competitiveness": {
-          "color": "#9ca3af"
+          "color": "#08306b"
         },
         "contest_partisan_style": "nonpartisan_ideology",
         "dem_label": "Liberal",
         "rep_label": "Conservative"
       },
       "8": {
-        "dem_votes": 0,
-        "rep_votes": 0,
-        "other_votes": 87351,
-        "total_votes": 87351,
-        "dem_candidate": "",
-        "rep_candidate": "",
-        "margin": 0,
-        "margin_pct": 0.0,
-        "winner": "TIE",
+        "dem_votes": 57703,
+        "rep_votes": 29510,
+        "other_votes": 98,
+        "total_votes": 87311,
+        "dem_candidate": "Elizabeth Burmaster",
+        "rep_candidate": "Gregg Underheim",
+        "margin": -28194,
+        "margin_pct": -32.291043105513786,
+        "winner": "DEM",
         "competitiveness": {
-          "color": "#9ca3af"
+          "color": "#08306b"
         },
         "contest_partisan_style": "nonpartisan_ideology",
         "dem_label": "Liberal",
         "rep_label": "Conservative"
       }
-    }
+    },
+    "election_type": "spring"
   }
 }

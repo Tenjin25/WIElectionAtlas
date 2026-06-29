@@ -2,14 +2,14 @@
   "general": {
     "results": {
       "1": {
-        "dem_votes": 4935,
-        "rep_votes": 2340,
+        "dem_votes": 5008,
+        "rep_votes": 2384,
         "other_votes": 0,
-        "total_votes": 7275,
+        "total_votes": 7392,
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
-        "margin": -2595,
-        "margin_pct": -35.670103092783506,
+        "margin": -2624,
+        "margin_pct": -35.4989994155293,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -19,14 +19,14 @@
         "rep_label": "Conservative"
       },
       "10": {
-        "dem_votes": 4923,
+        "dem_votes": 4922,
         "rep_votes": 1939,
         "other_votes": 5,
-        "total_votes": 6867,
+        "total_votes": 6866,
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
-        "margin": -2984,
-        "margin_pct": -43.454201252366396,
+        "margin": -2983,
+        "margin_pct": -43.45315861350112,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -36,14 +36,14 @@
         "rep_label": "Conservative"
       },
       "11": {
-        "dem_votes": 3928,
+        "dem_votes": 3929,
         "rep_votes": 984,
         "other_votes": 8,
-        "total_votes": 4920,
+        "total_votes": 4921,
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
-        "margin": -2944,
-        "margin_pct": -59.83739837398374,
+        "margin": -2945,
+        "margin_pct": -59.83444562674672,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -53,14 +53,14 @@
         "rep_label": "Conservative"
       },
       "12": {
-        "dem_votes": 2047,
-        "rep_votes": 978,
+        "dem_votes": 2048,
+        "rep_votes": 979,
         "other_votes": 0,
-        "total_votes": 3025,
+        "total_votes": 3027,
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
         "margin": -1069,
-        "margin_pct": -35.32393124724549,
+        "margin_pct": -35.30972195261129,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -77,7 +77,7 @@
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
         "margin": 1202,
-        "margin_pct": 12.586387434554974,
+        "margin_pct": 12.58605340759468,
         "winner": "REP",
         "competitiveness": {
           "color": "#cb181d"
@@ -111,7 +111,7 @@
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
         "margin": 2114,
-        "margin_pct": 26.45145145145145,
+        "margin_pct": 26.45142808189169,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
@@ -121,14 +121,14 @@
         "rep_label": "Conservative"
       },
       "16": {
-        "dem_votes": 2935,
+        "dem_votes": 2936,
         "rep_votes": 1499,
         "other_votes": 5,
-        "total_votes": 4439,
+        "total_votes": 4440,
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
-        "margin": -1436,
-        "margin_pct": -32.34962829466096,
+        "margin": -1437,
+        "margin_pct": -32.365986862495525,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -138,14 +138,14 @@
         "rep_label": "Conservative"
       },
       "17": {
-        "dem_votes": 2500,
-        "rep_votes": 1462,
+        "dem_votes": 2499,
+        "rep_votes": 1461,
         "other_votes": 4,
-        "total_votes": 3966,
+        "total_votes": 3965,
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
         "margin": -1038,
-        "margin_pct": -26.172465960665658,
+        "margin_pct": -26.18004399652033,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -155,14 +155,14 @@
         "rep_label": "Conservative"
       },
       "18": {
-        "dem_votes": 2762,
+        "dem_votes": 2761,
         "rep_votes": 1839,
         "other_votes": 3,
-        "total_votes": 4604,
+        "total_votes": 4603,
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
         "margin": -923,
-        "margin_pct": -20.047784535186793,
+        "margin_pct": -20.047856236533317,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -172,14 +172,14 @@
         "rep_label": "Conservative"
       },
       "19": {
-        "dem_votes": 1437,
-        "rep_votes": 735,
+        "dem_votes": 1444,
+        "rep_votes": 739,
         "other_votes": 6,
-        "total_votes": 2178,
+        "total_votes": 2189,
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
-        "margin": -702,
-        "margin_pct": -32.231404958677686,
+        "margin": -705,
+        "margin_pct": -32.212288364355615,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -189,14 +189,14 @@
         "rep_label": "Conservative"
       },
       "2": {
-        "dem_votes": 4410,
-        "rep_votes": 2694,
+        "dem_votes": 4409,
+        "rep_votes": 2693,
         "other_votes": 0,
-        "total_votes": 7104,
+        "total_votes": 7103,
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
         "margin": -1716,
-        "margin_pct": -24.160200656056574,
+        "margin_pct": -24.15769472330834,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -206,14 +206,14 @@
         "rep_label": "Conservative"
       },
       "20": {
-        "dem_votes": 3722,
-        "rep_votes": 2728,
+        "dem_votes": 3661,
+        "rep_votes": 2680,
         "other_votes": 4,
-        "total_votes": 6454,
+        "total_votes": 6345,
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
-        "margin": -994,
-        "margin_pct": -15.40130151843818,
+        "margin": -981,
+        "margin_pct": -15.462674790708045,
         "winner": "DEM",
         "competitiveness": {
           "color": "#2171b5"
@@ -223,14 +223,14 @@
         "rep_label": "Conservative"
       },
       "21": {
-        "dem_votes": 3464,
-        "rep_votes": 2503,
-        "other_votes": 5,
-        "total_votes": 5972,
+        "dem_votes": 3359,
+        "rep_votes": 2424,
+        "other_votes": 4,
+        "total_votes": 5787,
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
-        "margin": -961,
-        "margin_pct": -16.091761553918285,
+        "margin": -935,
+        "margin_pct": -16.1515417334747,
         "winner": "DEM",
         "competitiveness": {
           "color": "#2171b5"
@@ -240,14 +240,14 @@
         "rep_label": "Conservative"
       },
       "22": {
-        "dem_votes": 3630,
-        "rep_votes": 4746,
+        "dem_votes": 3595,
+        "rep_votes": 4685,
         "other_votes": 2,
-        "total_votes": 8378,
+        "total_votes": 8282,
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
-        "margin": 1116,
-        "margin_pct": 13.31590611583928,
+        "margin": 1089,
+        "margin_pct": 13.153799522761364,
         "winner": "REP",
         "competitiveness": {
           "color": "#cb181d"
@@ -257,14 +257,14 @@
         "rep_label": "Conservative"
       },
       "23": {
-        "dem_votes": 5969,
-        "rep_votes": 4734,
+        "dem_votes": 5966,
+        "rep_votes": 4732,
         "other_votes": 5,
-        "total_votes": 10708,
+        "total_votes": 10703,
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
         "margin": -1234,
-        "margin_pct": -11.526518541577493,
+        "margin_pct": -11.531709872899917,
         "winner": "DEM",
         "competitiveness": {
           "color": "#2171b5"
@@ -281,7 +281,7 @@
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
         "margin": 810,
-        "margin_pct": 8.511588560139135,
+        "margin_pct": 8.511847999041402,
         "winner": "REP",
         "competitiveness": {
           "color": "#fb6a4a"
@@ -298,7 +298,7 @@
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
         "margin": -3792,
-        "margin_pct": -30.30048749300727,
+        "margin_pct": -30.300424466273785,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -308,14 +308,14 @@
         "rep_label": "Conservative"
       },
       "26": {
-        "dem_votes": 7410,
-        "rep_votes": 3933,
+        "dem_votes": 7446,
+        "rep_votes": 4019,
         "other_votes": 11,
-        "total_votes": 11354,
+        "total_votes": 11476,
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
-        "margin": -3478,
-        "margin_pct": -30.62797252069755,
+        "margin": -3427,
+        "margin_pct": -29.864686231363162,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -376,14 +376,14 @@
         "rep_label": "Conservative"
       },
       "3": {
-        "dem_votes": 3346,
+        "dem_votes": 3347,
         "rep_votes": 2147,
         "other_votes": 0,
-        "total_votes": 5493,
+        "total_votes": 5494,
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
         "margin": -1199,
-        "margin_pct": -21.82778081194247,
+        "margin_pct": -21.831525903183767,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -417,7 +417,7 @@
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
         "margin": -762,
-        "margin_pct": -12.299648754491502,
+        "margin_pct": -12.29990562117227,
         "winner": "DEM",
         "competitiveness": {
           "color": "#2171b5"
@@ -427,14 +427,14 @@
         "rep_label": "Conservative"
       },
       "32": {
-        "dem_votes": 3298,
-        "rep_votes": 2332,
+        "dem_votes": 3463,
+        "rep_votes": 2403,
         "other_votes": 8,
-        "total_votes": 5638,
+        "total_votes": 5874,
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
-        "margin": -967,
-        "margin_pct": -17.149951228163516,
+        "margin": -1060,
+        "margin_pct": -18.042168758374228,
         "winner": "DEM",
         "competitiveness": {
           "color": "#2171b5"
@@ -451,7 +451,7 @@
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
         "margin": 91,
-        "margin_pct": 1.2135841518228734,
+        "margin_pct": 1.213127090792605,
         "winner": "REP",
         "competitiveness": {
           "color": "#fcbba1"
@@ -495,14 +495,14 @@
         "rep_label": "Conservative"
       },
       "36": {
-        "dem_votes": 4953,
-        "rep_votes": 3094,
+        "dem_votes": 4914,
+        "rep_votes": 3066,
         "other_votes": 6,
-        "total_votes": 8053,
+        "total_votes": 7986,
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
-        "margin": -1859,
-        "margin_pct": -23.0845647584751,
+        "margin": -1848,
+        "margin_pct": -23.146721431846544,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -529,14 +529,14 @@
         "rep_label": "Conservative"
       },
       "38": {
-        "dem_votes": 4208,
-        "rep_votes": 5143,
+        "dem_votes": 4207,
+        "rep_votes": 5142,
         "other_votes": 2,
         "total_votes": 9352,
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
         "margin": 935,
-        "margin_pct": 9.997505078946432,
+        "margin_pct": 9.99834595305772,
         "winner": "REP",
         "competitiveness": {
           "color": "#fb6a4a"
@@ -563,14 +563,14 @@
         "rep_label": "Conservative"
       },
       "4": {
-        "dem_votes": 2708,
-        "rep_votes": 1973,
+        "dem_votes": 2721,
+        "rep_votes": 1980,
         "other_votes": 3,
-        "total_votes": 4684,
+        "total_votes": 4704,
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
-        "margin": -735,
-        "margin_pct": -15.691716481639626,
+        "margin": -741,
+        "margin_pct": -15.757437494073615,
         "winner": "DEM",
         "competitiveness": {
           "color": "#2171b5"
@@ -614,14 +614,14 @@
         "rep_label": "Conservative"
       },
       "42": {
-        "dem_votes": 5139,
+        "dem_votes": 5138,
         "rep_votes": 2746,
         "other_votes": 4,
-        "total_votes": 7889,
+        "total_votes": 7888,
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
-        "margin": -2393,
-        "margin_pct": -30.331167802250043,
+        "margin": -2392,
+        "margin_pct": -30.327480145311934,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -638,7 +638,7 @@
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
         "margin": -1669,
-        "margin_pct": -29.771673207277914,
+        "margin_pct": -29.77139190113176,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -655,7 +655,7 @@
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
         "margin": -2163,
-        "margin_pct": -34.20844535821604,
+        "margin_pct": -34.20865815493145,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -682,14 +682,14 @@
         "rep_label": "Conservative"
       },
       "46": {
-        "dem_votes": 5995,
-        "rep_votes": 4319,
+        "dem_votes": 5996,
+        "rep_votes": 4320,
         "other_votes": 6,
         "total_votes": 10321,
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
         "margin": -1676,
-        "margin_pct": -16.239261029649256,
+        "margin_pct": -16.238001241082102,
         "winner": "DEM",
         "competitiveness": {
           "color": "#2171b5"
@@ -699,14 +699,14 @@
         "rep_label": "Conservative"
       },
       "47": {
-        "dem_votes": 6939,
+        "dem_votes": 6938,
         "rep_votes": 3222,
         "other_votes": 4,
-        "total_votes": 10166,
+        "total_votes": 10165,
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
         "margin": -3716,
-        "margin_pct": -36.55993310707786,
+        "margin_pct": -36.559844354413755,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -716,14 +716,14 @@
         "rep_label": "Conservative"
       },
       "48": {
-        "dem_votes": 4888,
-        "rep_votes": 2813,
+        "dem_votes": 4892,
+        "rep_votes": 2814,
         "other_votes": 4,
-        "total_votes": 7705,
+        "total_votes": 7710,
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
-        "margin": -2075,
-        "margin_pct": -26.93293533629668,
+        "margin": -2078,
+        "margin_pct": -26.947456974773655,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -740,7 +740,7 @@
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
         "margin": -1481,
-        "margin_pct": -21.934241706161135,
+        "margin_pct": -21.93435996935881,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -757,7 +757,7 @@
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
         "margin": -1283,
-        "margin_pct": -24.41469449908001,
+        "margin_pct": -24.412952618490603,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -791,7 +791,7 @@
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
         "margin": -2581,
-        "margin_pct": -34.486905398182785,
+        "margin_pct": -34.48669442454538,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -835,14 +835,14 @@
         "rep_label": "Conservative"
       },
       "54": {
-        "dem_votes": 5523,
-        "rep_votes": 2676,
+        "dem_votes": 5408,
+        "rep_votes": 2596,
         "other_votes": 7,
-        "total_votes": 8206,
+        "total_votes": 8011,
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
-        "margin": -2847,
-        "margin_pct": -34.69213661152241,
+        "margin": -2812,
+        "margin_pct": -35.099231201377194,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -852,14 +852,14 @@
         "rep_label": "Conservative"
       },
       "55": {
-        "dem_votes": 4477,
-        "rep_votes": 2856,
+        "dem_votes": 4668,
+        "rep_votes": 2998,
         "other_votes": 7,
-        "total_votes": 7340,
+        "total_votes": 7673,
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
-        "margin": -1621,
-        "margin_pct": -22.08446866485014,
+        "margin": -1670,
+        "margin_pct": -21.767815179760607,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -910,7 +910,7 @@
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
         "margin": 1182,
-        "margin_pct": 9.99909555656408,
+        "margin_pct": 9.999098375772434,
         "winner": "REP",
         "competitiveness": {
           "color": "#fb6a4a"
@@ -920,14 +920,14 @@
         "rep_label": "Conservative"
       },
       "59": {
-        "dem_votes": 3939,
-        "rep_votes": 5556,
+        "dem_votes": 3940,
+        "rep_votes": 5533,
         "other_votes": 2,
-        "total_votes": 9496,
+        "total_votes": 9475,
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
-        "margin": 1617,
-        "margin_pct": 17.022634247854725,
+        "margin": 1592,
+        "margin_pct": 16.806236338585112,
         "winner": "REP",
         "competitiveness": {
           "color": "#cb181d"
@@ -988,14 +988,14 @@
         "rep_label": "Conservative"
       },
       "62": {
-        "dem_votes": 4298,
-        "rep_votes": 2640,
+        "dem_votes": 4730,
+        "rep_votes": 2869,
         "other_votes": 2,
-        "total_votes": 6940,
+        "total_votes": 7601,
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
-        "margin": -1658,
-        "margin_pct": -23.88551475373616,
+        "margin": -1861,
+        "margin_pct": -24.48848027255026,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -1022,14 +1022,14 @@
         "rep_label": "Conservative"
       },
       "64": {
-        "dem_votes": 3852,
-        "rep_votes": 1779,
+        "dem_votes": 3839,
+        "rep_votes": 1771,
         "other_votes": 12,
-        "total_votes": 5643,
+        "total_votes": 5622,
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
-        "margin": -2073,
-        "margin_pct": -36.735778841042,
+        "margin": -2068,
+        "margin_pct": -36.77617207048624,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -1039,14 +1039,14 @@
         "rep_label": "Conservative"
       },
       "65": {
-        "dem_votes": 3330,
-        "rep_votes": 1494,
+        "dem_votes": 2969,
+        "rep_votes": 1342,
         "other_votes": 6,
-        "total_votes": 4830,
+        "total_votes": 4317,
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
-        "margin": -1836,
-        "margin_pct": -38.018838629541456,
+        "margin": -1626,
+        "margin_pct": -37.67103934046806,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -1056,14 +1056,14 @@
         "rep_label": "Conservative"
       },
       "66": {
-        "dem_votes": 4762,
-        "rep_votes": 2963,
+        "dem_votes": 4706,
+        "rep_votes": 2949,
         "other_votes": 10,
-        "total_votes": 7734,
+        "total_votes": 7664,
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
-        "margin": -1799,
-        "margin_pct": -23.26032427400378,
+        "margin": -1757,
+        "margin_pct": -22.923246693309345,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -1090,14 +1090,14 @@
         "rep_label": "Conservative"
       },
       "68": {
-        "dem_votes": 3646,
+        "dem_votes": 3647,
         "rep_votes": 2549,
         "other_votes": 0,
-        "total_votes": 6195,
+        "total_votes": 6196,
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
         "margin": -1097,
-        "margin_pct": -17.711149671119003,
+        "margin_pct": -17.712534534841495,
         "winner": "DEM",
         "competitiveness": {
           "color": "#2171b5"
@@ -1131,7 +1131,7 @@
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
         "margin": -963,
-        "margin_pct": -18.053993250843643,
+        "margin_pct": -18.0538460046329,
         "winner": "DEM",
         "competitiveness": {
           "color": "#2171b5"
@@ -1243,14 +1243,14 @@
         "rep_label": "Conservative"
       },
       "76": {
-        "dem_votes": 8809,
+        "dem_votes": 8807,
         "rep_votes": 1252,
         "other_votes": 7,
-        "total_votes": 10068,
+        "total_votes": 10065,
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
-        "margin": -7557,
-        "margin_pct": -75.05379903989406,
+        "margin": -7555,
+        "margin_pct": -75.06171742429227,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -1260,14 +1260,14 @@
         "rep_label": "Conservative"
       },
       "77": {
-        "dem_votes": 7396,
-        "rep_votes": 1378,
+        "dem_votes": 7378,
+        "rep_votes": 1374,
         "other_votes": 4,
-        "total_votes": 8777,
+        "total_votes": 8756,
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
-        "margin": -6018,
-        "margin_pct": -68.56470111654049,
+        "margin": -6004,
+        "margin_pct": -68.56788609384625,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -1277,14 +1277,14 @@
         "rep_label": "Conservative"
       },
       "78": {
-        "dem_votes": 11153,
-        "rep_votes": 3144,
+        "dem_votes": 11167,
+        "rep_votes": 3146,
         "other_votes": 7,
-        "total_votes": 14304,
+        "total_votes": 14320,
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
-        "margin": -8010,
-        "margin_pct": -55.996939484916865,
+        "margin": -8021,
+        "margin_pct": -56.01207063229516,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -1294,14 +1294,14 @@
         "rep_label": "Conservative"
       },
       "79": {
-        "dem_votes": 8384,
-        "rep_votes": 2784,
+        "dem_votes": 8389,
+        "rep_votes": 2785,
         "other_votes": 1,
-        "total_votes": 11169,
+        "total_votes": 11175,
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
-        "margin": -5600,
-        "margin_pct": -50.13877697197601,
+        "margin": -5603,
+        "margin_pct": -50.140569390887514,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -1311,14 +1311,14 @@
         "rep_label": "Conservative"
       },
       "8": {
-        "dem_votes": 2964,
-        "rep_votes": 2173,
+        "dem_votes": 2955,
+        "rep_votes": 2169,
         "other_votes": 8,
-        "total_votes": 5145,
+        "total_votes": 5132,
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
-        "margin": -791,
-        "margin_pct": -15.374149659863946,
+        "margin": -787,
+        "margin_pct": -15.326464009516053,
         "winner": "DEM",
         "competitiveness": {
           "color": "#2171b5"
@@ -1328,14 +1328,14 @@
         "rep_label": "Conservative"
       },
       "80": {
-        "dem_votes": 4164,
-        "rep_votes": 2097,
+        "dem_votes": 4163,
+        "rep_votes": 2096,
         "other_votes": 2,
-        "total_votes": 6262,
+        "total_votes": 6261,
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
         "margin": -2067,
-        "margin_pct": -33.00970873786409,
+        "margin_pct": -33.01461525644697,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -1345,14 +1345,14 @@
         "rep_label": "Conservative"
       },
       "81": {
-        "dem_votes": 8436,
-        "rep_votes": 3628,
+        "dem_votes": 8437,
+        "rep_votes": 3629,
         "other_votes": 2,
         "total_votes": 12067,
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
         "margin": -4808,
-        "margin_pct": -39.84386654069913,
+        "margin_pct": -39.841785339969086,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -1362,14 +1362,14 @@
         "rep_label": "Conservative"
       },
       "82": {
-        "dem_votes": 2153,
-        "rep_votes": 3234,
+        "dem_votes": 2152,
+        "rep_votes": 3233,
         "other_votes": 0,
         "total_votes": 5386,
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
         "margin": 1081,
-        "margin_pct": 20.0693112197537,
+        "margin_pct": 20.073467088029954,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
@@ -1382,11 +1382,11 @@
         "dem_votes": 4727,
         "rep_votes": 5881,
         "other_votes": 3,
-        "total_votes": 10611,
+        "total_votes": 10612,
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
         "margin": 1154,
-        "margin_pct": 10.872706710228695,
+        "margin_pct": 10.870920611709298,
         "winner": "REP",
         "competitiveness": {
           "color": "#cb181d"
@@ -1396,14 +1396,14 @@
         "rep_label": "Conservative"
       },
       "84": {
-        "dem_votes": 3282,
+        "dem_votes": 3281,
         "rep_votes": 4990,
         "other_votes": 5,
         "total_votes": 8277,
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
         "margin": 1709,
-        "margin_pct": 20.646772179936367,
+        "margin_pct": 20.647308816704843,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
@@ -1413,14 +1413,14 @@
         "rep_label": "Conservative"
       },
       "85": {
-        "dem_votes": 4551,
-        "rep_votes": 2665,
+        "dem_votes": 4525,
+        "rep_votes": 2653,
         "other_votes": 9,
-        "total_votes": 7225,
+        "total_votes": 7187,
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
-        "margin": -1886,
-        "margin_pct": -26.103806228373706,
+        "margin": -1872,
+        "margin_pct": -26.045985708570875,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -1447,14 +1447,14 @@
         "rep_label": "Conservative"
       },
       "87": {
-        "dem_votes": 4694,
-        "rep_votes": 2911,
+        "dem_votes": 4720,
+        "rep_votes": 2923,
         "other_votes": 2,
-        "total_votes": 7607,
+        "total_votes": 7645,
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
-        "margin": -1783,
-        "margin_pct": -23.438937820428553,
+        "margin": -1797,
+        "margin_pct": -23.50664797651682,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -1471,7 +1471,7 @@
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
         "margin": -1249,
-        "margin_pct": -22.938475665748392,
+        "margin_pct": -22.94066467113483,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -1484,11 +1484,11 @@
         "dem_votes": 3831,
         "rep_votes": 2088,
         "other_votes": 5,
-        "total_votes": 5924,
+        "total_votes": 5923,
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
         "margin": -1743,
-        "margin_pct": -29.422687373396357,
+        "margin_pct": -29.42163644273658,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -1498,14 +1498,14 @@
         "rep_label": "Conservative"
       },
       "9": {
-        "dem_votes": 2095,
+        "dem_votes": 2096,
         "rep_votes": 1436,
         "other_votes": 4,
-        "total_votes": 3535,
+        "total_votes": 3536,
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
         "margin": -659,
-        "margin_pct": -18.64214992927864,
+        "margin_pct": -18.645713227117717,
         "winner": "DEM",
         "competitiveness": {
           "color": "#2171b5"
@@ -1549,14 +1549,14 @@
         "rep_label": "Conservative"
       },
       "92": {
-        "dem_votes": 4116,
+        "dem_votes": 4115,
         "rep_votes": 2598,
         "other_votes": 3,
-        "total_votes": 6717,
+        "total_votes": 6716,
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
         "margin": -1518,
-        "margin_pct": -22.5964938400268,
+        "margin_pct": -22.595506225708657,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -1590,7 +1590,7 @@
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
         "margin": -1053,
-        "margin_pct": -14.540182270091135,
+        "margin_pct": -14.54044470902386,
         "winner": "DEM",
         "competitiveness": {
           "color": "#2171b5"
@@ -1600,14 +1600,14 @@
         "rep_label": "Conservative"
       },
       "95": {
-        "dem_votes": 6948,
-        "rep_votes": 3586,
+        "dem_votes": 6950,
+        "rep_votes": 3587,
         "other_votes": 19,
-        "total_votes": 10553,
+        "total_votes": 10555,
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
-        "margin": -3362,
-        "margin_pct": -31.858239363214253,
+        "margin": -3363,
+        "margin_pct": -31.85869747715277,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -1617,14 +1617,14 @@
         "rep_label": "Conservative"
       },
       "96": {
-        "dem_votes": 4385,
-        "rep_votes": 2771,
+        "dem_votes": 4383,
+        "rep_votes": 2770,
         "other_votes": 5,
-        "total_votes": 7161,
+        "total_votes": 7158,
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
-        "margin": -1614,
-        "margin_pct": -22.538751571009634,
+        "margin": -1613,
+        "margin_pct": -22.534699081320095,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -1634,14 +1634,14 @@
         "rep_label": "Conservative"
       },
       "97": {
-        "dem_votes": 3330,
+        "dem_votes": 3329,
         "rep_votes": 5890,
         "other_votes": 0,
-        "total_votes": 9220,
+        "total_votes": 9219,
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
         "margin": 2560,
-        "margin_pct": 27.770065075921906,
+        "margin_pct": 27.770034324068902,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
@@ -1658,7 +1658,7 @@
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
         "margin": 2054,
-        "margin_pct": 24.105151977467436,
+        "margin_pct": 24.10509337905149,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
@@ -1669,13 +1669,13 @@
       },
       "99": {
         "dem_votes": 2931,
-        "rep_votes": 5124,
+        "rep_votes": 5125,
         "other_votes": 1,
-        "total_votes": 8056,
+        "total_votes": 8057,
         "dem_candidate": "Shirley S. Abrahamson",
         "rep_candidate": "Randy R. Koschnick",
         "margin": 2193,
-        "margin_pct": 27.22194637537239,
+        "margin_pct": 27.222014536209326,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
@@ -1684,6 +1684,7 @@
         "dem_label": "Liberal",
         "rep_label": "Conservative"
       }
-    }
+    },
+    "election_type": "spring"
   }
 }

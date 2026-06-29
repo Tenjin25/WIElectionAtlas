@@ -2,14 +2,14 @@
   "general": {
     "results": {
       "1": {
-        "dem_votes": 90130,
-        "rep_votes": 66714,
-        "other_votes": 131,
-        "total_votes": 156975,
+        "dem_votes": 90161,
+        "rep_votes": 66748,
+        "other_votes": 132,
+        "total_votes": 157040,
         "dem_candidate": "Chris Taylor",
         "rep_candidate": "Maria S. Lazar",
-        "margin": -23416,
-        "margin_pct": -14.91687153082076,
+        "margin": -23414,
+        "margin_pct": -14.909265297781237,
         "winner": "DEM",
         "competitiveness": {
           "color": "#2171b5"
@@ -19,14 +19,14 @@
         "rep_label": "Conservative"
       },
       "2": {
-        "dem_votes": 197017,
-        "rep_votes": 50692,
+        "dem_votes": 197026,
+        "rep_votes": 50699,
         "other_votes": 163,
-        "total_votes": 247872,
+        "total_votes": 247887,
         "dem_candidate": "Chris Taylor",
         "rep_candidate": "Maria S. Lazar",
-        "margin": -146325,
-        "margin_pct": -59.03259406081063,
+        "margin": -146327,
+        "margin_pct": -59.02953074152624,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -36,14 +36,14 @@
         "rep_label": "Conservative"
       },
       "3": {
-        "dem_votes": 106449,
-        "rep_votes": 68925,
+        "dem_votes": 106426,
+        "rep_votes": 68904,
         "other_votes": 169,
-        "total_votes": 175543,
+        "total_votes": 175499,
         "dem_candidate": "Chris Taylor",
         "rep_candidate": "Maria S. Lazar",
-        "margin": -37524,
-        "margin_pct": -21.37577464489193,
+        "margin": -37521,
+        "margin_pct": -21.379835179030554,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -53,14 +53,14 @@
         "rep_label": "Conservative"
       },
       "4": {
-        "dem_votes": 113860,
-        "rep_votes": 26619,
+        "dem_votes": 113724,
+        "rep_votes": 26535,
         "other_votes": 119,
-        "total_votes": 140598,
+        "total_votes": 140379,
         "dem_candidate": "Chris Taylor",
         "rep_candidate": "Maria S. Lazar",
-        "margin": -87241,
-        "margin_pct": -62.04995803638743,
+        "margin": -87189,
+        "margin_pct": -62.10959083777862,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -70,14 +70,14 @@
         "rep_label": "Conservative"
       },
       "5": {
-        "dem_votes": 99183,
-        "rep_votes": 118762,
+        "dem_votes": 99288,
+        "rep_votes": 118814,
         "other_votes": 147,
-        "total_votes": 218092,
+        "total_votes": 218249,
         "dem_candidate": "Chris Taylor",
         "rep_candidate": "Maria S. Lazar",
-        "margin": 19579,
-        "margin_pct": 8.977401710061999,
+        "margin": 19526,
+        "margin_pct": 8.946686129018143,
         "winner": "REP",
         "competitiveness": {
           "color": "#fb6a4a"
@@ -87,14 +87,14 @@
         "rep_label": "Conservative"
       },
       "6": {
-        "dem_votes": 95859,
-        "rep_votes": 88273,
+        "dem_votes": 95885,
+        "rep_votes": 88312,
         "other_votes": 80,
-        "total_votes": 184213,
+        "total_votes": 184278,
         "dem_candidate": "Chris Taylor",
         "rep_candidate": "Maria S. Lazar",
-        "margin": -7586,
-        "margin_pct": -4.118239342871091,
+        "margin": -7573,
+        "margin_pct": -4.1095388785731926,
         "winner": "DEM",
         "competitiveness": {
           "color": "#c6dbef"
@@ -104,14 +104,14 @@
         "rep_label": "Conservative"
       },
       "7": {
-        "dem_votes": 90598,
-        "rep_votes": 86613,
+        "dem_votes": 90611,
+        "rep_votes": 86624,
         "other_votes": 139,
-        "total_votes": 177350,
+        "total_votes": 177374,
         "dem_candidate": "Chris Taylor",
         "rep_candidate": "Maria S. Lazar",
-        "margin": -3985,
-        "margin_pct": -2.24717348312359,
+        "margin": -3988,
+        "margin_pct": -2.248163056281791,
         "winner": "DEM",
         "competitiveness": {
           "color": "#c6dbef"
@@ -121,14 +121,14 @@
         "rep_label": "Conservative"
       },
       "8": {
-        "dem_votes": 93981,
-        "rep_votes": 82605,
+        "dem_votes": 93955,
+        "rep_votes": 82566,
         "other_votes": 130,
-        "total_votes": 176715,
+        "total_votes": 176651,
         "dem_candidate": "Chris Taylor",
         "rep_candidate": "Maria S. Lazar",
-        "margin": -11376,
-        "margin_pct": -6.4373224037089605,
+        "margin": -11389,
+        "margin_pct": -6.447217936865557,
         "winner": "DEM",
         "competitiveness": {
           "color": "#6baed6"
@@ -137,6 +137,7 @@
         "dem_label": "Liberal",
         "rep_label": "Conservative"
       }
-    }
+    },
+    "election_type": "spring"
   }
 }

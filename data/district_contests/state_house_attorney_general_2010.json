@@ -2,84 +2,84 @@
   "general": {
     "results": {
       "1": {
-        "dem_votes": 10216,
-        "rep_votes": 15805,
+        "dem_votes": 10309,
+        "rep_votes": 15964,
         "other_votes": 18,
-        "total_votes": 26038,
+        "total_votes": 26291,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": 5589,
-        "margin_pct": 21.465353632659852,
+        "margin": 5655,
+        "margin_pct": 21.51043209607122,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
         }
       },
       "10": {
-        "dem_votes": 18284,
-        "rep_votes": 8225,
+        "dem_votes": 18280,
+        "rep_votes": 8222,
         "other_votes": 31,
-        "total_votes": 26540,
+        "total_votes": 26534,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": -10059,
-        "margin_pct": -37.90128108515448,
+        "margin": -10058,
+        "margin_pct": -37.90673142788295,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
         }
       },
       "11": {
-        "dem_votes": 20408,
-        "rep_votes": 5827,
+        "dem_votes": 20412,
+        "rep_votes": 5830,
         "other_votes": 50,
-        "total_votes": 26285,
+        "total_votes": 26291,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": -14581,
-        "margin_pct": -55.472703062583214,
+        "margin": -14582,
+        "margin_pct": -55.46292496636821,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
         }
       },
       "12": {
-        "dem_votes": 13611,
-        "rep_votes": 3869,
+        "dem_votes": 13614,
+        "rep_votes": 3872,
         "other_votes": 21,
-        "total_votes": 17500,
+        "total_votes": 17507,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
         "margin": -9742,
-        "margin_pct": -55.66560636940249,
+        "margin_pct": -55.64463185865793,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
         }
       },
       "13": {
-        "dem_votes": 7754,
-        "rep_votes": 22290,
+        "dem_votes": 7752,
+        "rep_votes": 22286,
         "other_votes": 19,
-        "total_votes": 30063,
+        "total_votes": 30057,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": 14536,
-        "margin_pct": 48.351794564747365,
+        "margin": 14535,
+        "margin_pct": 48.3567154653817,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
         }
       },
       "14": {
-        "dem_votes": 9623,
-        "rep_votes": 13598,
+        "dem_votes": 9624,
+        "rep_votes": 13600,
         "other_votes": 36,
-        "total_votes": 23257,
+        "total_votes": 23260,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": 3975,
-        "margin_pct": 17.091628326955323,
+        "margin": 3976,
+        "margin_pct": 17.092768232740625,
         "winner": "REP",
         "competitiveness": {
           "color": "#cb181d"
@@ -89,109 +89,109 @@
         "dem_votes": 7432,
         "rep_votes": 18806,
         "other_votes": 10,
-        "total_votes": 26249,
+        "total_votes": 26248,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
         "margin": 11374,
-        "margin_pct": 43.33117452093413,
+        "margin_pct": 43.33115467924464,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
         }
       },
       "16": {
-        "dem_votes": 15012,
-        "rep_votes": 6329,
+        "dem_votes": 15025,
+        "rep_votes": 6330,
         "other_votes": 32,
-        "total_votes": 21373,
+        "total_votes": 21387,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": -8683,
-        "margin_pct": -40.62602348757778,
+        "margin": -8696,
+        "margin_pct": -40.65934841515929,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
         }
       },
       "17": {
-        "dem_votes": 14375,
-        "rep_votes": 6017,
+        "dem_votes": 14372,
+        "rep_votes": 6014,
         "other_votes": 28,
-        "total_votes": 20420,
+        "total_votes": 20414,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
         "margin": -8358,
-        "margin_pct": -40.930460333006856,
+        "margin_pct": -40.94384290262463,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
         }
       },
       "18": {
-        "dem_votes": 13197,
-        "rep_votes": 7359,
+        "dem_votes": 13193,
+        "rep_votes": 7356,
         "other_votes": 32,
-        "total_votes": 20588,
+        "total_votes": 20581,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": -5838,
-        "margin_pct": -28.356324072275115,
+        "margin": -5837,
+        "margin_pct": -28.359644634126735,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
         }
       },
       "19": {
-        "dem_votes": 7828,
-        "rep_votes": 3071,
+        "dem_votes": 7849,
+        "rep_votes": 3089,
         "other_votes": 15,
-        "total_votes": 10914,
+        "total_votes": 10953,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": -4757,
-        "margin_pct": -43.58621953454279,
+        "margin": -4761,
+        "margin_pct": -43.46530493824418,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
         }
       },
       "2": {
-        "dem_votes": 7220,
-        "rep_votes": 13494,
+        "dem_votes": 7503,
+        "rep_votes": 13994,
         "other_votes": 12,
-        "total_votes": 20726,
+        "total_votes": 21509,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": 6274,
-        "margin_pct": 30.271157000868477,
+        "margin": 6491,
+        "margin_pct": 30.178004832961193,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
         }
       },
       "20": {
-        "dem_votes": 10338,
+        "dem_votes": 10337,
         "rep_votes": 6612,
         "other_votes": 27,
-        "total_votes": 16977,
+        "total_votes": 16976,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": -3726,
-        "margin_pct": -21.947340519526417,
+        "margin": -3725,
+        "margin_pct": -21.944169893390324,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
         }
       },
       "21": {
-        "dem_votes": 7744,
-        "rep_votes": 12924,
+        "dem_votes": 7540,
+        "rep_votes": 12527,
         "other_votes": 20,
-        "total_votes": 20688,
+        "total_votes": 20087,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": 5179,
-        "margin_pct": 25.033533527485407,
+        "margin": 4987,
+        "margin_pct": 24.824183744682394,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
@@ -199,97 +199,97 @@
       },
       "22": {
         "dem_votes": 6444,
-        "rep_votes": 21523,
+        "rep_votes": 21522,
         "other_votes": 12,
-        "total_votes": 27979,
+        "total_votes": 27978,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
         "margin": 15078,
-        "margin_pct": 53.89069247952345,
+        "margin_pct": 53.89052075484412,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
         }
       },
       "23": {
-        "dem_votes": 12195,
-        "rep_votes": 17322,
+        "dem_votes": 12191,
+        "rep_votes": 17312,
         "other_votes": 26,
-        "total_votes": 29543,
+        "total_votes": 29529,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": 5127,
-        "margin_pct": 17.354120066230205,
+        "margin": 5122,
+        "margin_pct": 17.345182376077396,
         "winner": "REP",
         "competitiveness": {
           "color": "#cb181d"
         }
       },
       "24": {
-        "dem_votes": 6333,
-        "rep_votes": 18354,
-        "other_votes": 15,
-        "total_votes": 24702,
+        "dem_votes": 6250,
+        "rep_votes": 18085,
+        "other_votes": 14,
+        "total_votes": 24350,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": 12020,
-        "margin_pct": 48.661887492620394,
+        "margin": 11834,
+        "margin_pct": 48.60197892092763,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
         }
       },
       "25": {
-        "dem_votes": 7268,
-        "rep_votes": 13668,
+        "dem_votes": 6985,
+        "rep_votes": 13168,
         "other_votes": 7,
-        "total_votes": 20943,
+        "total_votes": 20160,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": 6400,
-        "margin_pct": 30.559136704388102,
+        "margin": 6183,
+        "margin_pct": 30.66970118652884,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
         }
       },
       "26": {
-        "dem_votes": 4954,
-        "rep_votes": 12416,
+        "dem_votes": 4953,
+        "rep_votes": 12415,
         "other_votes": 3,
-        "total_votes": 17373,
+        "total_votes": 17372,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
         "margin": 7462,
-        "margin_pct": 42.95170667127151,
+        "margin_pct": 42.95322530150188,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
         }
       },
       "27": {
-        "dem_votes": 10554,
-        "rep_votes": 18852,
+        "dem_votes": 10555,
+        "rep_votes": 18853,
         "other_votes": 12,
-        "total_votes": 29418,
+        "total_votes": 29419,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
         "margin": 8298,
-        "margin_pct": 28.2072200693453,
+        "margin_pct": 28.20707012040698,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
         }
       },
       "28": {
-        "dem_votes": 7007,
-        "rep_votes": 10868,
+        "dem_votes": 7008,
+        "rep_votes": 10869,
         "other_votes": 11,
-        "total_votes": 17886,
+        "total_votes": 17888,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": 3861,
-        "margin_pct": 21.58671586715867,
+        "margin": 3862,
+        "margin_pct": 21.588077741137592,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
@@ -303,7 +303,7 @@
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
         "margin": 2941,
-        "margin_pct": 17.334669338677354,
+        "margin_pct": 17.334622694466237,
         "winner": "REP",
         "competitiveness": {
           "color": "#cb181d"
@@ -317,35 +317,35 @@
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
         "margin": 5772,
-        "margin_pct": 30.189863486584027,
+        "margin_pct": 30.18985771251863,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
         }
       },
       "30": {
-        "dem_votes": 7236,
-        "rep_votes": 11982,
+        "dem_votes": 7235,
+        "rep_votes": 11981,
         "other_votes": 22,
-        "total_votes": 19240,
+        "total_votes": 19238,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": 4746,
-        "margin_pct": 24.66735966735967,
+        "margin": 4745,
+        "margin_pct": 24.66642143011935,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
         }
       },
       "31": {
-        "dem_votes": 7272,
-        "rep_votes": 13228,
+        "dem_votes": 7271,
+        "rep_votes": 13227,
         "other_votes": 15,
-        "total_votes": 20514,
+        "total_votes": 20512,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": 5956,
-        "margin_pct": 29.03278222366657,
+        "margin": 5955,
+        "margin_pct": 29.032526309619943,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
@@ -366,14 +366,14 @@
         }
       },
       "33": {
-        "dem_votes": 8561,
-        "rep_votes": 13084,
+        "dem_votes": 8562,
+        "rep_votes": 13085,
         "other_votes": 49,
-        "total_votes": 21694,
+        "total_votes": 21695,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
         "margin": 4523,
-        "margin_pct": 20.849082695676223,
+        "margin_pct": 20.847200477145364,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
@@ -429,21 +429,21 @@
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
         "margin": 7148,
-        "margin_pct": 32.54012642751229,
+        "margin_pct": 32.54007979083678,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
         }
       },
       "38": {
-        "dem_votes": 7640,
-        "rep_votes": 14931,
+        "dem_votes": 7641,
+        "rep_votes": 14933,
         "other_votes": 39,
-        "total_votes": 22610,
+        "total_votes": 22613,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": 7291,
-        "margin_pct": 32.24679345422379,
+        "margin": 7293,
+        "margin_pct": 32.24972998013803,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
@@ -457,21 +457,21 @@
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
         "margin": 7973,
-        "margin_pct": 39.05461670340436,
+        "margin_pct": 39.054640371554655,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
         }
       },
       "4": {
-        "dem_votes": 7402,
-        "rep_votes": 12647,
+        "dem_votes": 7403,
+        "rep_votes": 12646,
         "other_votes": 12,
-        "total_votes": 20061,
+        "total_votes": 20062,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": 5244,
-        "margin_pct": 26.140777203148684,
+        "margin": 5243,
+        "margin_pct": 26.136009305259844,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
@@ -492,42 +492,42 @@
         }
       },
       "41": {
-        "dem_votes": 6945,
-        "rep_votes": 11436,
+        "dem_votes": 6890,
+        "rep_votes": 11314,
         "other_votes": 6,
-        "total_votes": 18387,
+        "total_votes": 18210,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": 4491,
-        "margin_pct": 24.424865394028387,
+        "margin": 4424,
+        "margin_pct": 24.292450979077152,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
         }
       },
       "42": {
-        "dem_votes": 7362,
-        "rep_votes": 14312,
+        "dem_votes": 7417,
+        "rep_votes": 14434,
         "other_votes": 10,
-        "total_votes": 21684,
+        "total_votes": 21861,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": 6950,
-        "margin_pct": 32.05128205128205,
+        "margin": 7017,
+        "margin_pct": 32.099290178437826,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
         }
       },
       "43": {
-        "dem_votes": 11739,
-        "rep_votes": 11663,
-        "other_votes": 16,
-        "total_votes": 23418,
+        "dem_votes": 11737,
+        "rep_votes": 11660,
+        "other_votes": 15,
+        "total_votes": 23412,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": -76,
-        "margin_pct": -0.32454361054766734,
+        "margin": -77,
+        "margin_pct": -0.3268439631896423,
         "winner": "DEM",
         "competitiveness": {
           "color": "#c6dbef"
@@ -537,25 +537,25 @@
         "dem_votes": 8574,
         "rep_votes": 9723,
         "other_votes": 5,
-        "total_votes": 18302,
+        "total_votes": 18301,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
         "margin": 1149,
-        "margin_pct": 6.27800240410884,
+        "margin_pct": 6.279276226045702,
         "winner": "REP",
         "competitiveness": {
           "color": "#fb6a4a"
         }
       },
       "45": {
-        "dem_votes": 8294,
-        "rep_votes": 8450,
+        "dem_votes": 8295,
+        "rep_votes": 8452,
         "other_votes": 4,
-        "total_votes": 16748,
+        "total_votes": 16750,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": 156,
-        "margin_pct": 0.9324310876704222,
+        "margin": 157,
+        "margin_pct": 0.9358265402984743,
         "winner": "REP",
         "competitiveness": {
           "color": "#fcbba1"
@@ -568,36 +568,36 @@
         "total_votes": 19664,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": 442,
-        "margin_pct": 2.245191146369681,
+        "margin": 441,
+        "margin_pct": 2.2427626881346576,
         "winner": "REP",
         "competitiveness": {
           "color": "#fcbba1"
         }
       },
       "47": {
-        "dem_votes": 15552,
-        "rep_votes": 10282,
+        "dem_votes": 15558,
+        "rep_votes": 10283,
         "other_votes": 14,
-        "total_votes": 25847,
+        "total_votes": 25855,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": -5270,
-        "margin_pct": -20.390950681407112,
+        "margin": -5276,
+        "margin_pct": -20.404151418550356,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
         }
       },
       "48": {
-        "dem_votes": 23878,
-        "rep_votes": 7563,
+        "dem_votes": 23882,
+        "rep_votes": 7568,
         "other_votes": 18,
-        "total_votes": 31459,
+        "total_votes": 31467,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": -16315,
-        "margin_pct": -51.86115261133539,
+        "margin": -16314,
+        "margin_pct": -51.84454131660067,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -611,7 +611,7 @@
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
         "margin": 3515,
-        "margin_pct": 19.74386339381003,
+        "margin_pct": 19.743862418756645,
         "winner": "REP",
         "competitiveness": {
           "color": "#cb181d"
@@ -619,13 +619,13 @@
       },
       "5": {
         "dem_votes": 6936,
-        "rep_votes": 11698,
+        "rep_votes": 11699,
         "other_votes": 9,
-        "total_votes": 18642,
+        "total_votes": 18644,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": 4762,
-        "margin_pct": 25.544469477523872,
+        "margin": 4763,
+        "margin_pct": 25.546327141106307,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
@@ -653,63 +653,63 @@
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
         "margin": 3239,
-        "margin_pct": 15.617917932397898,
+        "margin_pct": 15.617899727341916,
         "winner": "REP",
         "competitiveness": {
           "color": "#cb181d"
         }
       },
       "52": {
-        "dem_votes": 6302,
-        "rep_votes": 13485,
+        "dem_votes": 6341,
+        "rep_votes": 13584,
         "other_votes": 8,
-        "total_votes": 19795,
+        "total_votes": 19933,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": 7183,
-        "margin_pct": 36.28694114675423,
+        "margin": 7243,
+        "margin_pct": 36.33942991182884,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
         }
       },
       "53": {
-        "dem_votes": 7462,
-        "rep_votes": 16170,
+        "dem_votes": 7311,
+        "rep_votes": 15795,
         "other_votes": 8,
-        "total_votes": 23640,
+        "total_votes": 23114,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": 8708,
-        "margin_pct": 36.83731849956112,
+        "margin": 8484,
+        "margin_pct": 36.70714086507509,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
         }
       },
       "54": {
-        "dem_votes": 6102,
-        "rep_votes": 7238,
+        "dem_votes": 6106,
+        "rep_votes": 7249,
         "other_votes": 14,
-        "total_votes": 13354,
+        "total_votes": 13368,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": 1136,
-        "margin_pct": 8.506814437621687,
+        "margin": 1143,
+        "margin_pct": 8.548972626398733,
         "winner": "REP",
         "competitiveness": {
           "color": "#fb6a4a"
         }
       },
       "55": {
-        "dem_votes": 6302,
-        "rep_votes": 11259,
+        "dem_votes": 6379,
+        "rep_votes": 11454,
         "other_votes": 5,
-        "total_votes": 17566,
+        "total_votes": 17838,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": 4957,
-        "margin_pct": 28.219287259478538,
+        "margin": 5074,
+        "margin_pct": 28.447611275501057,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
@@ -730,42 +730,42 @@
         }
       },
       "57": {
-        "dem_votes": 8547,
-        "rep_votes": 11717,
+        "dem_votes": 8555,
+        "rep_votes": 11736,
         "other_votes": 18,
-        "total_votes": 20282,
+        "total_votes": 20309,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": 3170,
-        "margin_pct": 15.629622325214477,
+        "margin": 3181,
+        "margin_pct": 15.661409165762189,
         "winner": "REP",
         "competitiveness": {
           "color": "#cb181d"
         }
       },
       "58": {
-        "dem_votes": 5536,
-        "rep_votes": 18108,
+        "dem_votes": 5579,
+        "rep_votes": 18251,
         "other_votes": 14,
-        "total_votes": 23658,
+        "total_votes": 23844,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": 12572,
-        "margin_pct": 53.14071227943368,
+        "margin": 12672,
+        "margin_pct": 53.1442378398082,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
         }
       },
       "59": {
-        "dem_votes": 6008,
-        "rep_votes": 18128,
+        "dem_votes": 6120,
+        "rep_votes": 18403,
         "other_votes": 8,
-        "total_votes": 24144,
+        "total_votes": 24531,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": 12121,
-        "margin_pct": 50.20294897282969,
+        "margin": 12283,
+        "margin_pct": 50.072174837011595,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
@@ -786,42 +786,42 @@
         }
       },
       "60": {
-        "dem_votes": 5686,
-        "rep_votes": 18204,
+        "dem_votes": 5731,
+        "rep_votes": 18341,
         "other_votes": 14,
-        "total_votes": 23904,
+        "total_votes": 24086,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": 12518,
-        "margin_pct": 52.36768510907102,
+        "margin": 12610,
+        "margin_pct": 52.35429853335286,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
         }
       },
       "61": {
-        "dem_votes": 4893,
-        "rep_votes": 9282,
-        "other_votes": 11,
-        "total_votes": 14186,
+        "dem_votes": 5008,
+        "rep_votes": 9357,
+        "other_votes": 12,
+        "total_votes": 14378,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": 4389,
-        "margin_pct": 30.938953898209505,
+        "margin": 4349,
+        "margin_pct": 30.246278073321736,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
         }
       },
       "62": {
-        "dem_votes": 7700,
-        "rep_votes": 16257,
+        "dem_votes": 8424,
+        "rep_votes": 17147,
         "other_votes": 13,
-        "total_votes": 23970,
+        "total_votes": 25584,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": 8557,
-        "margin_pct": 35.70019065578079,
+        "margin": 8723,
+        "margin_pct": 34.094426917144425,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
@@ -829,111 +829,111 @@
       },
       "63": {
         "dem_votes": 7490,
-        "rep_votes": 15398,
+        "rep_votes": 15399,
         "other_votes": 7,
         "total_votes": 22895,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
         "margin": 7909,
-        "margin_pct": 34.544660406202226,
+        "margin_pct": 34.54467398335375,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
         }
       },
       "64": {
-        "dem_votes": 9486,
-        "rep_votes": 8352,
-        "other_votes": 42,
-        "total_votes": 17880,
+        "dem_votes": 9588,
+        "rep_votes": 8384,
+        "other_votes": 41,
+        "total_votes": 18013,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": -1133,
-        "margin_pct": -6.3368662434631835,
+        "margin": -1203,
+        "margin_pct": -6.6790790113946,
         "winner": "DEM",
         "competitiveness": {
           "color": "#6baed6"
         }
       },
       "65": {
-        "dem_votes": 7502,
-        "rep_votes": 7810,
-        "other_votes": 30,
-        "total_votes": 15340,
+        "dem_votes": 6707,
+        "rep_votes": 7205,
+        "other_votes": 28,
+        "total_votes": 13940,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": 308,
-        "margin_pct": 2.007757243896874,
+        "margin": 497,
+        "margin_pct": 3.5686337214781787,
         "winner": "REP",
         "competitiveness": {
           "color": "#fcbba1"
         }
       },
       "66": {
-        "dem_votes": 9754,
-        "rep_votes": 6678,
+        "dem_votes": 9811,
+        "rep_votes": 6683,
         "other_votes": 14,
-        "total_votes": 16446,
+        "total_votes": 16508,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": -3076,
-        "margin_pct": -18.70363614252706,
+        "margin": -3128,
+        "margin_pct": -18.94944103991013,
         "winner": "DEM",
         "competitiveness": {
           "color": "#2171b5"
         }
       },
       "67": {
-        "dem_votes": 7751,
-        "rep_votes": 12192,
+        "dem_votes": 7754,
+        "rep_votes": 12196,
         "other_votes": 7,
-        "total_votes": 19950,
+        "total_votes": 19957,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": 4441,
-        "margin_pct": 22.26065162907268,
+        "margin": 4442,
+        "margin_pct": 22.25757696410141,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
         }
       },
       "68": {
-        "dem_votes": 7440,
-        "rep_votes": 11294,
+        "dem_votes": 7431,
+        "rep_votes": 11280,
         "other_votes": 12,
-        "total_votes": 18747,
+        "total_votes": 18723,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": 3854,
-        "margin_pct": 20.560623033018615,
+        "margin": 3849,
+        "margin_pct": 20.558181062207765,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
         }
       },
       "69": {
-        "dem_votes": 6856,
-        "rep_votes": 12046,
+        "dem_votes": 6858,
+        "rep_votes": 12050,
         "other_votes": 12,
-        "total_votes": 18914,
+        "total_votes": 18920,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": 5190,
-        "margin_pct": 27.441691059967237,
+        "margin": 5191,
+        "margin_pct": 27.438482303201095,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
         }
       },
       "7": {
-        "dem_votes": 9623,
-        "rep_votes": 6626,
+        "dem_votes": 9624,
+        "rep_votes": 6628,
         "other_votes": 22,
-        "total_votes": 16271,
+        "total_votes": 16274,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": -2997,
-        "margin_pct": -18.41927355417614,
+        "margin": -2996,
+        "margin_pct": -18.41158272371372,
         "winner": "DEM",
         "competitiveness": {
           "color": "#2171b5"
@@ -941,13 +941,13 @@
       },
       "70": {
         "dem_votes": 7484,
-        "rep_votes": 11703,
+        "rep_votes": 11704,
         "other_votes": 25,
-        "total_votes": 19212,
+        "total_votes": 19213,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": 4220,
-        "margin_pct": 21.964422814163207,
+        "margin": 4219,
+        "margin_pct": 21.96152913555798,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
@@ -960,8 +960,8 @@
         "total_votes": 22459,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": 558,
-        "margin_pct": 2.4856128321293007,
+        "margin": 559,
+        "margin_pct": 2.48739064688746,
         "winner": "REP",
         "competitiveness": {
           "color": "#fcbba1"
@@ -982,28 +982,28 @@
         }
       },
       "73": {
-        "dem_votes": 9624,
-        "rep_votes": 9131,
+        "dem_votes": 9598,
+        "rep_votes": 9097,
         "other_votes": 7,
-        "total_votes": 18762,
+        "total_votes": 18702,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": -493,
-        "margin_pct": -2.62765163628611,
+        "margin": -501,
+        "margin_pct": -2.6787961802495532,
         "winner": "DEM",
         "competitiveness": {
           "color": "#c6dbef"
         }
       },
       "74": {
-        "dem_votes": 12029,
-        "rep_votes": 12415,
+        "dem_votes": 12055,
+        "rep_votes": 12449,
         "other_votes": 3,
-        "total_votes": 24447,
+        "total_votes": 24507,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": 386,
-        "margin_pct": 1.5789258395713175,
+        "margin": 394,
+        "margin_pct": 1.6077259030279696,
         "winner": "REP",
         "competitiveness": {
           "color": "#fcbba1"
@@ -1017,91 +1017,91 @@
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
         "margin": 4080,
-        "margin_pct": 20.0698509518422,
+        "margin_pct": 20.06986075437662,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
         }
       },
       "76": {
-        "dem_votes": 14541,
-        "rep_votes": 5024,
+        "dem_votes": 14551,
+        "rep_votes": 5025,
         "other_votes": 51,
-        "total_votes": 19616,
+        "total_votes": 19627,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": -9517,
-        "margin_pct": -48.51651712887438,
+        "margin": -9526,
+        "margin_pct": -48.5330254231531,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
         }
       },
       "77": {
-        "dem_votes": 19648,
-        "rep_votes": 7642,
+        "dem_votes": 19627,
+        "rep_votes": 7636,
         "other_votes": 17,
-        "total_votes": 27307,
+        "total_votes": 27281,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": -12006,
-        "margin_pct": -43.96674845277768,
+        "margin": -11991,
+        "margin_pct": -43.95514012162761,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
         }
       },
       "78": {
-        "dem_votes": 9815,
-        "rep_votes": 6022,
+        "dem_votes": 9813,
+        "rep_votes": 6021,
         "other_votes": 19,
-        "total_votes": 15856,
+        "total_votes": 15852,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": -3793,
-        "margin_pct": -23.9215438950555,
+        "margin": -3792,
+        "margin_pct": -23.91936892195948,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
         }
       },
       "79": {
-        "dem_votes": 10104,
-        "rep_votes": 9035,
+        "dem_votes": 10101,
+        "rep_votes": 9034,
         "other_votes": 9,
-        "total_votes": 19148,
+        "total_votes": 19144,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": -1069,
-        "margin_pct": -5.580801788184326,
+        "margin": -1067,
+        "margin_pct": -5.571838783682615,
         "winner": "DEM",
         "competitiveness": {
           "color": "#6baed6"
         }
       },
       "8": {
-        "dem_votes": 9910,
-        "rep_votes": 8944,
+        "dem_votes": 9875,
+        "rep_votes": 8926,
         "other_votes": 21,
-        "total_votes": 18875,
+        "total_votes": 18822,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": -966,
-        "margin_pct": -5.117880794701986,
+        "margin": -949,
+        "margin_pct": -5.044036379671335,
         "winner": "DEM",
         "competitiveness": {
           "color": "#6baed6"
         }
       },
       "80": {
-        "dem_votes": 11456,
-        "rep_votes": 11211,
+        "dem_votes": 11464,
+        "rep_votes": 11215,
         "other_votes": 7,
-        "total_votes": 22674,
+        "total_votes": 22686,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": -245,
-        "margin_pct": -1.081621042325452,
+        "margin": -249,
+        "margin_pct": -1.09905092423536,
         "winner": "DEM",
         "competitiveness": {
           "color": "#c6dbef"
@@ -1109,13 +1109,13 @@
       },
       "81": {
         "dem_votes": 9949,
-        "rep_votes": 11840,
+        "rep_votes": 11839,
         "other_votes": 4,
-        "total_votes": 21793,
+        "total_votes": 21792,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
         "margin": 1891,
-        "margin_pct": 8.677098150782362,
+        "margin_pct": 8.676934131870915,
         "winner": "REP",
         "competitiveness": {
           "color": "#fb6a4a"
@@ -1139,11 +1139,11 @@
         "dem_votes": 6216,
         "rep_votes": 20097,
         "other_votes": 13,
-        "total_votes": 26325,
+        "total_votes": 26326,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
         "margin": 13881,
-        "margin_pct": 52.72986959378952,
+        "margin_pct": 52.72986800098024,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
@@ -1164,28 +1164,28 @@
         }
       },
       "85": {
-        "dem_votes": 8496,
-        "rep_votes": 11869,
+        "dem_votes": 8457,
+        "rep_votes": 11829,
         "other_votes": 11,
-        "total_votes": 20376,
+        "total_votes": 20297,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
         "margin": 3373,
-        "margin_pct": 16.55378877110326,
+        "margin_pct": 16.616799938432113,
         "winner": "REP",
         "competitiveness": {
           "color": "#cb181d"
         }
       },
       "86": {
-        "dem_votes": 7751,
-        "rep_votes": 14403,
+        "dem_votes": 7788,
+        "rep_votes": 14439,
         "other_votes": 8,
-        "total_votes": 22162,
+        "total_votes": 22235,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": 6652,
-        "margin_pct": 30.013894817662752,
+        "margin": 6651,
+        "margin_pct": 29.9120261155007,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
@@ -1206,70 +1206,70 @@
         }
       },
       "88": {
-        "dem_votes": 6599,
-        "rep_votes": 12080,
+        "dem_votes": 6604,
+        "rep_votes": 12086,
         "other_votes": 19,
-        "total_votes": 18698,
+        "total_votes": 18709,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": 5481,
-        "margin_pct": 29.31329553962991,
+        "margin": 5482,
+        "margin_pct": 29.29917539020878,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
         }
       },
       "89": {
-        "dem_votes": 6658,
-        "rep_votes": 12690,
+        "dem_votes": 6605,
+        "rep_votes": 12587,
         "other_votes": 9,
-        "total_votes": 19357,
+        "total_votes": 19201,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": 6033,
-        "margin_pct": 31.166561190971283,
+        "margin": 5982,
+        "margin_pct": 31.1543715802446,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
         }
       },
       "9": {
-        "dem_votes": 7641,
-        "rep_votes": 5985,
+        "dem_votes": 7646,
+        "rep_votes": 5988,
         "other_votes": 17,
-        "total_votes": 13643,
+        "total_votes": 13651,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": -1656,
-        "margin_pct": -12.138092794839844,
+        "margin": -1658,
+        "margin_pct": -12.146191357959154,
         "winner": "DEM",
         "competitiveness": {
           "color": "#2171b5"
         }
       },
       "90": {
-        "dem_votes": 6596,
-        "rep_votes": 7497,
+        "dem_votes": 6588,
+        "rep_votes": 7488,
         "other_votes": 20,
-        "total_votes": 14113,
+        "total_votes": 14096,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": 901,
-        "margin_pct": 6.384184794161412,
+        "margin": 900,
+        "margin_pct": 6.384284556893065,
         "winner": "REP",
         "competitiveness": {
           "color": "#fb6a4a"
         }
       },
       "91": {
-        "dem_votes": 9690,
-        "rep_votes": 9276,
+        "dem_votes": 9695,
+        "rep_votes": 9285,
         "other_votes": 24,
-        "total_votes": 18990,
+        "total_votes": 19004,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": -414,
-        "margin_pct": -2.1800947867298577,
+        "margin": -410,
+        "margin_pct": -2.1577808124025855,
         "winner": "DEM",
         "competitiveness": {
           "color": "#c6dbef"
@@ -1290,14 +1290,14 @@
         }
       },
       "93": {
-        "dem_votes": 8243,
-        "rep_votes": 11154,
+        "dem_votes": 8244,
+        "rep_votes": 11155,
         "other_votes": 14,
-        "total_votes": 19411,
+        "total_votes": 19414,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": 2910,
-        "margin_pct": 14.994075524187316,
+        "margin": 2911,
+        "margin_pct": 14.994301289796965,
         "winner": "REP",
         "competitiveness": {
           "color": "#cb181d"
@@ -1311,7 +1311,7 @@
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
         "margin": 3991,
-        "margin_pct": 19.410262645914397,
+        "margin_pct": 19.4101170826965,
         "winner": "REP",
         "competitiveness": {
           "color": "#cb181d"
@@ -1325,7 +1325,7 @@
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
         "margin": -1756,
-        "margin_pct": -8.890323560686616,
+        "margin_pct": -8.890391845246185,
         "winner": "DEM",
         "competitiveness": {
           "color": "#6baed6"
@@ -1339,54 +1339,55 @@
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
         "margin": 1955,
-        "margin_pct": 10.060724578015643,
+        "margin_pct": 10.0607134178288,
         "winner": "REP",
         "competitiveness": {
           "color": "#cb181d"
         }
       },
       "97": {
-        "dem_votes": 6496,
-        "rep_votes": 17350,
+        "dem_votes": 6502,
+        "rep_votes": 17362,
         "other_votes": 11,
-        "total_votes": 23857,
+        "total_votes": 23875,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": 10854,
-        "margin_pct": 45.497478028810555,
+        "margin": 10860,
+        "margin_pct": 45.48808319172889,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
         }
       },
       "98": {
-        "dem_votes": 6607,
-        "rep_votes": 18179,
+        "dem_votes": 6602,
+        "rep_votes": 18169,
         "other_votes": 9,
-        "total_votes": 24795,
+        "total_votes": 24780,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": 11572,
-        "margin_pct": 46.67069973785038,
+        "margin": 11567,
+        "margin_pct": 46.67984327995403,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
         }
       },
       "99": {
-        "dem_votes": 5763,
-        "rep_votes": 22183,
+        "dem_votes": 5761,
+        "rep_votes": 22179,
         "other_votes": 10,
-        "total_votes": 27955,
+        "total_votes": 27951,
         "dem_candidate": "Scott Hassett",
         "rep_candidate": "J.B. Van Hollen",
-        "margin": 16420,
-        "margin_pct": 58.73774831278467,
+        "margin": 16418,
+        "margin_pct": 58.739501630153526,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
         }
       }
-    }
+    },
+    "election_type": "general"
   }
 }

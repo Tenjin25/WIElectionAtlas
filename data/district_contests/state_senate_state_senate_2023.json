@@ -1,0 +1,49 @@
+{
+  "general": {
+    "results": {
+      "20": {
+        "dem_votes": 181,
+        "rep_votes": 302,
+        "other_votes": 1,
+        "total_votes": 485,
+        "dem_candidate": "Jodi Habush Sinykin",
+        "rep_candidate": "Dan Knodl",
+        "margin": 121,
+        "margin_pct": 24.89768564112058,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "5": {
+        "dem_votes": 0,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 0,
+        "dem_candidate": "Jodi Habush Sinykin",
+        "rep_candidate": "Dan Knodl",
+        "margin": 0,
+        "margin_pct": 0.0,
+        "winner": "TIE",
+        "competitiveness": {
+          "color": "#9ca3af"
+        }
+      },
+      "8": {
+        "dem_votes": 36420,
+        "rep_votes": 37388,
+        "other_votes": 57,
+        "total_votes": 73864,
+        "dem_candidate": "Jodi Habush Sinykin",
+        "rep_candidate": "Dan Knodl",
+        "margin": 968,
+        "margin_pct": 1.310958103174164,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      }
+    },
+    "election_type": "spring"
+  }
+}

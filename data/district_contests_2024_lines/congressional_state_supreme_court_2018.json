@@ -2,141 +2,142 @@
   "general": {
     "results": {
       "1": {
-        "dem_votes": 0,
-        "rep_votes": 0,
-        "other_votes": 110465,
-        "total_votes": 110465,
-        "dem_candidate": "",
-        "rep_candidate": "",
-        "margin": 0,
-        "margin_pct": 0.0,
-        "winner": "TIE",
+        "dem_votes": 57580,
+        "rep_votes": 52786,
+        "other_votes": 137,
+        "total_votes": 110503,
+        "dem_candidate": "Rebecca Dallet",
+        "rep_candidate": "Michael Screnock",
+        "margin": -4794,
+        "margin_pct": -4.337957567502841,
+        "winner": "DEM",
         "competitiveness": {
-          "color": "#9ca3af"
+          "color": "#c6dbef"
         },
         "contest_partisan_style": "nonpartisan_ideology",
         "dem_label": "Liberal",
         "rep_label": "Conservative"
       },
       "2": {
-        "dem_votes": 0,
-        "rep_votes": 0,
-        "other_votes": 167841,
-        "total_votes": 167841,
-        "dem_candidate": "",
-        "rep_candidate": "",
-        "margin": 0,
-        "margin_pct": 0.0,
-        "winner": "TIE",
+        "dem_votes": 128587,
+        "rep_votes": 39114,
+        "other_votes": 154,
+        "total_votes": 167856,
+        "dem_candidate": "Rebecca Dallet",
+        "rep_candidate": "Michael Screnock",
+        "margin": -89473,
+        "margin_pct": -53.303618330751256,
+        "winner": "DEM",
         "competitiveness": {
-          "color": "#9ca3af"
+          "color": "#08306b"
         },
         "contest_partisan_style": "nonpartisan_ideology",
         "dem_label": "Liberal",
         "rep_label": "Conservative"
       },
       "3": {
-        "dem_votes": 0,
-        "rep_votes": 0,
-        "other_votes": 115379,
-        "total_votes": 115379,
-        "dem_candidate": "",
-        "rep_candidate": "",
-        "margin": 0,
-        "margin_pct": 0.0,
-        "winner": "TIE",
+        "dem_votes": 66813,
+        "rep_votes": 48472,
+        "other_votes": 62,
+        "total_votes": 115346,
+        "dem_candidate": "Rebecca Dallet",
+        "rep_candidate": "Michael Screnock",
+        "margin": -18341,
+        "margin_pct": -15.900771477369627,
+        "winner": "DEM",
         "competitiveness": {
-          "color": "#9ca3af"
+          "color": "#2171b5"
         },
         "contest_partisan_style": "nonpartisan_ideology",
         "dem_label": "Liberal",
         "rep_label": "Conservative"
       },
       "4": {
-        "dem_votes": 0,
-        "rep_votes": 0,
-        "other_votes": 94511,
-        "total_votes": 94511,
-        "dem_candidate": "",
-        "rep_candidate": "",
-        "margin": 0,
-        "margin_pct": 0.0,
-        "winner": "TIE",
+        "dem_votes": 68006,
+        "rep_votes": 26395,
+        "other_votes": 119,
+        "total_votes": 94519,
+        "dem_candidate": "Rebecca Dallet",
+        "rep_candidate": "Michael Screnock",
+        "margin": -41611,
+        "margin_pct": -44.02392533344152,
+        "winner": "DEM",
         "competitiveness": {
-          "color": "#9ca3af"
+          "color": "#08306b"
         },
         "contest_partisan_style": "nonpartisan_ideology",
         "dem_label": "Liberal",
         "rep_label": "Conservative"
       },
       "5": {
-        "dem_votes": 0,
-        "rep_votes": 0,
-        "other_votes": 151995,
-        "total_votes": 151995,
-        "dem_candidate": "",
-        "rep_candidate": "",
-        "margin": 0,
-        "margin_pct": 0.0,
-        "winner": "TIE",
+        "dem_votes": 55835,
+        "rep_votes": 96039,
+        "other_votes": 76,
+        "total_votes": 151950,
+        "dem_candidate": "Rebecca Dallet",
+        "rep_candidate": "Michael Screnock",
+        "margin": 40203,
+        "margin_pct": 26.458309170448302,
+        "winner": "REP",
         "competitiveness": {
-          "color": "#9ca3af"
+          "color": "#67000d"
         },
         "contest_partisan_style": "nonpartisan_ideology",
         "dem_label": "Liberal",
         "rep_label": "Conservative"
       },
       "6": {
-        "dem_votes": 0,
-        "rep_votes": 0,
-        "other_votes": 127588,
-        "total_votes": 127588,
-        "dem_candidate": "",
-        "rep_candidate": "",
-        "margin": 0,
-        "margin_pct": 0.0,
-        "winner": "TIE",
+        "dem_votes": 60976,
+        "rep_votes": 66573,
+        "other_votes": 92,
+        "total_votes": 127641,
+        "dem_candidate": "Rebecca Dallet",
+        "rep_candidate": "Michael Screnock",
+        "margin": 5597,
+        "margin_pct": 4.385067240747356,
+        "winner": "REP",
         "competitiveness": {
-          "color": "#9ca3af"
+          "color": "#fcbba1"
         },
         "contest_partisan_style": "nonpartisan_ideology",
         "dem_label": "Liberal",
         "rep_label": "Conservative"
       },
       "7": {
-        "dem_votes": 0,
-        "rep_votes": 0,
-        "other_votes": 117998,
-        "total_votes": 117998,
-        "dem_candidate": "",
-        "rep_candidate": "",
-        "margin": 0,
-        "margin_pct": 0.0,
-        "winner": "TIE",
+        "dem_votes": 58932,
+        "rep_votes": 58974,
+        "other_votes": 108,
+        "total_votes": 118014,
+        "dem_candidate": "Rebecca Dallet",
+        "rep_candidate": "Michael Screnock",
+        "margin": 42,
+        "margin_pct": 0.035987682998671916,
+        "winner": "REP",
         "competitiveness": {
-          "color": "#9ca3af"
+          "color": "#fcbba1"
         },
         "contest_partisan_style": "nonpartisan_ideology",
         "dem_label": "Liberal",
         "rep_label": "Conservative"
       },
       "8": {
-        "dem_votes": 0,
-        "rep_votes": 0,
-        "other_votes": 107961,
-        "total_votes": 107961,
-        "dem_candidate": "",
-        "rep_candidate": "",
-        "margin": 0,
-        "margin_pct": 0.0,
-        "winner": "TIE",
+        "dem_votes": 57117,
+        "rep_votes": 50713,
+        "other_votes": 78,
+        "total_votes": 107909,
+        "dem_candidate": "Rebecca Dallet",
+        "rep_candidate": "Michael Screnock",
+        "margin": -6404,
+        "margin_pct": -5.9349385068973515,
+        "winner": "DEM",
         "competitiveness": {
-          "color": "#9ca3af"
+          "color": "#6baed6"
         },
         "contest_partisan_style": "nonpartisan_ideology",
         "dem_label": "Liberal",
         "rep_label": "Conservative"
       }
-    }
+    },
+    "election_type": "spring"
   }
 }

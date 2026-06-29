@@ -2,14 +2,14 @@
   "general": {
     "results": {
       "1": {
-        "dem_votes": 31192,
-        "rep_votes": 31510,
-        "other_votes": 1244,
-        "total_votes": 63946,
+        "dem_votes": 31880,
+        "rep_votes": 32192,
+        "other_votes": 1270,
+        "total_votes": 65342,
         "dem_candidate": "Jim Doyle & Barbara C. Lawton",
         "rep_candidate": "Mark Green & Jean Hundertmark",
-        "margin": 318,
-        "margin_pct": 0.49729848073750305,
+        "margin": 312,
+        "margin_pct": 0.47696908541640687,
         "winner": "REP",
         "competitiveness": {
           "color": "#fcbba1"
@@ -23,21 +23,21 @@
         "dem_candidate": "Jim Doyle & Barbara C. Lawton",
         "rep_candidate": "Mark Green & Jean Hundertmark",
         "margin": -2400,
-        "margin_pct": -5.161512323110672,
+        "margin_pct": -5.161460698693351,
         "winner": "DEM",
         "competitiveness": {
           "color": "#6baed6"
         }
       },
       "11": {
-        "dem_votes": 28089,
-        "rep_votes": 28524,
+        "dem_votes": 28090,
+        "rep_votes": 28523,
         "other_votes": 1305,
         "total_votes": 57918,
         "dem_candidate": "Jim Doyle & Barbara C. Lawton",
         "rep_candidate": "Mark Green & Jean Hundertmark",
-        "margin": 435,
-        "margin_pct": 0.7504863197393975,
+        "margin": 434,
+        "margin_pct": 0.7492345865644353,
         "winner": "REP",
         "competitiveness": {
           "color": "#fcbba1"
@@ -58,14 +58,14 @@
         }
       },
       "13": {
-        "dem_votes": 25914,
-        "rep_votes": 30456,
+        "dem_votes": 25915,
+        "rep_votes": 30458,
         "other_votes": 1197,
-        "total_votes": 57567,
+        "total_votes": 57570,
         "dem_candidate": "Jim Doyle & Barbara C. Lawton",
         "rep_candidate": "Mark Green & Jean Hundertmark",
-        "margin": 4541,
-        "margin_pct": 7.888944310852699,
+        "margin": 4542,
+        "margin_pct": 7.890252670349976,
         "winner": "REP",
         "competitiveness": {
           "color": "#fb6a4a"
@@ -79,35 +79,35 @@
         "dem_candidate": "Jim Doyle & Barbara C. Lawton",
         "rep_candidate": "Mark Green & Jean Hundertmark",
         "margin": 1202,
-        "margin_pct": 2.204008287951299,
+        "margin_pct": 2.2038058026906655,
         "winner": "REP",
         "competitiveness": {
           "color": "#fcbba1"
         }
       },
       "15": {
-        "dem_votes": 36757,
-        "rep_votes": 20402,
+        "dem_votes": 36754,
+        "rep_votes": 20401,
         "other_votes": 1336,
-        "total_votes": 58495,
+        "total_votes": 58491,
         "dem_candidate": "Jim Doyle & Barbara C. Lawton",
         "rep_candidate": "Mark Green & Jean Hundertmark",
-        "margin": -16355,
-        "margin_pct": -27.95908482206457,
+        "margin": -16353,
+        "margin_pct": -27.958473081415953,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
         }
       },
       "16": {
-        "dem_votes": 54091,
-        "rep_votes": 19492,
-        "other_votes": 2516,
-        "total_votes": 76098,
+        "dem_votes": 54103,
+        "rep_votes": 19496,
+        "other_votes": 2515,
+        "total_votes": 76114,
         "dem_candidate": "Jim Doyle & Barbara C. Lawton",
         "rep_candidate": "Mark Green & Jean Hundertmark",
-        "margin": -34599,
-        "margin_pct": -45.465894419385464,
+        "margin": -34606,
+        "margin_pct": -45.466268361502394,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -128,14 +128,14 @@
         }
       },
       "18": {
-        "dem_votes": 27468,
-        "rep_votes": 28966,
-        "other_votes": 1200,
-        "total_votes": 57634,
+        "dem_votes": 27608,
+        "rep_votes": 29140,
+        "other_votes": 1204,
+        "total_votes": 57952,
         "dem_candidate": "Jim Doyle & Barbara C. Lawton",
         "rep_candidate": "Mark Green & Jean Hundertmark",
-        "margin": 1498,
-        "margin_pct": 2.599582713403922,
+        "margin": 1532,
+        "margin_pct": 2.6437274843038776,
         "winner": "REP",
         "competitiveness": {
           "color": "#fcbba1"
@@ -156,70 +156,70 @@
         }
       },
       "2": {
-        "dem_votes": 28957,
-        "rep_votes": 30721,
+        "dem_votes": 28959,
+        "rep_votes": 30723,
         "other_votes": 990,
-        "total_votes": 60669,
+        "total_votes": 60672,
         "dem_candidate": "Jim Doyle & Barbara C. Lawton",
         "rep_candidate": "Mark Green & Jean Hundertmark",
         "margin": 1764,
-        "margin_pct": 2.9077925048058004,
+        "margin_pct": 2.9068741643826312,
         "winner": "REP",
         "competitiveness": {
           "color": "#fcbba1"
         }
       },
       "20": {
-        "dem_votes": 23513,
-        "rep_votes": 42636,
-        "other_votes": 1158,
-        "total_votes": 67307,
+        "dem_votes": 23625,
+        "rep_votes": 42861,
+        "other_votes": 1162,
+        "total_votes": 67648,
         "dem_candidate": "Jim Doyle & Barbara C. Lawton",
         "rep_candidate": "Mark Green & Jean Hundertmark",
-        "margin": 19123,
-        "margin_pct": 28.411606519381344,
+        "margin": 19237,
+        "margin_pct": 28.43625635332173,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
         }
       },
       "21": {
-        "dem_votes": 27277,
-        "rep_votes": 33238,
-        "other_votes": 987,
-        "total_votes": 61502,
+        "dem_votes": 28111,
+        "rep_votes": 33927,
+        "other_votes": 1013,
+        "total_votes": 63051,
         "dem_candidate": "Jim Doyle & Barbara C. Lawton",
         "rep_candidate": "Mark Green & Jean Hundertmark",
-        "margin": 5961,
-        "margin_pct": 9.692415006414462,
+        "margin": 5816,
+        "margin_pct": 9.223626396575934,
         "winner": "REP",
         "competitiveness": {
           "color": "#fb6a4a"
         }
       },
       "22": {
-        "dem_votes": 32707,
-        "rep_votes": 19228,
-        "other_votes": 940,
-        "total_votes": 52875,
+        "dem_votes": 32164,
+        "rep_votes": 18854,
+        "other_votes": 925,
+        "total_votes": 51943,
         "dem_candidate": "Jim Doyle & Barbara C. Lawton",
         "rep_candidate": "Mark Green & Jean Hundertmark",
-        "margin": -13478,
-        "margin_pct": -25.491252955082743,
+        "margin": -13310,
+        "margin_pct": -25.624302451299474,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
         }
       },
       "23": {
-        "dem_votes": 26464,
-        "rep_votes": 22261,
+        "dem_votes": 26458,
+        "rep_votes": 22255,
         "other_votes": 1144,
-        "total_votes": 49868,
+        "total_votes": 49857,
         "dem_candidate": "Jim Doyle & Barbara C. Lawton",
         "rep_candidate": "Mark Green & Jean Hundertmark",
-        "margin": -4203,
-        "margin_pct": -8.428340561076226,
+        "margin": -4204,
+        "margin_pct": -8.43155207394789,
         "winner": "DEM",
         "competitiveness": {
           "color": "#6baed6"
@@ -233,7 +233,7 @@
         "dem_candidate": "Jim Doyle & Barbara C. Lawton",
         "rep_candidate": "Mark Green & Jean Hundertmark",
         "margin": -9470,
-        "margin_pct": -16.66226796868127,
+        "margin_pct": -16.662223211161972,
         "winner": "DEM",
         "competitiveness": {
           "color": "#2171b5"
@@ -247,35 +247,35 @@
         "dem_candidate": "Jim Doyle & Barbara C. Lawton",
         "rep_candidate": "Mark Green & Jean Hundertmark",
         "margin": -8584,
-        "margin_pct": -18.527951651197927,
+        "margin_pct": -18.527953717217933,
         "winner": "DEM",
         "competitiveness": {
           "color": "#2171b5"
         }
       },
       "26": {
-        "dem_votes": 50436,
-        "rep_votes": 13300,
+        "dem_votes": 50422,
+        "rep_votes": 13296,
         "other_votes": 1830,
-        "total_votes": 65566,
+        "total_votes": 65548,
         "dem_candidate": "Jim Doyle & Barbara C. Lawton",
         "rep_candidate": "Mark Green & Jean Hundertmark",
-        "margin": -37136,
-        "margin_pct": -56.63911173474057,
+        "margin": -37126,
+        "margin_pct": -56.638980722299124,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
         }
       },
       "27": {
-        "dem_votes": 35020,
-        "rep_votes": 20103,
-        "other_votes": 1238,
-        "total_votes": 56362,
+        "dem_votes": 35025,
+        "rep_votes": 20104,
+        "other_votes": 1239,
+        "total_votes": 56368,
         "dem_candidate": "Jim Doyle & Barbara C. Lawton",
         "rep_candidate": "Mark Green & Jean Hundertmark",
-        "margin": -14917,
-        "margin_pct": -26.46596064073343,
+        "margin": -14920,
+        "margin_pct": -26.469173907769257,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -283,69 +283,69 @@
       },
       "28": {
         "dem_votes": 30843,
-        "rep_votes": 41220,
+        "rep_votes": 41221,
         "other_votes": 1062,
         "total_votes": 73125,
         "dem_candidate": "Jim Doyle & Barbara C. Lawton",
         "rep_candidate": "Mark Green & Jean Hundertmark",
         "margin": 10378,
-        "margin_pct": 14.191752072602986,
+        "margin_pct": 14.191823654968694,
         "winner": "REP",
         "competitiveness": {
           "color": "#cb181d"
         }
       },
       "29": {
-        "dem_votes": 27530,
-        "rep_votes": 23405,
+        "dem_votes": 27526,
+        "rep_votes": 23402,
         "other_votes": 1139,
-        "total_votes": 52074,
+        "total_votes": 52067,
         "dem_candidate": "Jim Doyle & Barbara C. Lawton",
         "rep_candidate": "Mark Green & Jean Hundertmark",
-        "margin": -4125,
-        "margin_pct": -7.92133229971866,
+        "margin": -4124,
+        "margin_pct": -7.920296956559028,
         "winner": "DEM",
         "competitiveness": {
           "color": "#6baed6"
         }
       },
       "3": {
-        "dem_votes": 30225,
-        "rep_votes": 18690,
-        "other_votes": 1019,
-        "total_votes": 49934,
+        "dem_votes": 30196,
+        "rep_votes": 18679,
+        "other_votes": 1018,
+        "total_votes": 49892,
         "dem_candidate": "Jim Doyle & Barbara C. Lawton",
         "rep_candidate": "Mark Green & Jean Hundertmark",
-        "margin": -11535,
-        "margin_pct": -23.100492650298392,
+        "margin": -11517,
+        "margin_pct": -23.082866414393333,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
         }
       },
       "30": {
-        "dem_votes": 29249,
-        "rep_votes": 27862,
-        "other_votes": 1008,
-        "total_votes": 58118,
+        "dem_votes": 29140,
+        "rep_votes": 27744,
+        "other_votes": 1005,
+        "total_votes": 57889,
         "dem_candidate": "Jim Doyle & Barbara C. Lawton",
         "rep_candidate": "Mark Green & Jean Hundertmark",
-        "margin": -1387,
-        "margin_pct": -2.386733914764112,
+        "margin": -1395,
+        "margin_pct": -2.410383711820614,
         "winner": "DEM",
         "competitiveness": {
           "color": "#c6dbef"
         }
       },
       "31": {
-        "dem_votes": 29552,
-        "rep_votes": 20462,
+        "dem_votes": 29561,
+        "rep_votes": 20470,
         "other_votes": 1135,
-        "total_votes": 51148,
+        "total_votes": 51166,
         "dem_candidate": "Jim Doyle & Barbara C. Lawton",
         "rep_candidate": "Mark Green & Jean Hundertmark",
         "margin": -9090,
-        "margin_pct": -17.771955892703527,
+        "margin_pct": -17.766568831169593,
         "winner": "DEM",
         "competitiveness": {
           "color": "#2171b5"
@@ -359,110 +359,111 @@
         "dem_candidate": "Jim Doyle & Barbara C. Lawton",
         "rep_candidate": "Mark Green & Jean Hundertmark",
         "margin": -9243,
-        "margin_pct": -17.65818431911967,
+        "margin_pct": -17.658243074945858,
         "winner": "DEM",
         "competitiveness": {
           "color": "#2171b5"
         }
       },
       "33": {
-        "dem_votes": 25022,
-        "rep_votes": 45799,
+        "dem_votes": 25020,
+        "rep_votes": 45797,
         "other_votes": 1074,
-        "total_votes": 71895,
+        "total_votes": 71892,
         "dem_candidate": "Jim Doyle & Barbara C. Lawton",
         "rep_candidate": "Mark Green & Jean Hundertmark",
-        "margin": 20778,
-        "margin_pct": 28.900181050650136,
+        "margin": 20777,
+        "margin_pct": 28.90008396798951,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
         }
       },
       "4": {
-        "dem_votes": 50348,
-        "rep_votes": 16049,
+        "dem_votes": 50351,
+        "rep_votes": 16052,
         "other_votes": 1215,
-        "total_votes": 67612,
+        "total_votes": 67618,
         "dem_candidate": "Jim Doyle & Barbara C. Lawton",
         "rep_candidate": "Mark Green & Jean Hundertmark",
         "margin": -34299,
-        "margin_pct": -50.72978216230475,
+        "margin_pct": -50.72517876618452,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
         }
       },
       "5": {
-        "dem_votes": 32046,
-        "rep_votes": 46297,
+        "dem_votes": 32043,
+        "rep_votes": 46295,
         "other_votes": 1108,
-        "total_votes": 79450,
+        "total_votes": 79446,
         "dem_candidate": "Jim Doyle & Barbara C. Lawton",
         "rep_candidate": "Mark Green & Jean Hundertmark",
-        "margin": 14252,
-        "margin_pct": 17.937583778579118,
+        "margin": 14251,
+        "margin_pct": 17.938374050532165,
         "winner": "REP",
         "competitiveness": {
           "color": "#cb181d"
         }
       },
       "6": {
-        "dem_votes": 40846,
-        "rep_votes": 17287,
+        "dem_votes": 40850,
+        "rep_votes": 17282,
         "other_votes": 1012,
-        "total_votes": 59145,
+        "total_votes": 59144,
         "dem_candidate": "Jim Doyle & Barbara C. Lawton",
         "rep_candidate": "Mark Green & Jean Hundertmark",
-        "margin": -23559,
-        "margin_pct": -39.83261476033477,
+        "margin": -23568,
+        "margin_pct": -39.84872134425571,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
         }
       },
       "7": {
-        "dem_votes": 28594,
-        "rep_votes": 18879,
-        "other_votes": 850,
-        "total_votes": 48322,
+        "dem_votes": 28325,
+        "rep_votes": 18579,
+        "other_votes": 839,
+        "total_votes": 47743,
         "dem_candidate": "Jim Doyle & Barbara C. Lawton",
         "rep_candidate": "Mark Green & Jean Hundertmark",
-        "margin": -9714,
-        "margin_pct": -20.10367948346509,
+        "margin": -9747,
+        "margin_pct": -20.414593989634717,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
         }
       },
       "8": {
-        "dem_votes": 31524,
-        "rep_votes": 46035,
-        "other_votes": 1040,
-        "total_votes": 78599,
+        "dem_votes": 31413,
+        "rep_votes": 45810,
+        "other_votes": 1036,
+        "total_votes": 78259,
         "dem_candidate": "Jim Doyle & Barbara C. Lawton",
         "rep_candidate": "Mark Green & Jean Hundertmark",
-        "margin": 14511,
-        "margin_pct": 18.46216154894963,
+        "margin": 14398,
+        "margin_pct": 18.397546803079425,
         "winner": "REP",
         "competitiveness": {
           "color": "#cb181d"
         }
       },
       "9": {
-        "dem_votes": 31669,
-        "rep_votes": 35123,
-        "other_votes": 1038,
-        "total_votes": 67830,
+        "dem_votes": 31237,
+        "rep_votes": 34689,
+        "other_votes": 1024,
+        "total_votes": 66950,
         "dem_candidate": "Jim Doyle & Barbara C. Lawton",
         "rep_candidate": "Mark Green & Jean Hundertmark",
-        "margin": 3454,
-        "margin_pct": 5.092142120005897,
+        "margin": 3452,
+        "margin_pct": 5.156108625610727,
         "winner": "REP",
         "competitiveness": {
           "color": "#fb6a4a"
         }
       }
-    }
+    },
+    "election_type": "general"
   }
 }

@@ -2,56 +2,56 @@
   "general": {
     "results": {
       "1": {
-        "dem_votes": 13342,
-        "rep_votes": 18330,
-        "other_votes": 1759,
-        "total_votes": 33431,
+        "dem_votes": 13458,
+        "rep_votes": 18505,
+        "other_votes": 1774,
+        "total_votes": 33736,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
-        "margin": 4988,
-        "margin_pct": 14.918851280108283,
+        "margin": 5047,
+        "margin_pct": 14.958815505165148,
         "winner": "REP",
         "competitiveness": {
           "color": "#cb181d"
         }
       },
       "10": {
-        "dem_votes": 25965,
+        "dem_votes": 25962,
         "rep_votes": 4226,
         "other_votes": 1360,
-        "total_votes": 31551,
+        "total_votes": 31548,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
-        "margin": -21739,
-        "margin_pct": -68.90114417926532,
+        "margin": -21736,
+        "margin_pct": -68.9000572487328,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
         }
       },
       "11": {
-        "dem_votes": 22262,
+        "dem_votes": 22265,
         "rep_votes": 2383,
         "other_votes": 668,
-        "total_votes": 25313,
+        "total_votes": 25316,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
-        "margin": -19879,
-        "margin_pct": -78.53276972306719,
+        "margin": -19882,
+        "margin_pct": -78.53285303188798,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
         }
       },
       "12": {
-        "dem_votes": 19582,
-        "rep_votes": 5092,
-        "other_votes": 1050,
-        "total_votes": 25725,
+        "dem_votes": 19589,
+        "rep_votes": 5095,
+        "other_votes": 1051,
+        "total_votes": 25734,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
-        "margin": -14490,
-        "margin_pct": -56.3245869776482,
+        "margin": -14494,
+        "margin_pct": -56.32142947081944,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -59,13 +59,13 @@
       },
       "13": {
         "dem_votes": 17439,
-        "rep_votes": 15962,
+        "rep_votes": 15961,
         "other_votes": 2821,
-        "total_votes": 36222,
+        "total_votes": 36221,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
         "margin": -1477,
-        "margin_pct": -4.0776323781127495,
+        "margin_pct": -4.078550672937564,
         "winner": "DEM",
         "competitiveness": {
           "color": "#c6dbef"
@@ -89,137 +89,137 @@
         "dem_votes": 12176,
         "rep_votes": 19771,
         "other_votes": 2458,
-        "total_votes": 34405,
+        "total_votes": 34406,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
         "margin": 7595,
-        "margin_pct": 22.075279755849444,
+        "margin_pct": 22.07536030410545,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
         }
       },
       "16": {
-        "dem_votes": 20992,
-        "rep_votes": 2111,
-        "other_votes": 1105,
-        "total_votes": 24208,
+        "dem_votes": 21038,
+        "rep_votes": 2123,
+        "other_votes": 1112,
+        "total_votes": 24272,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
-        "margin": -18881,
-        "margin_pct": -77.99487772637144,
+        "margin": -18915,
+        "margin_pct": -77.92613116351771,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
         }
       },
       "17": {
-        "dem_votes": 24314,
-        "rep_votes": 4416,
-        "other_votes": 1199,
-        "total_votes": 29929,
+        "dem_votes": 24307,
+        "rep_votes": 4414,
+        "other_votes": 1198,
+        "total_votes": 29920,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
-        "margin": -19898,
-        "margin_pct": -66.48401216211701,
+        "margin": -19894,
+        "margin_pct": -66.48987680353646,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
         }
       },
       "18": {
-        "dem_votes": 22189,
-        "rep_votes": 3910,
-        "other_votes": 1335,
-        "total_votes": 27434,
+        "dem_votes": 22181,
+        "rep_votes": 3907,
+        "other_votes": 1334,
+        "total_votes": 27423,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
-        "margin": -18279,
-        "margin_pct": -66.62900051031566,
+        "margin": -18273,
+        "margin_pct": -66.63587800632578,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
         }
       },
       "19": {
-        "dem_votes": 23565,
-        "rep_votes": 6547,
-        "other_votes": 2841,
-        "total_votes": 32953,
+        "dem_votes": 23554,
+        "rep_votes": 6539,
+        "other_votes": 2836,
+        "total_votes": 32929,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
-        "margin": -17018,
-        "margin_pct": -51.643249476527174,
+        "margin": -17015,
+        "margin_pct": -51.67196915773599,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
         }
       },
       "2": {
-        "dem_votes": 10731,
-        "rep_votes": 17658,
-        "other_votes": 1853,
-        "total_votes": 30242,
+        "dem_votes": 10667,
+        "rep_votes": 17525,
+        "other_votes": 1839,
+        "total_votes": 30030,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
-        "margin": 6927,
-        "margin_pct": 22.906284921554033,
+        "margin": 6857,
+        "margin_pct": 22.834569402357573,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
         }
       },
       "20": {
-        "dem_votes": 16851,
-        "rep_votes": 12449,
-        "other_votes": 2164,
-        "total_votes": 31464,
+        "dem_votes": 16701,
+        "rep_votes": 12313,
+        "other_votes": 2142,
+        "total_votes": 31157,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
-        "margin": -4402,
-        "margin_pct": -13.990592423086703,
+        "margin": -4388,
+        "margin_pct": -14.084822634360696,
         "winner": "DEM",
         "competitiveness": {
           "color": "#2171b5"
         }
       },
       "21": {
-        "dem_votes": 13837,
-        "rep_votes": 13767,
-        "other_votes": 1822,
-        "total_votes": 29426,
+        "dem_votes": 13556,
+        "rep_votes": 13334,
+        "other_votes": 1768,
+        "total_votes": 28658,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
-        "margin": -70,
-        "margin_pct": -0.23788486372595666,
+        "margin": -222,
+        "margin_pct": -0.7754710021303026,
         "winner": "DEM",
         "competitiveness": {
           "color": "#c6dbef"
         }
       },
       "22": {
-        "dem_votes": 13228,
-        "rep_votes": 19770,
-        "other_votes": 2646,
-        "total_votes": 35644,
+        "dem_votes": 13019,
+        "rep_votes": 19428,
+        "other_votes": 2599,
+        "total_votes": 35047,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
-        "margin": 6542,
-        "margin_pct": 18.353424170726925,
+        "margin": 6409,
+        "margin_pct": 18.28639771309669,
         "winner": "REP",
         "competitiveness": {
           "color": "#cb181d"
         }
       },
       "23": {
-        "dem_votes": 19847,
-        "rep_votes": 13385,
-        "other_votes": 2358,
-        "total_votes": 35590,
+        "dem_votes": 19840,
+        "rep_votes": 13375,
+        "other_votes": 2357,
+        "total_votes": 35572,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
-        "margin": -6462,
-        "margin_pct": -18.156147268453047,
+        "margin": -6465,
+        "margin_pct": -18.17297849707589,
         "winner": "DEM",
         "competitiveness": {
           "color": "#2171b5"
@@ -229,39 +229,39 @@
         "dem_votes": 11915,
         "rep_votes": 19673,
         "other_votes": 2583,
-        "total_votes": 34170,
+        "total_votes": 34171,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
         "margin": 7758,
-        "margin_pct": 22.70306258322237,
+        "margin_pct": 22.703032585118223,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
         }
       },
       "25": {
-        "dem_votes": 11164,
-        "rep_votes": 15473,
-        "other_votes": 2006,
-        "total_votes": 28643,
+        "dem_votes": 11090,
+        "rep_votes": 15347,
+        "other_votes": 1986,
+        "total_votes": 28423,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
-        "margin": 4310,
-        "margin_pct": 15.045752409813119,
+        "margin": 4257,
+        "margin_pct": 14.976292152869558,
         "winner": "REP",
         "competitiveness": {
           "color": "#cb181d"
         }
       },
       "26": {
-        "dem_votes": 12619,
-        "rep_votes": 11773,
-        "other_votes": 1989,
-        "total_votes": 26381,
+        "dem_votes": 12851,
+        "rep_votes": 12370,
+        "other_votes": 2059,
+        "total_votes": 27281,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
-        "margin": -847,
-        "margin_pct": -3.209164275398303,
+        "margin": -481,
+        "margin_pct": -1.7630307487033936,
         "winner": "DEM",
         "competitiveness": {
           "color": "#c6dbef"
@@ -311,13 +311,13 @@
       },
       "3": {
         "dem_votes": 10662,
-        "rep_votes": 17869,
+        "rep_votes": 17870,
         "other_votes": 1865,
-        "total_votes": 30396,
+        "total_votes": 30398,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
-        "margin": 7207,
-        "margin_pct": 23.710356625871825,
+        "margin": 7208,
+        "margin_pct": 23.711017076162236,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
@@ -338,28 +338,28 @@
         }
       },
       "31": {
-        "dem_votes": 9601,
-        "rep_votes": 15296,
+        "dem_votes": 9600,
+        "rep_votes": 15295,
         "other_votes": 1954,
-        "total_votes": 26851,
+        "total_votes": 26849,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
         "margin": 5695,
-        "margin_pct": 21.21045937606492,
+        "margin_pct": 21.210286816982883,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
         }
       },
       "32": {
-        "dem_votes": 7558,
-        "rep_votes": 13189,
-        "other_votes": 1514,
-        "total_votes": 22261,
+        "dem_votes": 7980,
+        "rep_votes": 13540,
+        "other_votes": 1572,
+        "total_votes": 23092,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
-        "margin": 5632,
-        "margin_pct": 25.29873319157856,
+        "margin": 5560,
+        "margin_pct": 24.079423556020707,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
@@ -367,13 +367,13 @@
       },
       "33": {
         "dem_votes": 9631,
-        "rep_votes": 18771,
+        "rep_votes": 18772,
         "other_votes": 1847,
-        "total_votes": 30249,
+        "total_votes": 30250,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
         "margin": 9141,
-        "margin_pct": 30.218984014233076,
+        "margin_pct": 30.21862605027304,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
@@ -408,14 +408,14 @@
         }
       },
       "36": {
-        "dem_votes": 9363,
-        "rep_votes": 19435,
-        "other_votes": 1163,
-        "total_votes": 29961,
+        "dem_votes": 9275,
+        "rep_votes": 19270,
+        "other_votes": 1151,
+        "total_votes": 29696,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
-        "margin": 10072,
-        "margin_pct": 33.617035479456625,
+        "margin": 9995,
+        "margin_pct": 33.6571256173554,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
@@ -437,13 +437,13 @@
       },
       "38": {
         "dem_votes": 9568,
-        "rep_votes": 18035,
+        "rep_votes": 18034,
         "other_votes": 2013,
-        "total_votes": 29617,
+        "total_votes": 29615,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
         "margin": 8467,
-        "margin_pct": 28.58831076746464,
+        "margin_pct": 28.589739396836656,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
@@ -464,14 +464,14 @@
         }
       },
       "4": {
-        "dem_votes": 10187,
-        "rep_votes": 19408,
-        "other_votes": 1592,
-        "total_votes": 31187,
+        "dem_votes": 10214,
+        "rep_votes": 19448,
+        "other_votes": 1595,
+        "total_votes": 31257,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
-        "margin": 9221,
-        "margin_pct": 29.56680668227146,
+        "margin": 9234,
+        "margin_pct": 29.541719258793375,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
@@ -499,49 +499,49 @@
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
         "margin": 3279,
-        "margin_pct": 12.156601045489934,
+        "margin_pct": 12.156477231771175,
         "winner": "REP",
         "competitiveness": {
           "color": "#cb181d"
         }
       },
       "42": {
-        "dem_votes": 15980,
-        "rep_votes": 12006,
+        "dem_votes": 15981,
+        "rep_votes": 12005,
         "other_votes": 2208,
-        "total_votes": 30194,
+        "total_votes": 30195,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
-        "margin": -3974,
-        "margin_pct": -13.159790357435606,
+        "margin": -3976,
+        "margin_pct": -13.167895870353439,
         "winner": "DEM",
         "competitiveness": {
           "color": "#2171b5"
         }
       },
       "43": {
-        "dem_votes": 15120,
-        "rep_votes": 13087,
-        "other_votes": 2331,
-        "total_votes": 30538,
+        "dem_votes": 15103,
+        "rep_votes": 13074,
+        "other_votes": 2329,
+        "total_votes": 30505,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
-        "margin": -2033,
-        "margin_pct": -6.657279455105115,
+        "margin": -2030,
+        "margin_pct": -6.653157771306866,
         "winner": "DEM",
         "competitiveness": {
           "color": "#6baed6"
         }
       },
       "44": {
-        "dem_votes": 14389,
-        "rep_votes": 10933,
-        "other_votes": 1982,
-        "total_votes": 27304,
+        "dem_votes": 14406,
+        "rep_votes": 10946,
+        "other_votes": 1984,
+        "total_votes": 27337,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
-        "margin": -3456,
-        "margin_pct": -12.657486082625255,
+        "margin": -3459,
+        "margin_pct": -12.65491286145112,
         "winner": "DEM",
         "competitiveness": {
           "color": "#2171b5"
@@ -562,42 +562,42 @@
         }
       },
       "46": {
-        "dem_votes": 15591,
-        "rep_votes": 13287,
+        "dem_votes": 15592,
+        "rep_votes": 13288,
         "other_votes": 2118,
-        "total_votes": 30996,
+        "total_votes": 30998,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
-        "margin": -2304,
-        "margin_pct": -7.43160407794554,
+        "margin": -2303,
+        "margin_pct": -7.430592724646508,
         "winner": "DEM",
         "competitiveness": {
           "color": "#6baed6"
         }
       },
       "47": {
-        "dem_votes": 20683,
-        "rep_votes": 8783,
+        "dem_votes": 20682,
+        "rep_votes": 8782,
         "other_votes": 2045,
-        "total_votes": 31512,
+        "total_votes": 31509,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
-        "margin": -11901,
-        "margin_pct": -37.76545779966743,
+        "margin": -11899,
+        "margin_pct": -37.76512524363759,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
         }
       },
       "48": {
-        "dem_votes": 17425,
-        "rep_votes": 9284,
-        "other_votes": 2043,
-        "total_votes": 28753,
+        "dem_votes": 17430,
+        "rep_votes": 9287,
+        "other_votes": 2044,
+        "total_votes": 28760,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
-        "margin": -8140,
-        "margin_pct": -28.312074497222007,
+        "margin": -8143,
+        "margin_pct": -28.314285306751515,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -611,21 +611,21 @@
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
         "margin": 2517,
-        "margin_pct": 8.86579781613244,
+        "margin_pct": 8.865843268998079,
         "winner": "REP",
         "competitiveness": {
           "color": "#fb6a4a"
         }
       },
       "5": {
-        "dem_votes": 10183,
-        "rep_votes": 16239,
-        "other_votes": 1742,
-        "total_votes": 28165,
+        "dem_votes": 10187,
+        "rep_votes": 16244,
+        "other_votes": 1743,
+        "total_votes": 28174,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
-        "margin": 6056,
-        "margin_pct": 21.50186401562223,
+        "margin": 6057,
+        "margin_pct": 21.499543761343187,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
@@ -653,21 +653,21 @@
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
         "margin": -2740,
-        "margin_pct": -9.310544021203574,
+        "margin_pct": -9.310520755570465,
         "winner": "DEM",
         "competitiveness": {
           "color": "#6baed6"
         }
       },
       "52": {
-        "dem_votes": 14578,
-        "rep_votes": 12784,
+        "dem_votes": 14576,
+        "rep_votes": 12782,
         "other_votes": 2040,
-        "total_votes": 29402,
+        "total_votes": 29398,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
         "margin": -1794,
-        "margin_pct": -6.1016696905104855,
+        "margin_pct": -6.104046465112087,
         "winner": "DEM",
         "competitiveness": {
           "color": "#6baed6"
@@ -688,31 +688,31 @@
         }
       },
       "54": {
-        "dem_votes": 11192,
-        "rep_votes": 10110,
-        "other_votes": 1923,
-        "total_votes": 23225,
+        "dem_votes": 11008,
+        "rep_votes": 9789,
+        "other_votes": 1893,
+        "total_votes": 22690,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
-        "margin": -1082,
-        "margin_pct": -4.660975898556497,
+        "margin": -1219,
+        "margin_pct": -5.370782497002924,
         "winner": "DEM",
         "competitiveness": {
-          "color": "#c6dbef"
+          "color": "#6baed6"
         }
       },
       "55": {
-        "dem_votes": 11526,
-        "rep_votes": 17803,
-        "other_votes": 2141,
-        "total_votes": 31470,
+        "dem_votes": 11845,
+        "rep_votes": 18362,
+        "other_votes": 2194,
+        "total_votes": 32401,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
-        "margin": 6277,
-        "margin_pct": 19.945884367954527,
+        "margin": 6517,
+        "margin_pct": 20.112150344977582,
         "winner": "REP",
         "competitiveness": {
-          "color": "#cb181d"
+          "color": "#67000d"
         }
       },
       "56": {
@@ -751,21 +751,21 @@
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
         "margin": 12943,
-        "margin_pct": 39.23028271328777,
+        "margin_pct": 39.23032158313006,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
         }
       },
       "59": {
-        "dem_votes": 8139,
-        "rep_votes": 24261,
-        "other_votes": 2151,
-        "total_votes": 34551,
+        "dem_votes": 8259,
+        "rep_votes": 24274,
+        "other_votes": 2163,
+        "total_votes": 34696,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
-        "margin": 16123,
-        "margin_pct": 46.663386491466724,
+        "margin": 16015,
+        "margin_pct": 46.15876442384253,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
@@ -814,14 +814,14 @@
         }
       },
       "62": {
-        "dem_votes": 14636,
-        "rep_votes": 8770,
-        "other_votes": 1348,
-        "total_votes": 24754,
+        "dem_votes": 16112,
+        "rep_votes": 9763,
+        "other_votes": 1529,
+        "total_votes": 27404,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
-        "margin": -5866,
-        "margin_pct": -23.69702070358526,
+        "margin": -6349,
+        "margin_pct": -23.16690024537704,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -842,42 +842,42 @@
         }
       },
       "64": {
-        "dem_votes": 13647,
-        "rep_votes": 10349,
-        "other_votes": 1729,
-        "total_votes": 25725,
+        "dem_votes": 13612,
+        "rep_votes": 10317,
+        "other_votes": 1724,
+        "total_votes": 25653,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
-        "margin": -3298,
-        "margin_pct": -12.820213799805636,
+        "margin": -3295,
+        "margin_pct": -12.844445347822116,
         "winner": "DEM",
         "competitiveness": {
           "color": "#2171b5"
         }
       },
       "65": {
-        "dem_votes": 13835,
-        "rep_votes": 10826,
-        "other_votes": 1873,
-        "total_votes": 26534,
+        "dem_votes": 12870,
+        "rep_votes": 10214,
+        "other_votes": 1752,
+        "total_votes": 24836,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
-        "margin": -3009,
-        "margin_pct": -11.33891108263612,
+        "margin": -2656,
+        "margin_pct": -10.693976915118155,
         "winner": "DEM",
         "competitiveness": {
           "color": "#2171b5"
         }
       },
       "66": {
-        "dem_votes": 14207,
-        "rep_votes": 11114,
-        "other_votes": 1424,
-        "total_votes": 26745,
+        "dem_votes": 13739,
+        "rep_votes": 10982,
+        "other_votes": 1386,
+        "total_votes": 26107,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
-        "margin": -3093,
-        "margin_pct": -11.565952726660889,
+        "margin": -2756,
+        "margin_pct": -10.55778280263515,
         "winner": "DEM",
         "competitiveness": {
           "color": "#2171b5"
@@ -898,14 +898,14 @@
         }
       },
       "68": {
-        "dem_votes": 9432,
+        "dem_votes": 9433,
         "rep_votes": 19444,
         "other_votes": 1400,
-        "total_votes": 30275,
+        "total_votes": 30277,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
         "margin": 10012,
-        "margin_pct": 33.06815610719612,
+        "margin_pct": 33.06588363026092,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
@@ -926,14 +926,14 @@
         }
       },
       "7": {
-        "dem_votes": 14123,
+        "dem_votes": 14122,
         "rep_votes": 10977,
         "other_votes": 1777,
-        "total_votes": 26877,
+        "total_votes": 26876,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
         "margin": -3146,
-        "margin_pct": -11.705175428805298,
+        "margin_pct": -11.704611986728814,
         "winner": "DEM",
         "competitiveness": {
           "color": "#2171b5"
@@ -947,7 +947,7 @@
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
         "margin": 4844,
-        "margin_pct": 19.696661651689503,
+        "margin_pct": 19.69673471594542,
         "winner": "REP",
         "competitiveness": {
           "color": "#cb181d"
@@ -982,28 +982,28 @@
         }
       },
       "73": {
-        "dem_votes": 16564,
-        "rep_votes": 11991,
-        "other_votes": 1978,
-        "total_votes": 30533,
+        "dem_votes": 16611,
+        "rep_votes": 12073,
+        "other_votes": 1985,
+        "total_votes": 30668,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
-        "margin": -4573,
-        "margin_pct": -14.977237742770116,
+        "margin": -4538,
+        "margin_pct": -14.796155058428399,
         "winner": "DEM",
         "competitiveness": {
           "color": "#2171b5"
         }
       },
       "74": {
-        "dem_votes": 12212,
-        "rep_votes": 18080,
-        "other_votes": 1528,
-        "total_votes": 31820,
+        "dem_votes": 12165,
+        "rep_votes": 17998,
+        "other_votes": 1521,
+        "total_votes": 31685,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
-        "margin": 5868,
-        "margin_pct": 18.441231929604022,
+        "margin": 5833,
+        "margin_pct": 18.408740101064254,
         "winner": "REP",
         "competitiveness": {
           "color": "#cb181d"
@@ -1024,84 +1024,84 @@
         }
       },
       "76": {
-        "dem_votes": 30029,
-        "rep_votes": 3250,
-        "other_votes": 2361,
-        "total_votes": 35640,
+        "dem_votes": 30023,
+        "rep_votes": 3249,
+        "other_votes": 2360,
+        "total_votes": 35632,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
-        "margin": -26779,
-        "margin_pct": -75.1372534348432,
+        "margin": -26774,
+        "margin_pct": -75.13861717357545,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
         }
       },
       "77": {
-        "dem_votes": 27415,
-        "rep_votes": 5226,
-        "other_votes": 2812,
-        "total_votes": 35454,
+        "dem_votes": 27339,
+        "rep_votes": 5216,
+        "other_votes": 2805,
+        "total_votes": 35360,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
-        "margin": -22189,
-        "margin_pct": -62.58520456931539,
+        "margin": -22123,
+        "margin_pct": -62.56415402006337,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
         }
       },
       "78": {
-        "dem_votes": 24320,
-        "rep_votes": 6231,
-        "other_votes": 2054,
-        "total_votes": 32605,
+        "dem_votes": 24380,
+        "rep_votes": 6239,
+        "other_votes": 2060,
+        "total_votes": 32680,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
-        "margin": -18088,
-        "margin_pct": -55.47778176112889,
+        "margin": -18141,
+        "margin_pct": -55.511521147218645,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
         }
       },
       "79": {
-        "dem_votes": 28965,
-        "rep_votes": 5216,
-        "other_votes": 2160,
-        "total_votes": 36341,
+        "dem_votes": 29001,
+        "rep_votes": 5227,
+        "other_votes": 2164,
+        "total_votes": 36392,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
-        "margin": -23749,
-        "margin_pct": -65.35043064307531,
+        "margin": -23775,
+        "margin_pct": -65.32976056314816,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
         }
       },
       "8": {
-        "dem_votes": 10723,
-        "rep_votes": 2027,
-        "other_votes": 593,
-        "total_votes": 13343,
+        "dem_votes": 10688,
+        "rep_votes": 2023,
+        "other_votes": 592,
+        "total_votes": 13302,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
-        "margin": -8696,
-        "margin_pct": -65.1727497564266,
+        "margin": -8665,
+        "margin_pct": -65.14087070988303,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
         }
       },
       "80": {
-        "dem_votes": 20470,
-        "rep_votes": 8342,
-        "other_votes": 2398,
-        "total_votes": 31211,
+        "dem_votes": 20450,
+        "rep_votes": 8333,
+        "other_votes": 2396,
+        "total_votes": 31180,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
-        "margin": -12128,
-        "margin_pct": -38.85729390279069,
+        "margin": -12117,
+        "margin_pct": -38.86117505983041,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -1111,67 +1111,67 @@
         "dem_votes": 21411,
         "rep_votes": 10195,
         "other_votes": 2240,
-        "total_votes": 33845,
+        "total_votes": 33846,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
         "margin": -11216,
-        "margin_pct": -33.14005022898508,
+        "margin_pct": -33.13850227917678,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
         }
       },
       "82": {
-        "dem_votes": 11948,
-        "rep_votes": 15661,
-        "other_votes": 2633,
-        "total_votes": 30242,
+        "dem_votes": 11945,
+        "rep_votes": 15657,
+        "other_votes": 2632,
+        "total_votes": 30235,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
         "margin": 3712,
-        "margin_pct": 12.275353069747606,
+        "margin_pct": 12.277278041242567,
         "winner": "REP",
         "competitiveness": {
           "color": "#cb181d"
         }
       },
       "83": {
-        "dem_votes": 12725,
-        "rep_votes": 21036,
+        "dem_votes": 12729,
+        "rep_votes": 21040,
         "other_votes": 2633,
-        "total_votes": 36393,
+        "total_votes": 36402,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
-        "margin": 8310,
-        "margin_pct": 22.834797119993258,
+        "margin": 8311,
+        "margin_pct": 22.831411864355935,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
         }
       },
       "84": {
-        "dem_votes": 9496,
-        "rep_votes": 23492,
+        "dem_votes": 9495,
+        "rep_votes": 23491,
         "other_votes": 1965,
-        "total_votes": 34952,
+        "total_votes": 34951,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
         "margin": 13996,
-        "margin_pct": 40.043793309313145,
+        "margin_pct": 40.04408430550414,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
         }
       },
       "85": {
-        "dem_votes": 12229,
-        "rep_votes": 13164,
-        "other_votes": 1802,
-        "total_votes": 27195,
+        "dem_votes": 12166,
+        "rep_votes": 13117,
+        "other_votes": 1793,
+        "total_votes": 27076,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
-        "margin": 935,
-        "margin_pct": 3.4381320095605807,
+        "margin": 951,
+        "margin_pct": 3.513254949271414,
         "winner": "REP",
         "competitiveness": {
           "color": "#fcbba1"
@@ -1192,56 +1192,56 @@
         }
       },
       "87": {
-        "dem_votes": 11605,
-        "rep_votes": 18724,
-        "other_votes": 1648,
-        "total_votes": 31977,
+        "dem_votes": 11668,
+        "rep_votes": 18771,
+        "other_votes": 1657,
+        "total_votes": 32096,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
-        "margin": 7119,
-        "margin_pct": 22.262876442443005,
+        "margin": 7103,
+        "margin_pct": 22.129674291397762,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
         }
       },
       "88": {
-        "dem_votes": 13511,
-        "rep_votes": 15484,
+        "dem_votes": 13513,
+        "rep_votes": 15486,
         "other_votes": 2080,
-        "total_votes": 31074,
+        "total_votes": 31080,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
         "margin": 1973,
-        "margin_pct": 6.35011303571285,
+        "margin_pct": 6.348046898320519,
         "winner": "REP",
         "competitiveness": {
           "color": "#fb6a4a"
         }
       },
       "89": {
-        "dem_votes": 12670,
-        "rep_votes": 13782,
-        "other_votes": 1970,
-        "total_votes": 28422,
+        "dem_votes": 12666,
+        "rep_votes": 13779,
+        "other_votes": 1969,
+        "total_votes": 28414,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
         "margin": 1112,
-        "margin_pct": 3.912462177186686,
+        "margin_pct": 3.9144639062642304,
         "winner": "REP",
         "competitiveness": {
           "color": "#fcbba1"
         }
       },
       "9": {
-        "dem_votes": 12770,
-        "rep_votes": 4664,
-        "other_votes": 1024,
-        "total_votes": 18458,
+        "dem_votes": 12780,
+        "rep_votes": 4668,
+        "other_votes": 1025,
+        "total_votes": 18473,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
-        "margin": -8106,
-        "margin_pct": -43.915917217466685,
+        "margin": -8112,
+        "margin_pct": -43.91398273859989,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -1276,14 +1276,14 @@
         }
       },
       "92": {
-        "dem_votes": 12506,
+        "dem_votes": 12505,
         "rep_votes": 13717,
         "other_votes": 2046,
-        "total_votes": 28270,
+        "total_votes": 28268,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
-        "margin": 1212,
-        "margin_pct": 4.285514677401382,
+        "margin": 1211,
+        "margin_pct": 4.28579905569193,
         "winner": "REP",
         "competitiveness": {
           "color": "#fcbba1"
@@ -1311,49 +1311,49 @@
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
         "margin": 882,
-        "margin_pct": 2.9048512992787274,
+        "margin_pct": 2.9047307469562917,
         "winner": "REP",
         "competitiveness": {
           "color": "#fcbba1"
         }
       },
       "95": {
-        "dem_votes": 14770,
+        "dem_votes": 14769,
         "rep_votes": 12579,
         "other_votes": 2160,
-        "total_votes": 29509,
+        "total_votes": 29507,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
-        "margin": -2191,
-        "margin_pct": -7.424853434545393,
+        "margin": -2190,
+        "margin_pct": -7.423407435769075,
         "winner": "DEM",
         "competitiveness": {
           "color": "#6baed6"
         }
       },
       "96": {
-        "dem_votes": 14726,
+        "dem_votes": 14727,
         "rep_votes": 12411,
         "other_votes": 1798,
-        "total_votes": 28935,
+        "total_votes": 28936,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
-        "margin": -2315,
-        "margin_pct": -8.000691204423708,
+        "margin": -2316,
+        "margin_pct": -8.002100203799033,
         "winner": "DEM",
         "competitiveness": {
           "color": "#6baed6"
         }
       },
       "97": {
-        "dem_votes": 10390,
-        "rep_votes": 24059,
-        "other_votes": 2656,
-        "total_votes": 37105,
+        "dem_votes": 10407,
+        "rep_votes": 24100,
+        "other_votes": 2659,
+        "total_votes": 37166,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
-        "margin": 13669,
-        "margin_pct": 36.839637133940265,
+        "margin": 13694,
+        "margin_pct": 36.844249133365366,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
@@ -1367,26 +1367,27 @@
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
         "margin": 13866,
-        "margin_pct": 39.570877792775946,
+        "margin_pct": 39.57080241625598,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
         }
       },
       "99": {
-        "dem_votes": 9568,
-        "rep_votes": 22685,
-        "other_votes": 2262,
-        "total_votes": 34515,
+        "dem_votes": 9551,
+        "rep_votes": 22644,
+        "other_votes": 2259,
+        "total_votes": 34454,
         "dem_candidate": "Hillary Clinton & Tim Kaine",
         "rep_candidate": "Donald J. Trump & Michael R. Pence",
-        "margin": 13117,
-        "margin_pct": 38.00376647834275,
+        "margin": 13093,
+        "margin_pct": 38.00086917011715,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
         }
       }
-    }
+    },
+    "election_type": "general"
   }
 }

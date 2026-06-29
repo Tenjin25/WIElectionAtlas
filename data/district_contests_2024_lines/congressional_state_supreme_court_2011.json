@@ -2,141 +2,142 @@
   "general": {
     "results": {
       "1": {
-        "dem_votes": 0,
-        "rep_votes": 0,
-        "other_votes": 166339,
-        "total_votes": 166339,
-        "dem_candidate": "",
-        "rep_candidate": "",
-        "margin": 0,
-        "margin_pct": 0.0,
-        "winner": "TIE",
+        "dem_votes": 78069,
+        "rep_votes": 88085,
+        "other_votes": 238,
+        "total_votes": 166393,
+        "dem_candidate": "Joanne F. Kloppenburg",
+        "rep_candidate": "David T. Prosser, Jr.",
+        "margin": 10016,
+        "margin_pct": 6.019579735767558,
+        "winner": "REP",
         "competitiveness": {
-          "color": "#9ca3af"
+          "color": "#fb6a4a"
         },
         "contest_partisan_style": "nonpartisan_ideology",
         "dem_label": "Liberal",
         "rep_label": "Conservative"
       },
       "2": {
-        "dem_votes": 0,
-        "rep_votes": 0,
-        "other_votes": 228905,
-        "total_votes": 228905,
-        "dem_candidate": "",
-        "rep_candidate": "",
-        "margin": 0,
-        "margin_pct": 0.0,
-        "winner": "TIE",
+        "dem_votes": 160200,
+        "rep_votes": 68543,
+        "other_votes": 180,
+        "total_votes": 228923,
+        "dem_candidate": "Joanne F. Kloppenburg",
+        "rep_candidate": "David T. Prosser, Jr.",
+        "margin": -91657,
+        "margin_pct": -40.038488496952816,
+        "winner": "DEM",
         "competitiveness": {
-          "color": "#9ca3af"
+          "color": "#08306b"
         },
         "contest_partisan_style": "nonpartisan_ideology",
         "dem_label": "Liberal",
         "rep_label": "Conservative"
       },
       "3": {
-        "dem_votes": 0,
-        "rep_votes": 0,
-        "other_votes": 171564,
-        "total_votes": 171564,
-        "dem_candidate": "",
-        "rep_candidate": "",
-        "margin": 0,
-        "margin_pct": 0.0,
-        "winner": "TIE",
+        "dem_votes": 96602,
+        "rep_votes": 74704,
+        "other_votes": 186,
+        "total_votes": 171492,
+        "dem_candidate": "Joanne F. Kloppenburg",
+        "rep_candidate": "David T. Prosser, Jr.",
+        "margin": -21899,
+        "margin_pct": -12.769517135593642,
+        "winner": "DEM",
         "competitiveness": {
-          "color": "#9ca3af"
+          "color": "#2171b5"
         },
         "contest_partisan_style": "nonpartisan_ideology",
         "dem_label": "Liberal",
         "rep_label": "Conservative"
       },
       "4": {
-        "dem_votes": 0,
-        "rep_votes": 0,
-        "other_votes": 167979,
-        "total_votes": 167979,
-        "dem_candidate": "",
-        "rep_candidate": "",
-        "margin": 0,
-        "margin_pct": 0.0,
-        "winner": "TIE",
+        "dem_votes": 104549,
+        "rep_votes": 62927,
+        "other_votes": 479,
+        "total_votes": 167954,
+        "dem_candidate": "Joanne F. Kloppenburg",
+        "rep_candidate": "David T. Prosser, Jr.",
+        "margin": -41622,
+        "margin_pct": -24.781799909706663,
+        "winner": "DEM",
         "competitiveness": {
-          "color": "#9ca3af"
+          "color": "#08306b"
         },
         "contest_partisan_style": "nonpartisan_ideology",
         "dem_label": "Liberal",
         "rep_label": "Conservative"
       },
       "5": {
-        "dem_votes": 0,
-        "rep_votes": 0,
-        "other_votes": 216604,
-        "total_votes": 216604,
-        "dem_candidate": "",
-        "rep_candidate": "",
-        "margin": 0,
-        "margin_pct": 0.0,
-        "winner": "TIE",
+        "dem_votes": 62646,
+        "rep_votes": 153790,
+        "other_votes": 145,
+        "total_votes": 216581,
+        "dem_candidate": "Joanne F. Kloppenburg",
+        "rep_candidate": "David T. Prosser, Jr.",
+        "margin": 91144,
+        "margin_pct": 42.08326941358645,
+        "winner": "REP",
         "competitiveness": {
-          "color": "#9ca3af"
+          "color": "#67000d"
         },
         "contest_partisan_style": "nonpartisan_ideology",
         "dem_label": "Liberal",
         "rep_label": "Conservative"
       },
       "6": {
-        "dem_votes": 0,
-        "rep_votes": 0,
-        "other_votes": 183244,
-        "total_votes": 183244,
-        "dem_candidate": "",
-        "rep_candidate": "",
-        "margin": 0,
-        "margin_pct": 0.0,
-        "winner": "TIE",
+        "dem_votes": 74200,
+        "rep_votes": 108968,
+        "other_votes": 143,
+        "total_votes": 183311,
+        "dem_candidate": "Joanne F. Kloppenburg",
+        "rep_candidate": "David T. Prosser, Jr.",
+        "margin": 34767,
+        "margin_pct": 18.966312933900404,
+        "winner": "REP",
         "competitiveness": {
-          "color": "#9ca3af"
+          "color": "#cb181d"
         },
         "contest_partisan_style": "nonpartisan_ideology",
         "dem_label": "Liberal",
         "rep_label": "Conservative"
       },
       "7": {
-        "dem_votes": 0,
-        "rep_votes": 0,
-        "other_votes": 173456,
-        "total_votes": 173456,
-        "dem_candidate": "",
-        "rep_candidate": "",
-        "margin": 0,
-        "margin_pct": 0.0,
-        "winner": "TIE",
+        "dem_votes": 85652,
+        "rep_votes": 87700,
+        "other_votes": 150,
+        "total_votes": 173503,
+        "dem_candidate": "Joanne F. Kloppenburg",
+        "rep_candidate": "David T. Prosser, Jr.",
+        "margin": 2048,
+        "margin_pct": 1.1805662251792641,
+        "winner": "REP",
         "competitiveness": {
-          "color": "#9ca3af"
+          "color": "#fcbba1"
         },
         "contest_partisan_style": "nonpartisan_ideology",
         "dem_label": "Liberal",
         "rep_label": "Conservative"
       },
       "8": {
-        "dem_votes": 0,
-        "rep_votes": 0,
-        "other_votes": 166512,
-        "total_votes": 166512,
-        "dem_candidate": "",
-        "rep_candidate": "",
-        "margin": 0,
-        "margin_pct": 0.0,
-        "winner": "TIE",
+        "dem_votes": 72410,
+        "rep_votes": 93848,
+        "other_votes": 189,
+        "total_votes": 166448,
+        "dem_candidate": "Joanne F. Kloppenburg",
+        "rep_candidate": "David T. Prosser, Jr.",
+        "margin": 21438,
+        "margin_pct": 12.879700919448508,
+        "winner": "REP",
         "competitiveness": {
-          "color": "#9ca3af"
+          "color": "#cb181d"
         },
         "contest_partisan_style": "nonpartisan_ideology",
         "dem_label": "Liberal",
         "rep_label": "Conservative"
       }
-    }
+    },
+    "election_type": "spring"
   }
 }

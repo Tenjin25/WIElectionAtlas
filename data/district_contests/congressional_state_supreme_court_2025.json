@@ -2,14 +2,14 @@
   "general": {
     "results": {
       "1": {
-        "dem_votes": 137814,
-        "rep_votes": 122083,
+        "dem_votes": 137853,
+        "rep_votes": 122139,
         "other_votes": 218,
-        "total_votes": 260115,
+        "total_votes": 260210,
         "dem_candidate": "Susan Crawford",
         "rep_candidate": "Brad Schimel",
-        "margin": -15731,
-        "margin_pct": -6.047774890055713,
+        "margin": -15714,
+        "margin_pct": -6.038858467336212,
         "winner": "DEM",
         "competitiveness": {
           "color": "#6baed6"
@@ -19,14 +19,14 @@
         "rep_label": "Conservative"
       },
       "2": {
-        "dem_votes": 273671,
-        "rep_votes": 82057,
+        "dem_votes": 273679,
+        "rep_votes": 82068,
         "other_votes": 225,
-        "total_votes": 355953,
+        "total_votes": 355972,
         "dem_candidate": "Susan Crawford",
         "rep_candidate": "Brad Schimel",
-        "margin": -191614,
-        "margin_pct": -53.83117294943093,
+        "margin": -191611,
+        "margin_pct": -53.827555891566924,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -36,14 +36,14 @@
         "rep_label": "Conservative"
       },
       "3": {
-        "dem_votes": 152518,
-        "rep_votes": 131008,
+        "dem_votes": 152487,
+        "rep_votes": 130974,
         "other_votes": 169,
-        "total_votes": 283695,
+        "total_votes": 283629,
         "dem_candidate": "Susan Crawford",
         "rep_candidate": "Brad Schimel",
-        "margin": -21510,
-        "margin_pct": -7.582199270060472,
+        "margin": -21513,
+        "margin_pct": -7.584784209534208,
         "winner": "DEM",
         "competitiveness": {
           "color": "#6baed6"
@@ -53,14 +53,14 @@
         "rep_label": "Conservative"
       },
       "4": {
-        "dem_votes": 179283,
-        "rep_votes": 42643,
+        "dem_votes": 179065,
+        "rep_votes": 42482,
         "other_votes": 184,
-        "total_votes": 222110,
+        "total_votes": 221731,
         "dem_candidate": "Susan Crawford",
         "rep_candidate": "Brad Schimel",
-        "margin": -136640,
-        "margin_pct": -61.5190671289001,
+        "margin": -136583,
+        "margin_pct": -61.59834511071698,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -70,14 +70,14 @@
         "rep_label": "Conservative"
       },
       "5": {
-        "dem_votes": 137508,
-        "rep_votes": 194535,
+        "dem_votes": 137688,
+        "rep_votes": 194644,
         "other_votes": 163,
-        "total_votes": 332206,
+        "total_votes": 332495,
         "dem_candidate": "Susan Crawford",
         "rep_candidate": "Brad Schimel",
-        "margin": 57027,
-        "margin_pct": 17.16619790692966,
+        "margin": 56956,
+        "margin_pct": 17.129732964076666,
         "winner": "REP",
         "competitiveness": {
           "color": "#cb181d"
@@ -87,14 +87,14 @@
         "rep_label": "Conservative"
       },
       "6": {
-        "dem_votes": 135760,
-        "rep_votes": 156695,
+        "dem_votes": 135795,
+        "rep_votes": 156762,
         "other_votes": 147,
-        "total_votes": 292601,
+        "total_votes": 292704,
         "dem_candidate": "Susan Crawford",
         "rep_candidate": "Brad Schimel",
-        "margin": 20934,
-        "margin_pct": 7.154596937992623,
+        "margin": 20966,
+        "margin_pct": 7.163036554198827,
         "winner": "REP",
         "competitiveness": {
           "color": "#fb6a4a"
@@ -104,14 +104,14 @@
         "rep_label": "Conservative"
       },
       "7": {
-        "dem_votes": 128803,
-        "rep_votes": 166996,
+        "dem_votes": 128824,
+        "rep_votes": 167014,
         "other_votes": 155,
-        "total_votes": 295954,
+        "total_votes": 295993,
         "dem_candidate": "Susan Crawford",
         "rep_candidate": "Brad Schimel",
-        "margin": 38193,
-        "margin_pct": 12.905135793503227,
+        "margin": 38190,
+        "margin_pct": 12.90229545142604,
         "winner": "REP",
         "competitiveness": {
           "color": "#cb181d"
@@ -121,14 +121,14 @@
         "rep_label": "Conservative"
       },
       "8": {
-        "dem_votes": 132149,
-        "rep_votes": 150064,
+        "dem_votes": 132115,
+        "rep_votes": 149999,
         "other_votes": 125,
-        "total_votes": 282339,
+        "total_votes": 282239,
         "dem_candidate": "Susan Crawford",
         "rep_candidate": "Brad Schimel",
-        "margin": 17915,
-        "margin_pct": 6.345367342467586,
+        "margin": 17883,
+        "margin_pct": 6.336298840933281,
         "winner": "REP",
         "competitiveness": {
           "color": "#fb6a4a"
@@ -137,6 +137,7 @@
         "dem_label": "Liberal",
         "rep_label": "Conservative"
       }
-    }
+    },
+    "election_type": "spring"
   }
 }

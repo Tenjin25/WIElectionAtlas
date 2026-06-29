@@ -1,0 +1,217 @@
+{
+  "general": {
+    "results": {
+      "24": {
+        "dem_votes": 680,
+        "rep_votes": 2079,
+        "other_votes": 2,
+        "total_votes": 2761,
+        "dem_candidate": "Rick Aaron",
+        "rep_candidate": "Duey Stroebel",
+        "margin": 1400,
+        "margin_pct": 50.701334262427444,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "43": {
+        "dem_votes": 176,
+        "rep_votes": 0,
+        "other_votes": 18,
+        "total_votes": 194,
+        "dem_candidate": "Chris Taylor",
+        "rep_candidate": "",
+        "margin": -176,
+        "margin_pct": -90.72164948453609,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "46": {
+        "dem_votes": 152,
+        "rep_votes": 0,
+        "other_votes": 9,
+        "total_votes": 161,
+        "dem_candidate": "Chris Taylor",
+        "rep_candidate": "",
+        "margin": -152,
+        "margin_pct": -94.40993788819875,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "47": {
+        "dem_votes": 2417,
+        "rep_votes": 0,
+        "other_votes": 164,
+        "total_votes": 2580,
+        "dem_candidate": "Chris Taylor",
+        "rep_candidate": "",
+        "margin": -2417,
+        "margin_pct": -93.65063116816759,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "48": {
+        "dem_votes": 2119,
+        "rep_votes": 0,
+        "other_votes": 81,
+        "total_votes": 2201,
+        "dem_candidate": "Chris Taylor",
+        "rep_candidate": "",
+        "margin": -2119,
+        "margin_pct": -96.31199379988401,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "58": {
+        "dem_votes": 0,
+        "rep_votes": 2,
+        "other_votes": 0,
+        "total_votes": 2,
+        "dem_candidate": "Rick Aaron",
+        "rep_candidate": "Duey Stroebel",
+        "margin": 2,
+        "margin_pct": 100.0,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "60": {
+        "dem_votes": 1259,
+        "rep_votes": 4046,
+        "other_votes": 12,
+        "total_votes": 5317,
+        "dem_candidate": "Rick Aaron",
+        "rep_candidate": "Duey Stroebel",
+        "margin": 2786,
+        "margin_pct": 52.400496155658416,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "62": {
+        "dem_votes": 172,
+        "rep_votes": 639,
+        "other_votes": 1,
+        "total_votes": 812,
+        "dem_candidate": "James Brownlow",
+        "rep_candidate": "Dave Craig",
+        "margin": 467,
+        "margin_pct": 57.49999999999999,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "70": {
+        "dem_votes": 181,
+        "rep_votes": 192,
+        "other_votes": 0,
+        "total_votes": 373,
+        "dem_candidate": "Steve Doyle",
+        "rep_candidate": "John Lautz",
+        "margin": 11,
+        "margin_pct": 2.9472151085755214,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "76": {
+        "dem_votes": 103,
+        "rep_votes": 0,
+        "other_votes": 4,
+        "total_votes": 107,
+        "dem_candidate": "Chris Taylor",
+        "rep_candidate": "",
+        "margin": -103,
+        "margin_pct": -96.26168224299066,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "82": {
+        "dem_votes": 491,
+        "rep_votes": 1345,
+        "other_votes": 1,
+        "total_votes": 1838,
+        "dem_candidate": "James Brownlow",
+        "rep_candidate": "Dave Craig",
+        "margin": 854,
+        "margin_pct": 46.476190476190474,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "83": {
+        "dem_votes": 1814,
+        "rep_votes": 4918,
+        "other_votes": 1,
+        "total_votes": 6734,
+        "dem_candidate": "James Brownlow",
+        "rep_candidate": "Dave Craig",
+        "margin": 3103,
+        "margin_pct": 46.08450285884012,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "94": {
+        "dem_votes": 7470,
+        "rep_votes": 6473,
+        "other_votes": 8,
+        "total_votes": 13952,
+        "dem_candidate": "Steve Doyle",
+        "rep_candidate": "John Lautz",
+        "margin": -997,
+        "margin_pct": -7.14619536382008,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "95": {
+        "dem_votes": 6497,
+        "rep_votes": 2613,
+        "other_votes": 9,
+        "total_votes": 9118,
+        "dem_candidate": "Steve Doyle",
+        "rep_candidate": "John Lautz",
+        "margin": -3884,
+        "margin_pct": -42.59598884207259,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "96": {
+        "dem_votes": 158,
+        "rep_votes": 186,
+        "other_votes": 0,
+        "total_votes": 344,
+        "dem_candidate": "Steve Doyle",
+        "rep_candidate": "John Lautz",
+        "margin": 28,
+        "margin_pct": 8.13953488372093,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      }
+    },
+    "election_type": "special_general"
+  }
+}

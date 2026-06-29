@@ -2,14 +2,14 @@
   "general": {
     "results": {
       "1": {
-        "dem_votes": 28456,
-        "rep_votes": 48550,
-        "other_votes": 774,
-        "total_votes": 77780,
+        "dem_votes": 28682,
+        "rep_votes": 48970,
+        "other_votes": 780,
+        "total_votes": 78432,
         "dem_candidate": "Mary Burke & John Lehman",
         "rep_candidate": "Scott Walker & Rebecca Kleefisch",
-        "margin": 20093,
-        "margin_pct": 25.83380410093777,
+        "margin": 20288,
+        "margin_pct": 25.866602123333355,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
@@ -37,49 +37,49 @@
         "dem_candidate": "Mary Burke & John Lehman",
         "rep_candidate": "Scott Walker & Rebecca Kleefisch",
         "margin": 20176,
-        "margin_pct": 32.59520937446149,
+        "margin_pct": 32.59520968947939,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
         }
       },
       "12": {
-        "dem_votes": 30019,
-        "rep_votes": 46986,
-        "other_votes": 961,
-        "total_votes": 77966,
+        "dem_votes": 29934,
+        "rep_votes": 46869,
+        "other_votes": 960,
+        "total_votes": 77763,
         "dem_candidate": "Mary Burke & John Lehman",
         "rep_candidate": "Scott Walker & Rebecca Kleefisch",
-        "margin": 16967,
-        "margin_pct": 21.762050124413207,
+        "margin": 16935,
+        "margin_pct": 21.778276400313896,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
         }
       },
       "13": {
-        "dem_votes": 25900,
-        "rep_votes": 45337,
+        "dem_votes": 25899,
+        "rep_votes": 45336,
         "other_votes": 805,
-        "total_votes": 72042,
+        "total_votes": 72040,
         "dem_candidate": "Mary Burke & John Lehman",
         "rep_candidate": "Scott Walker & Rebecca Kleefisch",
         "margin": 19437,
-        "margin_pct": 26.98097624286001,
+        "margin_pct": 26.9814127272518,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
         }
       },
       "14": {
-        "dem_votes": 37102,
-        "rep_votes": 32767,
+        "dem_votes": 37104,
+        "rep_votes": 32766,
         "other_votes": 929,
-        "total_votes": 70798,
+        "total_votes": 70799,
         "dem_candidate": "Mary Burke & John Lehman",
         "rep_candidate": "Scott Walker & Rebecca Kleefisch",
-        "margin": -4336,
-        "margin_pct": -6.123738934225069,
+        "margin": -4338,
+        "margin_pct": -6.127205536902713,
         "winner": "DEM",
         "competitiveness": {
           "color": "#6baed6"
@@ -100,14 +100,14 @@
         }
       },
       "16": {
-        "dem_votes": 44161,
-        "rep_votes": 29963,
+        "dem_votes": 44164,
+        "rep_votes": 29965,
         "other_votes": 840,
-        "total_votes": 74964,
+        "total_votes": 74970,
         "dem_candidate": "Mary Burke & John Lehman",
         "rep_candidate": "Scott Walker & Rebecca Kleefisch",
-        "margin": -14198,
-        "margin_pct": -18.939427793915105,
+        "margin": -14199,
+        "margin_pct": -18.93961587626522,
         "winner": "DEM",
         "competitiveness": {
           "color": "#2171b5"
@@ -128,98 +128,98 @@
         }
       },
       "18": {
-        "dem_votes": 32204,
-        "rep_votes": 35447,
-        "other_votes": 1153,
-        "total_votes": 68804,
+        "dem_votes": 32329,
+        "rep_votes": 35654,
+        "other_votes": 1157,
+        "total_votes": 69139,
         "dem_candidate": "Mary Burke & John Lehman",
         "rep_candidate": "Scott Walker & Rebecca Kleefisch",
-        "margin": 3243,
-        "margin_pct": 4.71359514015,
+        "margin": 3325,
+        "margin_pct": 4.8090033704701565,
         "winner": "REP",
         "competitiveness": {
           "color": "#fcbba1"
         }
       },
       "19": {
-        "dem_votes": 24988,
-        "rep_votes": 44628,
+        "dem_votes": 24990,
+        "rep_votes": 44631,
         "other_votes": 728,
-        "total_votes": 70345,
+        "total_votes": 70349,
         "dem_candidate": "Mary Burke & John Lehman",
         "rep_candidate": "Scott Walker & Rebecca Kleefisch",
-        "margin": 19640,
-        "margin_pct": 27.919197854374183,
+        "margin": 19641,
+        "margin_pct": 27.918962261421054,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
         }
       },
       "2": {
-        "dem_votes": 24566,
-        "rep_votes": 43991,
+        "dem_votes": 24574,
+        "rep_votes": 44003,
         "other_votes": 739,
-        "total_votes": 69296,
+        "total_votes": 69316,
         "dem_candidate": "Mary Burke & John Lehman",
         "rep_candidate": "Scott Walker & Rebecca Kleefisch",
-        "margin": 19425,
-        "margin_pct": 28.032267219525803,
+        "margin": 19429,
+        "margin_pct": 28.029839563632038,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
         }
       },
       "20": {
-        "dem_votes": 21443,
-        "rep_votes": 54630,
-        "other_votes": 663,
-        "total_votes": 76736,
+        "dem_votes": 21363,
+        "rep_votes": 54295,
+        "other_votes": 659,
+        "total_votes": 76317,
         "dem_candidate": "Mary Burke & John Lehman",
         "rep_candidate": "Scott Walker & Rebecca Kleefisch",
-        "margin": 33188,
-        "margin_pct": 43.2494350746327,
+        "margin": 32933,
+        "margin_pct": 43.1527643003988,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
         }
       },
       "21": {
-        "dem_votes": 32080,
-        "rep_votes": 40781,
-        "other_votes": 823,
-        "total_votes": 73684,
+        "dem_votes": 32852,
+        "rep_votes": 41479,
+        "other_votes": 846,
+        "total_votes": 75177,
         "dem_candidate": "Mary Burke & John Lehman",
         "rep_candidate": "Scott Walker & Rebecca Kleefisch",
-        "margin": 8701,
-        "margin_pct": 11.808453609646534,
+        "margin": 8626,
+        "margin_pct": 11.474679413686122,
         "winner": "REP",
         "competitiveness": {
           "color": "#cb181d"
         }
       },
       "22": {
-        "dem_votes": 15920,
-        "rep_votes": 14852,
-        "other_votes": 344,
-        "total_votes": 31116,
+        "dem_votes": 15481,
+        "rep_votes": 14705,
+        "other_votes": 332,
+        "total_votes": 30517,
         "dem_candidate": "Mary Burke & John Lehman",
         "rep_candidate": "Scott Walker & Rebecca Kleefisch",
-        "margin": -1068,
-        "margin_pct": -3.4323361632609335,
+        "margin": -776,
+        "margin_pct": -2.543284755514994,
         "winner": "DEM",
         "competitiveness": {
           "color": "#c6dbef"
         }
       },
       "23": {
-        "dem_votes": 24115,
-        "rep_votes": 40018,
+        "dem_votes": 24116,
+        "rep_votes": 40019,
         "other_votes": 832,
-        "total_votes": 64965,
+        "total_votes": 64966,
         "dem_candidate": "Mary Burke & John Lehman",
         "rep_candidate": "Scott Walker & Rebecca Kleefisch",
         "margin": 15903,
-        "margin_pct": 24.479624044005206,
+        "margin_pct": 24.478831509541234,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
@@ -233,7 +233,7 @@
         "dem_candidate": "Mary Burke & John Lehman",
         "rep_candidate": "Scott Walker & Rebecca Kleefisch",
         "margin": 2667,
-        "margin_pct": 3.8646012954456537,
+        "margin_pct": 3.8646154607608922,
         "winner": "REP",
         "competitiveness": {
           "color": "#fcbba1"
@@ -254,28 +254,28 @@
         }
       },
       "26": {
-        "dem_votes": 65133,
-        "rep_votes": 15536,
-        "other_votes": 1095,
-        "total_votes": 81764,
+        "dem_votes": 65115,
+        "rep_votes": 15533,
+        "other_votes": 1094,
+        "total_votes": 81742,
         "dem_candidate": "Mary Burke & John Lehman",
         "rep_candidate": "Scott Walker & Rebecca Kleefisch",
-        "margin": -49597,
-        "margin_pct": -60.658969717724176,
+        "margin": -49582,
+        "margin_pct": -60.65644877362958,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
         }
       },
       "27": {
-        "dem_votes": 57360,
-        "rep_votes": 26290,
+        "dem_votes": 57374,
+        "rep_votes": 26293,
         "other_votes": 815,
-        "total_votes": 84465,
+        "total_votes": 84482,
         "dem_candidate": "Mary Burke & John Lehman",
         "rep_candidate": "Scott Walker & Rebecca Kleefisch",
-        "margin": -31070,
-        "margin_pct": -36.784466938968805,
+        "margin": -31081,
+        "margin_pct": -36.79076432648947,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -288,8 +288,8 @@
         "total_votes": 85303,
         "dem_candidate": "Mary Burke & John Lehman",
         "rep_candidate": "Scott Walker & Rebecca Kleefisch",
-        "margin": 35820,
-        "margin_pct": 41.9922599099383,
+        "margin": 35821,
+        "margin_pct": 41.992265367922116,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
@@ -310,42 +310,42 @@
         }
       },
       "3": {
-        "dem_votes": 26376,
+        "dem_votes": 26360,
         "rep_votes": 16932,
         "other_votes": 584,
-        "total_votes": 43892,
+        "total_votes": 43875,
         "dem_candidate": "Mary Burke & John Lehman",
         "rep_candidate": "Scott Walker & Rebecca Kleefisch",
-        "margin": -9444,
-        "margin_pct": -21.516449466873233,
+        "margin": -9428,
+        "margin_pct": -21.487226530834892,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
         }
       },
       "30": {
-        "dem_votes": 25511,
+        "dem_votes": 25510,
         "rep_votes": 30117,
         "other_votes": 753,
-        "total_votes": 56382,
+        "total_votes": 56380,
         "dem_candidate": "Mary Burke & John Lehman",
         "rep_candidate": "Scott Walker & Rebecca Kleefisch",
         "margin": 4606,
-        "margin_pct": 8.169901312629234,
+        "margin_pct": 8.169851899999003,
         "winner": "REP",
         "competitiveness": {
           "color": "#fb6a4a"
         }
       },
       "31": {
-        "dem_votes": 33460,
-        "rep_votes": 33459,
+        "dem_votes": 33459,
+        "rep_votes": 33458,
         "other_votes": 955,
-        "total_votes": 67874,
+        "total_votes": 67873,
         "dem_candidate": "Mary Burke & John Lehman",
         "rep_candidate": "Scott Walker & Rebecca Kleefisch",
         "margin": -1,
-        "margin_pct": -0.0017679831511270014,
+        "margin_pct": -0.001511594311002243,
         "winner": "DEM",
         "competitiveness": {
           "color": "#c6dbef"
@@ -373,21 +373,21 @@
         "dem_candidate": "Mary Burke & John Lehman",
         "rep_candidate": "Scott Walker & Rebecca Kleefisch",
         "margin": 48258,
-        "margin_pct": 52.773875108570756,
+        "margin_pct": 52.773849504484915,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
         }
       },
       "4": {
-        "dem_votes": 59172,
-        "rep_votes": 13870,
+        "dem_votes": 59177,
+        "rep_votes": 13872,
         "other_votes": 638,
-        "total_votes": 73680,
+        "total_votes": 73687,
         "dem_candidate": "Mary Burke & John Lehman",
         "rep_candidate": "Scott Walker & Rebecca Kleefisch",
-        "margin": -45302,
-        "margin_pct": -61.48589499114407,
+        "margin": -45305,
+        "margin_pct": -61.482712292582555,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -397,72 +397,73 @@
         "dem_votes": 30507,
         "rep_votes": 53731,
         "other_votes": 796,
-        "total_votes": 85034,
+        "total_votes": 85033,
         "dem_candidate": "Mary Burke & John Lehman",
         "rep_candidate": "Scott Walker & Rebecca Kleefisch",
         "margin": 23224,
-        "margin_pct": 27.31142836982854,
+        "margin_pct": 27.311328662943197,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
         }
       },
       "6": {
-        "dem_votes": 59477,
-        "rep_votes": 12012,
-        "other_votes": 680,
-        "total_votes": 72169,
+        "dem_votes": 59501,
+        "rep_votes": 12020,
+        "other_votes": 681,
+        "total_votes": 72202,
         "dem_candidate": "Mary Burke & John Lehman",
         "rep_candidate": "Scott Walker & Rebecca Kleefisch",
-        "margin": -47465,
-        "margin_pct": -65.7692360986019,
+        "margin": -47480,
+        "margin_pct": -65.76093098488072,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
         }
       },
       "7": {
-        "dem_votes": 40611,
-        "rep_votes": 32178,
-        "other_votes": 1085,
-        "total_votes": 73874,
+        "dem_votes": 40265,
+        "rep_votes": 31617,
+        "other_votes": 1074,
+        "total_votes": 72957,
         "dem_candidate": "Mary Burke & John Lehman",
         "rep_candidate": "Scott Walker & Rebecca Kleefisch",
-        "margin": -8433,
-        "margin_pct": -11.415382949346183,
+        "margin": -8649,
+        "margin_pct": -11.854457817745596,
         "winner": "DEM",
         "competitiveness": {
           "color": "#2171b5"
         }
       },
       "8": {
-        "dem_votes": 30376,
-        "rep_votes": 56572,
-        "other_votes": 688,
-        "total_votes": 87637,
+        "dem_votes": 30377,
+        "rep_votes": 56573,
+        "other_votes": 689,
+        "total_votes": 87638,
         "dem_candidate": "Mary Burke & John Lehman",
         "rep_candidate": "Scott Walker & Rebecca Kleefisch",
         "margin": 26196,
-        "margin_pct": 29.891113653155475,
+        "margin_pct": 29.891276949270424,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
         }
       },
       "9": {
-        "dem_votes": 28096,
-        "rep_votes": 45673,
+        "dem_votes": 28073,
+        "rep_votes": 45740,
         "other_votes": 878,
-        "total_votes": 74647,
+        "total_votes": 74691,
         "dem_candidate": "Mary Burke & John Lehman",
         "rep_candidate": "Scott Walker & Rebecca Kleefisch",
-        "margin": 17577,
-        "margin_pct": 23.546827066057578,
+        "margin": 17667,
+        "margin_pct": 23.653116498975038,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
         }
       }
-    }
+    },
+    "election_type": "general"
   }
 }

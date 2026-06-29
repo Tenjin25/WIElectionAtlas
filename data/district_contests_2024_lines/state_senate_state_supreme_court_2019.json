@@ -2,14 +2,14 @@
   "general": {
     "results": {
       "1": {
-        "dem_votes": 16950,
-        "rep_votes": 23501,
+        "dem_votes": 17158,
+        "rep_votes": 23814,
         "other_votes": 10,
-        "total_votes": 40461,
+        "total_votes": 40982,
         "dem_candidate": "Lisa Neubauer",
         "rep_candidate": "Brian Hagedorn",
-        "margin": 6551,
-        "margin_pct": 16.190761788325865,
+        "margin": 6657,
+        "margin_pct": 16.242727556304974,
         "winner": "REP",
         "competitiveness": {
           "color": "#cb181d"
@@ -43,7 +43,7 @@
         "dem_candidate": "Lisa Neubauer",
         "rep_candidate": "Brian Hagedorn",
         "margin": 9462,
-        "margin_pct": 27.831867517722152,
+        "margin_pct": 27.831504195630092,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
@@ -53,14 +53,14 @@
         "rep_label": "Conservative"
       },
       "12": {
-        "dem_votes": 15231,
-        "rep_votes": 23629,
+        "dem_votes": 15183,
+        "rep_votes": 23552,
         "other_votes": 21,
-        "total_votes": 38881,
+        "total_votes": 38755,
         "dem_candidate": "Lisa Neubauer",
         "rep_candidate": "Brian Hagedorn",
-        "margin": 8398,
-        "margin_pct": 21.599238702708266,
+        "margin": 8369,
+        "margin_pct": 21.593533121970314,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
@@ -71,13 +71,13 @@
       },
       "13": {
         "dem_votes": 13179,
-        "rep_votes": 23278,
+        "rep_votes": 23277,
         "other_votes": 6,
         "total_votes": 36462,
         "dem_candidate": "Lisa Neubauer",
         "rep_candidate": "Brian Hagedorn",
         "margin": 10098,
-        "margin_pct": 27.69557764826877,
+        "margin_pct": 27.695998475326018,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
@@ -90,11 +90,11 @@
         "dem_votes": 21995,
         "rep_votes": 16256,
         "other_votes": 22,
-        "total_votes": 38274,
+        "total_votes": 38273,
         "dem_candidate": "Lisa Neubauer",
         "rep_candidate": "Brian Hagedorn",
-        "margin": -5739,
-        "margin_pct": -14.994055939488158,
+        "margin": -5740,
+        "margin_pct": -14.996350392563542,
         "winner": "DEM",
         "competitiveness": {
           "color": "#2171b5"
@@ -121,14 +121,14 @@
         "rep_label": "Conservative"
       },
       "16": {
-        "dem_votes": 27284,
-        "rep_votes": 13886,
+        "dem_votes": 27288,
+        "rep_votes": 13887,
         "other_votes": 39,
-        "total_votes": 41209,
+        "total_votes": 41215,
         "dem_candidate": "Lisa Neubauer",
         "rep_candidate": "Brian Hagedorn",
-        "margin": -13399,
-        "margin_pct": -32.51387226194714,
+        "margin": -13401,
+        "margin_pct": -32.515432022722656,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -138,14 +138,14 @@
         "rep_label": "Conservative"
       },
       "17": {
-        "dem_votes": 22296,
+        "dem_votes": 22295,
         "rep_votes": 14938,
         "other_votes": 23,
-        "total_votes": 37257,
+        "total_votes": 37255,
         "dem_candidate": "Lisa Neubauer",
         "rep_candidate": "Brian Hagedorn",
-        "margin": -7358,
-        "margin_pct": -19.749308854711867,
+        "margin": -7357,
+        "margin_pct": -19.748400644470504,
         "winner": "DEM",
         "competitiveness": {
           "color": "#2171b5"
@@ -158,11 +158,11 @@
         "dem_votes": 16359,
         "rep_votes": 14064,
         "other_votes": 20,
-        "total_votes": 30443,
+        "total_votes": 30442,
         "dem_candidate": "Lisa Neubauer",
         "rep_candidate": "Brian Hagedorn",
         "margin": -2295,
-        "margin_pct": -7.53834645516455,
+        "margin_pct": -7.53880221977912,
         "winner": "DEM",
         "competitiveness": {
           "color": "#6baed6"
@@ -173,13 +173,13 @@
       },
       "19": {
         "dem_votes": 14190,
-        "rep_votes": 23392,
+        "rep_votes": 23391,
         "other_votes": 16,
         "total_votes": 37598,
         "dem_candidate": "Lisa Neubauer",
         "rep_candidate": "Brian Hagedorn",
         "margin": 9201,
-        "margin_pct": 24.472395556595263,
+        "margin_pct": 24.472510394973643,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
@@ -189,14 +189,14 @@
         "rep_label": "Conservative"
       },
       "2": {
-        "dem_votes": 12448,
-        "rep_votes": 21210,
+        "dem_votes": 12452,
+        "rep_votes": 21214,
         "other_votes": 7,
-        "total_votes": 33664,
+        "total_votes": 33673,
         "dem_candidate": "Lisa Neubauer",
         "rep_candidate": "Brian Hagedorn",
         "margin": 8762,
-        "margin_pct": 26.026868265296272,
+        "margin_pct": 26.0212280438282,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
@@ -206,14 +206,14 @@
         "rep_label": "Conservative"
       },
       "20": {
-        "dem_votes": 12889,
-        "rep_votes": 30993,
+        "dem_votes": 12949,
+        "rep_votes": 31012,
         "other_votes": 4,
-        "total_votes": 43885,
+        "total_votes": 43964,
         "dem_candidate": "Lisa Neubauer",
         "rep_candidate": "Brian Hagedorn",
-        "margin": 18104,
-        "margin_pct": 41.25335533001863,
+        "margin": 18063,
+        "margin_pct": 41.085959934064086,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
@@ -223,14 +223,14 @@
         "rep_label": "Conservative"
       },
       "21": {
-        "dem_votes": 15968,
-        "rep_votes": 19856,
+        "dem_votes": 16531,
+        "rep_votes": 20247,
         "other_votes": 38,
-        "total_votes": 35861,
+        "total_votes": 36817,
         "dem_candidate": "Lisa Neubauer",
         "rep_candidate": "Brian Hagedorn",
-        "margin": 3888,
-        "margin_pct": 10.84124007445466,
+        "margin": 3716,
+        "margin_pct": 10.093332313312922,
         "winner": "REP",
         "competitiveness": {
           "color": "#cb181d"
@@ -240,14 +240,14 @@
         "rep_label": "Conservative"
       },
       "22": {
-        "dem_votes": 13170,
-        "rep_votes": 11443,
+        "dem_votes": 12776,
+        "rep_votes": 11282,
         "other_votes": 14,
-        "total_votes": 24627,
+        "total_votes": 24072,
         "dem_candidate": "Lisa Neubauer",
         "rep_candidate": "Brian Hagedorn",
-        "margin": -1727,
-        "margin_pct": -7.011542092600676,
+        "margin": -1494,
+        "margin_pct": -6.206397431736531,
         "winner": "DEM",
         "competitiveness": {
           "color": "#6baed6"
@@ -260,11 +260,11 @@
         "dem_votes": 12541,
         "rep_votes": 20713,
         "other_votes": 12,
-        "total_votes": 33266,
+        "total_votes": 33267,
         "dem_candidate": "Lisa Neubauer",
         "rep_candidate": "Brian Hagedorn",
         "margin": 8172,
-        "margin_pct": 24.566076077219527,
+        "margin_pct": 24.565408236025384,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
@@ -281,7 +281,7 @@
         "dem_candidate": "Lisa Neubauer",
         "rep_candidate": "Brian Hagedorn",
         "margin": 1037,
-        "margin_pct": 2.9884726224783864,
+        "margin_pct": 2.988528122508503,
         "winner": "REP",
         "competitiveness": {
           "color": "#fcbba1"
@@ -308,14 +308,14 @@
         "rep_label": "Conservative"
       },
       "26": {
-        "dem_votes": 45015,
-        "rep_votes": 5982,
+        "dem_votes": 45003,
+        "rep_votes": 5980,
         "other_votes": 65,
-        "total_votes": 51062,
+        "total_votes": 51049,
         "dem_candidate": "Lisa Neubauer",
         "rep_candidate": "Brian Hagedorn",
-        "margin": -39033,
-        "margin_pct": -76.44286320462187,
+        "margin": -39023,
+        "margin_pct": -76.44201977743673,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -325,14 +325,14 @@
         "rep_label": "Conservative"
       },
       "27": {
-        "dem_votes": 41205,
-        "rep_votes": 11045,
+        "dem_votes": 41214,
+        "rep_votes": 11046,
         "other_votes": 35,
-        "total_votes": 52285,
+        "total_votes": 52295,
         "dem_candidate": "Lisa Neubauer",
         "rep_candidate": "Brian Hagedorn",
-        "margin": -30160,
-        "margin_pct": -57.68384814000191,
+        "margin": -30168,
+        "margin_pct": -57.68763980302174,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -349,7 +349,7 @@
         "dem_candidate": "Lisa Neubauer",
         "rep_candidate": "Brian Hagedorn",
         "margin": 16948,
-        "margin_pct": 35.67567339996464,
+        "margin_pct": 35.675679554602624,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
@@ -376,14 +376,14 @@
         "rep_label": "Conservative"
       },
       "3": {
-        "dem_votes": 8990,
+        "dem_votes": 8989,
         "rep_votes": 6659,
         "other_votes": 14,
-        "total_votes": 15663,
+        "total_votes": 15662,
         "dem_candidate": "Lisa Neubauer",
         "rep_candidate": "Brian Hagedorn",
-        "margin": -2331,
-        "margin_pct": -14.882206473855582,
+        "margin": -2330,
+        "margin_pct": -14.877931913152617,
         "winner": "DEM",
         "competitiveness": {
           "color": "#2171b5"
@@ -393,14 +393,14 @@
         "rep_label": "Conservative"
       },
       "30": {
-        "dem_votes": 17273,
+        "dem_votes": 17272,
         "rep_votes": 16129,
         "other_votes": 27,
         "total_votes": 33428,
         "dem_candidate": "Lisa Neubauer",
         "rep_candidate": "Brian Hagedorn",
         "margin": -1144,
-        "margin_pct": -3.4210602414924662,
+        "margin_pct": -3.4209106780874103,
         "winner": "DEM",
         "competitiveness": {
           "color": "#c6dbef"
@@ -413,11 +413,11 @@
         "dem_votes": 17266,
         "rep_votes": 13860,
         "other_votes": 15,
-        "total_votes": 31141,
+        "total_votes": 31140,
         "dem_candidate": "Lisa Neubauer",
         "rep_candidate": "Brian Hagedorn",
         "margin": -3406,
-        "margin_pct": -10.938061963726046,
+        "margin_pct": -10.937958192521325,
         "winner": "DEM",
         "competitiveness": {
           "color": "#2171b5"
@@ -451,7 +451,7 @@
         "dem_candidate": "Lisa Neubauer",
         "rep_candidate": "Brian Hagedorn",
         "margin": 25085,
-        "margin_pct": 46.49443998061245,
+        "margin_pct": 46.49439015799438,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
@@ -461,14 +461,14 @@
         "rep_label": "Conservative"
       },
       "4": {
-        "dem_votes": 17658,
-        "rep_votes": 6001,
+        "dem_votes": 17660,
+        "rep_votes": 6002,
         "other_votes": 32,
-        "total_votes": 23691,
+        "total_votes": 23694,
         "dem_candidate": "Lisa Neubauer",
         "rep_candidate": "Brian Hagedorn",
-        "margin": -11657,
-        "margin_pct": -49.20433920054029,
+        "margin": -11658,
+        "margin_pct": -49.201948664032926,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -485,7 +485,7 @@
         "dem_candidate": "Lisa Neubauer",
         "rep_candidate": "Brian Hagedorn",
         "margin": 7045,
-        "margin_pct": 16.126816985235205,
+        "margin_pct": 16.126748598484408,
         "winner": "REP",
         "competitiveness": {
           "color": "#cb181d"
@@ -495,14 +495,14 @@
         "rep_label": "Conservative"
       },
       "6": {
-        "dem_votes": 16657,
-        "rep_votes": 4731,
+        "dem_votes": 16673,
+        "rep_votes": 4733,
         "other_votes": 30,
-        "total_votes": 21418,
+        "total_votes": 21435,
         "dem_candidate": "Lisa Neubauer",
         "rep_candidate": "Brian Hagedorn",
-        "margin": -11926,
-        "margin_pct": -55.682136520683535,
+        "margin": -11940,
+        "margin_pct": -55.70269919542392,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -512,14 +512,14 @@
         "rep_label": "Conservative"
       },
       "7": {
-        "dem_votes": 23957,
-        "rep_votes": 13583,
-        "other_votes": 24,
-        "total_votes": 37564,
+        "dem_votes": 23771,
+        "rep_votes": 13350,
+        "other_votes": 23,
+        "total_votes": 37145,
         "dem_candidate": "Lisa Neubauer",
         "rep_candidate": "Brian Hagedorn",
-        "margin": -10374,
-        "margin_pct": -27.61686721328932,
+        "margin": -10421,
+        "margin_pct": -28.0559710115782,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -529,14 +529,14 @@
         "rep_label": "Conservative"
       },
       "8": {
-        "dem_votes": 21592,
-        "rep_votes": 29230,
+        "dem_votes": 21482,
+        "rep_votes": 29010,
         "other_votes": 28,
-        "total_votes": 50849,
+        "total_votes": 50520,
         "dem_candidate": "Lisa Neubauer",
         "rep_candidate": "Brian Hagedorn",
-        "margin": 7638,
-        "margin_pct": 15.021362163650398,
+        "margin": 7528,
+        "margin_pct": 14.901936981751406,
         "winner": "REP",
         "competitiveness": {
           "color": "#cb181d"
@@ -546,14 +546,14 @@
         "rep_label": "Conservative"
       },
       "9": {
-        "dem_votes": 14101,
-        "rep_votes": 22111,
+        "dem_votes": 14086,
+        "rep_votes": 22144,
         "other_votes": 13,
-        "total_votes": 36225,
+        "total_votes": 36243,
         "dem_candidate": "Lisa Neubauer",
         "rep_candidate": "Brian Hagedorn",
-        "margin": 8010,
-        "margin_pct": 22.111801242236027,
+        "margin": 8058,
+        "margin_pct": 22.23301775221517,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
@@ -562,6 +562,7 @@
         "dem_label": "Liberal",
         "rep_label": "Conservative"
       }
-    }
+    },
+    "election_type": "spring"
   }
 }

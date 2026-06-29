@@ -3,13 +3,13 @@
     "results": {
       "1": {
         "dem_votes": 0,
-        "rep_votes": 51361,
-        "other_votes": 0,
-        "total_votes": 51361,
+        "rep_votes": 50615,
+        "other_votes": 766,
+        "total_votes": 51381,
         "dem_candidate": "",
         "rep_candidate": "Annette Ziegler",
-        "margin": 51361,
-        "margin_pct": 100.0,
+        "margin": 50615,
+        "margin_pct": 98.50921622744463,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
@@ -20,13 +20,13 @@
       },
       "2": {
         "dem_votes": 0,
-        "rep_votes": 77195,
-        "other_votes": 0,
-        "total_votes": 77195,
+        "rep_votes": 70304,
+        "other_votes": 6895,
+        "total_votes": 77200,
         "dem_candidate": "",
         "rep_candidate": "Annette Ziegler",
-        "margin": 77195,
-        "margin_pct": 100.0,
+        "margin": 70304,
+        "margin_pct": 91.06811385464142,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
@@ -37,13 +37,13 @@
       },
       "3": {
         "dem_votes": 0,
-        "rep_votes": 64097,
-        "other_votes": 0,
-        "total_votes": 64097,
+        "rep_votes": 63354,
+        "other_votes": 727,
+        "total_votes": 64082,
         "dem_candidate": "",
         "rep_candidate": "Annette Ziegler",
-        "margin": 64097,
-        "margin_pct": 100.0,
+        "margin": 63354,
+        "margin_pct": 98.86501037502006,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
@@ -54,13 +54,13 @@
       },
       "4": {
         "dem_votes": 0,
-        "rep_votes": 41632,
-        "other_votes": 0,
+        "rep_votes": 39230,
+        "other_votes": 2402,
         "total_votes": 41632,
         "dem_candidate": "",
         "rep_candidate": "Annette Ziegler",
-        "margin": 41632,
-        "margin_pct": 100.0,
+        "margin": 39230,
+        "margin_pct": 94.23055685098282,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
@@ -71,13 +71,13 @@
       },
       "5": {
         "dem_votes": 0,
-        "rep_votes": 61243,
-        "other_votes": 0,
-        "total_votes": 61243,
+        "rep_votes": 60229,
+        "other_votes": 993,
+        "total_votes": 61222,
         "dem_candidate": "",
         "rep_candidate": "Annette Ziegler",
-        "margin": 61243,
-        "margin_pct": 100.0,
+        "margin": 60229,
+        "margin_pct": 98.37858576116702,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
@@ -88,13 +88,13 @@
       },
       "6": {
         "dem_votes": 0,
-        "rep_votes": 67468,
-        "other_votes": 0,
-        "total_votes": 67468,
+        "rep_votes": 66537,
+        "other_votes": 971,
+        "total_votes": 67509,
         "dem_candidate": "",
         "rep_candidate": "Annette Ziegler",
-        "margin": 67468,
-        "margin_pct": 100.0,
+        "margin": 66537,
+        "margin_pct": 98.56092398320256,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
@@ -105,13 +105,13 @@
       },
       "7": {
         "dem_votes": 0,
-        "rep_votes": 74092,
-        "other_votes": 0,
-        "total_votes": 74092,
+        "rep_votes": 73237,
+        "other_votes": 865,
+        "total_votes": 74102,
         "dem_candidate": "",
         "rep_candidate": "Annette Ziegler",
-        "margin": 74092,
-        "margin_pct": 100.0,
+        "margin": 73237,
+        "margin_pct": 98.83311895144134,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
@@ -122,13 +122,13 @@
       },
       "8": {
         "dem_votes": 0,
-        "rep_votes": 67295,
-        "other_votes": 0,
-        "total_votes": 67295,
+        "rep_votes": 66746,
+        "other_votes": 510,
+        "total_votes": 67255,
         "dem_candidate": "",
         "rep_candidate": "Annette Ziegler",
-        "margin": 67295,
-        "margin_pct": 100.0,
+        "margin": 66746,
+        "margin_pct": 99.24243994885381,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
@@ -137,6 +137,7 @@
         "dem_label": "Liberal",
         "rep_label": "Conservative"
       }
-    }
+    },
+    "election_type": "spring"
   }
 }

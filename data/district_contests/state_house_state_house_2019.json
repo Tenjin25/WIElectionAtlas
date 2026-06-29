@@ -1,0 +1,77 @@
+{
+  "general": {
+    "results": {
+      "61": {
+        "dem_votes": 0,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 1,
+        "dem_candidate": "Tip McGuire",
+        "rep_candidate": "Mark Stalker",
+        "margin": 0,
+        "margin_pct": -4.925355562240416,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "63": {
+        "dem_votes": 58,
+        "rep_votes": 26,
+        "other_votes": 0,
+        "total_votes": 83,
+        "dem_candidate": "Tip McGuire",
+        "rep_candidate": "Mark Stalker",
+        "margin": -32,
+        "margin_pct": -38.55421686746988,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "64": {
+        "dem_votes": 3862,
+        "rep_votes": 2339,
+        "other_votes": 6,
+        "total_votes": 6207,
+        "dem_candidate": "Tip McGuire",
+        "rep_candidate": "Mark Stalker",
+        "margin": -1524,
+        "margin_pct": -24.549161934763355,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "65": {
+        "dem_votes": 152,
+        "rep_votes": 92,
+        "other_votes": 0,
+        "total_votes": 244,
+        "dem_candidate": "Tip McGuire",
+        "rep_candidate": "Mark Stalker",
+        "margin": -60,
+        "margin_pct": -24.59016393442623,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "66": {
+        "dem_votes": 24,
+        "rep_votes": 11,
+        "other_votes": 0,
+        "total_votes": 34,
+        "dem_candidate": "Tip McGuire",
+        "rep_candidate": "Mark Stalker",
+        "margin": -13,
+        "margin_pct": -38.55421686746988,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      }
+    },
+    "election_type": "special_general"
+  }
+}

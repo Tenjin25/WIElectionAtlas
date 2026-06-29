@@ -2,14 +2,14 @@
   "general": {
     "results": {
       "1": {
-        "dem_votes": 52581,
+        "dem_votes": 52332,
         "rep_votes": 0,
-        "other_votes": 0,
-        "total_votes": 52581,
+        "other_votes": 272,
+        "total_votes": 52604,
         "dem_candidate": "Ann W. Bradley",
         "rep_candidate": "",
-        "margin": -52581,
-        "margin_pct": -100.0,
+        "margin": -52332,
+        "margin_pct": -99.48271079028002,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -19,14 +19,14 @@
         "rep_label": "Conservative"
       },
       "2": {
-        "dem_votes": 56527,
+        "dem_votes": 56231,
         "rep_votes": 0,
-        "other_votes": 0,
-        "total_votes": 56527,
+        "other_votes": 293,
+        "total_votes": 56524,
         "dem_candidate": "Ann W. Bradley",
         "rep_candidate": "",
-        "margin": -56527,
-        "margin_pct": -100.0,
+        "margin": -56231,
+        "margin_pct": -99.48169307080748,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -36,14 +36,14 @@
         "rep_label": "Conservative"
       },
       "3": {
-        "dem_votes": 60752,
+        "dem_votes": 60440,
         "rep_votes": 0,
-        "other_votes": 0,
-        "total_votes": 60752,
+        "other_votes": 311,
+        "total_votes": 60751,
         "dem_candidate": "Ann W. Bradley",
         "rep_candidate": "",
-        "margin": -60752,
-        "margin_pct": -100.0,
+        "margin": -60440,
+        "margin_pct": -99.48808114253058,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -53,14 +53,14 @@
         "rep_label": "Conservative"
       },
       "4": {
-        "dem_votes": 33468,
+        "dem_votes": 33109,
         "rep_votes": 0,
-        "other_votes": 0,
-        "total_votes": 33468,
+        "other_votes": 379,
+        "total_votes": 33488,
         "dem_candidate": "Ann W. Bradley",
         "rep_candidate": "",
-        "margin": -33468,
-        "margin_pct": -100.0,
+        "margin": -33109,
+        "margin_pct": -98.86839597051203,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -70,14 +70,14 @@
         "rep_label": "Conservative"
       },
       "5": {
-        "dem_votes": 72548,
+        "dem_votes": 72167,
         "rep_votes": 0,
-        "other_votes": 0,
-        "total_votes": 72548,
+        "other_votes": 340,
+        "total_votes": 72507,
         "dem_candidate": "Ann W. Bradley",
         "rep_candidate": "",
-        "margin": -72548,
-        "margin_pct": -100.0,
+        "margin": -72167,
+        "margin_pct": -99.53112894076568,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -87,14 +87,14 @@
         "rep_label": "Conservative"
       },
       "6": {
-        "dem_votes": 74153,
+        "dem_votes": 73961,
         "rep_votes": 0,
-        "other_votes": 0,
-        "total_votes": 74153,
+        "other_votes": 227,
+        "total_votes": 74188,
         "dem_candidate": "Ann W. Bradley",
         "rep_candidate": "",
-        "margin": -74153,
-        "margin_pct": -100.0,
+        "margin": -73961,
+        "margin_pct": -99.69411718781956,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -104,14 +104,14 @@
         "rep_label": "Conservative"
       },
       "7": {
-        "dem_votes": 68428,
+        "dem_votes": 68272,
         "rep_votes": 0,
-        "other_votes": 0,
-        "total_votes": 68428,
+        "other_votes": 157,
+        "total_votes": 68429,
         "dem_candidate": "Ann W. Bradley",
         "rep_candidate": "",
-        "margin": -68428,
-        "margin_pct": -100.0,
+        "margin": -68272,
+        "margin_pct": -99.77056017189506,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -121,14 +121,14 @@
         "rep_label": "Conservative"
       },
       "8": {
-        "dem_votes": 66892,
+        "dem_votes": 66677,
         "rep_votes": 0,
-        "other_votes": 0,
-        "total_votes": 66892,
+        "other_votes": 181,
+        "total_votes": 66858,
         "dem_candidate": "Ann W. Bradley",
         "rep_candidate": "",
-        "margin": -66892,
-        "margin_pct": -100.0,
+        "margin": -66677,
+        "margin_pct": -99.72916863317664,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -137,6 +137,7 @@
         "dem_label": "Liberal",
         "rep_label": "Conservative"
       }
-    }
+    },
+    "election_type": "spring"
   }
 }

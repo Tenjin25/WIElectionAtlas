@@ -1,0 +1,175 @@
+{
+  "general": {
+    "results": {
+      "13": {
+        "dem_votes": 0,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 0,
+        "dem_candidate": "",
+        "rep_candidate": "Adam Neylon",
+        "margin": 0,
+        "margin_pct": 98.83720930232558,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "21": {
+        "dem_votes": 3318,
+        "rep_votes": 4211,
+        "other_votes": 7,
+        "total_votes": 7536,
+        "dem_candidate": "Elizabeth Coppola",
+        "rep_candidate": "Jessie Rodriguez",
+        "margin": 893,
+        "margin_pct": 11.852105113262885,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "22": {
+        "dem_votes": 0,
+        "rep_votes": 1202,
+        "other_votes": 2,
+        "total_votes": 1204,
+        "dem_candidate": "",
+        "rep_candidate": "Adam Neylon",
+        "margin": 1202,
+        "margin_pct": 99.83388704318938,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "62": {
+        "dem_votes": 123,
+        "rep_votes": 174,
+        "other_votes": 0,
+        "total_votes": 297,
+        "dem_candidate": "Elizabeth Coppola",
+        "rep_candidate": "Jessie Rodriguez",
+        "margin": 51,
+        "margin_pct": 17.111111111111114,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "68": {
+        "dem_votes": 88,
+        "rep_votes": 283,
+        "other_votes": 120,
+        "total_votes": 491,
+        "dem_candidate": "Kenneth A. Slezak",
+        "rep_candidate": "Bob Kulp",
+        "margin": 195,
+        "margin_pct": 39.71461761847748,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "69": {
+        "dem_votes": 1459,
+        "rep_votes": 4136,
+        "other_votes": 459,
+        "total_votes": 6055,
+        "dem_candidate": "Kenneth A. Slezak",
+        "rep_candidate": "Bob Kulp",
+        "margin": 2677,
+        "margin_pct": 44.207859196755386,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "82": {
+        "dem_votes": 1673,
+        "rep_votes": 3151,
+        "other_votes": 6,
+        "total_votes": 4830,
+        "dem_candidate": "John R. Hermes",
+        "rep_candidate": "Ken Skowronski",
+        "margin": 1478,
+        "margin_pct": 30.600414078674948,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "84": {
+        "dem_votes": 487,
+        "rep_votes": 699,
+        "other_votes": 0,
+        "total_votes": 1186,
+        "dem_candidate": "John R. Hermes",
+        "rep_candidate": "Ken Skowronski",
+        "margin": 212,
+        "margin_pct": 17.875210792580102,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "86": {
+        "dem_votes": 74,
+        "rep_votes": 152,
+        "other_votes": 17,
+        "total_votes": 242,
+        "dem_candidate": "Kenneth A. Slezak",
+        "rep_candidate": "Bob Kulp",
+        "margin": 78,
+        "margin_pct": 32.31563711283528,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "87": {
+        "dem_votes": 46,
+        "rep_votes": 99,
+        "other_votes": 7,
+        "total_votes": 152,
+        "dem_candidate": "Kenneth A. Slezak",
+        "rep_candidate": "Bob Kulp",
+        "margin": 53,
+        "margin_pct": 34.868421052631575,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "97": {
+        "dem_votes": 0,
+        "rep_votes": 2,
+        "other_votes": 0,
+        "total_votes": 2,
+        "dem_candidate": "",
+        "rep_candidate": "Adam Neylon",
+        "margin": 2,
+        "margin_pct": 99.79345626780139,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "98": {
+        "dem_votes": 0,
+        "rep_votes": 4802,
+        "other_votes": 39,
+        "total_votes": 4841,
+        "dem_candidate": "",
+        "rep_candidate": "Adam Neylon",
+        "margin": 4802,
+        "margin_pct": 99.19445748942424,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      }
+    },
+    "election_type": "special_general"
+  }
+}

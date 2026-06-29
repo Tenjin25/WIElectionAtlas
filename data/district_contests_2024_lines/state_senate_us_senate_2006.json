@@ -2,14 +2,14 @@
   "general": {
     "results": {
       "1": {
-        "dem_votes": 41833,
-        "rep_votes": 17720,
-        "other_votes": 1661,
-        "total_votes": 61214,
+        "dem_votes": 42393,
+        "rep_votes": 17979,
+        "other_votes": 1677,
+        "total_votes": 62048,
         "dem_candidate": "Herb Kohl",
         "rep_candidate": "Robert Gerald Lorge",
-        "margin": -24114,
-        "margin_pct": -39.39219028223236,
+        "margin": -24414,
+        "margin_pct": -39.34696323440786,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -31,55 +31,55 @@
       },
       "11": {
         "dem_votes": 29606,
-        "rep_votes": 20244,
+        "rep_votes": 20243,
         "other_votes": 1886,
         "total_votes": 51736,
         "dem_candidate": "Herb Kohl",
         "rep_candidate": "Robert Gerald Lorge",
         "margin": -9363,
-        "margin_pct": -18.097474703545853,
+        "margin_pct": -18.097468943970973,
         "winner": "DEM",
         "competitiveness": {
           "color": "#2171b5"
         }
       },
       "12": {
-        "dem_votes": 41325,
-        "rep_votes": 17892,
-        "other_votes": 1368,
-        "total_votes": 60585,
+        "dem_votes": 41157,
+        "rep_votes": 17829,
+        "other_votes": 1363,
+        "total_votes": 60350,
         "dem_candidate": "Herb Kohl",
         "rep_candidate": "Robert Gerald Lorge",
-        "margin": -23433,
-        "margin_pct": -38.677890566972025,
+        "margin": -23329,
+        "margin_pct": -38.65568878188128,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
         }
       },
       "13": {
-        "dem_votes": 32624,
+        "dem_votes": 32623,
         "rep_votes": 20532,
-        "other_votes": 1604,
-        "total_votes": 54760,
+        "other_votes": 1603,
+        "total_votes": 54758,
         "dem_candidate": "Herb Kohl",
         "rep_candidate": "Robert Gerald Lorge",
         "margin": -12092,
-        "margin_pct": -22.0827246165084,
+        "margin_pct": -22.082163555832867,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
         }
       },
       "14": {
-        "dem_votes": 35344,
-        "rep_votes": 12536,
+        "dem_votes": 35342,
+        "rep_votes": 12535,
         "other_votes": 1634,
-        "total_votes": 49514,
+        "total_votes": 49512,
         "dem_candidate": "Herb Kohl",
         "rep_candidate": "Robert Gerald Lorge",
-        "margin": -22809,
-        "margin_pct": -46.06571945025094,
+        "margin": -22807,
+        "margin_pct": -46.06391967542004,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -100,14 +100,14 @@
         }
       },
       "16": {
-        "dem_votes": 43932,
-        "rep_votes": 14613,
+        "dem_votes": 43941,
+        "rep_votes": 14614,
         "other_votes": 2370,
-        "total_votes": 60915,
+        "total_votes": 60925,
         "dem_candidate": "Herb Kohl",
         "rep_candidate": "Robert Gerald Lorge",
-        "margin": -29319,
-        "margin_pct": -48.13124769146884,
+        "margin": -29326,
+        "margin_pct": -48.134394689165624,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -128,98 +128,98 @@
         }
       },
       "18": {
-        "dem_votes": 41436,
-        "rep_votes": 17870,
-        "other_votes": 2056,
-        "total_votes": 61362,
+        "dem_votes": 41619,
+        "rep_votes": 17990,
+        "other_votes": 2064,
+        "total_votes": 61672,
         "dem_candidate": "Herb Kohl",
         "rep_candidate": "Robert Gerald Lorge",
-        "margin": -23566,
-        "margin_pct": -38.404384913009295,
+        "margin": -23629,
+        "margin_pct": -38.31422478167911,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
         }
       },
       "19": {
-        "dem_votes": 36582,
-        "rep_votes": 20804,
+        "dem_votes": 36584,
+        "rep_votes": 20806,
         "other_votes": 1680,
-        "total_votes": 59066,
+        "total_votes": 59070,
         "dem_candidate": "Herb Kohl",
         "rep_candidate": "Robert Gerald Lorge",
-        "margin": -15777,
-        "margin_pct": -26.7110242019453,
+        "margin": -15778,
+        "margin_pct": -26.710560701014156,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
         }
       },
       "2": {
-        "dem_votes": 37382,
-        "rep_votes": 17345,
+        "dem_votes": 37393,
+        "rep_votes": 17349,
         "other_votes": 1135,
-        "total_votes": 55862,
+        "total_votes": 55877,
         "dem_candidate": "Herb Kohl",
         "rep_candidate": "Robert Gerald Lorge",
-        "margin": -20038,
-        "margin_pct": -35.86994140321984,
+        "margin": -20044,
+        "margin_pct": -35.871694452247986,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
         }
       },
       "20": {
-        "dem_votes": 35159,
-        "rep_votes": 28249,
-        "other_votes": 1938,
-        "total_votes": 65346,
+        "dem_votes": 35151,
+        "rep_votes": 28177,
+        "other_votes": 1935,
+        "total_votes": 65263,
         "dem_candidate": "Herb Kohl",
         "rep_candidate": "Robert Gerald Lorge",
-        "margin": -6910,
-        "margin_pct": -10.574480457870413,
+        "margin": -6974,
+        "margin_pct": -10.686202287098688,
         "winner": "DEM",
         "competitiveness": {
           "color": "#2171b5"
         }
       },
       "21": {
-        "dem_votes": 43775,
-        "rep_votes": 20752,
-        "other_votes": 1823,
-        "total_votes": 66349,
+        "dem_votes": 45121,
+        "rep_votes": 21141,
+        "other_votes": 1883,
+        "total_votes": 68146,
         "dem_candidate": "Herb Kohl",
         "rep_candidate": "Robert Gerald Lorge",
-        "margin": -23023,
-        "margin_pct": -34.69950639922631,
+        "margin": -23981,
+        "margin_pct": -35.19068255665573,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
         }
       },
       "22": {
-        "dem_votes": 40873,
-        "rep_votes": 13956,
-        "other_votes": 1756,
-        "total_votes": 56585,
+        "dem_votes": 39917,
+        "rep_votes": 13762,
+        "other_votes": 1714,
+        "total_votes": 55393,
         "dem_candidate": "Herb Kohl",
         "rep_candidate": "Robert Gerald Lorge",
-        "margin": -26917,
-        "margin_pct": -47.5686947915961,
+        "margin": -26154,
+        "margin_pct": -47.21610970206472,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
         }
       },
       "23": {
-        "dem_votes": 28495,
-        "rep_votes": 11717,
+        "dem_votes": 28496,
+        "rep_votes": 11718,
         "other_votes": 1169,
-        "total_votes": 41381,
+        "total_votes": 41382,
         "dem_candidate": "Herb Kohl",
         "rep_candidate": "Robert Gerald Lorge",
         "margin": -16778,
-        "margin_pct": -40.543969454580605,
+        "margin_pct": -40.54420920860306,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -254,28 +254,28 @@
         }
       },
       "26": {
-        "dem_votes": 64978,
-        "rep_votes": 9372,
-        "other_votes": 7177,
-        "total_votes": 81527,
+        "dem_votes": 64962,
+        "rep_votes": 9370,
+        "other_votes": 7175,
+        "total_votes": 81507,
         "dem_candidate": "Herb Kohl",
         "rep_candidate": "Robert Gerald Lorge",
-        "margin": -55605,
-        "margin_pct": -68.2048047100878,
+        "margin": -55593,
+        "margin_pct": -68.20567161921146,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
         }
       },
       "27": {
-        "dem_votes": 44328,
-        "rep_votes": 10977,
-        "other_votes": 2768,
-        "total_votes": 58073,
+        "dem_votes": 44338,
+        "rep_votes": 10979,
+        "other_votes": 2769,
+        "total_votes": 58086,
         "dem_candidate": "Herb Kohl",
         "rep_candidate": "Robert Gerald Lorge",
-        "margin": -33351,
-        "margin_pct": -57.429442253715145,
+        "margin": -33359,
+        "margin_pct": -57.43099595888672,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -289,7 +289,7 @@
         "dem_candidate": "Herb Kohl",
         "rep_candidate": "Robert Gerald Lorge",
         "margin": -7689,
-        "margin_pct": -10.677304729267888,
+        "margin_pct": -10.677298831647965,
         "winner": "DEM",
         "competitiveness": {
           "color": "#2171b5"
@@ -310,42 +310,42 @@
         }
       },
       "3": {
-        "dem_votes": 38666,
-        "rep_votes": 11540,
-        "other_votes": 1836,
-        "total_votes": 52042,
+        "dem_votes": 38631,
+        "rep_votes": 11532,
+        "other_votes": 1834,
+        "total_votes": 51997,
         "dem_candidate": "Herb Kohl",
         "rep_candidate": "Robert Gerald Lorge",
-        "margin": -27126,
-        "margin_pct": -52.12328503900696,
+        "margin": -27099,
+        "margin_pct": -52.11705482961372,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
         }
       },
       "30": {
-        "dem_votes": 42305,
+        "dem_votes": 42304,
         "rep_votes": 16262,
         "other_votes": 1595,
-        "total_votes": 60162,
+        "total_votes": 60161,
         "dem_candidate": "Herb Kohl",
         "rep_candidate": "Robert Gerald Lorge",
-        "margin": -26043,
-        "margin_pct": -43.2881220704099,
+        "margin": -26042,
+        "margin_pct": -43.28817615786366,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
         }
       },
       "31": {
-        "dem_votes": 41894,
-        "rep_votes": 15056,
+        "dem_votes": 41893,
+        "rep_votes": 15055,
         "other_votes": 1778,
-        "total_votes": 58728,
+        "total_votes": 58727,
         "dem_candidate": "Herb Kohl",
         "rep_candidate": "Robert Gerald Lorge",
         "margin": -26838,
-        "margin_pct": -45.699666258003,
+        "margin_pct": -45.69960581943396,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -366,28 +366,28 @@
         }
       },
       "33": {
-        "dem_votes": 34845,
+        "dem_votes": 34844,
         "rep_votes": 36133,
         "other_votes": 2077,
         "total_votes": 73055,
         "dem_candidate": "Herb Kohl",
         "rep_candidate": "Robert Gerald Lorge",
         "margin": 1288,
-        "margin_pct": 1.7636016921183044,
+        "margin_pct": 1.7635804521789447,
         "winner": "REP",
         "competitiveness": {
           "color": "#fcbba1"
         }
       },
       "4": {
-        "dem_votes": 55092,
-        "rep_votes": 9440,
+        "dem_votes": 55097,
+        "rep_votes": 9441,
         "other_votes": 2228,
-        "total_votes": 66759,
+        "total_votes": 66766,
         "dem_candidate": "Herb Kohl",
         "rep_candidate": "Robert Gerald Lorge",
-        "margin": -45653,
-        "margin_pct": -68.38411703761032,
+        "margin": -45655,
+        "margin_pct": -68.3815323425464,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -397,72 +397,73 @@
         "dem_votes": 40509,
         "rep_votes": 28628,
         "other_votes": 2090,
-        "total_votes": 71228,
+        "total_votes": 71227,
         "dem_candidate": "Herb Kohl",
         "rep_candidate": "Robert Gerald Lorge",
         "margin": -11880,
-        "margin_pct": -16.679653223825067,
+        "margin_pct": -16.679688114341463,
         "winner": "DEM",
         "competitiveness": {
           "color": "#2171b5"
         }
       },
       "6": {
-        "dem_votes": 46564,
-        "rep_votes": 10110,
+        "dem_votes": 46567,
+        "rep_votes": 10107,
         "other_votes": 1706,
         "total_votes": 58380,
         "dem_candidate": "Herb Kohl",
         "rep_candidate": "Robert Gerald Lorge",
-        "margin": -36454,
-        "margin_pct": -62.44261733470366,
+        "margin": -36460,
+        "margin_pct": -62.45261649298263,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
         }
       },
       "7": {
-        "dem_votes": 35112,
-        "rep_votes": 11069,
-        "other_votes": 1345,
-        "total_votes": 47526,
+        "dem_votes": 34749,
+        "rep_votes": 10883,
+        "other_votes": 1328,
+        "total_votes": 46960,
         "dem_candidate": "Herb Kohl",
         "rep_candidate": "Robert Gerald Lorge",
-        "margin": -24043,
-        "margin_pct": -50.58915120144762,
+        "margin": -23866,
+        "margin_pct": -50.82069573207582,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
         }
       },
       "8": {
-        "dem_votes": 42119,
-        "rep_votes": 29780,
-        "other_votes": 2100,
-        "total_votes": 73999,
+        "dem_votes": 41974,
+        "rep_votes": 29637,
+        "other_votes": 2092,
+        "total_votes": 73703,
         "dem_candidate": "Herb Kohl",
         "rep_candidate": "Robert Gerald Lorge",
-        "margin": -12340,
-        "margin_pct": -16.675488079381008,
+        "margin": -12337,
+        "margin_pct": -16.738123754772943,
         "winner": "DEM",
         "competitiveness": {
           "color": "#2171b5"
         }
       },
       "9": {
-        "dem_votes": 45540,
-        "rep_votes": 20742,
-        "other_votes": 1550,
-        "total_votes": 67832,
+        "dem_votes": 45495,
+        "rep_votes": 20836,
+        "other_votes": 1557,
+        "total_votes": 67888,
         "dem_candidate": "Herb Kohl",
         "rep_candidate": "Robert Gerald Lorge",
-        "margin": -24798,
-        "margin_pct": -36.55796674136101,
+        "margin": -24660,
+        "margin_pct": -36.3238963295449,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
         }
       }
-    }
+    },
+    "election_type": "general"
   }
 }

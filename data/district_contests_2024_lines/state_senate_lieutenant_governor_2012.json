@@ -1,0 +1,469 @@
+{
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 28015,
+        "rep_votes": 49992,
+        "other_votes": 84,
+        "total_votes": 78091,
+        "dem_candidate": "Mahlon Mitchell",
+        "rep_candidate": "Rebecca Kleefisch",
+        "margin": 21978,
+        "margin_pct": 28.143720132372657,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "10": {
+        "dem_votes": 26295,
+        "rep_votes": 37584,
+        "other_votes": 51,
+        "total_votes": 63930,
+        "dem_candidate": "Mahlon Mitchell",
+        "rep_candidate": "Rebecca Kleefisch",
+        "margin": 11289,
+        "margin_pct": 17.658376349131863,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "11": {
+        "dem_votes": 22561,
+        "rep_votes": 41795,
+        "other_votes": 76,
+        "total_votes": 64432,
+        "dem_candidate": "Mahlon Mitchell",
+        "rep_candidate": "Rebecca Kleefisch",
+        "margin": 19234,
+        "margin_pct": 29.85229666976456,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "12": {
+        "dem_votes": 30477,
+        "rep_votes": 47751,
+        "other_votes": 104,
+        "total_votes": 78332,
+        "dem_candidate": "Mahlon Mitchell",
+        "rep_candidate": "Rebecca Kleefisch",
+        "margin": 17274,
+        "margin_pct": 22.05237979857412,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "13": {
+        "dem_votes": 27172,
+        "rep_votes": 46067,
+        "other_votes": 45,
+        "total_votes": 73283,
+        "dem_candidate": "Mahlon Mitchell",
+        "rep_candidate": "Rebecca Kleefisch",
+        "margin": 18895,
+        "margin_pct": 25.783380811086886,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "14": {
+        "dem_votes": 37108,
+        "rep_votes": 34297,
+        "other_votes": 57,
+        "total_votes": 71462,
+        "dem_candidate": "Mahlon Mitchell",
+        "rep_candidate": "Rebecca Kleefisch",
+        "margin": -2811,
+        "margin_pct": -3.933011175900432,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "15": {
+        "dem_votes": 37446,
+        "rep_votes": 28429,
+        "other_votes": 127,
+        "total_votes": 66002,
+        "dem_candidate": "Mahlon Mitchell",
+        "rep_candidate": "Rebecca Kleefisch",
+        "margin": -9017,
+        "margin_pct": -13.661707220993302,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "16": {
+        "dem_votes": 45257,
+        "rep_votes": 31981,
+        "other_votes": 74,
+        "total_votes": 77311,
+        "dem_candidate": "Mahlon Mitchell",
+        "rep_candidate": "Rebecca Kleefisch",
+        "margin": -13276,
+        "margin_pct": -17.17226927096891,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "17": {
+        "dem_votes": 38548,
+        "rep_votes": 34914,
+        "other_votes": 94,
+        "total_votes": 73556,
+        "dem_candidate": "Mahlon Mitchell",
+        "rep_candidate": "Rebecca Kleefisch",
+        "margin": -3634,
+        "margin_pct": -4.940453532002828,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "18": {
+        "dem_votes": 32174,
+        "rep_votes": 37012,
+        "other_votes": 106,
+        "total_votes": 69292,
+        "dem_candidate": "Mahlon Mitchell",
+        "rep_candidate": "Rebecca Kleefisch",
+        "margin": 4838,
+        "margin_pct": 6.981764074036062,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "19": {
+        "dem_votes": 25573,
+        "rep_votes": 46296,
+        "other_votes": 55,
+        "total_votes": 71924,
+        "dem_candidate": "Mahlon Mitchell",
+        "rep_candidate": "Rebecca Kleefisch",
+        "margin": 20724,
+        "margin_pct": 28.813470550615623,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "2": {
+        "dem_votes": 24528,
+        "rep_votes": 44827,
+        "other_votes": 60,
+        "total_votes": 69415,
+        "dem_candidate": "Mahlon Mitchell",
+        "rep_candidate": "Rebecca Kleefisch",
+        "margin": 20298,
+        "margin_pct": 29.241479707934946,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "20": {
+        "dem_votes": 23740,
+        "rep_votes": 57920,
+        "other_votes": 51,
+        "total_votes": 81710,
+        "dem_candidate": "Mahlon Mitchell",
+        "rep_candidate": "Rebecca Kleefisch",
+        "margin": 34180,
+        "margin_pct": 41.83060297641475,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "21": {
+        "dem_votes": 36350,
+        "rep_votes": 43649,
+        "other_votes": 90,
+        "total_votes": 80088,
+        "dem_candidate": "Mahlon Mitchell",
+        "rep_candidate": "Rebecca Kleefisch",
+        "margin": 7299,
+        "margin_pct": 9.114233025382898,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "22": {
+        "dem_votes": 35553,
+        "rep_votes": 27286,
+        "other_votes": 79,
+        "total_votes": 62918,
+        "dem_candidate": "Mahlon Mitchell",
+        "rep_candidate": "Rebecca Kleefisch",
+        "margin": -8266,
+        "margin_pct": -13.13845027069033,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "23": {
+        "dem_votes": 24940,
+        "rep_votes": 41852,
+        "other_votes": 57,
+        "total_votes": 66849,
+        "dem_candidate": "Mahlon Mitchell",
+        "rep_candidate": "Rebecca Kleefisch",
+        "margin": 16911,
+        "margin_pct": 25.297986417964307,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "24": {
+        "dem_votes": 32970,
+        "rep_votes": 35827,
+        "other_votes": 110,
+        "total_votes": 68907,
+        "dem_candidate": "Mahlon Mitchell",
+        "rep_candidate": "Rebecca Kleefisch",
+        "margin": 2857,
+        "margin_pct": 4.14617559886481,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "25": {
+        "dem_votes": 36620,
+        "rep_votes": 34369,
+        "other_votes": 44,
+        "total_votes": 71033,
+        "dem_candidate": "Mahlon Mitchell",
+        "rep_candidate": "Rebecca Kleefisch",
+        "margin": -2251,
+        "margin_pct": -3.1689496431236184,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "26": {
+        "dem_votes": 63138,
+        "rep_votes": 13835,
+        "other_votes": 111,
+        "total_votes": 77084,
+        "dem_candidate": "Mahlon Mitchell",
+        "rep_candidate": "Rebecca Kleefisch",
+        "margin": -49303,
+        "margin_pct": -63.95980575847348,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "27": {
+        "dem_votes": 57402,
+        "rep_votes": 27837,
+        "other_votes": 74,
+        "total_votes": 85313,
+        "dem_candidate": "Mahlon Mitchell",
+        "rep_candidate": "Rebecca Kleefisch",
+        "margin": -29565,
+        "margin_pct": -34.655171466851385,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "28": {
+        "dem_votes": 26274,
+        "rep_votes": 60980,
+        "other_votes": 87,
+        "total_votes": 87341,
+        "dem_candidate": "Mahlon Mitchell",
+        "rep_candidate": "Rebecca Kleefisch",
+        "margin": 34707,
+        "margin_pct": 39.736927165002,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "29": {
+        "dem_votes": 29496,
+        "rep_votes": 45044,
+        "other_votes": 88,
+        "total_votes": 74628,
+        "dem_candidate": "Mahlon Mitchell",
+        "rep_candidate": "Rebecca Kleefisch",
+        "margin": 15548,
+        "margin_pct": 20.83400332314949,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "3": {
+        "dem_votes": 28061,
+        "rep_votes": 18448,
+        "other_votes": 135,
+        "total_votes": 46644,
+        "dem_candidate": "Mahlon Mitchell",
+        "rep_candidate": "Rebecca Kleefisch",
+        "margin": -9613,
+        "margin_pct": -20.60839476884788,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "30": {
+        "dem_votes": 25606,
+        "rep_votes": 31295,
+        "other_votes": 115,
+        "total_votes": 57016,
+        "dem_candidate": "Mahlon Mitchell",
+        "rep_candidate": "Rebecca Kleefisch",
+        "margin": 5689,
+        "margin_pct": 9.977156693522316,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "31": {
+        "dem_votes": 32807,
+        "rep_votes": 33549,
+        "other_votes": 67,
+        "total_votes": 66423,
+        "dem_candidate": "Mahlon Mitchell",
+        "rep_candidate": "Rebecca Kleefisch",
+        "margin": 743,
+        "margin_pct": 1.1180313215049407,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "32": {
+        "dem_votes": 33812,
+        "rep_votes": 33374,
+        "other_votes": 71,
+        "total_votes": 67257,
+        "dem_candidate": "Mahlon Mitchell",
+        "rep_candidate": "Rebecca Kleefisch",
+        "margin": -438,
+        "margin_pct": -0.651233328872831,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "33": {
+        "dem_votes": 22365,
+        "rep_votes": 69718,
+        "other_votes": 108,
+        "total_votes": 92191,
+        "dem_candidate": "Mahlon Mitchell",
+        "rep_candidate": "Rebecca Kleefisch",
+        "margin": 47354,
+        "margin_pct": 51.364790863327045,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "4": {
+        "dem_votes": 62449,
+        "rep_votes": 15385,
+        "other_votes": 158,
+        "total_votes": 77992,
+        "dem_candidate": "Mahlon Mitchell",
+        "rep_candidate": "Rebecca Kleefisch",
+        "margin": -47064,
+        "margin_pct": -60.344944414485546,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "5": {
+        "dem_votes": 32136,
+        "rep_votes": 56298,
+        "other_votes": 126,
+        "total_votes": 88560,
+        "dem_candidate": "Mahlon Mitchell",
+        "rep_candidate": "Rebecca Kleefisch",
+        "margin": 24162,
+        "margin_pct": 27.282955176295303,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "6": {
+        "dem_votes": 62764,
+        "rep_votes": 12760,
+        "other_votes": 179,
+        "total_votes": 75703,
+        "dem_candidate": "Mahlon Mitchell",
+        "rep_candidate": "Rebecca Kleefisch",
+        "margin": -50004,
+        "margin_pct": -66.05246160527909,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "7": {
+        "dem_votes": 42486,
+        "rep_votes": 33463,
+        "other_votes": 175,
+        "total_votes": 76124,
+        "dem_candidate": "Mahlon Mitchell",
+        "rep_candidate": "Rebecca Kleefisch",
+        "margin": -9023,
+        "margin_pct": -11.853499323617115,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "8": {
+        "dem_votes": 31212,
+        "rep_votes": 58654,
+        "other_votes": 126,
+        "total_votes": 89992,
+        "dem_candidate": "Mahlon Mitchell",
+        "rep_candidate": "Rebecca Kleefisch",
+        "margin": 27442,
+        "margin_pct": 30.49338844120445,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "9": {
+        "dem_votes": 28600,
+        "rep_votes": 48573,
+        "other_votes": 51,
+        "total_votes": 77224,
+        "dem_candidate": "Mahlon Mitchell",
+        "rep_candidate": "Rebecca Kleefisch",
+        "margin": 19973,
+        "margin_pct": 25.864045505297533,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      }
+    },
+    "election_type": "recall"
+  }
+}

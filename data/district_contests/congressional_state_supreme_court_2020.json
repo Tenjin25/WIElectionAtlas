@@ -2,141 +2,142 @@
   "general": {
     "results": {
       "1": {
-        "dem_votes": 0,
-        "rep_votes": 0,
-        "other_votes": 174105,
-        "total_votes": 174105,
-        "dem_candidate": "",
-        "rep_candidate": "",
-        "margin": 0,
-        "margin_pct": 0.0,
-        "winner": "TIE",
+        "dem_votes": 92837,
+        "rep_votes": 81188,
+        "other_votes": 153,
+        "total_votes": 174178,
+        "dem_candidate": "Jill J. Karofsky",
+        "rep_candidate": "Daniel Kelly",
+        "margin": -11649,
+        "margin_pct": -6.688111899168773,
+        "winner": "DEM",
         "competitiveness": {
-          "color": "#9ca3af"
+          "color": "#6baed6"
         },
         "contest_partisan_style": "nonpartisan_ideology",
         "dem_label": "Liberal",
         "rep_label": "Conservative"
       },
       "2": {
-        "dem_votes": 0,
-        "rep_votes": 0,
-        "other_votes": 246071,
-        "total_votes": 246071,
-        "dem_candidate": "",
-        "rep_candidate": "",
-        "margin": 0,
-        "margin_pct": 0.0,
-        "winner": "TIE",
+        "dem_votes": 190469,
+        "rep_votes": 55464,
+        "other_votes": 147,
+        "total_votes": 246080,
+        "dem_candidate": "Jill J. Karofsky",
+        "rep_candidate": "Daniel Kelly",
+        "margin": -135005,
+        "margin_pct": -54.86242919492311,
+        "winner": "DEM",
         "competitiveness": {
-          "color": "#9ca3af"
+          "color": "#08306b"
         },
         "contest_partisan_style": "nonpartisan_ideology",
         "dem_label": "Liberal",
         "rep_label": "Conservative"
       },
       "3": {
-        "dem_votes": 0,
-        "rep_votes": 0,
-        "other_votes": 179705,
-        "total_votes": 179705,
-        "dem_candidate": "",
-        "rep_candidate": "",
-        "margin": 0,
-        "margin_pct": 0.0,
-        "winner": "TIE",
+        "dem_votes": 102634,
+        "rep_votes": 76927,
+        "other_votes": 97,
+        "total_votes": 179659,
+        "dem_candidate": "Jill J. Karofsky",
+        "rep_candidate": "Daniel Kelly",
+        "margin": -25707,
+        "margin_pct": -14.308581285859795,
+        "winner": "DEM",
         "competitiveness": {
-          "color": "#9ca3af"
+          "color": "#2171b5"
         },
         "contest_partisan_style": "nonpartisan_ideology",
         "dem_label": "Liberal",
         "rep_label": "Conservative"
       },
       "4": {
-        "dem_votes": 0,
-        "rep_votes": 0,
-        "other_votes": 145033,
-        "total_votes": 145033,
-        "dem_candidate": "",
-        "rep_candidate": "",
-        "margin": 0,
-        "margin_pct": 0.0,
-        "winner": "TIE",
+        "dem_votes": 105965,
+        "rep_votes": 38857,
+        "other_votes": 197,
+        "total_votes": 145020,
+        "dem_candidate": "Jill J. Karofsky",
+        "rep_candidate": "Daniel Kelly",
+        "margin": -67108,
+        "margin_pct": -46.275018765905514,
+        "winner": "DEM",
         "competitiveness": {
-          "color": "#9ca3af"
+          "color": "#08306b"
         },
         "contest_partisan_style": "nonpartisan_ideology",
         "dem_label": "Liberal",
         "rep_label": "Conservative"
       },
       "5": {
-        "dem_votes": 0,
-        "rep_votes": 0,
-        "other_votes": 239268,
-        "total_votes": 239268,
-        "dem_candidate": "",
-        "rep_candidate": "",
-        "margin": 0,
-        "margin_pct": 0.0,
-        "winner": "TIE",
+        "dem_votes": 93654,
+        "rep_votes": 145459,
+        "other_votes": 103,
+        "total_votes": 239216,
+        "dem_candidate": "Jill J. Karofsky",
+        "rep_candidate": "Daniel Kelly",
+        "margin": 51805,
+        "margin_pct": 21.65611733702961,
+        "winner": "REP",
         "competitiveness": {
-          "color": "#9ca3af"
+          "color": "#67000d"
         },
         "contest_partisan_style": "nonpartisan_ideology",
         "dem_label": "Liberal",
         "rep_label": "Conservative"
       },
       "6": {
-        "dem_votes": 0,
-        "rep_votes": 0,
-        "other_votes": 194447,
-        "total_votes": 194447,
-        "dem_candidate": "",
-        "rep_candidate": "",
-        "margin": 0,
-        "margin_pct": 0.0,
-        "winner": "TIE",
+        "dem_votes": 91499,
+        "rep_votes": 102905,
+        "other_votes": 108,
+        "total_votes": 194512,
+        "dem_candidate": "Jill J. Karofsky",
+        "rep_candidate": "Daniel Kelly",
+        "margin": 11405,
+        "margin_pct": 5.863604537674847,
+        "winner": "REP",
         "competitiveness": {
-          "color": "#9ca3af"
+          "color": "#fb6a4a"
         },
         "contest_partisan_style": "nonpartisan_ideology",
         "dem_label": "Liberal",
         "rep_label": "Conservative"
       },
       "7": {
-        "dem_votes": 0,
-        "rep_votes": 0,
-        "other_votes": 187803,
-        "total_votes": 187803,
-        "dem_candidate": "",
-        "rep_candidate": "",
-        "margin": 0,
-        "margin_pct": 0.0,
-        "winner": "TIE",
+        "dem_votes": 87859,
+        "rep_votes": 99854,
+        "other_votes": 116,
+        "total_votes": 187829,
+        "dem_candidate": "Jill J. Karofsky",
+        "rep_candidate": "Daniel Kelly",
+        "margin": 11995,
+        "margin_pct": 6.386026880261979,
+        "winner": "REP",
         "competitiveness": {
-          "color": "#9ca3af"
+          "color": "#fb6a4a"
         },
         "contest_partisan_style": "nonpartisan_ideology",
         "dem_label": "Liberal",
         "rep_label": "Conservative"
       },
       "8": {
-        "dem_votes": 0,
-        "rep_votes": 0,
-        "other_votes": 177524,
-        "total_votes": 177524,
-        "dem_candidate": "",
-        "rep_candidate": "",
-        "margin": 0,
-        "margin_pct": 0.0,
-        "winner": "TIE",
+        "dem_votes": 87607,
+        "rep_votes": 89791,
+        "other_votes": 65,
+        "total_votes": 177462,
+        "dem_candidate": "Jill J. Karofsky",
+        "rep_candidate": "Daniel Kelly",
+        "margin": 2184,
+        "margin_pct": 1.2305799345816912,
+        "winner": "REP",
         "competitiveness": {
-          "color": "#9ca3af"
+          "color": "#fcbba1"
         },
         "contest_partisan_style": "nonpartisan_ideology",
         "dem_label": "Liberal",
         "rep_label": "Conservative"
       }
-    }
+    },
+    "election_type": "spring"
   }
 }

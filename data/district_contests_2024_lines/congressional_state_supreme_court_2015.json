@@ -2,141 +2,142 @@
   "general": {
     "results": {
       "1": {
-        "dem_votes": 0,
-        "rep_votes": 0,
-        "other_votes": 82147,
-        "total_votes": 82147,
-        "dem_candidate": "",
-        "rep_candidate": "",
-        "margin": 0,
-        "margin_pct": 0.0,
-        "winner": "TIE",
+        "dem_votes": 41309,
+        "rep_votes": 40832,
+        "other_votes": 57,
+        "total_votes": 82197,
+        "dem_candidate": "Ann W. Bradley",
+        "rep_candidate": "James P. Daley",
+        "margin": -477,
+        "margin_pct": -0.5800208081833244,
+        "winner": "DEM",
         "competitiveness": {
-          "color": "#9ca3af"
+          "color": "#c6dbef"
         },
         "contest_partisan_style": "nonpartisan_ideology",
         "dem_label": "Liberal",
         "rep_label": "Conservative"
       },
       "2": {
-        "dem_votes": 0,
-        "rep_votes": 0,
-        "other_votes": 127174,
-        "total_votes": 127174,
-        "dem_candidate": "",
-        "rep_candidate": "",
-        "margin": 0,
-        "margin_pct": 0.0,
-        "winner": "TIE",
+        "dem_votes": 95225,
+        "rep_votes": 31844,
+        "other_votes": 117,
+        "total_votes": 127186,
+        "dem_candidate": "Ann W. Bradley",
+        "rep_candidate": "James P. Daley",
+        "margin": -63382,
+        "margin_pct": -49.83358544135672,
+        "winner": "DEM",
         "competitiveness": {
-          "color": "#9ca3af"
+          "color": "#08306b"
         },
         "contest_partisan_style": "nonpartisan_ideology",
         "dem_label": "Liberal",
         "rep_label": "Conservative"
       },
       "3": {
-        "dem_votes": 0,
-        "rep_votes": 0,
-        "other_votes": 95054,
-        "total_votes": 95054,
-        "dem_candidate": "",
-        "rep_candidate": "",
-        "margin": 0,
-        "margin_pct": 0.0,
-        "winner": "TIE",
+        "dem_votes": 62297,
+        "rep_votes": 32664,
+        "other_votes": 49,
+        "total_votes": 95010,
+        "dem_candidate": "Ann W. Bradley",
+        "rep_candidate": "James P. Daley",
+        "margin": -29632,
+        "margin_pct": -31.188732260736806,
+        "winner": "DEM",
         "competitiveness": {
-          "color": "#9ca3af"
+          "color": "#08306b"
         },
         "contest_partisan_style": "nonpartisan_ideology",
         "dem_label": "Liberal",
         "rep_label": "Conservative"
       },
       "4": {
-        "dem_votes": 0,
-        "rep_votes": 0,
-        "other_votes": 63962,
-        "total_votes": 63962,
-        "dem_candidate": "",
-        "rep_candidate": "",
-        "margin": 0,
-        "margin_pct": 0.0,
-        "winner": "TIE",
+        "dem_votes": 42193,
+        "rep_votes": 21673,
+        "other_votes": 99,
+        "total_votes": 63965,
+        "dem_candidate": "Ann W. Bradley",
+        "rep_candidate": "James P. Daley",
+        "margin": -20520,
+        "margin_pct": -32.079904099866056,
+        "winner": "DEM",
         "competitiveness": {
-          "color": "#9ca3af"
+          "color": "#08306b"
         },
         "contest_partisan_style": "nonpartisan_ideology",
         "dem_label": "Liberal",
         "rep_label": "Conservative"
       },
       "5": {
-        "dem_votes": 0,
-        "rep_votes": 0,
-        "other_votes": 110756,
-        "total_votes": 110756,
-        "dem_candidate": "",
-        "rep_candidate": "",
-        "margin": 0,
-        "margin_pct": 0.0,
-        "winner": "TIE",
+        "dem_votes": 40610,
+        "rep_votes": 69982,
+        "other_votes": 115,
+        "total_votes": 110707,
+        "dem_candidate": "Ann W. Bradley",
+        "rep_candidate": "James P. Daley",
+        "margin": 29372,
+        "margin_pct": 26.5314620071244,
+        "winner": "REP",
         "competitiveness": {
-          "color": "#9ca3af"
+          "color": "#67000d"
         },
         "contest_partisan_style": "nonpartisan_ideology",
         "dem_label": "Liberal",
         "rep_label": "Conservative"
       },
       "6": {
-        "dem_votes": 0,
-        "rep_votes": 0,
-        "other_votes": 106754,
-        "total_votes": 106754,
-        "dem_candidate": "",
-        "rep_candidate": "",
-        "margin": 0,
-        "margin_pct": 0.0,
-        "winner": "TIE",
+        "dem_votes": 55310,
+        "rep_votes": 51432,
+        "other_votes": 59,
+        "total_votes": 106801,
+        "dem_candidate": "Ann W. Bradley",
+        "rep_candidate": "James P. Daley",
+        "margin": -3879,
+        "margin_pct": -3.6315321342282534,
+        "winner": "DEM",
         "competitiveness": {
-          "color": "#9ca3af"
+          "color": "#c6dbef"
         },
         "contest_partisan_style": "nonpartisan_ideology",
         "dem_label": "Liberal",
         "rep_label": "Conservative"
       },
       "7": {
-        "dem_votes": 0,
-        "rep_votes": 0,
-        "other_votes": 108305,
-        "total_votes": 108305,
-        "dem_candidate": "",
-        "rep_candidate": "",
-        "margin": 0,
-        "margin_pct": 0.0,
-        "winner": "TIE",
+        "dem_votes": 65380,
+        "rep_votes": 42853,
+        "other_votes": 99,
+        "total_votes": 108332,
+        "dem_candidate": "Ann W. Bradley",
+        "rep_candidate": "James P. Daley",
+        "margin": -22528,
+        "margin_pct": -20.795097859243107,
+        "winner": "DEM",
         "competitiveness": {
-          "color": "#9ca3af"
+          "color": "#08306b"
         },
         "contest_partisan_style": "nonpartisan_ideology",
         "dem_label": "Liberal",
         "rep_label": "Conservative"
       },
       "8": {
-        "dem_votes": 0,
-        "rep_votes": 0,
-        "other_votes": 99434,
-        "total_votes": 99434,
-        "dem_candidate": "",
-        "rep_candidate": "",
-        "margin": 0,
-        "margin_pct": 0.0,
-        "winner": "TIE",
+        "dem_votes": 58011,
+        "rep_votes": 41289,
+        "other_votes": 88,
+        "total_votes": 99388,
+        "dem_candidate": "Ann W. Bradley",
+        "rep_candidate": "James P. Daley",
+        "margin": -16722,
+        "margin_pct": -16.82541969853103,
+        "winner": "DEM",
         "competitiveness": {
-          "color": "#9ca3af"
+          "color": "#2171b5"
         },
         "contest_partisan_style": "nonpartisan_ideology",
         "dem_label": "Liberal",
         "rep_label": "Conservative"
       }
-    }
+    },
+    "election_type": "spring"
   }
 }

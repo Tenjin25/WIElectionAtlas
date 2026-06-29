@@ -2,14 +2,14 @@
   "general": {
     "results": {
       "1": {
-        "dem_votes": 10527,
+        "dem_votes": 10883,
         "rep_votes": 0,
-        "other_votes": 6904,
-        "total_votes": 17432,
+        "other_votes": 7172,
+        "total_votes": 18055,
         "dem_candidate": "Tony Evers",
         "rep_candidate": "",
-        "margin": -10527,
-        "margin_pct": -60.39067205920317,
+        "margin": -10883,
+        "margin_pct": -60.27920645120049,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -26,7 +26,7 @@
         "dem_candidate": "Tony Evers",
         "rep_candidate": "",
         "margin": -7102,
-        "margin_pct": -56.21784215942374,
+        "margin_pct": -56.2178309246265,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -36,14 +36,14 @@
         "rep_label": "Conservative"
       },
       "11": {
-        "dem_votes": 12038,
+        "dem_votes": 12037,
         "rep_votes": 0,
         "other_votes": 8613,
-        "total_votes": 20651,
+        "total_votes": 20649,
         "dem_candidate": "Tony Evers",
         "rep_candidate": "",
-        "margin": -12038,
-        "margin_pct": -58.291769567252594,
+        "margin": -12037,
+        "margin_pct": -58.29141993973439,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -73,11 +73,11 @@
         "dem_votes": 12424,
         "rep_votes": 0,
         "other_votes": 10565,
-        "total_votes": 22989,
+        "total_votes": 22990,
         "dem_candidate": "Tony Evers",
         "rep_candidate": "",
         "margin": -12424,
-        "margin_pct": -54.04424558786975,
+        "margin_pct": -54.04346404016862,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -94,7 +94,7 @@
         "dem_candidate": "Tony Evers",
         "rep_candidate": "",
         "margin": -12639,
-        "margin_pct": -60.96960926193922,
+        "margin_pct": -60.969592539838125,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -111,7 +111,7 @@
         "dem_candidate": "Tony Evers",
         "rep_candidate": "",
         "margin": -11915,
-        "margin_pct": -62.671821305841924,
+        "margin_pct": -62.671983284936005,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -121,14 +121,14 @@
         "rep_label": "Conservative"
       },
       "16": {
-        "dem_votes": 21914,
+        "dem_votes": 21922,
         "rep_votes": 0,
-        "other_votes": 10509,
-        "total_votes": 32423,
+        "other_votes": 10512,
+        "total_votes": 32434,
         "dem_candidate": "Tony Evers",
         "rep_candidate": "",
-        "margin": -21914,
-        "margin_pct": -67.5876107422914,
+        "margin": -21922,
+        "margin_pct": -67.58949052616016,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -155,14 +155,14 @@
         "rep_label": "Conservative"
       },
       "18": {
-        "dem_votes": 13015,
+        "dem_votes": 13090,
         "rep_votes": 0,
-        "other_votes": 8368,
-        "total_votes": 21382,
+        "other_votes": 8425,
+        "total_votes": 21515,
         "dem_candidate": "Tony Evers",
         "rep_candidate": "",
-        "margin": -13015,
-        "margin_pct": -60.86707432566732,
+        "margin": -13090,
+        "margin_pct": -60.8412925892755,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -189,14 +189,14 @@
         "rep_label": "Conservative"
       },
       "2": {
-        "dem_votes": 11168,
+        "dem_votes": 11169,
         "rep_votes": 0,
-        "other_votes": 7321,
-        "total_votes": 18490,
+        "other_votes": 7322,
+        "total_votes": 18491,
         "dem_candidate": "Tony Evers",
         "rep_candidate": "",
-        "margin": -11168,
-        "margin_pct": -60.40301426910284,
+        "margin": -11169,
+        "margin_pct": -60.40283768644342,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -206,14 +206,14 @@
         "rep_label": "Conservative"
       },
       "20": {
-        "dem_votes": 13299,
+        "dem_votes": 13344,
         "rep_votes": 0,
-        "other_votes": 16772,
-        "total_votes": 30071,
+        "other_votes": 16838,
+        "total_votes": 30182,
         "dem_candidate": "Tony Evers",
         "rep_candidate": "",
-        "margin": -13299,
-        "margin_pct": -44.22533337767284,
+        "margin": -13344,
+        "margin_pct": -44.21138618132832,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -223,14 +223,14 @@
         "rep_label": "Conservative"
       },
       "21": {
-        "dem_votes": 10192,
+        "dem_votes": 10590,
         "rep_votes": 0,
-        "other_votes": 10174,
-        "total_votes": 20366,
+        "other_votes": 10478,
+        "total_votes": 21069,
         "dem_candidate": "Tony Evers",
         "rep_candidate": "",
-        "margin": -10192,
-        "margin_pct": -50.04271825591672,
+        "margin": -10590,
+        "margin_pct": -50.26572950072337,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -240,14 +240,14 @@
         "rep_label": "Conservative"
       },
       "22": {
-        "dem_votes": 10096,
+        "dem_votes": 9850,
         "rep_votes": 0,
-        "other_votes": 6844,
-        "total_votes": 16939,
+        "other_votes": 6673,
+        "total_votes": 16523,
         "dem_candidate": "Tony Evers",
         "rep_candidate": "",
-        "margin": -10096,
-        "margin_pct": -59.599149890784574,
+        "margin": -9850,
+        "margin_pct": -59.61351156037102,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -257,14 +257,14 @@
         "rep_label": "Conservative"
       },
       "23": {
-        "dem_votes": 11466,
+        "dem_votes": 11464,
         "rep_votes": 0,
-        "other_votes": 7486,
-        "total_votes": 18952,
+        "other_votes": 7485,
+        "total_votes": 18949,
         "dem_candidate": "Tony Evers",
         "rep_candidate": "",
-        "margin": -11466,
-        "margin_pct": -60.50081140768177,
+        "margin": -11464,
+        "margin_pct": -60.50050269189343,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -281,7 +281,7 @@
         "dem_candidate": "Tony Evers",
         "rep_candidate": "",
         "margin": -11337,
-        "margin_pct": -63.85603244339304,
+        "margin_pct": -63.856029741907236,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -298,7 +298,7 @@
         "dem_candidate": "Tony Evers",
         "rep_candidate": "",
         "margin": -10879,
-        "margin_pct": -57.92556306905916,
+        "margin_pct": -57.925567896929195,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -308,14 +308,14 @@
         "rep_label": "Conservative"
       },
       "26": {
-        "dem_votes": 16636,
+        "dem_votes": 16628,
         "rep_votes": 0,
-        "other_votes": 6776,
-        "total_votes": 23412,
+        "other_votes": 6773,
+        "total_votes": 23401,
         "dem_candidate": "Tony Evers",
         "rep_candidate": "",
-        "margin": -16636,
-        "margin_pct": -71.0575773107808,
+        "margin": -16628,
+        "margin_pct": -71.05665328271878,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -325,14 +325,14 @@
         "rep_label": "Conservative"
       },
       "27": {
-        "dem_votes": 17737,
+        "dem_votes": 17738,
         "rep_votes": 0,
-        "other_votes": 10132,
-        "total_votes": 27869,
+        "other_votes": 10133,
+        "total_votes": 27871,
         "dem_candidate": "Tony Evers",
         "rep_candidate": "",
-        "margin": -17737,
-        "margin_pct": -63.64342585318907,
+        "margin": -17738,
+        "margin_pct": -63.643186550402255,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -349,7 +349,7 @@
         "dem_candidate": "Tony Evers",
         "rep_candidate": "",
         "margin": -10940,
-        "margin_pct": -45.208301478215226,
+        "margin_pct": -45.208257895109824,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -359,14 +359,14 @@
         "rep_label": "Conservative"
       },
       "29": {
-        "dem_votes": 13566,
+        "dem_votes": 13564,
         "rep_votes": 0,
         "other_votes": 8999,
-        "total_votes": 22565,
+        "total_votes": 22563,
         "dem_candidate": "Tony Evers",
         "rep_candidate": "",
-        "margin": -13566,
-        "margin_pct": -60.11788435622315,
+        "margin": -13564,
+        "margin_pct": -60.117347077444435,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -376,14 +376,14 @@
         "rep_label": "Conservative"
       },
       "3": {
-        "dem_votes": 6855,
+        "dem_votes": 6848,
         "rep_votes": 0,
-        "other_votes": 5382,
-        "total_votes": 12237,
+        "other_votes": 5379,
+        "total_votes": 12226,
         "dem_candidate": "Tony Evers",
         "rep_candidate": "",
-        "margin": -6855,
-        "margin_pct": -56.018632017651385,
+        "margin": -6848,
+        "margin_pct": -56.00792267775315,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -393,14 +393,14 @@
         "rep_label": "Conservative"
       },
       "30": {
-        "dem_votes": 8273,
+        "dem_votes": 8235,
         "rep_votes": 0,
-        "other_votes": 5915,
-        "total_votes": 14187,
+        "other_votes": 5892,
+        "total_votes": 14127,
         "dem_candidate": "Tony Evers",
         "rep_candidate": "",
-        "margin": -8273,
-        "margin_pct": -58.31032740857347,
+        "margin": -8235,
+        "margin_pct": -58.2911118493282,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -410,14 +410,14 @@
         "rep_label": "Conservative"
       },
       "31": {
-        "dem_votes": 8398,
+        "dem_votes": 8402,
         "rep_votes": 0,
-        "other_votes": 5423,
-        "total_votes": 13821,
+        "other_votes": 5425,
+        "total_votes": 13826,
         "dem_candidate": "Tony Evers",
         "rep_candidate": "",
-        "margin": -8398,
-        "margin_pct": -60.76467487363949,
+        "margin": -8402,
+        "margin_pct": -60.76581704999193,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -434,7 +434,7 @@
         "dem_candidate": "Tony Evers",
         "rep_candidate": "",
         "margin": -14198,
-        "margin_pct": -63.14993550682738,
+        "margin_pct": -63.14993606343121,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -444,14 +444,14 @@
         "rep_label": "Conservative"
       },
       "33": {
-        "dem_votes": 7398,
+        "dem_votes": 7397,
         "rep_votes": 0,
         "other_votes": 13515,
-        "total_votes": 20913,
+        "total_votes": 20912,
         "dem_candidate": "Tony Evers",
         "rep_candidate": "",
-        "margin": -7398,
-        "margin_pct": -35.37341885137203,
+        "margin": -7397,
+        "margin_pct": -35.3731731005524,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -461,14 +461,14 @@
         "rep_label": "Conservative"
       },
       "4": {
-        "dem_votes": 9108,
+        "dem_votes": 9109,
         "rep_votes": 0,
-        "other_votes": 5238,
-        "total_votes": 14347,
+        "other_votes": 5239,
+        "total_votes": 14348,
         "dem_candidate": "Tony Evers",
         "rep_candidate": "",
-        "margin": -9108,
-        "margin_pct": -63.48745353159851,
+        "margin": -9109,
+        "margin_pct": -63.48618245544383,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -480,12 +480,12 @@
       "5": {
         "dem_votes": 10235,
         "rep_votes": 0,
-        "other_votes": 15672,
-        "total_votes": 25907,
+        "other_votes": 15671,
+        "total_votes": 25906,
         "dem_candidate": "Tony Evers",
         "rep_candidate": "",
         "margin": -10235,
-        "margin_pct": -39.50669703169027,
+        "margin_pct": -39.50687722082836,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -495,14 +495,14 @@
         "rep_label": "Conservative"
       },
       "6": {
-        "dem_votes": 7165,
+        "dem_votes": 7164,
         "rep_votes": 0,
         "other_votes": 5638,
-        "total_votes": 12803,
+        "total_votes": 12802,
         "dem_candidate": "Tony Evers",
         "rep_candidate": "",
-        "margin": -7165,
-        "margin_pct": -55.96344606732797,
+        "margin": -7164,
+        "margin_pct": -55.962025928130764,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -512,14 +512,14 @@
         "rep_label": "Conservative"
       },
       "7": {
-        "dem_votes": 7703,
+        "dem_votes": 7558,
         "rep_votes": 0,
-        "other_votes": 6594,
-        "total_votes": 14298,
+        "other_votes": 6464,
+        "total_votes": 14022,
         "dem_candidate": "Tony Evers",
         "rep_candidate": "",
-        "margin": -7703,
-        "margin_pct": -53.87830040216821,
+        "margin": -7558,
+        "margin_pct": -53.90014570367335,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -529,14 +529,14 @@
         "rep_label": "Conservative"
       },
       "8": {
-        "dem_votes": 12645,
+        "dem_votes": 12600,
         "rep_votes": 0,
-        "other_votes": 16289,
-        "total_votes": 28934,
+        "other_votes": 16223,
+        "total_votes": 28823,
         "dem_candidate": "Tony Evers",
         "rep_candidate": "",
-        "margin": -12645,
-        "margin_pct": -43.70341355514338,
+        "margin": -12600,
+        "margin_pct": -43.71595673853386,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -546,14 +546,14 @@
         "rep_label": "Conservative"
       },
       "9": {
-        "dem_votes": 19334,
+        "dem_votes": 19054,
         "rep_votes": 0,
-        "other_votes": 14060,
-        "total_votes": 33394,
+        "other_votes": 13844,
+        "total_votes": 32898,
         "dem_candidate": "Tony Evers",
         "rep_candidate": "",
-        "margin": -19334,
-        "margin_pct": -57.89662813679104,
+        "margin": -19054,
+        "margin_pct": -57.9175841827538,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
@@ -562,6 +562,7 @@
         "dem_label": "Liberal",
         "rep_label": "Conservative"
       }
-    }
+    },
+    "election_type": "spring"
   }
 }

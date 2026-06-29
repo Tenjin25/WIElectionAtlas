@@ -1,0 +1,105 @@
+{
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 60,
+        "rep_votes": 80,
+        "other_votes": 0,
+        "total_votes": 139,
+        "dem_candidate": "Karl Jaeger",
+        "rep_candidate": "Elijah Behnke",
+        "margin": 20,
+        "margin_pct": 14.353312302839122,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "36": {
+        "dem_votes": 0,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 0,
+        "dem_candidate": "Karl Jaeger",
+        "rep_candidate": "Elijah Behnke",
+        "margin": 0,
+        "margin_pct": 0.0,
+        "winner": "TIE",
+        "competitiveness": {
+          "color": "#9ca3af"
+        }
+      },
+      "37": {
+        "dem_votes": 2795,
+        "rep_votes": 3248,
+        "other_votes": 98,
+        "total_votes": 6141,
+        "dem_candidate": "Pete Adams",
+        "rep_candidate": "William Penterman",
+        "margin": 453,
+        "margin_pct": 7.376648754274548,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "38": {
+        "dem_votes": 268,
+        "rep_votes": 494,
+        "other_votes": 14,
+        "total_votes": 776,
+        "dem_candidate": "Pete Adams",
+        "rep_candidate": "William Penterman",
+        "margin": 226,
+        "margin_pct": 29.123711340206178,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "4": {
+        "dem_votes": 200,
+        "rep_votes": 293,
+        "other_votes": 4,
+        "total_votes": 496,
+        "dem_candidate": "Karl Jaeger",
+        "rep_candidate": "Elijah Behnke",
+        "margin": 94,
+        "margin_pct": 18.850806451612904,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "46": {
+        "dem_votes": 0,
+        "rep_votes": 0,
+        "other_votes": 0,
+        "total_votes": 0,
+        "dem_candidate": "Pete Adams",
+        "rep_candidate": "William Penterman",
+        "margin": 0,
+        "margin_pct": 0.0,
+        "winner": "TIE",
+        "competitiveness": {
+          "color": "#9ca3af"
+        }
+      },
+      "89": {
+        "dem_votes": 4473,
+        "rep_votes": 7756,
+        "other_votes": 4,
+        "total_votes": 12233,
+        "dem_candidate": "Karl Jaeger",
+        "rep_candidate": "Elijah Behnke",
+        "margin": 3283,
+        "margin_pct": 26.84208820690188,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      }
+    },
+    "election_type": "special_general"
+  }
+}
