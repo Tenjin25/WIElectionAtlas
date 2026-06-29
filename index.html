@@ -10248,8 +10248,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Cache destroyer token for static data requests.
     // Bump this value when you want browsers/CDNs to fetch fresh files immediately.
-    const DATA_CACHE_BUSTER = '2026-06-28-6';
-    const APP_BUILD_ID = '2026-06-28-6';
+    const DATA_CACHE_BUSTER = '2026-06-29-1';
+    const APP_BUILD_ID = '2026-06-29-1';
 
     function withCacheBuster(path) {
       const p = (path || '').toString().trim();
@@ -20510,8 +20510,9 @@ document.addEventListener('DOMContentLoaded', function() {
     function normalizeDistrictNumber(raw) {
       const s = (raw ?? '').toString().trim();
       if (!s) return '';
+      if (/^z+$/i.test(s)) return '';
       const m = s.match(/\d+/);
-      if (!m) return s;
+      if (!m) return '';
       const n = Number(m[0]);
       return Number.isFinite(n) ? String(n) : m[0];
     }
@@ -30588,7 +30589,9 @@ document.addEventListener('DOMContentLoaded', function() {
     function getDistrictNumberFromPropsNumeric(props) {
       const p = props || {};
       const raw = p.DISTRICT || p.SLDLST || p.SLDUST || p.district_id || p.district || p.DIST || p.CD118FP || p.CD119FP || p.CD || p.cd || null;
-      const n = Number(String(raw || '').replace(/[^0-9]/g, ''));
+      const digits = String(raw || '').replace(/[^0-9]/g, '');
+      if (!digits) return null;
+      const n = Number(digits);
       return Number.isFinite(n) ? n : null;
     }
 

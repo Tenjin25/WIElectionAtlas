@@ -1,0 +1,119 @@
+{
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 165838,
+        "rep_votes": 206291,
+        "other_votes": 8223,
+        "total_votes": 380352,
+        "dem_candidate": "Peter Barca",
+        "rep_candidate": "Bryan Steil",
+        "margin": 40453,
+        "margin_pct": 10.635756734394826,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "2": {
+        "dem_votes": 318203,
+        "rep_votes": 135771,
+        "other_votes": 631,
+        "total_votes": 454604,
+        "dem_candidate": "Peter Barca",
+        "rep_candidate": "Bryan Steil",
+        "margin": -182432,
+        "margin_pct": -40.12994997442381,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "3": {
+        "dem_votes": 199527,
+        "rep_votes": 211084,
+        "other_votes": 306,
+        "total_votes": 410918,
+        "dem_candidate": "Rebecca Cooke",
+        "rep_candidate": "Derrick Van Orden",
+        "margin": 11557,
+        "margin_pct": 2.812521311671156,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "4": {
+        "dem_votes": 245446,
+        "rep_votes": 73779,
+        "other_votes": 9111,
+        "total_votes": 328337,
+        "dem_candidate": "Gwen S. Moore",
+        "rep_candidate": "Tim Rogers",
+        "margin": -171667,
+        "margin_pct": -52.28373277706297,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "5": {
+        "dem_votes": 160494,
+        "rep_votes": 293749,
+        "other_votes": 592,
+        "total_votes": 454834,
+        "dem_candidate": "Gwen S. Moore",
+        "rep_candidate": "Tim Rogers",
+        "margin": 133254,
+        "margin_pct": 29.297318767752945,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "6": {
+        "dem_votes": 156734,
+        "rep_votes": 249076,
+        "other_votes": 415,
+        "total_votes": 405856,
+        "dem_candidate": "Kristin Lyerly",
+        "rep_candidate": "Tony Wied",
+        "margin": 92343,
+        "margin_pct": 22.752593700944672,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "7": {
+        "dem_votes": 155634,
+        "rep_votes": 271807,
+        "other_votes": 302,
+        "total_votes": 427743,
+        "dem_candidate": "Rebecca Cooke",
+        "rep_candidate": "Derrick Van Orden",
+        "margin": 116172,
+        "margin_pct": 27.15938560937398,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "8": {
+        "dem_votes": 352024,
+        "rep_votes": 475226,
+        "other_votes": 504,
+        "total_votes": 416074,
+        "dem_candidate": "Kristin Lyerly",
+        "rep_candidate": "Tony Wied",
+        "margin": 123202,
+        "margin_pct": 29.610551861973477,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      }
+    },
+    "election_type": "general"
+  }
+}
