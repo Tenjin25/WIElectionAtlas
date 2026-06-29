@@ -435,11 +435,27 @@ def build_result_node(dem_votes: float, rep_votes: float, other_votes: float, to
 
 def write_slice_dir(out_dir: Path, results_by_year: dict[str, dict[str, dict[str, dict[str, object]]]]) -> None:
     out_dir.mkdir(parents=True, exist_ok=True)
+    manifest_entries: list[dict[str, object]] = []
     for year, scopes in results_by_year.items():
         for scope, contests in scopes.items():
             for contest_type, payload in contests.items():
                 filename = f"{scope}_{contest_type}_{year}.json"
                 (out_dir / filename).write_text(json.dumps(payload, indent=2), encoding="utf-8")
+                rows = len((((payload or {}).get("general") or {}).get("results") or {}))
+                manifest_entries.append(
+                    {
+                        "scope": scope,
+                        "contest_type": contest_type,
+                        "year": int(year),
+                        "file": filename,
+                        "rows": rows,
+                    }
+                )
+    manifest_entries.sort(key=lambda entry: (entry["year"], entry["scope"], entry["contest_type"]))
+    (out_dir / "manifest.json").write_text(
+        json.dumps({"files": manifest_entries}, indent=2) + "\n",
+        encoding="utf-8",
+    )
 
 
 def copy_scope_slices(
