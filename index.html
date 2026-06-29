@@ -10487,48 +10487,112 @@ document.addEventListener('DOMContentLoaded', function() {
       };
     }
 
+    function aggregateCountyBundleForRegion(bundle, regionKey) {
+      const countySet = getRegionCountySet(regionKey);
+      if (!bundle || !bundle.totalsByCounty || !countySet.size) return null;
+
+      const totals = {
+        dem: 0,
+        rep: 0,
+        other: 0,
+        total: 0,
+        matchedCounties: 0,
+        totalCounties: countySet.size
+      };
+      const matched = new Set();
+
+      bundle.totalsByCounty.forEach((countyTotals, countyKey) => {
+        const countyNorm = normalizeRegionCountyName(countyKey);
+        if (!countyNorm || !countySet.has(countyNorm)) return;
+        matched.add(countyNorm);
+        totals.dem += Number(countyTotals?.dem || 0);
+        totals.rep += Number(countyTotals?.rep || 0);
+        totals.other += Number(countyTotals?.other || 0);
+        totals.total += Number(countyTotals?.total || 0);
+      });
+
+      totals.matchedCounties = matched.size;
+      return totals.total > 0 ? totals : null;
+    }
+
     async function getRegionContestTotals(regionKey, contestType, year) {
       const region = REGION_JUMPS[regionKey];
       if (!region) return null;
-      const rows = await loadContestSlice(contestType, Number(year), { preferCounty: true });
+      const y = Number(year);
+
+      // Use the same county aggregate bundle that powers statewide/county history first.
+      // Regional results are just a county subset, so this avoids failures when a slice is
+      // manifest-backed, ward-backed, or otherwise not shaped exactly like county rows.
+      try {
+        const bundle = await ensureCountyAggregateBundle(contestType, y);
+        const fromBundle = aggregateCountyBundleForRegion(bundle, regionKey);
+        if (fromBundle) {
+          try {
+            const cand = await getContestCandidates(contestType, y);
+            fromBundle.demCandidate = cand?.dem || '';
+            fromBundle.repCandidate = cand?.rep || '';
+          } catch (_) {
+            fromBundle.demCandidate = '';
+            fromBundle.repCandidate = '';
+          }
+          return fromBundle;
+        }
+      } catch (_) {}
+
+      const rows = await loadContestSlice(contestType, y);
       const totals = aggregateContestRowsForRegion(rows, contestType, regionKey);
       if (!totals.total) return null;
       return totals;
     }
 
     async function getRegionTrendSeries(contestType, regionKey) {
-      const entries = getVisibleManifestEntries(contestManifest)
-        .filter(f => f && f.contest_type === contestType && Number.isFinite(Number(f.year)))
-        .slice()
-        .sort((a, b) => Number(a.year) - Number(b.year));
+      const years = getAvailableContestYearsForType(contestType)
+        .map(Number)
+        .filter(y => Number.isFinite(y) && y > 0)
+        .sort((a, b) => a - b);
 
-      const out = [];
-      const loaded = await mapWithConcurrency(entries, 4, async (e) => {
-        const year = Number(e?.year);
-        if (!Number.isFinite(year)) return null;
-        const rows = await loadContestSlice(contestType, year, { preferCounty: true });
-        return { year, rows };
-      });
-      for (const bundle of loaded) {
-        if (!bundle) continue;
-        const year = Number(bundle.year);
-        const rows = bundle.rows || [];
-        const totals = aggregateContestRowsForRegion(rows, contestType, regionKey);
-        if (!totals.total) continue;
+      const loaded = await mapWithConcurrency(years, 4, async (year) => {
+        let totals = null;
+        try {
+          const bundle = await ensureCountyAggregateBundle(contestType, year);
+          totals = aggregateCountyBundleForRegion(bundle, regionKey);
+        } catch (_) {}
+
+        // Last-resort fallback keeps modeled or ad-hoc slices working even when no
+        // reusable county aggregate bundle is available.
+        if (!totals) {
+          try {
+            const rows = await loadContestSlice(contestType, year);
+            totals = aggregateContestRowsForRegion(rows, contestType, regionKey);
+          } catch (_) {}
+        }
+        if (!totals || !totals.total) return null;
+
+        let demCandidate = totals.demCandidate || '';
+        let repCandidate = totals.repCandidate || '';
+        if (!demCandidate || !repCandidate) {
+          try {
+            const cand = await getContestCandidates(contestType, year);
+            demCandidate = demCandidate || cand?.dem || '';
+            repCandidate = repCandidate || cand?.rep || '';
+          } catch (_) {}
+        }
+
         const margin = totals.rep - totals.dem;
-        out.push({
+        return {
           year,
           dem_votes: totals.dem,
           rep_votes: totals.rep,
           other_votes: totals.other,
           total_votes: totals.total,
-          dem_candidate: totals.demCandidate,
-          rep_candidate: totals.repCandidate,
+          dem_candidate: demCandidate,
+          rep_candidate: repCandidate,
           winner: margin > 0 ? 'REP' : (margin < 0 ? 'DEM' : 'TIE'),
           margin_pct: signedMarginPctFromVotes(totals.dem, totals.rep, totals.total)
-        });
-      }
-      return out;
+        };
+      });
+
+      return loaded.filter(Boolean).sort((a, b) => Number(a.year) - Number(b.year));
     }
 
     async function focusRegionSummary(regionKey) {
@@ -15250,7 +15314,7 @@ document.addEventListener('DOMContentLoaded', function() {
         } else if (meta.kind === 'district' && meta.scope && meta.districtNum !== undefined) {
           trendOptions.focusName = getDistrictTitleForScope(meta.scope, meta.districtNum);
         } else if (meta.kind === 'region' && meta.regionKey) {
-          trendOptions.focusName = String(meta.regionKey || 'This region').replace(/[-_]/g, ' ');
+          trendOptions.focusName = meta.regionLabel || REGION_JUMPS[meta.regionKey]?.label || String(meta.regionKey || 'This region').replace(/[-_]/g, ' ');
         } else if (meta.kind === 'statewide') {
           trendOptions.focusName = 'Wisconsin';
         }
