@@ -1,0 +1,119 @@
+{
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 140080,
+        "rep_votes": 154030,
+        "other_votes": 5191,
+        "total_votes": 299300,
+        "dem_candidate": "Rob Zerban",
+        "rep_candidate": "Paul Ryan",
+        "margin": 13950,
+        "margin_pct": 4.660918389839182,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "2": {
+        "dem_votes": 252132,
+        "rep_votes": 117053,
+        "other_votes": 449,
+        "total_votes": 369634,
+        "dem_candidate": "Mark Pocan",
+        "rep_candidate": "Chad Lee",
+        "margin": -135079,
+        "margin_pct": -36.543992765485214,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "3": {
+        "dem_votes": 216414,
+        "rep_votes": 121085,
+        "other_votes": 338,
+        "total_votes": 337836,
+        "dem_candidate": "Ron Kind",
+        "rep_candidate": "Ray Boland",
+        "margin": -95329,
+        "margin_pct": -28.217481512904254,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "4": {
+        "dem_votes": 223538,
+        "rep_votes": 69910,
+        "other_votes": 8756,
+        "total_votes": 302204,
+        "dem_candidate": "Gwen Moore",
+        "rep_candidate": "Dan Sebring",
+        "margin": -153628,
+        "margin_pct": -50.835859220923616,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "5": {
+        "dem_votes": 94484,
+        "rep_votes": 220602,
+        "other_votes": 718,
+        "total_votes": 315804,
+        "dem_candidate": "Dave Heaster",
+        "rep_candidate": "F. James Sensenbrenner Jr",
+        "margin": 126118,
+        "margin_pct": 39.93536023806388,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "6": {
+        "dem_votes": 130581,
+        "rep_votes": 214693,
+        "other_votes": 343,
+        "total_votes": 345617,
+        "dem_candidate": "Joe Kallas",
+        "rep_candidate": "Tom Petri",
+        "margin": 84113,
+        "margin_pct": 24.33698305832337,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "7": {
+        "dem_votes": 156123,
+        "rep_votes": 199873,
+        "other_votes": 416,
+        "total_votes": 356412,
+        "dem_candidate": "Pat Kreitlow",
+        "rep_candidate": "Sean Duffy",
+        "margin": 43750,
+        "margin_pct": 12.274982861545588,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "8": {
+        "dem_votes": 148378,
+        "rep_votes": 187766,
+        "other_votes": 284,
+        "total_votes": 336428,
+        "dem_candidate": "Jamie Wall",
+        "rep_candidate": "Reid J. Ribble",
+        "margin": 39388,
+        "margin_pct": 11.70776876673064,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      }
+    },
+    "election_type": "general"
+  }
+}

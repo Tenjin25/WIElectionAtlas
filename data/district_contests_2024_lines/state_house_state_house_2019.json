@@ -1,0 +1,21 @@
+{
+  "general": {
+    "results": {
+      "64": {
+        "dem_votes": 3171,
+        "rep_votes": 1697,
+        "other_votes": 5,
+        "total_votes": 4873,
+        "dem_candidate": "Tip McGuire",
+        "rep_candidate": "Mark Stalker",
+        "margin": -1474,
+        "margin_pct": -30.25406767497165,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      }
+    },
+    "election_type": "special_general"
+  }
+}

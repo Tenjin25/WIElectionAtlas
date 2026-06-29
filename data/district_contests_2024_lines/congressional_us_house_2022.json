@@ -2,98 +2,98 @@
   "general": {
     "results": {
       "1": {
-        "dem_votes": 131347,
-        "rep_votes": 158421,
-        "other_votes": 2374,
-        "total_votes": 292142,
+        "dem_votes": 131012,
+        "rep_votes": 158055,
+        "other_votes": 2350,
+        "total_votes": 291417,
         "dem_candidate": "Ann Roe",
         "rep_candidate": "Bryan Steil",
-        "margin": 27075,
-        "margin_pct": 9.267626823019457,
+        "margin": 27043,
+        "margin_pct": 9.279765503664013,
         "winner": "REP",
         "competitiveness": {
           "color": "#fb6a4a"
         }
       },
       "2": {
-        "dem_votes": 268728,
-        "rep_votes": 102322,
-        "other_votes": 7870,
-        "total_votes": 378920,
-        "dem_candidate": "Ann Roe",
-        "rep_candidate": "Bryan Steil",
-        "margin": -166407,
-        "margin_pct": -43.91605428253318,
+        "dem_votes": 267637,
+        "rep_votes": 101404,
+        "other_votes": 7852,
+        "total_votes": 376892,
+        "dem_candidate": "Mark Pocan",
+        "rep_candidate": "Erik Olsen",
+        "margin": -166233,
+        "margin_pct": -44.10620912277609,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
         }
       },
       "3": {
-        "dem_votes": 151947,
-        "rep_votes": 163805,
+        "dem_votes": 151716,
+        "rep_votes": 163309,
         "other_votes": 201,
-        "total_votes": 315954,
+        "total_votes": 315226,
         "dem_candidate": "Brad Pfaff",
         "rep_candidate": "Derrick Van Orden",
-        "margin": 11858,
-        "margin_pct": 3.753176586761741,
+        "margin": 11593,
+        "margin_pct": 3.67754071095045,
         "winner": "REP",
         "competitiveness": {
           "color": "#fcbba1"
         }
       },
       "4": {
-        "dem_votes": 188688,
-        "rep_votes": 56772,
-        "other_votes": 5218,
-        "total_votes": 250678,
+        "dem_votes": 187514,
+        "rep_votes": 55590,
+        "other_votes": 5217,
+        "total_votes": 248321,
         "dem_candidate": "Gwen Moore",
         "rep_candidate": "Tim Rogers",
-        "margin": -131916,
-        "margin_pct": -52.6239166589418,
+        "margin": -131924,
+        "margin_pct": -53.12639688145586,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
         }
       },
       "5": {
-        "dem_votes": 130778,
-        "rep_votes": 239111,
-        "other_votes": 270,
-        "total_votes": 370160,
-        "dem_candidate": "Gwen Moore",
-        "rep_candidate": "Tim Rogers",
-        "margin": 108333,
-        "margin_pct": 29.2665450852404,
+        "dem_votes": 129436,
+        "rep_votes": 237768,
+        "other_votes": 193,
+        "total_votes": 367397,
+        "dem_candidate": "Mike Van Someren",
+        "rep_candidate": "Scott Fitzgerald",
+        "margin": 108332,
+        "margin_pct": 29.4862670941273,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
         }
       },
       "6": {
-        "dem_votes": 3,
-        "rep_votes": 235556,
-        "other_votes": 12555,
-        "total_votes": 248114,
-        "dem_candidate": "Mike Van Someren",
-        "rep_candidate": "Scott Fitzgerald",
-        "margin": 235553,
-        "margin_pct": 94.93765550000161,
+        "dem_votes": 0,
+        "rep_votes": 235319,
+        "other_votes": 12490,
+        "total_votes": 247809,
+        "dem_candidate": "",
+        "rep_candidate": "Glenn Grothman",
+        "margin": 235319,
+        "margin_pct": 94.9596295536552,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
         }
       },
       "7": {
-        "dem_votes": 128030,
-        "rep_votes": 207786,
+        "dem_votes": 127938,
+        "rep_votes": 207600,
         "other_votes": 167,
-        "total_votes": 335983,
-        "dem_candidate": "Brad Pfaff",
-        "rep_candidate": "Derrick Van Orden",
-        "margin": 79756,
-        "margin_pct": 23.738033003057392,
+        "total_votes": 335705,
+        "dem_candidate": "Richard Dick Ausman",
+        "rep_candidate": "Tom Tiffany",
+        "margin": 79661,
+        "margin_pct": 23.729557640006444,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"

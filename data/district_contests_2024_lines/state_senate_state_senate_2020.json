@@ -1,0 +1,231 @@
+{
+  "general": {
+    "results": {
+      "10": {
+        "dem_votes": 26216,
+        "rep_votes": 37489,
+        "other_votes": 29,
+        "total_votes": 63734,
+        "dem_candidate": "Patty Schachtner",
+        "rep_candidate": "Rob Stafsholt",
+        "margin": 11273,
+        "margin_pct": 17.687576489785673,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "12": {
+        "dem_votes": 30802,
+        "rep_votes": 58207,
+        "other_votes": 70,
+        "total_votes": 89079,
+        "dem_candidate": "Ed Vocke",
+        "rep_candidate": "Mary Czaja-Felzkowski",
+        "margin": 27405,
+        "margin_pct": 30.764826726837974,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "14": {
+        "dem_votes": 11269,
+        "rep_votes": 14147,
+        "other_votes": 17,
+        "total_votes": 25433,
+        "dem_candidate": "Joni D. Anderson",
+        "rep_candidate": "Joan A. Ballweg",
+        "margin": 2878,
+        "margin_pct": 11.316006762867142,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "16": {
+        "dem_votes": 44258,
+        "rep_votes": 19908,
+        "other_votes": 57,
+        "total_votes": 64223,
+        "dem_candidate": "Melissa Agard Sargent",
+        "rep_candidate": "Scott Barker",
+        "margin": -24349,
+        "margin_pct": -37.914088136582656,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "18": {
+        "dem_votes": 11132,
+        "rep_votes": 9911,
+        "other_votes": 36,
+        "total_votes": 21079,
+        "dem_candidate": "Aaron M. Wojciechowski",
+        "rep_candidate": "Dan Feyen",
+        "margin": -1220,
+        "margin_pct": -5.7897358262758045,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "2": {
+        "dem_votes": 0,
+        "rep_votes": 45390,
+        "other_votes": 496,
+        "total_votes": 45886,
+        "dem_candidate": "",
+        "rep_candidate": "Robert L. Cowles",
+        "margin": 45390,
+        "margin_pct": 98.91906352563508,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "20": {
+        "dem_votes": 0,
+        "rep_votes": 55423,
+        "other_votes": 222,
+        "total_votes": 55645,
+        "dem_candidate": "",
+        "rep_candidate": "Duey Stroebel",
+        "margin": 55423,
+        "margin_pct": 99.60104375579564,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "22": {
+        "dem_votes": 45149,
+        "rep_votes": 0,
+        "other_votes": 1794,
+        "total_votes": 46943,
+        "dem_candidate": "Robert W. Wirch",
+        "rep_candidate": "",
+        "margin": -45149,
+        "margin_pct": -96.17834790927489,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "24": {
+        "dem_votes": 31299,
+        "rep_votes": 36599,
+        "other_votes": 46,
+        "total_votes": 67944,
+        "dem_candidate": "Paul Piotrowski",
+        "rep_candidate": "Patrick Testin",
+        "margin": 5300,
+        "margin_pct": 7.800541622512657,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "26": {
+        "dem_votes": 54668,
+        "rep_votes": 0,
+        "other_votes": 935,
+        "total_votes": 55602,
+        "dem_candidate": "Kelda Helen Roys",
+        "rep_candidate": "",
+        "margin": -54668,
+        "margin_pct": -98.31876438214022,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "28": {
+        "dem_votes": 14347,
+        "rep_votes": 32229,
+        "other_votes": 29,
+        "total_votes": 46605,
+        "dem_candidate": "Adam Murphy",
+        "rep_candidate": "Julian Bradley",
+        "margin": 17882,
+        "margin_pct": 38.36927368308121,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "30": {
+        "dem_votes": 26688,
+        "rep_votes": 24298,
+        "other_votes": 62,
+        "total_votes": 51048,
+        "dem_candidate": "Jonathon Hansen",
+        "rep_candidate": "Eric Wimberger",
+        "margin": -2390,
+        "margin_pct": -4.681868045760853,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "32": {
+        "dem_votes": 44307,
+        "rep_votes": 41874,
+        "other_votes": 66,
+        "total_votes": 86247,
+        "dem_candidate": "Brad Pfaff",
+        "rep_candidate": "Dan Kapanke",
+        "margin": -2433,
+        "margin_pct": -2.8209676858325508,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      },
+      "4": {
+        "dem_votes": 62405,
+        "rep_votes": 0,
+        "other_votes": 1053,
+        "total_votes": 63458,
+        "dem_candidate": "Lena C. Taylor",
+        "rep_candidate": "",
+        "margin": -62405,
+        "margin_pct": -98.34063475054367,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "6": {
+        "dem_votes": 60037,
+        "rep_votes": 7550,
+        "other_votes": 243,
+        "total_votes": 67829,
+        "dem_candidate": "LaTonya Johnson",
+        "rep_candidate": "Alciro Deacon",
+        "margin": -52487,
+        "margin_pct": -77.38135027020438,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "8": {
+        "dem_votes": 43983,
+        "rep_votes": 50321,
+        "other_votes": 60,
+        "total_votes": 94363,
+        "dem_candidate": "Neal Plotkin",
+        "rep_candidate": "Alberta Darling",
+        "margin": 6338,
+        "margin_pct": 6.716724726031583,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      }
+    },
+    "election_type": "general"
+  }
+}

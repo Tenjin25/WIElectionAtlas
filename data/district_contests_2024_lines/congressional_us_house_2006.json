@@ -1,0 +1,119 @@
+{
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 79222,
+        "rep_votes": 126138,
+        "other_votes": 486,
+        "total_votes": 205846,
+        "dem_candidate": "Jeffrey C. Thomas",
+        "rep_candidate": "Paul Ryan",
+        "margin": 46916,
+        "margin_pct": 22.79157679656887,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "2": {
+        "dem_votes": 155634,
+        "rep_votes": 81627,
+        "other_votes": 199,
+        "total_votes": 237460,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Dave Magnum",
+        "margin": -74007,
+        "margin_pct": -31.166070471885217,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "3": {
+        "dem_votes": 102962,
+        "rep_votes": 52075,
+        "other_votes": 207,
+        "total_votes": 155245,
+        "dem_candidate": "Ron Kind",
+        "rep_candidate": "Paul R. Nelson",
+        "margin": -50887,
+        "margin_pct": -32.778688376315934,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "4": {
+        "dem_votes": 125823,
+        "rep_votes": 46414,
+        "other_votes": 460,
+        "total_votes": 172697,
+        "dem_candidate": "Gwen Moore",
+        "rep_candidate": "Perfecto Rivera",
+        "margin": -79410,
+        "margin_pct": -45.98192332957423,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "5": {
+        "dem_votes": 64051,
+        "rep_votes": 136143,
+        "other_votes": 5321,
+        "total_votes": 205516,
+        "dem_candidate": "Bryan Kennedy",
+        "rep_candidate": "F. James Sensenbrenner, Jr.",
+        "margin": 72092,
+        "margin_pct": 35.078724281924366,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "6": {
+        "dem_votes": 0,
+        "rep_votes": 150955,
+        "other_votes": 1843,
+        "total_votes": 152799,
+        "dem_candidate": "",
+        "rep_candidate": "Tom Petri",
+        "margin": 150955,
+        "margin_pct": 98.79364017622459,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "7": {
+        "dem_votes": 91749,
+        "rep_votes": 54942,
+        "other_votes": 4106,
+        "total_votes": 150796,
+        "dem_candidate": "David R. Obey",
+        "rep_candidate": "Nick Reid",
+        "margin": -36807,
+        "margin_pct": -24.408727718204005,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "8": {
+        "dem_votes": 117783,
+        "rep_votes": 109978,
+        "other_votes": 846,
+        "total_votes": 228607,
+        "dem_candidate": "Steven L. Kagen",
+        "rep_candidate": "John Gard",
+        "margin": -7805,
+        "margin_pct": -3.414156171945741,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#c6dbef"
+        }
+      }
+    },
+    "election_type": "general"
+  }
+}

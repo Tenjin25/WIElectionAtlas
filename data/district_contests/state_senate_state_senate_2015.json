@@ -1,0 +1,35 @@
+{
+  "general": {
+    "results": {
+      "20": {
+        "dem_votes": 22,
+        "rep_votes": 21818,
+        "other_votes": 241,
+        "total_votes": 22081,
+        "dem_candidate": "Nicholas J. Stamates (Write-In)",
+        "rep_candidate": "Duey Stroebel",
+        "margin": 21796,
+        "margin_pct": 98.70929758616005,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "33": {
+        "dem_votes": 2596,
+        "rep_votes": 6824,
+        "other_votes": 18,
+        "total_votes": 9438,
+        "dem_candidate": "Sherryll Shaddock",
+        "rep_candidate": "Chris Kapenga",
+        "margin": 4229,
+        "margin_pct": 44.80448573247674,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      }
+    },
+    "election_type": "special_general"
+  }
+}

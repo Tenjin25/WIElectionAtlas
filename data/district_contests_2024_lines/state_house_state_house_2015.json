@@ -1,0 +1,21 @@
+{
+  "general": {
+    "results": {
+      "99": {
+        "dem_votes": 25,
+        "rep_votes": 340,
+        "other_votes": 18,
+        "total_votes": 383,
+        "dem_candidate": "Thomas D. Hibbard (Write-In)",
+        "rep_candidate": "Cindi Duchow",
+        "margin": 316,
+        "margin_pct": 82.41687361412474,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      }
+    },
+    "election_type": "special_general"
+  }
+}

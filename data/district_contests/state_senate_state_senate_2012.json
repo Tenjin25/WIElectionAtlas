@@ -1,0 +1,301 @@
+{
+  "general": {
+    "results": {
+      "10": {
+        "dem_votes": 30689,
+        "rep_votes": 45647,
+        "other_votes": 87,
+        "total_votes": 76423,
+        "dem_candidate": "Daniel C. Olson",
+        "rep_candidate": "Sheila Harsdorf",
+        "margin": 14958,
+        "margin_pct": 19.5726417439776,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "12": {
+        "dem_votes": 36505,
+        "rep_votes": 50639,
+        "other_votes": 2977,
+        "total_votes": 90121,
+        "dem_candidate": "Susan Sommer",
+        "rep_candidate": "Tom Tiffany",
+        "margin": 14134,
+        "margin_pct": 15.683359039513542,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "13": {
+        "dem_votes": 23228,
+        "rep_votes": 34065,
+        "other_votes": 551,
+        "total_votes": 57844,
+        "dem_candidate": "Lori Compas",
+        "rep_candidate": "Scott Fitzgerald",
+        "margin": 10837,
+        "margin_pct": 18.734898050825322,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "14": {
+        "dem_votes": 30726,
+        "rep_votes": 42639,
+        "other_votes": 59,
+        "total_votes": 73424,
+        "dem_candidate": "Margarete Worthington",
+        "rep_candidate": "Luther S. Olsen",
+        "margin": 11913,
+        "margin_pct": 16.2248617801644,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "16": {
+        "dem_votes": 62373,
+        "rep_votes": 0,
+        "other_votes": 776,
+        "total_votes": 63149,
+        "dem_candidate": "Mark Miller",
+        "rep_candidate": "",
+        "margin": -62373,
+        "margin_pct": -98.77103911640926,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "18": {
+        "dem_votes": 37214,
+        "rep_votes": 37278,
+        "other_votes": 80,
+        "total_votes": 74572,
+        "dem_candidate": "Jessica King",
+        "rep_candidate": "Rick Gudex",
+        "margin": 64,
+        "margin_pct": 0.08582309714101807,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fcbba1"
+        }
+      },
+      "2": {
+        "dem_votes": 0,
+        "rep_votes": 51512,
+        "other_votes": 732,
+        "total_votes": 52244,
+        "dem_candidate": "",
+        "rep_candidate": "Robert Cowles",
+        "margin": 51512,
+        "margin_pct": 98.59888216828728,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "20": {
+        "dem_votes": 28281,
+        "rep_votes": 60655,
+        "other_votes": 66,
+        "total_votes": 89002,
+        "dem_candidate": "Tanya Lohr",
+        "rep_candidate": "Glenn Grothman",
+        "margin": 32374,
+        "margin_pct": 36.374463495202356,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "21": {
+        "dem_votes": 20523,
+        "rep_votes": 27877,
+        "other_votes": 33,
+        "total_votes": 48433,
+        "dem_candidate": "John Lehman",
+        "rep_candidate": "Van H. Wanggaard",
+        "margin": 7354,
+        "margin_pct": 15.18400976523086,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "22": {
+        "dem_votes": 49938,
+        "rep_votes": 21663,
+        "other_votes": 101,
+        "total_votes": 71702,
+        "dem_candidate": "Robert W. Wirch",
+        "rep_candidate": "Pam Stevens",
+        "margin": -28275,
+        "margin_pct": -39.434507871206705,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "23": {
+        "dem_votes": 20455,
+        "rep_votes": 30177,
+        "other_votes": 55,
+        "total_votes": 50686,
+        "dem_candidate": "Kristen Dexter",
+        "rep_candidate": "Terry Moulton",
+        "margin": 9723,
+        "margin_pct": 19.181908228321497,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "24": {
+        "dem_votes": 47980,
+        "rep_votes": 36390,
+        "other_votes": 87,
+        "total_votes": 84457,
+        "dem_candidate": "Julie Lassa",
+        "rep_candidate": "Scott Kenneth Noble",
+        "margin": -11590,
+        "margin_pct": -13.722959612583917,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "26": {
+        "dem_votes": 76179,
+        "rep_votes": 0,
+        "other_votes": 831,
+        "total_votes": 77009,
+        "dem_candidate": "Fred A. Risser",
+        "rep_candidate": "",
+        "margin": -76179,
+        "margin_pct": -98.92142306722525,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "28": {
+        "dem_votes": 29843,
+        "rep_votes": 47768,
+        "other_votes": 90,
+        "total_votes": 77702,
+        "dem_candidate": "Jim Ward",
+        "rep_candidate": "Mary Lazich",
+        "margin": 17925,
+        "margin_pct": 23.068499155281096,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "29": {
+        "dem_votes": 24015,
+        "rep_votes": 38178,
+        "other_votes": 55,
+        "total_votes": 62248,
+        "dem_candidate": "Donna Seidel",
+        "rep_candidate": "Jerry Petrowski",
+        "margin": 14163,
+        "margin_pct": 22.752538234160134,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "30": {
+        "dem_votes": 39143,
+        "rep_votes": 32180,
+        "other_votes": 72,
+        "total_votes": 71395,
+        "dem_candidate": "Dave Hansen",
+        "rep_candidate": "John Macco",
+        "margin": -6964,
+        "margin_pct": -9.753786291365877,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "32": {
+        "dem_votes": 50074,
+        "rep_votes": 35625,
+        "other_votes": 71,
+        "total_votes": 85770,
+        "dem_candidate": "Jennifer Shilling",
+        "rep_candidate": "Bill Feehan",
+        "margin": -14449,
+        "margin_pct": -16.846220238983463,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "33": {
+        "dem_votes": 0,
+        "rep_votes": 6339,
+        "other_votes": 114,
+        "total_votes": 6453,
+        "dem_candidate": "",
+        "rep_candidate": "Paul Farrow",
+        "margin": 6339,
+        "margin_pct": 98.23998016841824,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "4": {
+        "dem_votes": 67064,
+        "rep_votes": 0,
+        "other_votes": 10362,
+        "total_votes": 77426,
+        "dem_candidate": "Lena C. Taylor",
+        "rep_candidate": "",
+        "margin": -67064,
+        "margin_pct": -86.61689871619352,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "6": {
+        "dem_votes": 60524,
+        "rep_votes": 0,
+        "other_votes": 784,
+        "total_votes": 61308,
+        "dem_candidate": "Nikiya Harris",
+        "rep_candidate": "",
+        "margin": -60524,
+        "margin_pct": -98.72201652073842,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "8": {
+        "dem_votes": 407,
+        "rep_votes": 66978,
+        "other_votes": 2505,
+        "total_votes": 69890,
+        "dem_candidate": "Beth L. Lueck (Write-In)",
+        "rep_candidate": "Alberta Darling",
+        "margin": 66572,
+        "margin_pct": 95.25114285918687,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      }
+    },
+    "election_type": "special_general"
+  }
+}

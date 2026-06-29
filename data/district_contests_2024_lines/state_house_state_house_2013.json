@@ -1,0 +1,49 @@
+{
+  "general": {
+    "results": {
+      "21": {
+        "dem_votes": 1653,
+        "rep_votes": 2502,
+        "other_votes": 5,
+        "total_votes": 4160,
+        "dem_candidate": "Elizabeth Coppola",
+        "rep_candidate": "Jessie Rodriguez",
+        "margin": 849,
+        "margin_pct": 20.39685594732955,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "69": {
+        "dem_votes": 626,
+        "rep_votes": 1946,
+        "other_votes": 389,
+        "total_votes": 2961,
+        "dem_candidate": "Kenneth A. Slezak",
+        "rep_candidate": "Bob Kulp",
+        "margin": 1320,
+        "margin_pct": 44.57953394123607,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "98": {
+        "dem_votes": 0,
+        "rep_votes": 1202,
+        "other_votes": 2,
+        "total_votes": 1204,
+        "dem_candidate": "",
+        "rep_candidate": "Adam Neylon",
+        "margin": 1202,
+        "margin_pct": 99.83388704318938,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      }
+    },
+    "election_type": "special_general"
+  }
+}

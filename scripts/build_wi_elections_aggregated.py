@@ -15,20 +15,31 @@ OFFICE_MAP = {
     "Senate": "us_senate",
     "US Senator": "us_senate",
     "Governor": "governor",
+    "Lieutenant Governor": "lieutenant_governor",
     "Attorney General": "attorney_general",
     "Secretary Of State": "secretary_of_state",
     "Secretary of State": "secretary_of_state",
     "State Treasurer": "treasurer",
     "Supreme Court": "state_supreme_court",
+    "Justice of the Supreme Court": "state_supreme_court",
     "State Superintendent Of Public Instruction": "superintendent",
     "State Superintendent of Public Instruction": "superintendent",
 }
+INPUT_GLOBS = (
+    "*/*__wi__general__ward.csv",
+    "*/*__wi__general-recall__ward.csv",
+    "*/*__wi__special__general__ward.csv",
+    "*/*__wi__spring__ward_all_contests.csv",
+)
 
 DEM_PARTIES = {"DEM"}
 REP_PARTIES = {"REP"}
 NONPARTISAN_ALIGNMENT = {
     ("2005", "supreme court"): {
         "Ann W. Bradley": "dem",
+    },
+    ("2006", "supreme court"): {
+        "Patrick Crooks": "rep",
     },
     ("2005", "state superintendent of public instruction"): {
         "Elizabeth Burmaster": "dem",
@@ -72,6 +83,9 @@ NONPARTISAN_ALIGNMENT = {
         "JoAnne F. Kloppenburg": "dem",
         "Rebecca G. Bradley": "rep",
     },
+    ("2017", "supreme court"): {
+        "Annette Ziegler": "rep",
+    },
     ("2017", "state superintendent of public instruction"): {
         "Tony Evers": "dem",
         "Lowell E. Holtz": "rep",
@@ -92,6 +106,10 @@ NONPARTISAN_ALIGNMENT = {
     ("2021", "state superintendent of public instruction"): {
         "Jill Underly": "dem",
         "Deborah Kerr": "rep",
+    },
+    ("2023", "justice of the supreme court"): {
+        "Janet C. Protasiewicz": "dem",
+        "Daniel Kelly": "rep",
     },
     ("2025", "supreme court"): {
         "Susan Crawford": "dem",
@@ -122,6 +140,16 @@ PRESIDENTIAL_TOP_TICKET_NAMES = {
     "Kamala D. Harris Tim Walz": "Kamala D. Harris",
     "Donald J. Trump JD Vance": "Donald J. Trump",
 }
+NOVEMBER_ONLY_CONTESTS = {
+    "presidential",
+    "us_senate",
+    "governor",
+    "lieutenant_governor",
+    "attorney_general",
+    "secretary_of_state",
+    "treasurer",
+}
+SPRING_ONLY_CONTESTS = {"state_supreme_court", "superintendent"}
 
 
 def normalize_county(raw: str) -> str:
@@ -137,6 +165,54 @@ def normalize_candidate_label(office_key: str, candidate: str) -> str:
     if office_key == "presidential":
         return PRESIDENTIAL_TOP_TICKET_NAMES.get(candidate, candidate)
     return candidate
+
+
+def iter_input_csv_paths() -> list[Path]:
+    paths: list[Path] = []
+    seen: set[Path] = set()
+    for pattern in INPUT_GLOBS:
+        for path in sorted(DATA_DIR.glob(pattern)):
+            if path in seen:
+                continue
+            seen.add(path)
+            paths.append(path)
+    return paths
+
+
+def election_tags(csv_path: Path) -> set[str]:
+    return {
+        part.strip().lower()
+        for part in csv_path.stem.split("__")[2:-1]
+        if part.strip()
+    }
+
+
+def should_include_contest(office_key: str, election_month: str, tags: set[str]) -> bool:
+    if any("primary" in tag for tag in tags):
+        return False
+    if office_key in NOVEMBER_ONLY_CONTESTS:
+        return (
+            election_month == "11"
+            or "general-recall" in tags
+            or ("special" in tags and "general" in tags)
+        )
+    if office_key in SPRING_ONLY_CONTESTS:
+        return election_month != "11"
+    return True
+
+
+def row_label(row: dict[str, str]) -> str:
+    return " ".join(((row.get("ward") or row.get("precinct") or "")).strip().split())
+
+
+def infer_election_type(tags: set[str], election_month: str) -> str:
+    if "general-recall" in tags:
+        return "recall"
+    if "special" in tags and "general" in tags:
+        return "special_general"
+    if election_month and election_month != "11":
+        return "spring"
+    return "general"
 
 
 def winner_from_votes(dem: int, rep: int) -> str:
@@ -180,11 +256,14 @@ def main() -> None:
         }
     )
     seen_total_rows = set()
+    contest_election_types: dict[tuple[str, str], str] = {}
 
-    for csv_path in sorted(DATA_DIR.glob("*/*__wi__general__ward.csv")):
+    for csv_path in iter_input_csv_paths():
         year = csv_path.parent.name
         election_date = csv_path.name.split("__", 1)[0]
         election_month = election_date[4:6] if len(election_date) >= 6 else ""
+        tags = election_tags(csv_path)
+        election_type = infer_election_type(tags, election_month)
         with csv_path.open(newline="", encoding="utf-8") as fh:
             reader = csv.DictReader(fh)
             for row in reader:
@@ -192,10 +271,9 @@ def main() -> None:
                 office_key = OFFICE_MAP.get(office_raw)
                 if not office_key:
                     continue
-                # Wisconsin's spring election files can include presidential preference contests.
-                # Keep the presidential series tied to the November general only.
-                if office_key == "presidential" and election_month != "11":
+                if not should_include_contest(office_key, election_month, tags):
                     continue
+                contest_election_types[(year, office_key)] = election_type
                 county = normalize_county(row.get("county") or "")
                 if not county or county.endswith(":") or "total" in county.lower():
                     continue
@@ -203,7 +281,7 @@ def main() -> None:
                 total_votes = int(float(row.get("total.votes") or 0))
                 party = (row.get("party") or "").strip().upper()
                 candidate = normalize_candidate_label(office_key, row.get("candidate") or "")
-                ward = " ".join((row.get("ward") or "").strip().split())
+                ward = row_label(row)
                 if ward.lower().startswith("county totals"):
                     continue
 
@@ -237,7 +315,9 @@ def main() -> None:
 
         year_bucket = results_by_year.setdefault(year, {})
         office_bucket = year_bucket.setdefault(office_key, {})
-        contest_bucket = office_bucket.setdefault("general", {"results": {}})
+        election_type = contest_election_types.get((year, office_key), "general")
+        contest_bucket = office_bucket.setdefault("general", {"results": {}, "election_type": election_type})
+        contest_bucket["election_type"] = election_type
         result = {
             "dem_votes": node["dem_votes"],
             "rep_votes": node["rep_votes"],

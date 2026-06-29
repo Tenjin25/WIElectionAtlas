@@ -1,0 +1,119 @@
+{
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 106067,
+        "rep_votes": 179513,
+        "other_votes": 4002,
+        "total_votes": 289581,
+        "dem_candidate": "Marge Krupp",
+        "rep_candidate": "Paul Ryan",
+        "margin": 73446,
+        "margin_pct": 25.36280266379105,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "2": {
+        "dem_votes": 219853,
+        "rep_votes": 88026,
+        "other_votes": 308,
+        "total_votes": 308187,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Peter Theron",
+        "margin": -131827,
+        "margin_pct": -42.77500945214293,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "3": {
+        "dem_votes": 143944,
+        "rep_votes": 71562,
+        "other_votes": 5151,
+        "total_votes": 220657,
+        "dem_candidate": "Ron Kind",
+        "rep_candidate": "Paul Stark",
+        "margin": -72382,
+        "margin_pct": -32.80268311734859,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "4": {
+        "dem_votes": 207918,
+        "rep_votes": 0,
+        "other_votes": 26740,
+        "total_votes": 234658,
+        "dem_candidate": "Gwen Moore",
+        "rep_candidate": "",
+        "margin": -207918,
+        "margin_pct": -88.60462637229568,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "5": {
+        "dem_votes": 0,
+        "rep_votes": 193713,
+        "other_votes": 40814,
+        "total_votes": 234526,
+        "dem_candidate": "",
+        "rep_candidate": "F. James Sensenbrenner, Jr.",
+        "margin": 193713,
+        "margin_pct": 82.59737117928636,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "6": {
+        "dem_votes": 95412,
+        "rep_votes": 164578,
+        "other_votes": 214,
+        "total_votes": 260204,
+        "dem_candidate": "Roger A. Kittelson",
+        "rep_candidate": "Tom Petri",
+        "margin": 69166,
+        "margin_pct": 26.581445646543493,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "7": {
+        "dem_votes": 122855,
+        "rep_votes": 82846,
+        "other_votes": 140,
+        "total_votes": 205842,
+        "dem_candidate": "David R. Obey",
+        "rep_candidate": "Dan Mielke",
+        "margin": -40009,
+        "margin_pct": -19.436805402588327,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "8": {
+        "dem_votes": 162245,
+        "rep_votes": 133704,
+        "other_votes": 317,
+        "total_votes": 296266,
+        "dem_candidate": "Steve Kagen",
+        "rep_candidate": "John Gard",
+        "margin": -28541,
+        "margin_pct": -9.633572532791478,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      }
+    },
+    "election_type": "general"
+  }
+}

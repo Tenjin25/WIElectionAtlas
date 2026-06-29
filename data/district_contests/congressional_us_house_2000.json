@@ -1,0 +1,105 @@
+{
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 77052,
+        "rep_votes": 147976,
+        "other_votes": 248,
+        "total_votes": 225277,
+        "dem_candidate": "Jeffrey C. Thomas",
+        "rep_candidate": "Paul D. Ryan",
+        "margin": 70923,
+        "margin_pct": 31.482796653281948,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "2": {
+        "dem_votes": 139187,
+        "rep_votes": 118490,
+        "other_votes": 194,
+        "total_votes": 257871,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "John Sharpless",
+        "margin": -20697,
+        "margin_pct": -8.026106076293962,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#6baed6"
+        }
+      },
+      "3": {
+        "dem_votes": 114011,
+        "rep_votes": 59552,
+        "other_votes": 924,
+        "total_votes": 174487,
+        "dem_candidate": "Ron Kind",
+        "rep_candidate": "Susan Tully",
+        "margin": -54459,
+        "margin_pct": -31.210880474456626,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "4": {
+        "dem_votes": 63093,
+        "rep_votes": 25578,
+        "other_votes": 1586,
+        "total_votes": 90257,
+        "dem_candidate": "Jerry Kleczka",
+        "rep_candidate": "Tim Riener",
+        "margin": -37515,
+        "margin_pct": -41.56434931603909,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "6": {
+        "dem_votes": 61883,
+        "rep_votes": 111695,
+        "other_votes": 196,
+        "total_votes": 173773,
+        "dem_candidate": "Dan Flaherty",
+        "rep_candidate": "Tom Petri",
+        "margin": 49812,
+        "margin_pct": 28.66495577524398,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "7": {
+        "dem_votes": 92385,
+        "rep_votes": 55847,
+        "other_votes": 92,
+        "total_votes": 148325,
+        "dem_candidate": "David R. Obey",
+        "rep_candidate": "Sean Cronin",
+        "margin": -36538,
+        "margin_pct": -24.633666027468173,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "8": {
+        "dem_votes": 53575,
+        "rep_votes": 159327,
+        "other_votes": 256,
+        "total_votes": 213158,
+        "dem_candidate": "Dean Reich",
+        "rep_candidate": "Mark Green",
+        "margin": 105752,
+        "margin_pct": 49.61202488295067,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      }
+    },
+    "election_type": "general"
+  }
+}

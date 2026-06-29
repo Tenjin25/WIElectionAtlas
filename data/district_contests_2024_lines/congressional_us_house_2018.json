@@ -1,0 +1,119 @@
+{
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 122232,
+        "rep_votes": 137271,
+        "other_votes": 8905,
+        "total_votes": 268409,
+        "dem_candidate": "Randy Bryce",
+        "rep_candidate": "Bryan Steil",
+        "margin": 15039,
+        "margin_pct": 5.603145617703344,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#fb6a4a"
+        }
+      },
+      "2": {
+        "dem_votes": 295800,
+        "rep_votes": 27,
+        "other_votes": 7611,
+        "total_votes": 303438,
+        "dem_candidate": "Mark Pocan",
+        "rep_candidate": "Joey Wayne Reed (Write-In)",
+        "margin": -295773,
+        "margin_pct": -97.4737601005772,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "3": {
+        "dem_votes": 186826,
+        "rep_votes": 126244,
+        "other_votes": 121,
+        "total_votes": 313191,
+        "dem_candidate": "Ron Kind",
+        "rep_candidate": "Steve Toft",
+        "margin": -60582,
+        "margin_pct": -19.343501375586804,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#2171b5"
+        }
+      },
+      "4": {
+        "dem_votes": 194954,
+        "rep_votes": 50014,
+        "other_votes": 6592,
+        "total_votes": 251560,
+        "dem_candidate": "Gwen S. Moore",
+        "rep_candidate": "Tim Rogers",
+        "margin": -144940,
+        "margin_pct": -57.616473207187155,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "5": {
+        "dem_votes": 111680,
+        "rep_votes": 205883,
+        "other_votes": 219,
+        "total_votes": 317782,
+        "dem_candidate": "Tom Palzewicz",
+        "rep_candidate": "F. James Sensenbrenner, Jr.",
+        "margin": 94203,
+        "margin_pct": 29.64397153169143,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "6": {
+        "dem_votes": 140499,
+        "rep_votes": 176477,
+        "other_votes": 216,
+        "total_votes": 317192,
+        "dem_candidate": "Dan Kohl",
+        "rep_candidate": "Glenn Grothman",
+        "margin": 35978,
+        "margin_pct": 11.34256327963823,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#cb181d"
+        }
+      },
+      "7": {
+        "dem_votes": 123777,
+        "rep_votes": 193253,
+        "other_votes": 4441,
+        "total_votes": 321471,
+        "dem_candidate": "Margaret Engebretson",
+        "rep_candidate": "Sean P. Duffy",
+        "margin": 69476,
+        "margin_pct": 21.61185554620168,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "8": {
+        "dem_votes": 117058,
+        "rep_votes": 203864,
+        "other_votes": 95,
+        "total_votes": 321018,
+        "dem_candidate": "Beau Liegeois",
+        "rep_candidate": "Mike Gallagher",
+        "margin": 86806,
+        "margin_pct": 27.040773169186423,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      }
+    },
+    "election_type": "general"
+  }
+}

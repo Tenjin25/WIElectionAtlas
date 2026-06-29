@@ -1,0 +1,119 @@
+{
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 52294,
+        "rep_votes": 109448,
+        "other_votes": 3634,
+        "total_votes": 165376,
+        "dem_candidate": "Jeffrey C. Thomas",
+        "rep_candidate": "Paul Ryan",
+        "margin": 57155,
+        "margin_pct": 34.56060558798691,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "2": {
+        "dem_votes": 131707,
+        "rep_votes": 59631,
+        "other_votes": 346,
+        "total_votes": 191684,
+        "dem_candidate": "Tammy Baldwin",
+        "rep_candidate": "Ron Greer",
+        "margin": -72076,
+        "margin_pct": -37.60136853125562,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "3": {
+        "dem_votes": 84732,
+        "rep_votes": 40318,
+        "other_votes": 4791,
+        "total_votes": 129841,
+        "dem_candidate": "Ron Kind",
+        "rep_candidate": "Bill Arndt",
+        "margin": -44414,
+        "margin_pct": -34.20634709975613,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "4": {
+        "dem_votes": 110285,
+        "rep_votes": 0,
+        "other_votes": 16983,
+        "total_votes": 127268,
+        "dem_candidate": "Jerry Kleczka",
+        "rep_candidate": "",
+        "margin": -110285,
+        "margin_pct": -86.655864373045,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "5": {
+        "dem_votes": 0,
+        "rep_votes": 126249,
+        "other_votes": 17630,
+        "total_votes": 143879,
+        "dem_candidate": "",
+        "rep_candidate": "F. James Sensenbrenner, Jr.",
+        "margin": 126249,
+        "margin_pct": 87.74653853952071,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "6": {
+        "dem_votes": 0,
+        "rep_votes": 129012,
+        "other_votes": 1122,
+        "total_votes": 130134,
+        "dem_candidate": "",
+        "rep_candidate": "Tom Petri",
+        "margin": 129012,
+        "margin_pct": 99.13798180649675,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      },
+      "7": {
+        "dem_votes": 83953,
+        "rep_votes": 48977,
+        "other_votes": 41,
+        "total_votes": 132972,
+        "dem_candidate": "David R. Obey",
+        "rep_candidate": "Joe Rothbauer",
+        "margin": -34976,
+        "margin_pct": -26.303338253339252,
+        "winner": "DEM",
+        "competitiveness": {
+          "color": "#08306b"
+        }
+      },
+      "8": {
+        "dem_votes": 40307,
+        "rep_votes": 124319,
+        "other_votes": 6128,
+        "total_votes": 170754,
+        "dem_candidate": "Andrew M. Becker",
+        "rep_candidate": "Mark Green",
+        "margin": 84012,
+        "margin_pct": 49.20060437822833,
+        "winner": "REP",
+        "competitiveness": {
+          "color": "#67000d"
+        }
+      }
+    },
+    "election_type": "general"
+  }
+}
