@@ -10222,9 +10222,10 @@ document.addEventListener('DOMContentLoaded', function() {
       Object.entries(spec).forEach(([scope, contests]) => {
         Object.entries(contests || {}).forEach(([contestType, years]) => {
           (Array.isArray(years) ? years : []).forEach((year) => {
+            const manifestContestType = contestType === 'presidential' ? 'president' : contestType;
             entries.push({
               scope,
-              contest_type: contestType,
+              contest_type: manifestContestType,
               year: Number(year),
               file: `${scope}_${contestType}_${year}.json`,
               rows: 1

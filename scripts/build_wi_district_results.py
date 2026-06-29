@@ -442,10 +442,11 @@ def write_slice_dir(out_dir: Path, results_by_year: dict[str, dict[str, dict[str
                 filename = f"{scope}_{contest_type}_{year}.json"
                 (out_dir / filename).write_text(json.dumps(payload, indent=2), encoding="utf-8")
                 rows = len((((payload or {}).get("general") or {}).get("results") or {}))
+                manifest_contest_type = "president" if contest_type == "presidential" else contest_type
                 manifest_entries.append(
                     {
                         "scope": scope,
-                        "contest_type": contest_type,
+                        "contest_type": manifest_contest_type,
                         "year": int(year),
                         "file": filename,
                         "rows": rows,

@@ -2,7 +2,7 @@
   "files": [
     {
       "scope": "congressional",
-      "contest_type": "presidential",
+      "contest_type": "president",
       "year": 2000,
       "file": "congressional_presidential_2000.json",
       "rows": 8
@@ -37,7 +37,7 @@
     },
     {
       "scope": "congressional",
-      "contest_type": "presidential",
+      "contest_type": "president",
       "year": 2004,
       "file": "congressional_presidential_2004.json",
       "rows": 8
@@ -107,7 +107,7 @@
     },
     {
       "scope": "congressional",
-      "contest_type": "presidential",
+      "contest_type": "president",
       "year": 2008,
       "file": "congressional_presidential_2008.json",
       "rows": 8
@@ -170,7 +170,7 @@
     },
     {
       "scope": "congressional",
-      "contest_type": "presidential",
+      "contest_type": "president",
       "year": 2012,
       "file": "congressional_presidential_2012.json",
       "rows": 8
@@ -226,7 +226,7 @@
     },
     {
       "scope": "congressional",
-      "contest_type": "presidential",
+      "contest_type": "president",
       "year": 2016,
       "file": "congressional_presidential_2016.json",
       "rows": 8
@@ -303,7 +303,7 @@
     },
     {
       "scope": "congressional",
-      "contest_type": "presidential",
+      "contest_type": "president",
       "year": 2020,
       "file": "congressional_presidential_2020.json",
       "rows": 8
@@ -352,7 +352,7 @@
     },
     {
       "scope": "congressional",
-      "contest_type": "presidential",
+      "contest_type": "president",
       "year": 2024,
       "file": "congressional_presidential_2024.json",
       "rows": 8
@@ -366,7 +366,7 @@
     },
     {
       "scope": "state_house",
-      "contest_type": "presidential",
+      "contest_type": "president",
       "year": 2024,
       "file": "state_house_presidential_2024.json",
       "rows": 99
@@ -380,7 +380,7 @@
     },
     {
       "scope": "state_senate",
-      "contest_type": "presidential",
+      "contest_type": "president",
       "year": 2024,
       "file": "state_senate_presidential_2024.json",
       "rows": 33
