@@ -12,6 +12,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 DATA_DIR = ROOT / "data"
 TIGER_DIR = DATA_DIR / "tiger"
+CW_DIR = DATA_DIR / "crosswalks"
 OUT_2022_JSON = DATA_DIR / "wi_district_results_2022_lines.json"
 OUT_2022_DIR = DATA_DIR / "district_contests"
 OUT_2024_DIR = DATA_DIR / "district_contests_2024_lines"
@@ -20,15 +21,27 @@ OFFICE_MAP = {
     "President": "presidential",
     "Senate": "us_senate",
     "US Senator": "us_senate",
+    "House": "us_house",
     "Governor": "governor",
+    "Lieutenant Governor": "lieutenant_governor",
     "Attorney General": "attorney_general",
     "Secretary Of State": "secretary_of_state",
     "Secretary of State": "secretary_of_state",
     "State Treasurer": "treasurer",
+    "State Assembly": "state_house",
     "Supreme Court": "state_supreme_court",
+    "Justice of the Supreme Court": "state_supreme_court",
     "State Superintendent Of Public Instruction": "superintendent",
     "State Superintendent of Public Instruction": "superintendent",
+    "State Senate": "state_senate",
+    "State Senator": "state_senate",
 }
+INPUT_GLOBS = (
+    "*/*__wi__general__ward.csv",
+    "*/*__wi__general-recall__ward.csv",
+    "*/*__wi__special__general__ward.csv",
+    "*/*__wi__spring__ward_all_contests.csv",
+)
 
 DEM_PARTIES = {"DEM"}
 REP_PARTIES = {"REP"}
@@ -104,6 +117,10 @@ NONPARTISAN_ALIGNMENT = {
         "Jill Underly": "dem",
         "Deborah Kerr": "rep",
     },
+    ("2023", "justice of the supreme court"): {
+        "Janet C. Protasiewicz": "dem",
+        "Daniel Kelly": "rep",
+    },
     ("2025", "supreme court"): {
         "Susan Crawford": "dem",
         "Brad Schimel": "rep",
@@ -137,11 +154,19 @@ NOVEMBER_ONLY_CONTESTS = {
     "presidential",
     "us_senate",
     "governor",
+    "lieutenant_governor",
     "attorney_general",
     "secretary_of_state",
     "treasurer",
 }
 SPRING_ONLY_CONTESTS = {"state_supreme_court", "superintendent"}
+
+DISTRICT_ONLY_SCOPE_BY_OFFICE = {
+    "us_house": ("congressional",),
+    "state_house": ("state_house",),
+    "state_senate": ("state_senate",),
+}
+TARGET_YEARS = {"2022", "2024"}
 
 SCOPE_CONFIGS = {
     "congressional": {
@@ -182,12 +207,59 @@ def normalize_candidate_label(office_key: str, candidate: str) -> str:
     return candidate
 
 
-def should_include_contest(office_key: str, election_month: str) -> bool:
+def normalize_district_number(value: str) -> str:
+    digits = "".join(ch for ch in (value or "") if ch.isdigit())
+    if not digits:
+        return ""
+    return str(int(digits))
+
+
+def iter_input_csv_paths() -> list[Path]:
+    paths: list[Path] = []
+    seen: set[Path] = set()
+    for pattern in INPUT_GLOBS:
+        for path in sorted(DATA_DIR.glob(pattern)):
+            if path in seen:
+                continue
+            seen.add(path)
+            paths.append(path)
+    return paths
+
+
+def election_tags(csv_path: Path) -> set[str]:
+    return {
+        part.strip().lower()
+        for part in csv_path.stem.split("__")[2:-1]
+        if part.strip()
+    }
+
+
+def should_include_contest(office_key: str, election_month: str, tags: set[str]) -> bool:
+    if any("primary" in tag for tag in tags):
+        return False
     if office_key in NOVEMBER_ONLY_CONTESTS:
-        return election_month == "11"
+        return (
+            election_month == "11"
+            or "general-recall" in tags
+            or ("special" in tags and "general" in tags)
+        )
     if office_key in SPRING_ONLY_CONTESTS:
         return election_month != "11"
     return True
+
+
+def row_label(row: dict[str, str]) -> str:
+    return " ".join(((row.get("ward") or row.get("precinct") or "")).strip().split())
+
+
+def infer_election_type(tags: set[str], election_month: str) -> str:
+    if "general-recall" in tags:
+        return "recall"
+    if "special" in tags and "general" in tags:
+        return "special_general"
+    if election_month and election_month != "11":
+        return "spring"
+    return "general"
 
 
 def winner_from_votes(dem: float, rep: float) -> str:
@@ -220,11 +292,20 @@ def color_from_margin(margin_pct: float, winner: str) -> str:
 
 
 def point_in_ring(x: float, y: float, ring: list[list[float]]) -> bool:
+    def point_on_segment(px: float, py: float, ax: float, ay: float, bx: float, by: float) -> bool:
+        cross = (px - ax) * (by - ay) - (py - ay) * (bx - ax)
+        if abs(cross) > 1e-9:
+            return False
+        dot = (px - ax) * (px - bx) + (py - ay) * (py - by)
+        return dot <= 1e-9
+
     inside = False
     j = len(ring) - 1
     for i in range(len(ring)):
         xi, yi = ring[i]
         xj, yj = ring[j]
+        if point_on_segment(x, y, xi, yi, xj, yj):
+            return True
         intersects = ((yi > y) != (yj > y)) and (
             x < (xj - xi) * (y - yi) / ((yj - yi) or 1e-12) + xi
         )
@@ -320,9 +401,40 @@ def build_precinct_lookup(precincts_by_county: dict[str, list[dict[str, object]]
     return by_kind, by_any_kind
 
 
-def build_district_assignment_by_scope_year(precincts_by_county: dict[str, list[dict[str, object]]]) -> dict[tuple[str, str], dict[str, str]]:
+def load_crosswalk_assignments() -> dict[tuple[str, str], dict[str, dict[str, float]]]:
+    files = {
+        ("congressional", "2022"): CW_DIR / "precinct_to_cd118.csv",
+        ("congressional", "2024"): CW_DIR / "precinct_to_cd118.csv",
+        ("state_house", "2022"): CW_DIR / "precinct_to_2022_state_house.csv",
+        ("state_house", "2024"): CW_DIR / "precinct_to_2024_state_house.csv",
+        ("state_senate", "2022"): CW_DIR / "precinct_to_2022_state_senate.csv",
+        ("state_senate", "2024"): CW_DIR / "precinct_to_2024_state_senate.csv",
+    }
+    out: dict[tuple[str, str], dict[str, dict[str, float]]] = {}
+    for key, path in files.items():
+        if not path.exists():
+            continue
+        mapping: dict[str, dict[str, float]] = defaultdict(dict)
+        with path.open(newline="", encoding="utf-8") as fh:
+            reader = csv.DictReader(fh)
+            for row in reader:
+                geoid = str(row.get("geoid20") or "").strip()
+                district_num = str(row.get("district_num") or "").strip()
+                weight = float(row.get("area_weight") or 0)
+                if geoid and district_num and weight > 0:
+                    mapping.setdefault(geoid, {})[district_num] = weight
+        if mapping:
+            out[key] = mapping
+    return out
+
+
+def build_district_assignment_by_scope_year(precincts_by_county: dict[str, list[dict[str, object]]]) -> dict[tuple[str, str], dict[str, dict[str, float]]]:
+    crosswalk_assignments = load_crosswalk_assignments()
+    if crosswalk_assignments:
+        return crosswalk_assignments
+
     all_precincts = [p for rows in precincts_by_county.values() for p in rows]
-    out: dict[tuple[str, str], dict[str, str]] = {}
+    out: dict[tuple[str, str], dict[str, dict[str, float]]] = {}
     for scope, year_map in SCOPE_CONFIGS.items():
         for year, (filename, field) in year_map.items():
             fc = read_geojson(TIGER_DIR / filename)
@@ -333,7 +445,7 @@ def build_district_assignment_by_scope_year(precincts_by_county: dict[str, list[
                 district_num = str(int(district_num)) if district_num else ""
                 if district_num:
                     districts.append((district_num, feature.get("geometry") or {}))
-            mapping: dict[str, str] = {}
+            mapping: dict[str, dict[str, float]] = {}
             for precinct in all_precincts:
                 lon = float(precinct["lon"])
                 lat = float(precinct["lat"])
@@ -343,7 +455,7 @@ def build_district_assignment_by_scope_year(precincts_by_county: dict[str, list[
                         assigned = district_num
                         break
                 if assigned:
-                    mapping[str(precinct["geoid"])] = assigned
+                    mapping[str(precinct["geoid"])] = {assigned: 1.0}
             out[(scope, year)] = mapping
     return out
 
@@ -433,14 +545,28 @@ def build_result_node(dem_votes: float, rep_votes: float, other_votes: float, to
     return out
 
 
+def should_write_slice(scope: str, contest_type: str, year: str) -> bool:
+    if year not in TARGET_YEARS:
+        return False
+    if scope == "congressional" and contest_type == "us_house":
+        return True
+    if scope == "state_house" and contest_type == "state_house":
+        return True
+    if scope == "state_senate" and contest_type == "state_senate":
+        return True
+    return False
+
+
 def write_slice_dir(out_dir: Path, results_by_year: dict[str, dict[str, dict[str, dict[str, object]]]]) -> None:
     out_dir.mkdir(parents=True, exist_ok=True)
     manifest_entries: list[dict[str, object]] = []
     for year, scopes in results_by_year.items():
         for scope, contests in scopes.items():
             for contest_type, payload in contests.items():
+                if not should_write_slice(scope, contest_type, year):
+                    continue
                 filename = f"{scope}_{contest_type}_{year}.json"
-                (out_dir / filename).write_text(json.dumps(payload, indent=2), encoding="utf-8")
+                (out_dir / filename).write_text(json.dumps(payload, indent=2) + "\n", encoding="utf-8")
                 rows = len((((payload or {}).get("general") or {}).get("results") or {}))
                 manifest_contest_type = "president" if contest_type == "presidential" else contest_type
                 manifest_entries.append(
@@ -448,6 +574,7 @@ def write_slice_dir(out_dir: Path, results_by_year: dict[str, dict[str, dict[str
                         "scope": scope,
                         "contest_type": manifest_contest_type,
                         "year": int(year),
+                        "election_type": (((payload or {}).get("general") or {}).get("election_type") or "general"),
                         "file": filename,
                         "rows": rows,
                     }
@@ -468,12 +595,14 @@ def copy_scope_slices(
     for year, scopes in results_by_year.items():
         contests = scopes.get(scope_filter) or {}
         for contest_type, payload in contests.items():
+            if not should_write_slice(scope_filter, contest_type, year):
+                continue
             filename = f"{scope_filter}_{contest_type}_{year}.json"
-            (out_dir / filename).write_text(json.dumps(payload), encoding="utf-8")
+            (out_dir / filename).write_text(json.dumps(payload, indent=2) + "\n", encoding="utf-8")
 
 
 def parse_requested_scopes(argv: list[str]) -> set[str] | None:
-    requested = {arg.strip().lower() for arg in argv[1:] if arg.strip()}
+    requested = {arg.strip().lower() for arg in argv[1:] if arg.strip() and not arg.startswith("--")}
     if not requested:
         return None
     valid = {"congressional", "state_house", "state_senate"}
@@ -483,8 +612,20 @@ def parse_requested_scopes(argv: list[str]) -> set[str] | None:
     return chosen
 
 
+def parse_min_year(argv: list[str]) -> int | None:
+    for arg in argv[1:]:
+        if not arg.startswith("--min-year="):
+            continue
+        value = arg.split("=", 1)[1].strip()
+        if not value:
+            raise SystemExit("Expected --min-year=YYYY")
+        return int(value)
+    return None
+
+
 def main() -> None:
     requested_scopes = parse_requested_scopes(sys.argv)
+    min_year = parse_min_year(sys.argv)
     precincts_by_county, _ = build_precinct_records()
     precinct_lookup_by_kind, precinct_lookup_by_any_kind = build_precinct_lookup(precincts_by_county)
     district_assignments = build_district_assignment_by_scope_year(precincts_by_county)
@@ -500,15 +641,23 @@ def main() -> None:
         }
     )
     seen_total_rows = set()
+    contest_election_types: dict[tuple[str, str, str, str], str] = {}
     unmatched_rows = 0
     matched_rows = 0
     row_precinct_cache: dict[tuple[str, str], list[dict[str, object]]] = {}
     row_district_cache: dict[tuple[str, str, str, str], dict[str, float]] = {}
 
-    for csv_path in sorted(DATA_DIR.glob("*/*__wi__general__ward.csv")):
+    for csv_path in iter_input_csv_paths():
         year = csv_path.parent.name
+        year_num = int(year)
+        if year not in TARGET_YEARS:
+            continue
+        if min_year is not None and year_num < min_year:
+            continue
         election_date = csv_path.name.split("__", 1)[0]
         election_month = election_date[4:6] if len(election_date) >= 6 else ""
+        tags = election_tags(csv_path)
+        election_type = infer_election_type(tags, election_month)
         with csv_path.open(newline="", encoding="utf-8") as fh:
             reader = csv.DictReader(fh)
             for row in reader:
@@ -516,10 +665,10 @@ def main() -> None:
                 office_key = OFFICE_MAP.get(office_label)
                 if not office_key:
                     continue
-                if not should_include_contest(office_key, election_month):
+                if not should_include_contest(office_key, election_month, tags):
                     continue
                 county = normalize_county(row.get("county") or "")
-                ward_label = " ".join((row.get("ward") or "").strip().split())
+                ward_label = row_label(row)
                 county_norm = normalize_token(county)
                 if not county or not ward_label:
                     continue
@@ -544,44 +693,58 @@ def main() -> None:
                 party = (row.get("party") or "").strip().upper()
                 candidate = normalize_candidate_label(office_key, row.get("candidate") or "")
                 aligned_party = NONPARTISAN_ALIGNMENT.get((year, normalize_office(office_label)), {}).get(candidate, "")
+                source_district_num = normalize_district_number(row.get("district") or "")
                 share = 1.0 / len(matched_precincts)
 
-                for scope in ("congressional", "state_house", "state_senate"):
+                target_scopes = DISTRICT_ONLY_SCOPE_BY_OFFICE.get(
+                    office_key,
+                    ("congressional", "state_house", "state_senate"),
+                )
+                for scope in target_scopes:
                     if requested_scopes and scope not in requested_scopes:
                         continue
-                    lines_year = "2024" if (scope != "congressional" and int(year) >= 2024) else "2022"
-                    district_cache_key = (lines_year, scope, county_norm, ward_label)
-                    district_share_by_num = row_district_cache.get(district_cache_key)
-                    if district_share_by_num is None:
-                        assignment = district_assignments.get((scope, lines_year), {})
-                        district_share_by_num = defaultdict(float)
-                        for precinct in matched_precincts:
-                            district_num = assignment.get(str(precinct["geoid"]))
-                            if district_num:
-                                district_share_by_num[district_num] += share
-                        district_share_by_num = dict(district_share_by_num)
-                        row_district_cache[district_cache_key] = district_share_by_num
-
-                    for district_num, row_share in district_share_by_num.items():
-                        node = district_totals[(lines_year, year, scope, office_key, district_num)]
-                        share_votes = votes * row_share
-                        share_total_votes = total_votes * row_share
-                        if party in DEM_PARTIES or aligned_party == "dem":
-                            node["dem_votes"] += share_votes
-                            if candidate and not node["dem_candidate"]:
-                                node["dem_candidate"] = candidate
-                        elif party in REP_PARTIES or aligned_party == "rep":
-                            node["rep_votes"] += share_votes
-                            if candidate and not node["rep_candidate"]:
-                                node["rep_candidate"] = candidate
+                    target_lines_years = ("2022",) if scope == "congressional" else ("2022", "2024")
+                    for lines_year in target_lines_years:
+                        contest_election_types[(lines_year, year, scope, office_key)] = election_type
+                        district_cache_key = (lines_year, scope, county_norm, ward_label)
+                        district_share_by_num = row_district_cache.get(district_cache_key)
+                        if district_share_by_num is None:
+                            assignment = district_assignments.get((scope, lines_year), {})
+                            district_share_by_num = defaultdict(float)
+                            for precinct in matched_precincts:
+                                district_weights = assignment.get(str(precinct["geoid"])) or {}
+                                for district_num, weight in district_weights.items():
+                                    district_share_by_num[district_num] += share * float(weight)
+                            district_share_by_num = dict(district_share_by_num)
+                            row_district_cache[district_cache_key] = district_share_by_num
+                        if office_key in DISTRICT_ONLY_SCOPE_BY_OFFICE and source_district_num:
+                            row_share = district_share_by_num.get(source_district_num)
+                            if row_share is None:
+                                continue
+                            district_share_items = ((source_district_num, row_share),)
                         else:
-                            node["other_votes"] += share_votes
+                            district_share_items = district_share_by_num.items()
 
-                        total_key = (lines_year, year, scope, office_key, district_num, county_norm, ward_label)
-                        if total_key not in seen_total_rows:
-                            node["total_votes"] += share_total_votes
-                    for district_num in district_share_by_num:
-                        seen_total_rows.add((lines_year, year, scope, office_key, district_num, county_norm, ward_label))
+                        for district_num, row_share in district_share_items:
+                            node = district_totals[(lines_year, year, scope, office_key, district_num)]
+                            share_votes = votes * row_share
+                            share_total_votes = total_votes * row_share
+                            if party in DEM_PARTIES or aligned_party == "dem":
+                                node["dem_votes"] += share_votes
+                                if candidate and not node["dem_candidate"]:
+                                    node["dem_candidate"] = candidate
+                            elif party in REP_PARTIES or aligned_party == "rep":
+                                node["rep_votes"] += share_votes
+                                if candidate and not node["rep_candidate"]:
+                                    node["rep_candidate"] = candidate
+                            else:
+                                node["other_votes"] += share_votes
+
+                            total_key = (lines_year, year, scope, office_key, district_num, county_norm, ward_label)
+                            if total_key not in seen_total_rows:
+                                node["total_votes"] += share_total_votes
+                        for district_num, _ in district_share_items:
+                            seen_total_rows.add((lines_year, year, scope, office_key, district_num, county_norm, ward_label))
 
     results_2022: dict[str, dict[str, dict[str, dict[str, object]]]] = {}
     results_2024: dict[str, dict[str, dict[str, dict[str, object]]]] = {}
@@ -599,7 +762,9 @@ def main() -> None:
         target_root = results_2022 if lines_year == "2022" else results_2024
         year_bucket = target_root.setdefault(year, {})
         scope_bucket = year_bucket.setdefault(scope, {})
-        contest_bucket = scope_bucket.setdefault(office_key, {"general": {"results": {}}})
+        election_type = contest_election_types.get((lines_year, year, scope, office_key), "general")
+        contest_bucket = scope_bucket.setdefault(office_key, {"general": {"results": {}, "election_type": election_type}})
+        contest_bucket["general"]["election_type"] = election_type
         contest_bucket["general"]["results"][str(district_num)] = payload
 
     out_2022_payload = {

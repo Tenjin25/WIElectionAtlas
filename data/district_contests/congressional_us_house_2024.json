@@ -2,98 +2,98 @@
   "general": {
     "results": {
       "1": {
-        "dem_votes": 165838,
-        "rep_votes": 206291,
+        "dem_votes": 165436,
+        "rep_votes": 205768,
         "other_votes": 8223,
-        "total_votes": 380352,
+        "total_votes": 379427,
         "dem_candidate": "Peter Barca",
         "rep_candidate": "Bryan Steil",
-        "margin": 40453,
-        "margin_pct": 10.635756734394826,
+        "margin": 40332,
+        "margin_pct": 10.6298439327521,
         "winner": "REP",
         "competitiveness": {
           "color": "#cb181d"
         }
       },
       "2": {
-        "dem_votes": 318203,
-        "rep_votes": 135771,
-        "other_votes": 631,
-        "total_votes": 454604,
-        "dem_candidate": "Peter Barca",
-        "rep_candidate": "Bryan Steil",
-        "margin": -182432,
-        "margin_pct": -40.12994997442381,
+        "dem_votes": 317188,
+        "rep_votes": 134850,
+        "other_votes": 578,
+        "total_votes": 452617,
+        "dem_candidate": "Mark Pocan",
+        "rep_candidate": "Erik Olsen",
+        "margin": -182339,
+        "margin_pct": -40.285446411265525,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
         }
       },
       "3": {
-        "dem_votes": 199527,
-        "rep_votes": 211084,
+        "dem_votes": 199209,
+        "rep_votes": 210453,
         "other_votes": 306,
-        "total_votes": 410918,
+        "total_votes": 409969,
         "dem_candidate": "Rebecca Cooke",
         "rep_candidate": "Derrick Van Orden",
-        "margin": 11557,
-        "margin_pct": 2.812521311671156,
+        "margin": 11244,
+        "margin_pct": 2.7426792017835675,
         "winner": "REP",
         "competitiveness": {
           "color": "#fcbba1"
         }
       },
       "4": {
-        "dem_votes": 245446,
-        "rep_votes": 73779,
-        "other_votes": 9111,
-        "total_votes": 328337,
+        "dem_votes": 243935,
+        "rep_votes": 72166,
+        "other_votes": 9105,
+        "total_votes": 325206,
         "dem_candidate": "Gwen S. Moore",
         "rep_candidate": "Tim Rogers",
-        "margin": -171667,
-        "margin_pct": -52.28373277706297,
+        "margin": -171769,
+        "margin_pct": -52.81866098769786,
         "winner": "DEM",
         "competitiveness": {
           "color": "#08306b"
         }
       },
       "5": {
-        "dem_votes": 160494,
-        "rep_votes": 293749,
-        "other_votes": 592,
-        "total_votes": 454834,
-        "dem_candidate": "Gwen S. Moore",
-        "rep_candidate": "Tim Rogers",
-        "margin": 133254,
-        "margin_pct": 29.297318767752945,
+        "dem_votes": 158586,
+        "rep_votes": 292103,
+        "other_votes": 478,
+        "total_votes": 451166,
+        "dem_candidate": "Ben Steinhoff",
+        "rep_candidate": "Scott Fitzgerald",
+        "margin": 133517,
+        "margin_pct": 29.593784619928925,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
         }
       },
       "6": {
-        "dem_votes": 156734,
-        "rep_votes": 249076,
+        "dem_votes": 156490,
+        "rep_votes": 248574,
         "other_votes": 415,
-        "total_votes": 405856,
-        "dem_candidate": "Kristin Lyerly",
-        "rep_candidate": "Tony Wied",
-        "margin": 92343,
-        "margin_pct": 22.752593700944672,
+        "total_votes": 405479,
+        "dem_candidate": "John Zarbano",
+        "rep_candidate": "Glenn Grothman",
+        "margin": 92083,
+        "margin_pct": 22.70974764024142,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
         }
       },
       "7": {
-        "dem_votes": 155634,
-        "rep_votes": 271807,
-        "other_votes": 302,
-        "total_votes": 427743,
-        "dem_candidate": "Rebecca Cooke",
-        "rep_candidate": "Derrick Van Orden",
-        "margin": 116172,
-        "margin_pct": 27.15938560937398,
+        "dem_votes": 155514,
+        "rep_votes": 271565,
+        "other_votes": 301,
+        "total_votes": 427380,
+        "dem_candidate": "Kyle Kilbourn",
+        "rep_candidate": "Tom Tiffany",
+        "margin": 116051,
+        "margin_pct": 27.15405036077465,
         "winner": "REP",
         "competitiveness": {
           "color": "#67000d"
