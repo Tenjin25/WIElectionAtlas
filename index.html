@@ -10244,8 +10244,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Cache destroyer token for static data requests.
     // Bump this value when you want browsers/CDNs to fetch fresh files immediately.
-    const DATA_CACHE_BUSTER = '2026-06-28-2';
-    const APP_BUILD_ID = '2026-06-28-2';
+    const DATA_CACHE_BUSTER = '2026-06-28-3';
+    const APP_BUILD_ID = '2026-06-28-3';
 
     function withCacheBuster(path) {
       const p = (path || '').toString().trim();
@@ -10310,12 +10310,12 @@ document.addEventListener('DOMContentLoaded', function() {
           state_senate_2022: '',
           state_senate_2024: ''
         },
-        // Wisconsin is currently using the monolithic county JSON, not per-contest slices.
-        // Try the repo-root file first because the deployed upload is `wi_elections_aggregated.json`.
-        election: withBase('./wi_elections_aggregated.json'),
+        // Wisconsin is currently using the monolithic county JSON in /data.
+        // Keep the root fallback only as a safety net so GitHub Pages does not 404 first.
+        election: withBase('./data/wi_elections_aggregated.json'),
         election_fallbacks: [
-          withBase('./wi_elections_aggregated.json'),
-          withBase('./data/wi_elections_aggregated.json')
+          withBase('./data/wi_elections_aggregated.json'),
+          withBase('./wi_elections_aggregated.json')
         ],
         district_election: withBase('./data/wi_district_results_2022_lines.json'),
         district_contests_dir: withBase('./data/district_contests'),
@@ -10330,7 +10330,7 @@ document.addEventListener('DOMContentLoaded', function() {
         state_senate_info: '',
         district_descriptions: '',
         // Leave blank unless /data/contests/manifest.json and slice JSON files exist.
-        // If this points at a missing folder, the dropdown can stay in manifest/slice mode and 404.
+        // Wisconsin county contests currently come from wi_elections_aggregated.json.
         contests_dir: '',
         reports_match_year_summary: '',
         reports_top_unmatched: '',
@@ -11982,14 +11982,31 @@ document.addEventListener('DOMContentLoaded', function() {
     function getPreferredDistrictSlicePaths(scope, contestType, year, linesYear = currentDistrictLinesYear) {
       const y = Number(year);
       const ly = normalizeDistrictLinesYear(linesYear);
-      const key = `${scope}_${contestType}_${year}`;
+      const scopeKey = (scope || '').toString().trim();
+      const contestKey = (contestType || '').toString().trim();
+      const key = `${scopeKey}_${contestKey}_${year}`;
       const out = [];
       const calibrated2020Dir = (CONFIG.paths?.district_contests_2020_2024_dir || '').toString().trim();
-      const baseDir = (getActiveDistrictContestsDir(linesYear, scope) || '').toString().trim();
+      const baseDir = (getActiveDistrictContestsDir(linesYear, scopeKey) || '').toString().trim();
+
+      // Prefer the exact file named by the active manifest. This prevents Wisconsin
+      // presidential district slices from being guessed as *_president_*.json when
+      // the real files are named *_presidential_*.json.
+      try {
+        const manifest = getActiveDistrictManifest(ly);
+        const entry = (Array.isArray(manifest) ? manifest : []).find(e => {
+          const eScope = (e?.scope || '').toString().trim();
+          const eContest = (e?.contest_type || '').toString().trim();
+          const eYear = Number(e?.year);
+          return eScope === scopeKey && eContest === contestKey && Number(eYear) === Number(y);
+        });
+        const manifestFile = (entry?.file || '').toString().trim();
+        if (baseDir && manifestFile) out.push(`${baseDir}/${manifestFile}`);
+      } catch (_) {}
 
       // Prefer calibrated slices only for congressional scope on 2022 lines.
       // Legislative scopes continue to use the primary district_contests data.
-      if (ly === 2022 && scope === 'congressional' && Number.isFinite(y) && y >= 2020 && calibrated2020Dir) {
+      if (ly === 2022 && scopeKey === 'congressional' && Number.isFinite(y) && y >= 2020 && calibrated2020Dir) {
         out.push(`${calibrated2020Dir}/${key}.json`);
       }
       if (baseDir) out.push(`${baseDir}/${key}.json`);
