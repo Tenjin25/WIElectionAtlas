@@ -220,6 +220,8 @@ The atlas is meant to be explored comparatively.
 
 The project is published as a static GitHub Pages site and is designed to work directly in the browser from checked-in data files.
 
+For statewide legislative views, the app uses chamber leadership labels rather than generic party placeholders in the statewide summary. In the current UI, State Assembly statewide contests are shown against `Speaker Robin Vos` and `Assembly Democrats`, while State Senate statewide contests use year-specific Republican chamber leaders such as `Chris Kapenga` for 2022 and `Mary Felzkowski` for 2024 and later.
+
 ## Data And Method
 
 At runtime, the site is static. The analytical value comes from the prepared data behind it.
