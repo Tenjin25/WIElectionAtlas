@@ -36,13 +36,14 @@ def write_precinct_slice_dir(out_dir: Path, results_by_year: dict[str, dict[str,
     for year, contests in sorted(results_by_year.items(), key=lambda item: int(item[0])):
         for contest_type, rows in sorted(contests.items()):
             filename = f"{contest_type}_{year}.json"
+            manifest_contest_type = "president" if contest_type == "presidential" else contest_type
             payload = {
                 "rows": rows,
             }
             (out_dir / filename).write_text(json.dumps(payload, indent=2) + "\n", encoding="utf-8")
             manifest_entries.append(
                 {
-                    "contest_type": contest_type,
+                    "contest_type": manifest_contest_type,
                     "year": int(year),
                     "election_type": (rows[0].get("election_type") if rows else "general") or "general",
                     "file": filename,

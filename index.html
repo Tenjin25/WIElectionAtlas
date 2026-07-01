@@ -10268,8 +10268,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Cache destroyer token for static data requests.
     // Bump this value when you want browsers/CDNs to fetch fresh files immediately.
-    const DATA_CACHE_BUSTER = '2026-06-30-2';
-    const APP_BUILD_ID = '2026-06-30-2';
+    const DATA_CACHE_BUSTER = '2026-06-30-3';
+    const APP_BUILD_ID = '2026-06-30-3';
 
     function withCacheBuster(path) {
       const p = (path || '').toString().trim();
@@ -11058,7 +11058,12 @@ document.addEventListener('DOMContentLoaded', function() {
           return [];
         }
         const manifest = await ensurePrecinctContestManifestLoaded();
-        const entry = (Array.isArray(manifest) ? manifest : []).find(e => e && e.contest_type === contestType && Number(e.year) === Number(year) && !e.scope) || null;
+        const manifestContestType = contestType === 'president' ? 'presidential' : contestType;
+        const entry = (Array.isArray(manifest) ? manifest : []).find(e => {
+          if (!e || Number(e.year) !== Number(year) || e.scope) return false;
+          const entryContestType = String(e.contest_type || '').trim();
+          return entryContestType === contestType || entryContestType === manifestContestType;
+        }) || null;
         if (!entry) {
           precinctContestSliceCache.set(key, []);
           return [];
