@@ -1,0 +1,2864 @@
+{
+  "rows": [
+    {
+      "county": "ABRAMS - T 0001",
+      "precinct_key": "ABRAMS - T 0001",
+      "geoids": [
+        "55083004199"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 52,
+      "rep_votes": 106,
+      "other_votes": 0,
+      "total_votes": 157,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 54,
+      "margin_pct": 34.32203389830508,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "ABRAMS - T 0002",
+      "precinct_key": "ABRAMS - T 0002",
+      "geoids": [
+        "55083004201"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 52,
+      "rep_votes": 106,
+      "other_votes": 0,
+      "total_votes": 157,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 54,
+      "margin_pct": 34.32203389830508,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "ABRAMS - T 0003",
+      "precinct_key": "ABRAMS - T 0003",
+      "geoids": [
+        "55083004200"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 52,
+      "rep_votes": 106,
+      "other_votes": 0,
+      "total_votes": 157,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 54,
+      "margin_pct": 34.32203389830508,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "BRISTOL - T 0001",
+      "precinct_key": "BRISTOL - T 0001",
+      "geoids": [
+        "55025000878"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 62,
+      "rep_votes": 59,
+      "other_votes": 2,
+      "total_votes": 123,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": -3,
+      "margin_pct": -2.4390243902439024,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#c6dbef"
+      }
+    },
+    {
+      "county": "BRISTOL - T 0002",
+      "precinct_key": "BRISTOL - T 0002",
+      "geoids": [
+        "55025000879"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 62,
+      "rep_votes": 59,
+      "other_votes": 2,
+      "total_votes": 123,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": -3,
+      "margin_pct": -2.4390243902439024,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#c6dbef"
+      }
+    },
+    {
+      "county": "BRISTOL - T 0003",
+      "precinct_key": "BRISTOL - T 0003",
+      "geoids": [
+        "55025000880"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 62,
+      "rep_votes": 59,
+      "other_votes": 2,
+      "total_votes": 123,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": -3,
+      "margin_pct": -2.4390243902439024,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#c6dbef"
+      }
+    },
+    {
+      "county": "BRISTOL - T 0004",
+      "precinct_key": "BRISTOL - T 0004",
+      "geoids": [
+        "55025000881"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 62,
+      "rep_votes": 59,
+      "other_votes": 2,
+      "total_votes": 123,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": -3,
+      "margin_pct": -2.4390243902439024,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#c6dbef"
+      }
+    },
+    {
+      "county": "COLEMAN - V 0001",
+      "precinct_key": "COLEMAN - V 0001",
+      "geoids": [
+        "55075003387"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 49,
+      "rep_votes": 111,
+      "other_votes": 0,
+      "total_votes": 160,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 62,
+      "margin_pct": 38.75,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "COLUMBUS - C 0001",
+      "precinct_key": "COLUMBUS - C 0001",
+      "geoids": [
+        "55021000767"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 54,
+      "rep_votes": 34,
+      "other_votes": 2,
+      "total_votes": 90,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": -20,
+      "margin_pct": -21.823204419889503,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "COLUMBUS - C 0002",
+      "precinct_key": "COLUMBUS - C 0002",
+      "geoids": [
+        "55021000766"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 54,
+      "rep_votes": 34,
+      "other_votes": 2,
+      "total_votes": 90,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": -20,
+      "margin_pct": -21.823204419889503,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "COLUMBUS - C 0003",
+      "precinct_key": "COLUMBUS - C 0003",
+      "geoids": [
+        "55021000765"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 54,
+      "rep_votes": 34,
+      "other_votes": 2,
+      "total_votes": 90,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": -20,
+      "margin_pct": -21.823204419889503,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "COLUMBUS - C 0004",
+      "precinct_key": "COLUMBUS - C 0004",
+      "geoids": [
+        "55021000776"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 54,
+      "rep_votes": 34,
+      "other_votes": 2,
+      "total_votes": 90,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": -20,
+      "margin_pct": -21.823204419889503,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "COLUMBUS - C 0005",
+      "precinct_key": "COLUMBUS - C 0005",
+      "geoids": [
+        "55021000769"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 54,
+      "rep_votes": 34,
+      "other_votes": 2,
+      "total_votes": 90,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": -20,
+      "margin_pct": -21.823204419889503,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "COLUMBUS - C 0006",
+      "precinct_key": "COLUMBUS - C 0006",
+      "geoids": [
+        "55021000770"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 54,
+      "rep_votes": 34,
+      "other_votes": 2,
+      "total_votes": 90,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": -20,
+      "margin_pct": -21.823204419889503,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "COLUMBUS - C 0007",
+      "precinct_key": "COLUMBUS - C 0007",
+      "geoids": [
+        "55021000764"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 54,
+      "rep_votes": 34,
+      "other_votes": 2,
+      "total_votes": 90,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": -20,
+      "margin_pct": -21.823204419889503,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "COLUMBUS - C 0008",
+      "precinct_key": "COLUMBUS - C 0008",
+      "geoids": [
+        "55021000781"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 54,
+      "rep_votes": 34,
+      "other_votes": 2,
+      "total_votes": 90,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": -20,
+      "margin_pct": -21.823204419889503,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "COLUMBUS - C 0009",
+      "precinct_key": "COLUMBUS - C 0009",
+      "geoids": [
+        "55027001494"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 0,
+      "rep_votes": 0,
+      "other_votes": 0,
+      "total_votes": 0,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": 0,
+      "margin_pct": 0.0,
+      "winner": "TIE",
+      "competitiveness": {
+        "color": "#9ca3af"
+      }
+    },
+    {
+      "county": "DEFOREST - V 0001",
+      "precinct_key": "DEFOREST - V 0001",
+      "geoids": [
+        "55025000960"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 66,
+      "rep_votes": 29,
+      "other_votes": 2,
+      "total_votes": 97,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": -37,
+      "margin_pct": -38.44827586206896,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "DEFOREST - V 0003",
+      "precinct_key": "DEFOREST - V 0003",
+      "geoids": [
+        "55025000964"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 66,
+      "rep_votes": 29,
+      "other_votes": 2,
+      "total_votes": 97,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": -37,
+      "margin_pct": -38.44827586206896,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "DEFOREST - V 0004",
+      "precinct_key": "DEFOREST - V 0004",
+      "geoids": [
+        "55025000965"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 66,
+      "rep_votes": 29,
+      "other_votes": 2,
+      "total_votes": 97,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": -37,
+      "margin_pct": -38.44827586206896,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "DEFOREST - V 0005",
+      "precinct_key": "DEFOREST - V 0005",
+      "geoids": [
+        "55025000962"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 66,
+      "rep_votes": 29,
+      "other_votes": 2,
+      "total_votes": 97,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": -37,
+      "margin_pct": -38.44827586206896,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "DEFOREST - V 0006",
+      "precinct_key": "DEFOREST - V 0006",
+      "geoids": [
+        "55025000961"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 66,
+      "rep_votes": 29,
+      "other_votes": 2,
+      "total_votes": 97,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": -37,
+      "margin_pct": -38.44827586206896,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "DEFOREST - V 0007",
+      "precinct_key": "DEFOREST - V 0007",
+      "geoids": [
+        "55025000951"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 54,
+      "rep_votes": 25,
+      "other_votes": 2,
+      "total_votes": 81,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": -29,
+      "margin_pct": -36.22828784119106,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "DEFOREST - V 0008",
+      "precinct_key": "DEFOREST - V 0008",
+      "geoids": [
+        "55025000950"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 54,
+      "rep_votes": 25,
+      "other_votes": 2,
+      "total_votes": 81,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": -29,
+      "margin_pct": -36.22828784119106,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "DEFOREST - V 0009",
+      "precinct_key": "DEFOREST - V 0009",
+      "geoids": [
+        "55025000952"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 54,
+      "rep_votes": 25,
+      "other_votes": 2,
+      "total_votes": 81,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": -29,
+      "margin_pct": -36.22828784119106,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "DEFOREST - V 0010",
+      "precinct_key": "DEFOREST - V 0010",
+      "geoids": [
+        "55025000953"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 54,
+      "rep_votes": 25,
+      "other_votes": 2,
+      "total_votes": 81,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": -29,
+      "margin_pct": -36.22828784119106,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "DEFOREST - V 0012",
+      "precinct_key": "DEFOREST - V 0012",
+      "geoids": [
+        "55025000948"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 54,
+      "rep_votes": 25,
+      "other_votes": 2,
+      "total_votes": 81,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": -29,
+      "margin_pct": -36.22828784119106,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "DEFOREST - V 0015",
+      "precinct_key": "DEFOREST - V 0015",
+      "geoids": [
+        "55025000967"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 66,
+      "rep_votes": 29,
+      "other_votes": 2,
+      "total_votes": 97,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": -37,
+      "margin_pct": -38.44827586206896,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "ELBA - T 0001",
+      "precinct_key": "ELBA - T 0001",
+      "geoids": [
+        "55027001495"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 59,
+      "rep_votes": 102,
+      "other_votes": 3,
+      "total_votes": 164,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": 43,
+      "margin_pct": 26.21951219512195,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "EMMET - T 0001",
+      "precinct_key": "EMMET - T 0001",
+      "geoids": [
+        "55027001605"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 19,
+      "rep_votes": 71,
+      "other_votes": 1,
+      "total_votes": 91,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": 52,
+      "margin_pct": 57.14285714285714,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "EMMET - T 0002",
+      "precinct_key": "EMMET - T 0002",
+      "geoids": [
+        "55027001496"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 19,
+      "rep_votes": 71,
+      "other_votes": 1,
+      "total_votes": 91,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": 52,
+      "margin_pct": 57.14285714285714,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "GROVER - T 0001",
+      "precinct_key": "GROVER - T 0001",
+      "geoids": [
+        "55075003379"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 35,
+      "rep_votes": 130,
+      "other_votes": 0,
+      "total_votes": 165,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 95,
+      "margin_pct": 57.25806451612904,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "GROVER - T 0002",
+      "precinct_key": "GROVER - T 0002",
+      "geoids": [
+        "55075003400"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 35,
+      "rep_votes": 130,
+      "other_votes": 0,
+      "total_votes": 165,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 95,
+      "margin_pct": 57.25806451612904,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "GROVER - T 0003",
+      "precinct_key": "GROVER - T 0003",
+      "geoids": [
+        "55075003401"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 35,
+      "rep_votes": 130,
+      "other_votes": 0,
+      "total_votes": 165,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 95,
+      "margin_pct": 57.25806451612904,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "HOWARD - V 0001",
+      "precinct_key": "HOWARD - V 0001",
+      "geoids": [
+        "55009000370"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 55,
+      "rep_votes": 89,
+      "other_votes": 1,
+      "total_votes": 145,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 34,
+      "margin_pct": 23.448275862068964,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "HOWARD - V 0003",
+      "precinct_key": "HOWARD - V 0003",
+      "geoids": [
+        "55009000366"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 44,
+      "rep_votes": 40,
+      "other_votes": 0,
+      "total_votes": 84,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": -4,
+      "margin_pct": -4.761904761904762,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#c6dbef"
+      }
+    },
+    {
+      "county": "HOWARD - V 0004",
+      "precinct_key": "HOWARD - V 0004",
+      "geoids": [
+        "55009000369"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 44,
+      "rep_votes": 40,
+      "other_votes": 0,
+      "total_votes": 84,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": -4,
+      "margin_pct": -4.761904761904762,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#c6dbef"
+      }
+    },
+    {
+      "county": "HOWARD - V 0006",
+      "precinct_key": "HOWARD - V 0006",
+      "geoids": [
+        "55009000372"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 75,
+      "rep_votes": 95,
+      "other_votes": 0,
+      "total_votes": 170,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 20,
+      "margin_pct": 11.76470588235294,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#cb181d"
+      }
+    },
+    {
+      "county": "HOWARD - V 0012",
+      "precinct_key": "HOWARD - V 0012",
+      "geoids": [
+        "55009000290"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 59,
+      "rep_votes": 95,
+      "other_votes": 2,
+      "total_votes": 156,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 36,
+      "margin_pct": 23.076923076923077,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "HOWARD - V 0013",
+      "precinct_key": "HOWARD - V 0013",
+      "geoids": [
+        "55009000246"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 86,
+      "rep_votes": 109,
+      "other_votes": 0,
+      "total_votes": 195,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 24,
+      "margin_pct": 12.051282051282051,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#cb181d"
+      }
+    },
+    {
+      "county": "HOWARD - V 0014",
+      "precinct_key": "HOWARD - V 0014",
+      "geoids": [
+        "55009000248"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 86,
+      "rep_votes": 109,
+      "other_votes": 0,
+      "total_votes": 195,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 24,
+      "margin_pct": 12.051282051282051,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#cb181d"
+      }
+    },
+    {
+      "county": "IXONIA - T 0001",
+      "precinct_key": "IXONIA - T 0001",
+      "geoids": [
+        "55055002486"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 20,
+      "rep_votes": 64,
+      "other_votes": 1,
+      "total_votes": 84,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": 44,
+      "margin_pct": 51.778656126482225,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "IXONIA - T 0002",
+      "precinct_key": "IXONIA - T 0002",
+      "geoids": [
+        "55055002481"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 20,
+      "rep_votes": 64,
+      "other_votes": 1,
+      "total_votes": 84,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": 44,
+      "margin_pct": 51.778656126482225,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "IXONIA - T 0003",
+      "precinct_key": "IXONIA - T 0003",
+      "geoids": [
+        "55055002482"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 20,
+      "rep_votes": 64,
+      "other_votes": 1,
+      "total_votes": 84,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": 44,
+      "margin_pct": 51.778656126482225,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "IXONIA - T 0004",
+      "precinct_key": "IXONIA - T 0004",
+      "geoids": [
+        "55055002485"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 20,
+      "rep_votes": 64,
+      "other_votes": 1,
+      "total_votes": 84,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": 44,
+      "margin_pct": 51.778656126482225,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "IXONIA - T 0005",
+      "precinct_key": "IXONIA - T 0005",
+      "geoids": [
+        "55055002484"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 20,
+      "rep_votes": 64,
+      "other_votes": 1,
+      "total_votes": 84,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": 44,
+      "margin_pct": 51.778656126482225,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "IXONIA - T 0006",
+      "precinct_key": "IXONIA - T 0006",
+      "geoids": [
+        "55055002436"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 20,
+      "rep_votes": 64,
+      "other_votes": 1,
+      "total_votes": 84,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": 44,
+      "margin_pct": 51.778656126482225,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "LEBANON - T 0001",
+      "precinct_key": "LEBANON - T 0001",
+      "geoids": [
+        "55027001525"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 20,
+      "rep_votes": 82,
+      "other_votes": 0,
+      "total_votes": 102,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": 62,
+      "margin_pct": 60.591133004926114,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "LEBANON - T 0002",
+      "precinct_key": "LEBANON - T 0002",
+      "geoids": [
+        "55027001526"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 20,
+      "rep_votes": 82,
+      "other_votes": 0,
+      "total_votes": 102,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": 62,
+      "margin_pct": 60.591133004926114,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "LITTLE RIVER - T 0001",
+      "precinct_key": "LITTLE RIVER - T 0001",
+      "geoids": [
+        "55083004170"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 36,
+      "rep_votes": 102,
+      "other_votes": 0,
+      "total_votes": 138,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 66,
+      "margin_pct": 48.014440433213,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "LITTLE RIVER - T 0002",
+      "precinct_key": "LITTLE RIVER - T 0002",
+      "geoids": [
+        "55083004171"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 36,
+      "rep_votes": 102,
+      "other_votes": 0,
+      "total_votes": 138,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 66,
+      "margin_pct": 48.014440433213,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "LITTLE SUAMICO - T 0001",
+      "precinct_key": "LITTLE SUAMICO - T 0001",
+      "geoids": [
+        "55083004205"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 43,
+      "rep_votes": 96,
+      "other_votes": 0,
+      "total_votes": 139,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 54,
+      "margin_pct": 38.42010771992819,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "LITTLE SUAMICO - T 0002",
+      "precinct_key": "LITTLE SUAMICO - T 0002",
+      "geoids": [
+        "55083004211"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 43,
+      "rep_votes": 96,
+      "other_votes": 0,
+      "total_votes": 139,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 54,
+      "margin_pct": 38.42010771992819,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "LITTLE SUAMICO - T 0003",
+      "precinct_key": "LITTLE SUAMICO - T 0003",
+      "geoids": [
+        "55083004210"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 43,
+      "rep_votes": 96,
+      "other_votes": 0,
+      "total_votes": 139,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 54,
+      "margin_pct": 38.42010771992819,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "LITTLE SUAMICO - T 0004",
+      "precinct_key": "LITTLE SUAMICO - T 0004",
+      "geoids": [
+        "55083004208"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 43,
+      "rep_votes": 96,
+      "other_votes": 0,
+      "total_votes": 139,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 54,
+      "margin_pct": 38.42010771992819,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "LITTLE SUAMICO - T 0005",
+      "precinct_key": "LITTLE SUAMICO - T 0005",
+      "geoids": [
+        "55083004204"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 43,
+      "rep_votes": 96,
+      "other_votes": 0,
+      "total_votes": 139,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 54,
+      "margin_pct": 38.42010771992819,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "LITTLE SUAMICO - T 0006",
+      "precinct_key": "LITTLE SUAMICO - T 0006",
+      "geoids": [
+        "55083004206"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 43,
+      "rep_votes": 96,
+      "other_votes": 0,
+      "total_votes": 139,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 54,
+      "margin_pct": 38.42010771992819,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "LITTLE SUAMICO - T 0007",
+      "precinct_key": "LITTLE SUAMICO - T 0007",
+      "geoids": [
+        "55083004207"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 43,
+      "rep_votes": 96,
+      "other_votes": 0,
+      "total_votes": 139,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 54,
+      "margin_pct": 38.42010771992819,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "LITTLE SUAMICO - T 0008",
+      "precinct_key": "LITTLE SUAMICO - T 0008",
+      "geoids": [
+        "55083004209"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 43,
+      "rep_votes": 96,
+      "other_votes": 0,
+      "total_votes": 139,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 54,
+      "margin_pct": 38.42010771992819,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "LOWELL - T 0003",
+      "precinct_key": "LOWELL - T 0003",
+      "geoids": [
+        "55027001537"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 6,
+      "rep_votes": 21,
+      "other_votes": 0,
+      "total_votes": 28,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": 14,
+      "margin_pct": 51.78571428571429,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "LOWELL - T 0004",
+      "precinct_key": "LOWELL - T 0004",
+      "geoids": [
+        "55027001538"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 6,
+      "rep_votes": 21,
+      "other_votes": 0,
+      "total_votes": 28,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": 14,
+      "margin_pct": 51.78571428571429,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "LOWELL - V 0001",
+      "precinct_key": "LOWELL - V 0001",
+      "geoids": [
+        "55027001534"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 7,
+      "rep_votes": 24,
+      "other_votes": 2,
+      "total_votes": 33,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": 17,
+      "margin_pct": 51.515151515151516,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "MARINETTE - C 0001",
+      "precinct_key": "MARINETTE - C 0001",
+      "geoids": [
+        "55075003391"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 108,
+      "rep_votes": 104,
+      "other_votes": 0,
+      "total_votes": 212,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": -4,
+      "margin_pct": -1.8867924528301887,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#c6dbef"
+      }
+    },
+    {
+      "county": "MARINETTE - C 0002",
+      "precinct_key": "MARINETTE - C 0002",
+      "geoids": [
+        "55075003394"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 108,
+      "rep_votes": 104,
+      "other_votes": 0,
+      "total_votes": 212,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": -4,
+      "margin_pct": -1.8867924528301887,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#c6dbef"
+      }
+    },
+    {
+      "county": "MARINETTE - C 0003",
+      "precinct_key": "MARINETTE - C 0003",
+      "geoids": [
+        "55075003386"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 108,
+      "rep_votes": 104,
+      "other_votes": 0,
+      "total_votes": 212,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": -4,
+      "margin_pct": -1.8867924528301887,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#c6dbef"
+      }
+    },
+    {
+      "county": "MARINETTE - C 0004",
+      "precinct_key": "MARINETTE - C 0004",
+      "geoids": [
+        "55075003389"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 108,
+      "rep_votes": 104,
+      "other_votes": 0,
+      "total_votes": 212,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": -4,
+      "margin_pct": -1.8867924528301887,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#c6dbef"
+      }
+    },
+    {
+      "county": "MARINETTE - C 0005",
+      "precinct_key": "MARINETTE - C 0005",
+      "geoids": [
+        "55075003390"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 108,
+      "rep_votes": 104,
+      "other_votes": 0,
+      "total_votes": 212,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": -4,
+      "margin_pct": -1.8867924528301887,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#c6dbef"
+      }
+    },
+    {
+      "county": "MARINETTE - C 0006",
+      "precinct_key": "MARINETTE - C 0006",
+      "geoids": [
+        "55075003393"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 108,
+      "rep_votes": 104,
+      "other_votes": 0,
+      "total_votes": 212,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": -4,
+      "margin_pct": -1.8867924528301887,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#c6dbef"
+      }
+    },
+    {
+      "county": "MARINETTE - C 0007",
+      "precinct_key": "MARINETTE - C 0007",
+      "geoids": [
+        "55075003392"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 108,
+      "rep_votes": 104,
+      "other_votes": 0,
+      "total_votes": 212,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": -4,
+      "margin_pct": -1.8867924528301887,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#c6dbef"
+      }
+    },
+    {
+      "county": "MARINETTE - C 0008",
+      "precinct_key": "MARINETTE - C 0008",
+      "geoids": [
+        "55075003399"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 108,
+      "rep_votes": 104,
+      "other_votes": 0,
+      "total_votes": 212,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": -4,
+      "margin_pct": -1.8867924528301887,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#c6dbef"
+      }
+    },
+    {
+      "county": "OCONTO - C 0001",
+      "precinct_key": "OCONTO - C 0001",
+      "geoids": [
+        "55083004175"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 44,
+      "rep_votes": 77,
+      "other_votes": 0,
+      "total_votes": 121,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 33,
+      "margin_pct": 27.014218009478675,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "OCONTO - C 0002",
+      "precinct_key": "OCONTO - C 0002",
+      "geoids": [
+        "55083004174"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 44,
+      "rep_votes": 77,
+      "other_votes": 0,
+      "total_votes": 121,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 33,
+      "margin_pct": 27.014218009478675,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "OCONTO - C 0003",
+      "precinct_key": "OCONTO - C 0003",
+      "geoids": [
+        "55083004172"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 44,
+      "rep_votes": 77,
+      "other_votes": 0,
+      "total_votes": 121,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 33,
+      "margin_pct": 27.014218009478675,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "OCONTO - C 0004",
+      "precinct_key": "OCONTO - C 0004",
+      "geoids": [
+        "55083004178"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 44,
+      "rep_votes": 77,
+      "other_votes": 0,
+      "total_votes": 121,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 33,
+      "margin_pct": 27.014218009478675,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "OCONTO - C 0005",
+      "precinct_key": "OCONTO - C 0005",
+      "geoids": [
+        "55083004177"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 44,
+      "rep_votes": 77,
+      "other_votes": 0,
+      "total_votes": 121,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 33,
+      "margin_pct": 27.014218009478675,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "OCONTO - C 0006",
+      "precinct_key": "OCONTO - C 0006",
+      "geoids": [
+        "55083004173"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 44,
+      "rep_votes": 77,
+      "other_votes": 0,
+      "total_votes": 121,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 33,
+      "margin_pct": 27.014218009478675,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "OCONTO - C 0007",
+      "precinct_key": "OCONTO - C 0007",
+      "geoids": [
+        "55083004176"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 44,
+      "rep_votes": 77,
+      "other_votes": 0,
+      "total_votes": 121,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 33,
+      "margin_pct": 27.014218009478675,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "OCONTO - T 0001",
+      "precinct_key": "OCONTO - T 0001",
+      "geoids": [
+        "55083004181"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 32,
+      "rep_votes": 86,
+      "other_votes": 0,
+      "total_votes": 118,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 54,
+      "margin_pct": 45.35211267605634,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "OCONTO - T 0002",
+      "precinct_key": "OCONTO - T 0002",
+      "geoids": [
+        "55083004180"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 32,
+      "rep_votes": 86,
+      "other_votes": 0,
+      "total_votes": 118,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 54,
+      "margin_pct": 45.35211267605634,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "OCONTO - T 0003",
+      "precinct_key": "OCONTO - T 0003",
+      "geoids": [
+        "55083004179"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 32,
+      "rep_votes": 86,
+      "other_votes": 0,
+      "total_votes": 118,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 54,
+      "margin_pct": 45.35211267605634,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "OCONTO FALLS - C 0006",
+      "precinct_key": "OCONTO FALLS - C 0006",
+      "geoids": [
+        "55083004152"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 0,
+      "rep_votes": 0,
+      "other_votes": 0,
+      "total_votes": 0,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 0,
+      "margin_pct": 0.0,
+      "winner": "TIE",
+      "competitiveness": {
+        "color": "#9ca3af"
+      }
+    },
+    {
+      "county": "PENSAUKEE - T 0001",
+      "precinct_key": "PENSAUKEE - T 0001",
+      "geoids": [
+        "55083004203"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 55,
+      "rep_votes": 123,
+      "other_votes": 0,
+      "total_votes": 178,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 68,
+      "margin_pct": 38.20224719101123,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "PENSAUKEE - T 0002",
+      "precinct_key": "PENSAUKEE - T 0002",
+      "geoids": [
+        "55083004202"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 55,
+      "rep_votes": 123,
+      "other_votes": 0,
+      "total_votes": 178,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 68,
+      "margin_pct": 38.20224719101123,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "PESHTIGO - C 0001",
+      "precinct_key": "PESHTIGO - C 0001",
+      "geoids": [
+        "55075003375"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 42,
+      "rep_votes": 64,
+      "other_votes": 0,
+      "total_votes": 106,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 23,
+      "margin_pct": 21.69811320754717,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "PESHTIGO - C 0002",
+      "precinct_key": "PESHTIGO - C 0002",
+      "geoids": [
+        "55075003376"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 42,
+      "rep_votes": 64,
+      "other_votes": 0,
+      "total_votes": 106,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 23,
+      "margin_pct": 21.69811320754717,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "PESHTIGO - C 0003",
+      "precinct_key": "PESHTIGO - C 0003",
+      "geoids": [
+        "55075003382"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 31,
+      "rep_votes": 63,
+      "other_votes": 0,
+      "total_votes": 95,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 32,
+      "margin_pct": 33.80281690140845,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "PESHTIGO - C 0004",
+      "precinct_key": "PESHTIGO - C 0004",
+      "geoids": [
+        "55075003381"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 31,
+      "rep_votes": 63,
+      "other_votes": 0,
+      "total_votes": 95,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 32,
+      "margin_pct": 33.80281690140845,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "PESHTIGO - C 0005",
+      "precinct_key": "PESHTIGO - C 0005",
+      "geoids": [
+        "55075003383"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 31,
+      "rep_votes": 63,
+      "other_votes": 0,
+      "total_votes": 95,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 32,
+      "margin_pct": 33.80281690140845,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "PESHTIGO - C 0006",
+      "precinct_key": "PESHTIGO - C 0006",
+      "geoids": [
+        "55075003380"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 53,
+      "rep_votes": 82,
+      "other_votes": 0,
+      "total_votes": 136,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 30,
+      "margin_pct": 21.771217712177123,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "PESHTIGO - C 0007",
+      "precinct_key": "PESHTIGO - C 0007",
+      "geoids": [
+        "55075003377"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 53,
+      "rep_votes": 82,
+      "other_votes": 0,
+      "total_votes": 136,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 30,
+      "margin_pct": 21.771217712177123,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "PESHTIGO - T 0001",
+      "precinct_key": "PESHTIGO - T 0001",
+      "geoids": [
+        "55075003388"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 90,
+      "rep_votes": 121,
+      "other_votes": 0,
+      "total_votes": 211,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 30,
+      "margin_pct": 14.353312302839116,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#cb181d"
+      }
+    },
+    {
+      "county": "PESHTIGO - T 0002",
+      "precinct_key": "PESHTIGO - T 0002",
+      "geoids": [
+        "55075003384"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 90,
+      "rep_votes": 121,
+      "other_votes": 0,
+      "total_votes": 211,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 30,
+      "margin_pct": 14.353312302839116,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#cb181d"
+      }
+    },
+    {
+      "county": "PESHTIGO - T 0003",
+      "precinct_key": "PESHTIGO - T 0003",
+      "geoids": [
+        "55075003374"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 90,
+      "rep_votes": 121,
+      "other_votes": 0,
+      "total_votes": 211,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 30,
+      "margin_pct": 14.353312302839116,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#cb181d"
+      }
+    },
+    {
+      "county": "PESHTIGO - T 0004",
+      "precinct_key": "PESHTIGO - T 0004",
+      "geoids": [
+        "55075003373"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 90,
+      "rep_votes": 121,
+      "other_votes": 0,
+      "total_votes": 211,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 30,
+      "margin_pct": 14.353312302839116,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#cb181d"
+      }
+    },
+    {
+      "county": "PESHTIGO - T 0005",
+      "precinct_key": "PESHTIGO - T 0005",
+      "geoids": [
+        "55075003395"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 90,
+      "rep_votes": 121,
+      "other_votes": 0,
+      "total_votes": 211,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 30,
+      "margin_pct": 14.353312302839116,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#cb181d"
+      }
+    },
+    {
+      "county": "PESHTIGO - T 0006",
+      "precinct_key": "PESHTIGO - T 0006",
+      "geoids": [
+        "55075003396"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 90,
+      "rep_votes": 121,
+      "other_votes": 0,
+      "total_votes": 211,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 30,
+      "margin_pct": 14.353312302839116,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#cb181d"
+      }
+    },
+    {
+      "county": "PORTLAND - T 0001",
+      "precinct_key": "PORTLAND - T 0001",
+      "geoids": [
+        "55027001552"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 24,
+      "rep_votes": 32,
+      "other_votes": 0,
+      "total_votes": 56,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": 8,
+      "margin_pct": 14.285714285714285,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#cb181d"
+      }
+    },
+    {
+      "county": "PORTLAND - T 0002",
+      "precinct_key": "PORTLAND - T 0002",
+      "geoids": [
+        "55027001553"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 24,
+      "rep_votes": 32,
+      "other_votes": 0,
+      "total_votes": 56,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": 8,
+      "margin_pct": 14.285714285714285,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#cb181d"
+      }
+    },
+    {
+      "county": "POUND - T 0001",
+      "precinct_key": "POUND - T 0001",
+      "geoids": [
+        "55075003385"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 25,
+      "rep_votes": 76,
+      "other_votes": 0,
+      "total_votes": 100,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 51,
+      "margin_pct": 50.83056478405316,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "POUND - T 0002",
+      "precinct_key": "POUND - T 0002",
+      "geoids": [
+        "55075003378"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 25,
+      "rep_votes": 76,
+      "other_votes": 0,
+      "total_votes": 100,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 51,
+      "margin_pct": 50.83056478405316,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "POUND - T 0003",
+      "precinct_key": "POUND - T 0003",
+      "geoids": [
+        "55075003397"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 25,
+      "rep_votes": 76,
+      "other_votes": 0,
+      "total_votes": 100,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 51,
+      "margin_pct": 50.83056478405316,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "POUND - V 0001",
+      "precinct_key": "POUND - V 0001",
+      "geoids": [
+        "55075003398"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 11,
+      "rep_votes": 46,
+      "other_votes": 0,
+      "total_votes": 57,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 35,
+      "margin_pct": 61.40350877192983,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "REESEVILLE - V 0001",
+      "precinct_key": "REESEVILLE - V 0001",
+      "geoids": [
+        "55027001556"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 30,
+      "rep_votes": 25,
+      "other_votes": 1,
+      "total_votes": 56,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": -5,
+      "margin_pct": -8.928571428571429,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#6baed6"
+      }
+    },
+    {
+      "county": "SHIELDS - T 0001",
+      "precinct_key": "SHIELDS - T 0001",
+      "geoids": [
+        "55027001560"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 29,
+      "rep_votes": 68,
+      "other_votes": 0,
+      "total_votes": 97,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": 39,
+      "margin_pct": 40.20618556701031,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "STILES - T 0001",
+      "precinct_key": "STILES - T 0001",
+      "geoids": [
+        "55083004183"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 64,
+      "rep_votes": 175,
+      "other_votes": 0,
+      "total_votes": 239,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 111,
+      "margin_pct": 46.44351464435147,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "STILES - T 0002",
+      "precinct_key": "STILES - T 0002",
+      "geoids": [
+        "55083004182"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 64,
+      "rep_votes": 175,
+      "other_votes": 0,
+      "total_votes": 239,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 111,
+      "margin_pct": 46.44351464435147,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "SUAMICO - V 0001",
+      "precinct_key": "SUAMICO - V 0001",
+      "geoids": [
+        "55009000328"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 130,
+      "rep_votes": 220,
+      "other_votes": 0,
+      "total_votes": 350,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 90,
+      "margin_pct": 25.53495007132668,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "SUAMICO - V 0002",
+      "precinct_key": "SUAMICO - V 0002",
+      "geoids": [
+        "55009000251"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 130,
+      "rep_votes": 220,
+      "other_votes": 0,
+      "total_votes": 350,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 90,
+      "margin_pct": 25.53495007132668,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "SUAMICO - V 0003",
+      "precinct_key": "SUAMICO - V 0003",
+      "geoids": [
+        "55009000283"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 130,
+      "rep_votes": 220,
+      "other_votes": 0,
+      "total_votes": 350,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 90,
+      "margin_pct": 25.53495007132668,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "SUAMICO - V 0004",
+      "precinct_key": "SUAMICO - V 0004",
+      "geoids": [
+        "55009000396"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 130,
+      "rep_votes": 220,
+      "other_votes": 0,
+      "total_votes": 350,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 90,
+      "margin_pct": 25.53495007132668,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "SUAMICO - V 0005",
+      "precinct_key": "SUAMICO - V 0005",
+      "geoids": [
+        "55009000215"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 155,
+      "rep_votes": 294,
+      "other_votes": 1,
+      "total_votes": 449,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 139,
+      "margin_pct": 30.902004454342986,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "SUAMICO - V 0006",
+      "precinct_key": "SUAMICO - V 0006",
+      "geoids": [
+        "55009000250"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 155,
+      "rep_votes": 294,
+      "other_votes": 1,
+      "total_votes": 449,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 139,
+      "margin_pct": 30.902004454342986,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "SUAMICO - V 0007",
+      "precinct_key": "SUAMICO - V 0007",
+      "geoids": [
+        "55009000304"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 155,
+      "rep_votes": 294,
+      "other_votes": 1,
+      "total_votes": 449,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 139,
+      "margin_pct": 30.902004454342986,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "SUAMICO - V 0008",
+      "precinct_key": "SUAMICO - V 0008",
+      "geoids": [
+        "55009000303"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 155,
+      "rep_votes": 294,
+      "other_votes": 1,
+      "total_votes": 449,
+      "dem_candidate": "Karl Jaeger",
+      "rep_candidate": "Elijah Behnke",
+      "margin": 139,
+      "margin_pct": 30.902004454342986,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "SUN PRAIRIE - C 0023",
+      "precinct_key": "SUN PRAIRIE - C 0023",
+      "geoids": [
+        "55025001385"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 0,
+      "rep_votes": 0,
+      "other_votes": 0,
+      "total_votes": 0,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": 0,
+      "margin_pct": 0.0,
+      "winner": "TIE",
+      "competitiveness": {
+        "color": "#9ca3af"
+      }
+    },
+    {
+      "county": "SUN PRAIRIE - C 0027",
+      "precinct_key": "SUN PRAIRIE - C 0027",
+      "geoids": [
+        "55025003033"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 0,
+      "rep_votes": 0,
+      "other_votes": 0,
+      "total_votes": 0,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": 0,
+      "margin_pct": 0.0,
+      "winner": "TIE",
+      "competitiveness": {
+        "color": "#9ca3af"
+      }
+    },
+    {
+      "county": "WATERLOO - C 0001",
+      "precinct_key": "WATERLOO - C 0001",
+      "geoids": [
+        "55055002435"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 30,
+      "rep_votes": 23,
+      "other_votes": 2,
+      "total_votes": 54,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": -7,
+      "margin_pct": -13.333333333333334,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      }
+    },
+    {
+      "county": "WATERLOO - C 0002",
+      "precinct_key": "WATERLOO - C 0002",
+      "geoids": [
+        "55055002472"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 30,
+      "rep_votes": 23,
+      "other_votes": 2,
+      "total_votes": 54,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": -7,
+      "margin_pct": -13.333333333333334,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      }
+    },
+    {
+      "county": "WATERLOO - C 0003",
+      "precinct_key": "WATERLOO - C 0003",
+      "geoids": [
+        "55055002471"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 30,
+      "rep_votes": 23,
+      "other_votes": 2,
+      "total_votes": 54,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": -7,
+      "margin_pct": -13.333333333333334,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      }
+    },
+    {
+      "county": "WATERLOO - C 0004",
+      "precinct_key": "WATERLOO - C 0004",
+      "geoids": [
+        "55055002444"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 30,
+      "rep_votes": 23,
+      "other_votes": 2,
+      "total_votes": 54,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": -7,
+      "margin_pct": -13.333333333333334,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      }
+    },
+    {
+      "county": "WATERLOO - C 0005",
+      "precinct_key": "WATERLOO - C 0005",
+      "geoids": [
+        "55055002470"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 30,
+      "rep_votes": 23,
+      "other_votes": 2,
+      "total_votes": 54,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": -7,
+      "margin_pct": -13.333333333333334,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      }
+    },
+    {
+      "county": "WATERTOWN - C 0001",
+      "precinct_key": "WATERTOWN - C 0001",
+      "geoids": [
+        "55027001573"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 86,
+      "rep_votes": 126,
+      "other_votes": 5,
+      "total_votes": 217,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": 39,
+      "margin_pct": 17.972350230414747,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#cb181d"
+      }
+    },
+    {
+      "county": "WATERTOWN - C 0002",
+      "precinct_key": "WATERTOWN - C 0002",
+      "geoids": [
+        "55027001574"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 86,
+      "rep_votes": 126,
+      "other_votes": 5,
+      "total_votes": 217,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": 39,
+      "margin_pct": 17.972350230414747,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#cb181d"
+      }
+    },
+    {
+      "county": "WATERTOWN - C 0003",
+      "precinct_key": "WATERTOWN - C 0003",
+      "geoids": [
+        "55027001575"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 50,
+      "rep_votes": 104,
+      "other_votes": 2,
+      "total_votes": 156,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": 55,
+      "margin_pct": 35.14376996805112,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "WATERTOWN - C 0004",
+      "precinct_key": "WATERTOWN - C 0004",
+      "geoids": [
+        "55027001576"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 50,
+      "rep_votes": 104,
+      "other_votes": 2,
+      "total_votes": 156,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": 55,
+      "margin_pct": 35.14376996805112,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "WATERTOWN - C 0005",
+      "precinct_key": "WATERTOWN - C 0005",
+      "geoids": [
+        "55027001577"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 58,
+      "rep_votes": 94,
+      "other_votes": 1,
+      "total_votes": 152,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": 36,
+      "margin_pct": 23.934426229508198,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "WATERTOWN - C 0006",
+      "precinct_key": "WATERTOWN - C 0006",
+      "geoids": [
+        "55027001578"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 58,
+      "rep_votes": 94,
+      "other_votes": 1,
+      "total_votes": 152,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": 36,
+      "margin_pct": 23.934426229508198,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "WATERTOWN - C 0007",
+      "precinct_key": "WATERTOWN - C 0007",
+      "geoids": [
+        "55027001579"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 32,
+      "rep_votes": 78,
+      "other_votes": 0,
+      "total_votes": 110,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": 46,
+      "margin_pct": 41.81818181818181,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "WATERTOWN - C 0008",
+      "precinct_key": "WATERTOWN - C 0008",
+      "geoids": [
+        "55055002478"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 31,
+      "rep_votes": 42,
+      "other_votes": 0,
+      "total_votes": 73,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": 11,
+      "margin_pct": 15.068493150684931,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#cb181d"
+      }
+    },
+    {
+      "county": "WATERTOWN - C 0009",
+      "precinct_key": "WATERTOWN - C 0009",
+      "geoids": [
+        "55055002432"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 30,
+      "rep_votes": 48,
+      "other_votes": 4,
+      "total_votes": 82,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": 19,
+      "margin_pct": 23.31288343558282,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "WATERTOWN - C 0010",
+      "precinct_key": "WATERTOWN - C 0010",
+      "geoids": [
+        "55055002438"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 30,
+      "rep_votes": 48,
+      "other_votes": 4,
+      "total_votes": 82,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": 19,
+      "margin_pct": 23.31288343558282,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "WATERTOWN - C 0011",
+      "precinct_key": "WATERTOWN - C 0011",
+      "geoids": [
+        "55055002448"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 44,
+      "rep_votes": 63,
+      "other_votes": 2,
+      "total_votes": 110,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": 18,
+      "margin_pct": 16.818181818181817,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#cb181d"
+      }
+    },
+    {
+      "county": "WATERTOWN - C 0012",
+      "precinct_key": "WATERTOWN - C 0012",
+      "geoids": [
+        "55055002442"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 44,
+      "rep_votes": 63,
+      "other_votes": 2,
+      "total_votes": 110,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": 18,
+      "margin_pct": 16.818181818181817,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#cb181d"
+      }
+    },
+    {
+      "county": "WATERTOWN - C 0013",
+      "precinct_key": "WATERTOWN - C 0013",
+      "geoids": [
+        "55055002474"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 53,
+      "rep_votes": 90,
+      "other_votes": 0,
+      "total_votes": 143,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": 36,
+      "margin_pct": 25.524475524475527,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "WATERTOWN - C 0014",
+      "precinct_key": "WATERTOWN - C 0014",
+      "geoids": [
+        "55055002475"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 53,
+      "rep_votes": 90,
+      "other_votes": 0,
+      "total_votes": 143,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": 36,
+      "margin_pct": 25.524475524475527,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "WATERTOWN - C 0015",
+      "precinct_key": "WATERTOWN - C 0015",
+      "geoids": [
+        "55055002446"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 61,
+      "rep_votes": 76,
+      "other_votes": 0,
+      "total_votes": 136,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": 14,
+      "margin_pct": 10.622710622710622,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#cb181d"
+      }
+    },
+    {
+      "county": "WATERTOWN - C 0016",
+      "precinct_key": "WATERTOWN - C 0016",
+      "geoids": [
+        "55055002476"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 61,
+      "rep_votes": 76,
+      "other_votes": 0,
+      "total_votes": 136,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": 14,
+      "margin_pct": 10.622710622710622,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#cb181d"
+      }
+    },
+    {
+      "county": "WATERTOWN - C 0017",
+      "precinct_key": "WATERTOWN - C 0017",
+      "geoids": [
+        "55055002477"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 56,
+      "rep_votes": 132,
+      "other_votes": 1,
+      "total_votes": 188,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": 76,
+      "margin_pct": 40.58355437665783,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "WATERTOWN - C 0018",
+      "precinct_key": "WATERTOWN - C 0018",
+      "geoids": [
+        "55055002450"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 56,
+      "rep_votes": 132,
+      "other_votes": 1,
+      "total_votes": 188,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": 76,
+      "margin_pct": 40.58355437665783,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "WINDSOR - V 0003",
+      "precinct_key": "WINDSOR - V 0003",
+      "geoids": [
+        "55025001453"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 68,
+      "rep_votes": 63,
+      "other_votes": 2,
+      "total_votes": 132,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": -5,
+      "margin_pct": -3.526448362720396,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#c6dbef"
+      }
+    },
+    {
+      "county": "WINDSOR - V 0004",
+      "precinct_key": "WINDSOR - V 0004",
+      "geoids": [
+        "55025001455"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 68,
+      "rep_votes": 63,
+      "other_votes": 2,
+      "total_votes": 132,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": -5,
+      "margin_pct": -3.526448362720396,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#c6dbef"
+      }
+    },
+    {
+      "county": "WINDSOR - V 0005",
+      "precinct_key": "WINDSOR - V 0005",
+      "geoids": [
+        "55025001456"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 68,
+      "rep_votes": 63,
+      "other_votes": 2,
+      "total_votes": 132,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": -5,
+      "margin_pct": -3.526448362720396,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#c6dbef"
+      }
+    },
+    {
+      "county": "YORK - T 0001",
+      "precinct_key": "YORK - T 0001",
+      "geoids": [
+        "55025001458"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 45,
+      "rep_votes": 37,
+      "other_votes": 6,
+      "total_votes": 88,
+      "dem_candidate": "Pete Adams",
+      "rep_candidate": "William Penterman",
+      "margin": -8,
+      "margin_pct": -9.090909090909092,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#6baed6"
+      }
+    }
+  ]
+}

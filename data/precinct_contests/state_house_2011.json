@@ -1,0 +1,4945 @@
+{
+  "rows": [
+    {
+      "county": "BANGOR - T 0001",
+      "precinct_key": "BANGOR - T 0001",
+      "geoids": [
+        "55063002937"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 69,
+      "rep_votes": 71,
+      "other_votes": 0,
+      "total_votes": 140,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": 2,
+      "margin_pct": 1.4285714285714286,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#fcbba1"
+      }
+    },
+    {
+      "county": "BANGOR - V 0001",
+      "precinct_key": "BANGOR - V 0001",
+      "geoids": [
+        "55063002926"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 83,
+      "rep_votes": 76,
+      "other_votes": 0,
+      "total_votes": 160,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": -6,
+      "margin_pct": -4.075235109717868,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#c6dbef"
+      }
+    },
+    {
+      "county": "BANGOR - V 0002",
+      "precinct_key": "BANGOR - V 0002",
+      "geoids": [
+        "55063002915"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 83,
+      "rep_votes": 76,
+      "other_votes": 0,
+      "total_votes": 160,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": -6,
+      "margin_pct": -4.075235109717868,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#c6dbef"
+      }
+    },
+    {
+      "county": "BARRE - T 0001",
+      "precinct_key": "BARRE - T 0001",
+      "geoids": [
+        "55063002930"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 70,
+      "rep_votes": 101,
+      "other_votes": 0,
+      "total_votes": 170,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": 32,
+      "margin_pct": 18.475073313782993,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#cb181d"
+      }
+    },
+    {
+      "county": "BARRE - T 0002",
+      "precinct_key": "BARRE - T 0002",
+      "geoids": [
+        "55063002934"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 70,
+      "rep_votes": 101,
+      "other_votes": 0,
+      "total_votes": 170,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": 32,
+      "margin_pct": 18.475073313782993,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#cb181d"
+      }
+    },
+    {
+      "county": "BIG BEND - V 0001",
+      "precinct_key": "BIG BEND - V 0001",
+      "geoids": [
+        "55133006679"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 26,
+      "rep_votes": 58,
+      "other_votes": 0,
+      "total_votes": 84,
+      "dem_candidate": "James Brownlow",
+      "rep_candidate": "Dave Craig",
+      "margin": 31,
+      "margin_pct": 37.301587301587304,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "BIG BEND - V 0002",
+      "precinct_key": "BIG BEND - V 0002",
+      "geoids": [
+        "55133006608"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 26,
+      "rep_votes": 58,
+      "other_votes": 0,
+      "total_votes": 84,
+      "dem_candidate": "James Brownlow",
+      "rep_candidate": "Dave Craig",
+      "margin": 31,
+      "margin_pct": 37.301587301587304,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "BIG BEND - V 0003",
+      "precinct_key": "BIG BEND - V 0003",
+      "geoids": [
+        "55133006826"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 26,
+      "rep_votes": 58,
+      "other_votes": 0,
+      "total_votes": 84,
+      "dem_candidate": "James Brownlow",
+      "rep_candidate": "Dave Craig",
+      "margin": 31,
+      "margin_pct": 37.301587301587304,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "BLOOMING GROVE - T 0001",
+      "precinct_key": "BLOOMING GROVE - T 0001",
+      "geoids": [
+        "55025000869"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 42,
+      "rep_votes": 0,
+      "other_votes": 3,
+      "total_votes": 45,
+      "dem_candidate": "Chris Taylor",
+      "rep_candidate": "",
+      "margin": -42,
+      "margin_pct": -93.38235294117648,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "BLOOMING GROVE - T 0002",
+      "precinct_key": "BLOOMING GROVE - T 0002",
+      "geoids": [
+        "55025000871"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 42,
+      "rep_votes": 0,
+      "other_votes": 3,
+      "total_votes": 45,
+      "dem_candidate": "Chris Taylor",
+      "rep_candidate": "",
+      "margin": -42,
+      "margin_pct": -93.38235294117648,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "BLOOMING GROVE - T 0003",
+      "precinct_key": "BLOOMING GROVE - T 0003",
+      "geoids": [
+        "55025000866"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 42,
+      "rep_votes": 0,
+      "other_votes": 3,
+      "total_votes": 45,
+      "dem_candidate": "Chris Taylor",
+      "rep_candidate": "",
+      "margin": -42,
+      "margin_pct": -93.38235294117648,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "BURNS - T 0001",
+      "precinct_key": "BURNS - T 0001",
+      "geoids": [
+        "55063002927"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 127,
+      "rep_votes": 137,
+      "other_votes": 0,
+      "total_votes": 264,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": 10,
+      "margin_pct": 3.787878787878788,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#fcbba1"
+      }
+    },
+    {
+      "county": "CAMPBELL - T 0001",
+      "precinct_key": "CAMPBELL - T 0001",
+      "geoids": [
+        "55063002877"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 110,
+      "rep_votes": 68,
+      "other_votes": 0,
+      "total_votes": 178,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": -41,
+      "margin_pct": -23.10570626753975,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "CAMPBELL - T 0002",
+      "precinct_key": "CAMPBELL - T 0002",
+      "geoids": [
+        "55063002849"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 110,
+      "rep_votes": 68,
+      "other_votes": 0,
+      "total_votes": 178,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": -41,
+      "margin_pct": -23.10570626753975,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "CAMPBELL - T 0003",
+      "precinct_key": "CAMPBELL - T 0003",
+      "geoids": [
+        "55063002842"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 110,
+      "rep_votes": 68,
+      "other_votes": 0,
+      "total_votes": 178,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": -41,
+      "margin_pct": -23.10570626753975,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "CAMPBELL - T 0004",
+      "precinct_key": "CAMPBELL - T 0004",
+      "geoids": [
+        "55063002862"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 110,
+      "rep_votes": 68,
+      "other_votes": 0,
+      "total_votes": 178,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": -41,
+      "margin_pct": -23.10570626753975,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "CAMPBELL - T 0005",
+      "precinct_key": "CAMPBELL - T 0005",
+      "geoids": [
+        "55063002841"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 110,
+      "rep_votes": 68,
+      "other_votes": 0,
+      "total_votes": 178,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": -41,
+      "margin_pct": -23.10570626753975,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "CAMPBELL - T 0006",
+      "precinct_key": "CAMPBELL - T 0006",
+      "geoids": [
+        "55063002861"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 110,
+      "rep_votes": 68,
+      "other_votes": 0,
+      "total_votes": 178,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": -41,
+      "margin_pct": -23.10570626753975,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "CEDARBURG - C 0001",
+      "precinct_key": "CEDARBURG - C 0001",
+      "geoids": [
+        "55089004514"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 31,
+      "rep_votes": 146,
+      "other_votes": 1,
+      "total_votes": 178,
+      "dem_candidate": "Rick Aaron",
+      "rep_candidate": "Duey Stroebel",
+      "margin": 114,
+      "margin_pct": 64.50704225352113,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "CEDARBURG - C 0002",
+      "precinct_key": "CEDARBURG - C 0002",
+      "geoids": [
+        "55089004590"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 31,
+      "rep_votes": 146,
+      "other_votes": 1,
+      "total_votes": 178,
+      "dem_candidate": "Rick Aaron",
+      "rep_candidate": "Duey Stroebel",
+      "margin": 114,
+      "margin_pct": 64.50704225352113,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "CEDARBURG - C 0003",
+      "precinct_key": "CEDARBURG - C 0003",
+      "geoids": [
+        "55089004545"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 40,
+      "rep_votes": 134,
+      "other_votes": 0,
+      "total_votes": 174,
+      "dem_candidate": "Rick Aaron",
+      "rep_candidate": "Duey Stroebel",
+      "margin": 94,
+      "margin_pct": 54.15472779369628,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "CEDARBURG - C 0004",
+      "precinct_key": "CEDARBURG - C 0004",
+      "geoids": [
+        "55089004500"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 40,
+      "rep_votes": 134,
+      "other_votes": 0,
+      "total_votes": 174,
+      "dem_candidate": "Rick Aaron",
+      "rep_candidate": "Duey Stroebel",
+      "margin": 94,
+      "margin_pct": 54.15472779369628,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "CEDARBURG - C 0005",
+      "precinct_key": "CEDARBURG - C 0005",
+      "geoids": [
+        "55089004492"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 54,
+      "rep_votes": 100,
+      "other_votes": 0,
+      "total_votes": 154,
+      "dem_candidate": "Rick Aaron",
+      "rep_candidate": "Duey Stroebel",
+      "margin": 46,
+      "margin_pct": 29.87012987012987,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "CEDARBURG - C 0006",
+      "precinct_key": "CEDARBURG - C 0006",
+      "geoids": [
+        "55089004506"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 54,
+      "rep_votes": 100,
+      "other_votes": 0,
+      "total_votes": 154,
+      "dem_candidate": "Rick Aaron",
+      "rep_candidate": "Duey Stroebel",
+      "margin": 46,
+      "margin_pct": 29.87012987012987,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "CEDARBURG - C 0007",
+      "precinct_key": "CEDARBURG - C 0007",
+      "geoids": [
+        "55089004511"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 24,
+      "rep_votes": 65,
+      "other_votes": 0,
+      "total_votes": 88,
+      "dem_candidate": "Rick Aaron",
+      "rep_candidate": "Duey Stroebel",
+      "margin": 42,
+      "margin_pct": 46.89265536723164,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "CEDARBURG - C 0008",
+      "precinct_key": "CEDARBURG - C 0008",
+      "geoids": [
+        "55089004493"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 24,
+      "rep_votes": 65,
+      "other_votes": 0,
+      "total_votes": 88,
+      "dem_candidate": "Rick Aaron",
+      "rep_candidate": "Duey Stroebel",
+      "margin": 42,
+      "margin_pct": 46.89265536723164,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "CEDARBURG - C 0009",
+      "precinct_key": "CEDARBURG - C 0009",
+      "geoids": [
+        "55089004588"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 103,
+      "rep_votes": 205,
+      "other_votes": 0,
+      "total_votes": 308,
+      "dem_candidate": "Rick Aaron",
+      "rep_candidate": "Duey Stroebel",
+      "margin": 102,
+      "margin_pct": 33.116883116883116,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "CEDARBURG - T 0001",
+      "precinct_key": "CEDARBURG - T 0001",
+      "geoids": [
+        "55089004589"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 20,
+      "rep_votes": 88,
+      "other_votes": 0,
+      "total_votes": 109,
+      "dem_candidate": "Rick Aaron",
+      "rep_candidate": "Duey Stroebel",
+      "margin": 68,
+      "margin_pct": 62.38532110091744,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "CEDARBURG - T 0002",
+      "precinct_key": "CEDARBURG - T 0002",
+      "geoids": [
+        "55089004573"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 20,
+      "rep_votes": 88,
+      "other_votes": 0,
+      "total_votes": 109,
+      "dem_candidate": "Rick Aaron",
+      "rep_candidate": "Duey Stroebel",
+      "margin": 68,
+      "margin_pct": 62.38532110091744,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "CEDARBURG - T 0003",
+      "precinct_key": "CEDARBURG - T 0003",
+      "geoids": [
+        "55089004577"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 28,
+      "rep_votes": 146,
+      "other_votes": 0,
+      "total_votes": 174,
+      "dem_candidate": "Rick Aaron",
+      "rep_candidate": "Duey Stroebel",
+      "margin": 118,
+      "margin_pct": 68.29971181556196,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "CEDARBURG - T 0004",
+      "precinct_key": "CEDARBURG - T 0004",
+      "geoids": [
+        "55089004567"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 28,
+      "rep_votes": 146,
+      "other_votes": 0,
+      "total_votes": 174,
+      "dem_candidate": "Rick Aaron",
+      "rep_candidate": "Duey Stroebel",
+      "margin": 118,
+      "margin_pct": 68.29971181556196,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "CEDARBURG - T 0005",
+      "precinct_key": "CEDARBURG - T 0005",
+      "geoids": [
+        "55089004513"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 41,
+      "rep_votes": 180,
+      "other_votes": 0,
+      "total_votes": 221,
+      "dem_candidate": "Rick Aaron",
+      "rep_candidate": "Duey Stroebel",
+      "margin": 139,
+      "margin_pct": 62.89592760180995,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "CEDARBURG - T 0006",
+      "precinct_key": "CEDARBURG - T 0006",
+      "geoids": [
+        "55089004550"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 41,
+      "rep_votes": 180,
+      "other_votes": 0,
+      "total_votes": 221,
+      "dem_candidate": "Rick Aaron",
+      "rep_candidate": "Duey Stroebel",
+      "margin": 139,
+      "margin_pct": 62.89592760180995,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "CEDARBURG - T 0007",
+      "precinct_key": "CEDARBURG - T 0007",
+      "geoids": [
+        "55089004536"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 27,
+      "rep_votes": 103,
+      "other_votes": 2,
+      "total_votes": 132,
+      "dem_candidate": "Rick Aaron",
+      "rep_candidate": "Duey Stroebel",
+      "margin": 76,
+      "margin_pct": 57.82828282828284,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "CEDARBURG - T 0008",
+      "precinct_key": "CEDARBURG - T 0008",
+      "geoids": [
+        "55089004507"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 27,
+      "rep_votes": 103,
+      "other_votes": 2,
+      "total_votes": 132,
+      "dem_candidate": "Rick Aaron",
+      "rep_candidate": "Duey Stroebel",
+      "margin": 76,
+      "margin_pct": 57.82828282828284,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "CEDARBURG - T 0009",
+      "precinct_key": "CEDARBURG - T 0009",
+      "geoids": [
+        "55089004566"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 27,
+      "rep_votes": 103,
+      "other_votes": 2,
+      "total_votes": 132,
+      "dem_candidate": "Rick Aaron",
+      "rep_candidate": "Duey Stroebel",
+      "margin": 76,
+      "margin_pct": 57.82828282828284,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "CEDARBURG - T 0010",
+      "precinct_key": "CEDARBURG - T 0010",
+      "geoids": [
+        "55089004576"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 20,
+      "rep_votes": 88,
+      "other_votes": 0,
+      "total_votes": 109,
+      "dem_candidate": "Rick Aaron",
+      "rep_candidate": "Duey Stroebel",
+      "margin": 68,
+      "margin_pct": 62.38532110091744,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "DUNN - T 0002",
+      "precinct_key": "DUNN - T 0002",
+      "geoids": [
+        "55025000990"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 35,
+      "rep_votes": 0,
+      "other_votes": 4,
+      "total_votes": 39,
+      "dem_candidate": "Chris Taylor",
+      "rep_candidate": "",
+      "margin": -35,
+      "margin_pct": -90.72164948453609,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "DUNN - T 0003",
+      "precinct_key": "DUNN - T 0003",
+      "geoids": [
+        "55025000993"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 35,
+      "rep_votes": 0,
+      "other_votes": 4,
+      "total_votes": 39,
+      "dem_candidate": "Chris Taylor",
+      "rep_candidate": "",
+      "margin": -35,
+      "margin_pct": -90.72164948453609,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "DUNN - T 0004",
+      "precinct_key": "DUNN - T 0004",
+      "geoids": [
+        "55025000991"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 35,
+      "rep_votes": 0,
+      "other_votes": 4,
+      "total_votes": 39,
+      "dem_candidate": "Chris Taylor",
+      "rep_candidate": "",
+      "margin": -35,
+      "margin_pct": -90.72164948453609,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "DUNN - T 0005",
+      "precinct_key": "DUNN - T 0005",
+      "geoids": [
+        "55025000987"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 35,
+      "rep_votes": 0,
+      "other_votes": 4,
+      "total_votes": 39,
+      "dem_candidate": "Chris Taylor",
+      "rep_candidate": "",
+      "margin": -35,
+      "margin_pct": -90.72164948453609,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "DUNN - T 0006",
+      "precinct_key": "DUNN - T 0006",
+      "geoids": [
+        "55025000992"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 35,
+      "rep_votes": 0,
+      "other_votes": 4,
+      "total_votes": 39,
+      "dem_candidate": "Chris Taylor",
+      "rep_candidate": "",
+      "margin": -35,
+      "margin_pct": -90.72164948453609,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "EAST TROY - T 0001",
+      "precinct_key": "EAST TROY - T 0001",
+      "geoids": [
+        "55127006293"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 35,
+      "rep_votes": 109,
+      "other_votes": 0,
+      "total_votes": 144,
+      "dem_candidate": "James Brownlow",
+      "rep_candidate": "Dave Craig",
+      "margin": 74,
+      "margin_pct": 51.501154734411095,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "EAST TROY - T 0002",
+      "precinct_key": "EAST TROY - T 0002",
+      "geoids": [
+        "55127006194"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 35,
+      "rep_votes": 109,
+      "other_votes": 0,
+      "total_votes": 144,
+      "dem_candidate": "James Brownlow",
+      "rep_candidate": "Dave Craig",
+      "margin": 74,
+      "margin_pct": 51.501154734411095,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "EAST TROY - T 0003",
+      "precinct_key": "EAST TROY - T 0003",
+      "geoids": [
+        "55127006195"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 35,
+      "rep_votes": 109,
+      "other_votes": 0,
+      "total_votes": 144,
+      "dem_candidate": "James Brownlow",
+      "rep_candidate": "Dave Craig",
+      "margin": 74,
+      "margin_pct": 51.501154734411095,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "EAST TROY - T 0004",
+      "precinct_key": "EAST TROY - T 0004",
+      "geoids": [
+        "55127006286"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 35,
+      "rep_votes": 109,
+      "other_votes": 0,
+      "total_votes": 144,
+      "dem_candidate": "James Brownlow",
+      "rep_candidate": "Dave Craig",
+      "margin": 74,
+      "margin_pct": 51.501154734411095,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "EAST TROY - T 0005",
+      "precinct_key": "EAST TROY - T 0005",
+      "geoids": [
+        "55127006193"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 35,
+      "rep_votes": 109,
+      "other_votes": 0,
+      "total_votes": 144,
+      "dem_candidate": "James Brownlow",
+      "rep_candidate": "Dave Craig",
+      "margin": 74,
+      "margin_pct": 51.501154734411095,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "EAST TROY - T 0006",
+      "precinct_key": "EAST TROY - T 0006",
+      "geoids": [
+        "55127006287"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 35,
+      "rep_votes": 109,
+      "other_votes": 0,
+      "total_votes": 144,
+      "dem_candidate": "James Brownlow",
+      "rep_candidate": "Dave Craig",
+      "margin": 74,
+      "margin_pct": 51.501154734411095,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "EAST TROY - V 0001",
+      "precinct_key": "EAST TROY - V 0001",
+      "geoids": [
+        "55127006291"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 47,
+      "rep_votes": 97,
+      "other_votes": 0,
+      "total_votes": 144,
+      "dem_candidate": "James Brownlow",
+      "rep_candidate": "Dave Craig",
+      "margin": 49,
+      "margin_pct": 34.166666666666664,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "EAST TROY - V 0002",
+      "precinct_key": "EAST TROY - V 0002",
+      "geoids": [
+        "55127006288"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 47,
+      "rep_votes": 97,
+      "other_votes": 0,
+      "total_votes": 144,
+      "dem_candidate": "James Brownlow",
+      "rep_candidate": "Dave Craig",
+      "margin": 49,
+      "margin_pct": 34.166666666666664,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "EAST TROY - V 0003",
+      "precinct_key": "EAST TROY - V 0003",
+      "geoids": [
+        "55127006292"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 47,
+      "rep_votes": 97,
+      "other_votes": 0,
+      "total_votes": 144,
+      "dem_candidate": "James Brownlow",
+      "rep_candidate": "Dave Craig",
+      "margin": 49,
+      "margin_pct": 34.166666666666664,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "EAST TROY - V 0004",
+      "precinct_key": "EAST TROY - V 0004",
+      "geoids": [
+        "55127006289"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 47,
+      "rep_votes": 97,
+      "other_votes": 0,
+      "total_votes": 144,
+      "dem_candidate": "James Brownlow",
+      "rep_candidate": "Dave Craig",
+      "margin": 49,
+      "margin_pct": 34.166666666666664,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "EAST TROY - V 0005",
+      "precinct_key": "EAST TROY - V 0005",
+      "geoids": [
+        "55127006290"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 47,
+      "rep_votes": 97,
+      "other_votes": 0,
+      "total_votes": 144,
+      "dem_candidate": "James Brownlow",
+      "rep_candidate": "Dave Craig",
+      "margin": 49,
+      "margin_pct": 34.166666666666664,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "FARMINGTON - T 0001",
+      "precinct_key": "FARMINGTON - T 0001",
+      "geoids": [
+        "55063002913"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 132,
+      "rep_votes": 99,
+      "other_votes": 0,
+      "total_votes": 231,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": -33,
+      "margin_pct": -14.285714285714285,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      }
+    },
+    {
+      "county": "FARMINGTON - T 0002",
+      "precinct_key": "FARMINGTON - T 0002",
+      "geoids": [
+        "55063002920"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 132,
+      "rep_votes": 99,
+      "other_votes": 0,
+      "total_votes": 231,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": -33,
+      "margin_pct": -14.285714285714285,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      }
+    },
+    {
+      "county": "GRAFTON - T 0001",
+      "precinct_key": "GRAFTON - T 0001",
+      "geoids": [
+        "55089004570"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 34,
+      "rep_votes": 176,
+      "other_votes": 0,
+      "total_votes": 211,
+      "dem_candidate": "Rick Aaron",
+      "rep_candidate": "Duey Stroebel",
+      "margin": 142,
+      "margin_pct": 67.29857819905213,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "GRAFTON - T 0002",
+      "precinct_key": "GRAFTON - T 0002",
+      "geoids": [
+        "55089004542"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 34,
+      "rep_votes": 176,
+      "other_votes": 0,
+      "total_votes": 211,
+      "dem_candidate": "Rick Aaron",
+      "rep_candidate": "Duey Stroebel",
+      "margin": 142,
+      "margin_pct": 67.29857819905213,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "GRAFTON - T 0003",
+      "precinct_key": "GRAFTON - T 0003",
+      "geoids": [
+        "55089004541"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 31,
+      "rep_votes": 101,
+      "other_votes": 0,
+      "total_votes": 132,
+      "dem_candidate": "Rick Aaron",
+      "rep_candidate": "Duey Stroebel",
+      "margin": 71,
+      "margin_pct": 53.53535353535352,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "GRAFTON - T 0004",
+      "precinct_key": "GRAFTON - T 0004",
+      "geoids": [
+        "55089004503"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 31,
+      "rep_votes": 101,
+      "other_votes": 0,
+      "total_votes": 132,
+      "dem_candidate": "Rick Aaron",
+      "rep_candidate": "Duey Stroebel",
+      "margin": 71,
+      "margin_pct": 53.53535353535352,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "GRAFTON - T 0005",
+      "precinct_key": "GRAFTON - T 0005",
+      "geoids": [
+        "55089004527"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 31,
+      "rep_votes": 101,
+      "other_votes": 0,
+      "total_votes": 132,
+      "dem_candidate": "Rick Aaron",
+      "rep_candidate": "Duey Stroebel",
+      "margin": 71,
+      "margin_pct": 53.53535353535352,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "GRAFTON - V 0001",
+      "precinct_key": "GRAFTON - V 0001",
+      "geoids": [
+        "55089004559"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 38,
+      "rep_votes": 96,
+      "other_votes": 0,
+      "total_votes": 133,
+      "dem_candidate": "Rick Aaron",
+      "rep_candidate": "Duey Stroebel",
+      "margin": 58,
+      "margin_pct": 43.609022556390975,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "GRAFTON - V 0002",
+      "precinct_key": "GRAFTON - V 0002",
+      "geoids": [
+        "55089004516"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 38,
+      "rep_votes": 96,
+      "other_votes": 0,
+      "total_votes": 133,
+      "dem_candidate": "Rick Aaron",
+      "rep_candidate": "Duey Stroebel",
+      "margin": 58,
+      "margin_pct": 43.609022556390975,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "GRAFTON - V 0003",
+      "precinct_key": "GRAFTON - V 0003",
+      "geoids": [
+        "55089004582"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 44,
+      "rep_votes": 94,
+      "other_votes": 0,
+      "total_votes": 138,
+      "dem_candidate": "Rick Aaron",
+      "rep_candidate": "Duey Stroebel",
+      "margin": 50,
+      "margin_pct": 36.594202898550726,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "GRAFTON - V 0004",
+      "precinct_key": "GRAFTON - V 0004",
+      "geoids": [
+        "55089004525"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 44,
+      "rep_votes": 94,
+      "other_votes": 0,
+      "total_votes": 138,
+      "dem_candidate": "Rick Aaron",
+      "rep_candidate": "Duey Stroebel",
+      "margin": 50,
+      "margin_pct": 36.594202898550726,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "GRAFTON - V 0005",
+      "precinct_key": "GRAFTON - V 0005",
+      "geoids": [
+        "55089004499"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 51,
+      "rep_votes": 158,
+      "other_votes": 0,
+      "total_votes": 209,
+      "dem_candidate": "Rick Aaron",
+      "rep_candidate": "Duey Stroebel",
+      "margin": 106,
+      "margin_pct": 50.95693779904307,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "GRAFTON - V 0006",
+      "precinct_key": "GRAFTON - V 0006",
+      "geoids": [
+        "55089004522"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 51,
+      "rep_votes": 158,
+      "other_votes": 0,
+      "total_votes": 209,
+      "dem_candidate": "Rick Aaron",
+      "rep_candidate": "Duey Stroebel",
+      "margin": 106,
+      "margin_pct": 50.95693779904307,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "GRAFTON - V 0007",
+      "precinct_key": "GRAFTON - V 0007",
+      "geoids": [
+        "55089004520"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 38,
+      "rep_votes": 100,
+      "other_votes": 0,
+      "total_votes": 137,
+      "dem_candidate": "Rick Aaron",
+      "rep_candidate": "Duey Stroebel",
+      "margin": 62,
+      "margin_pct": 45.25547445255474,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "GRAFTON - V 0008",
+      "precinct_key": "GRAFTON - V 0008",
+      "geoids": [
+        "55089004532"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 38,
+      "rep_votes": 100,
+      "other_votes": 0,
+      "total_votes": 137,
+      "dem_candidate": "Rick Aaron",
+      "rep_candidate": "Duey Stroebel",
+      "margin": 62,
+      "margin_pct": 45.25547445255474,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "GRAFTON - V 0009",
+      "precinct_key": "GRAFTON - V 0009",
+      "geoids": [
+        "55089004498"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 25,
+      "rep_votes": 56,
+      "other_votes": 0,
+      "total_votes": 82,
+      "dem_candidate": "Rick Aaron",
+      "rep_candidate": "Duey Stroebel",
+      "margin": 32,
+      "margin_pct": 38.65030674846626,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "GRAFTON - V 0010",
+      "precinct_key": "GRAFTON - V 0010",
+      "geoids": [
+        "55089004568"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 25,
+      "rep_votes": 56,
+      "other_votes": 0,
+      "total_votes": 82,
+      "dem_candidate": "Rick Aaron",
+      "rep_candidate": "Duey Stroebel",
+      "margin": 32,
+      "margin_pct": 38.65030674846626,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "GRAFTON - V 0011",
+      "precinct_key": "GRAFTON - V 0011",
+      "geoids": [
+        "55089004528"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 25,
+      "rep_votes": 56,
+      "other_votes": 0,
+      "total_votes": 82,
+      "dem_candidate": "Rick Aaron",
+      "rep_candidate": "Duey Stroebel",
+      "margin": 32,
+      "margin_pct": 38.65030674846626,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "GRAFTON - V 0012",
+      "precinct_key": "GRAFTON - V 0012",
+      "geoids": [
+        "55089004555"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 46,
+      "rep_votes": 128,
+      "other_votes": 0,
+      "total_votes": 174,
+      "dem_candidate": "Rick Aaron",
+      "rep_candidate": "Duey Stroebel",
+      "margin": 81,
+      "margin_pct": 46.55172413793103,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "GRAFTON - V 0013",
+      "precinct_key": "GRAFTON - V 0013",
+      "geoids": [
+        "55089004581"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 46,
+      "rep_votes": 128,
+      "other_votes": 0,
+      "total_votes": 174,
+      "dem_candidate": "Rick Aaron",
+      "rep_candidate": "Duey Stroebel",
+      "margin": 81,
+      "margin_pct": 46.55172413793103,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "GRAFTON - V 0014",
+      "precinct_key": "GRAFTON - V 0014",
+      "geoids": [
+        "55089004580"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 25,
+      "rep_votes": 56,
+      "other_votes": 0,
+      "total_votes": 82,
+      "dem_candidate": "Rick Aaron",
+      "rep_candidate": "Duey Stroebel",
+      "margin": 32,
+      "margin_pct": 38.65030674846626,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "GREENFIELD - T 0001",
+      "precinct_key": "GREENFIELD - T 0001",
+      "geoids": [
+        "55063002931"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 127,
+      "rep_votes": 128,
+      "other_votes": 0,
+      "total_votes": 256,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": 2,
+      "margin_pct": 0.5870841487279843,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#fcbba1"
+      }
+    },
+    {
+      "county": "GREENFIELD - T 0002",
+      "precinct_key": "GREENFIELD - T 0002",
+      "geoids": [
+        "55063002924"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 127,
+      "rep_votes": 128,
+      "other_votes": 0,
+      "total_votes": 256,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": 2,
+      "margin_pct": 0.5870841487279843,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#fcbba1"
+      }
+    },
+    {
+      "county": "HAMILTON - T 0001",
+      "precinct_key": "HAMILTON - T 0001",
+      "geoids": [
+        "55063002928"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 119,
+      "rep_votes": 130,
+      "other_votes": 0,
+      "total_votes": 249,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": 11,
+      "margin_pct": 4.545454545454538,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#fcbba1"
+      }
+    },
+    {
+      "county": "HAMILTON - T 0002",
+      "precinct_key": "HAMILTON - T 0002",
+      "geoids": [
+        "55063002935"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 119,
+      "rep_votes": 130,
+      "other_votes": 0,
+      "total_votes": 249,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": 11,
+      "margin_pct": 4.545454545454538,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#fcbba1"
+      }
+    },
+    {
+      "county": "HAMILTON - T 0003",
+      "precinct_key": "HAMILTON - T 0003",
+      "geoids": [
+        "55063002929"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 119,
+      "rep_votes": 130,
+      "other_votes": 0,
+      "total_votes": 249,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": 11,
+      "margin_pct": 4.545454545454538,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#fcbba1"
+      }
+    },
+    {
+      "county": "HOLLAND - T 0001",
+      "precinct_key": "HOLLAND - T 0001",
+      "geoids": [
+        "55063002891"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 129,
+      "rep_votes": 109,
+      "other_votes": 0,
+      "total_votes": 238,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": -20,
+      "margin_pct": -8.61344537815126,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#6baed6"
+      }
+    },
+    {
+      "county": "HOLLAND - T 0002",
+      "precinct_key": "HOLLAND - T 0002",
+      "geoids": [
+        "55063002879"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 129,
+      "rep_votes": 109,
+      "other_votes": 0,
+      "total_votes": 238,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": -20,
+      "margin_pct": -8.61344537815126,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#6baed6"
+      }
+    },
+    {
+      "county": "HOLLAND - T 0003",
+      "precinct_key": "HOLLAND - T 0003",
+      "geoids": [
+        "55063002881"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 129,
+      "rep_votes": 109,
+      "other_votes": 0,
+      "total_votes": 238,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": -20,
+      "margin_pct": -8.61344537815126,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#6baed6"
+      }
+    },
+    {
+      "county": "HOLLAND - T 0004",
+      "precinct_key": "HOLLAND - T 0004",
+      "geoids": [
+        "55063002890"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 129,
+      "rep_votes": 109,
+      "other_votes": 0,
+      "total_votes": 238,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": -20,
+      "margin_pct": -8.61344537815126,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#6baed6"
+      }
+    },
+    {
+      "county": "HOLMEN - V 0001",
+      "precinct_key": "HOLMEN - V 0001",
+      "geoids": [
+        "55063002883"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 77,
+      "rep_votes": 54,
+      "other_votes": 0,
+      "total_votes": 131,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": -24,
+      "margin_pct": -18.266085059978188,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      }
+    },
+    {
+      "county": "HOLMEN - V 0002",
+      "precinct_key": "HOLMEN - V 0002",
+      "geoids": [
+        "55063002880"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 77,
+      "rep_votes": 54,
+      "other_votes": 0,
+      "total_votes": 131,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": -24,
+      "margin_pct": -18.266085059978188,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      }
+    },
+    {
+      "county": "HOLMEN - V 0003",
+      "precinct_key": "HOLMEN - V 0003",
+      "geoids": [
+        "55063002876"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 77,
+      "rep_votes": 54,
+      "other_votes": 0,
+      "total_votes": 131,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": -24,
+      "margin_pct": -18.266085059978188,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      }
+    },
+    {
+      "county": "HOLMEN - V 0004",
+      "precinct_key": "HOLMEN - V 0004",
+      "geoids": [
+        "55063002874"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 77,
+      "rep_votes": 54,
+      "other_votes": 0,
+      "total_votes": 131,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": -24,
+      "margin_pct": -18.266085059978188,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      }
+    },
+    {
+      "county": "HOLMEN - V 0005",
+      "precinct_key": "HOLMEN - V 0005",
+      "geoids": [
+        "55063002884"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 77,
+      "rep_votes": 54,
+      "other_votes": 0,
+      "total_votes": 131,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": -24,
+      "margin_pct": -18.266085059978188,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      }
+    },
+    {
+      "county": "HOLMEN - V 0006",
+      "precinct_key": "HOLMEN - V 0006",
+      "geoids": [
+        "55063002875"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 77,
+      "rep_votes": 54,
+      "other_votes": 0,
+      "total_votes": 131,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": -24,
+      "margin_pct": -18.266085059978188,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      }
+    },
+    {
+      "county": "HOLMEN - V 0007",
+      "precinct_key": "HOLMEN - V 0007",
+      "geoids": [
+        "55063002888"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 77,
+      "rep_votes": 54,
+      "other_votes": 0,
+      "total_votes": 131,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": -24,
+      "margin_pct": -18.266085059978188,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      }
+    },
+    {
+      "county": "HOLMEN - V 0008",
+      "precinct_key": "HOLMEN - V 0008",
+      "geoids": [
+        "55063002889"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 77,
+      "rep_votes": 54,
+      "other_votes": 0,
+      "total_votes": 131,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": -24,
+      "margin_pct": -18.266085059978188,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      }
+    },
+    {
+      "county": "HOLMEN - V 0009",
+      "precinct_key": "HOLMEN - V 0009",
+      "geoids": [
+        "55063002886"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 77,
+      "rep_votes": 54,
+      "other_votes": 0,
+      "total_votes": 131,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": -24,
+      "margin_pct": -18.266085059978188,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      }
+    },
+    {
+      "county": "HOLMEN - V 0010",
+      "precinct_key": "HOLMEN - V 0010",
+      "geoids": [
+        "55063002902"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 77,
+      "rep_votes": 54,
+      "other_votes": 0,
+      "total_votes": 131,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": -24,
+      "margin_pct": -18.266085059978188,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      }
+    },
+    {
+      "county": "HOLMEN - V 0011",
+      "precinct_key": "HOLMEN - V 0011",
+      "geoids": [
+        "55063002882"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 77,
+      "rep_votes": 54,
+      "other_votes": 0,
+      "total_votes": 131,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": -24,
+      "margin_pct": -18.266085059978188,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      }
+    },
+    {
+      "county": "HOLMEN - V 0012",
+      "precinct_key": "HOLMEN - V 0012",
+      "geoids": [
+        "55063002909"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 77,
+      "rep_votes": 54,
+      "other_votes": 0,
+      "total_votes": 131,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": -24,
+      "margin_pct": -18.266085059978188,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      }
+    },
+    {
+      "county": "HOLMEN - V 0013",
+      "precinct_key": "HOLMEN - V 0013",
+      "geoids": [
+        "55063003005"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 77,
+      "rep_votes": 54,
+      "other_votes": 0,
+      "total_votes": 131,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": -24,
+      "margin_pct": -18.266085059978188,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      }
+    },
+    {
+      "county": "HOLMEN - V 0014",
+      "precinct_key": "HOLMEN - V 0014",
+      "geoids": [
+        "55063003006"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 77,
+      "rep_votes": 54,
+      "other_votes": 0,
+      "total_votes": 131,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": -24,
+      "margin_pct": -18.266085059978188,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      }
+    },
+    {
+      "county": "LA CROSSE - C 0001",
+      "precinct_key": "LA CROSSE - C 0001",
+      "geoids": [
+        "55063002854"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 278,
+      "rep_votes": 149,
+      "other_votes": 0,
+      "total_votes": 427,
+      "dem_candidate": "Jill E. Billings",
+      "rep_candidate": "David A. Drewes",
+      "margin": -129,
+      "margin_pct": -30.210772833723652,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "LA CROSSE - C 0002",
+      "precinct_key": "LA CROSSE - C 0002",
+      "geoids": [
+        "55063002830"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 265,
+      "rep_votes": 121,
+      "other_votes": 1,
+      "total_votes": 387,
+      "dem_candidate": "Jill E. Billings",
+      "rep_candidate": "David A. Drewes",
+      "margin": -144,
+      "margin_pct": -37.2093023255814,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "LA CROSSE - C 0003",
+      "precinct_key": "LA CROSSE - C 0003",
+      "geoids": [
+        "55063002872"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 188,
+      "rep_votes": 68,
+      "other_votes": 0,
+      "total_votes": 256,
+      "dem_candidate": "Jill E. Billings",
+      "rep_candidate": "David A. Drewes",
+      "margin": -120,
+      "margin_pct": -46.875,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "LA CROSSE - C 0004",
+      "precinct_key": "LA CROSSE - C 0004",
+      "geoids": [
+        "55063002840"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 162,
+      "rep_votes": 71,
+      "other_votes": 0,
+      "total_votes": 233,
+      "dem_candidate": "Jill E. Billings",
+      "rep_candidate": "David A. Drewes",
+      "margin": -91,
+      "margin_pct": -39.05579399141631,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "LA CROSSE - C 0005",
+      "precinct_key": "LA CROSSE - C 0005",
+      "geoids": [
+        "55063002871"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 106,
+      "rep_votes": 25,
+      "other_votes": 0,
+      "total_votes": 131,
+      "dem_candidate": "Jill E. Billings",
+      "rep_candidate": "David A. Drewes",
+      "margin": -81,
+      "margin_pct": -61.832061068702295,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "LA CROSSE - C 0006",
+      "precinct_key": "LA CROSSE - C 0006",
+      "geoids": [
+        "55063002873"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 220,
+      "rep_votes": 53,
+      "other_votes": 2,
+      "total_votes": 275,
+      "dem_candidate": "Jill E. Billings",
+      "rep_candidate": "David A. Drewes",
+      "margin": -167,
+      "margin_pct": -60.72727272727273,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "LA CROSSE - C 0007",
+      "precinct_key": "LA CROSSE - C 0007",
+      "geoids": [
+        "55063002828"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 255,
+      "rep_votes": 46,
+      "other_votes": 1,
+      "total_votes": 302,
+      "dem_candidate": "Jill E. Billings",
+      "rep_candidate": "David A. Drewes",
+      "margin": -209,
+      "margin_pct": -69.20529801324503,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "LA CROSSE - C 0008",
+      "precinct_key": "LA CROSSE - C 0008",
+      "geoids": [
+        "55063002837"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 637,
+      "rep_votes": 177,
+      "other_votes": 1,
+      "total_votes": 815,
+      "dem_candidate": "Jill E. Billings",
+      "rep_candidate": "David A. Drewes",
+      "margin": -460,
+      "margin_pct": -56.44171779141104,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "LA CROSSE - C 0009",
+      "precinct_key": "LA CROSSE - C 0009",
+      "geoids": [
+        "55063002858"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 549,
+      "rep_votes": 202,
+      "other_votes": 0,
+      "total_votes": 751,
+      "dem_candidate": "Jill E. Billings",
+      "rep_candidate": "David A. Drewes",
+      "margin": -347,
+      "margin_pct": -46.20505992010652,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "LA CROSSE - C 0010",
+      "precinct_key": "LA CROSSE - C 0010",
+      "geoids": [
+        "55063002825"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 465,
+      "rep_votes": 142,
+      "other_votes": 3,
+      "total_votes": 610,
+      "dem_candidate": "Jill E. Billings",
+      "rep_candidate": "David A. Drewes",
+      "margin": -323,
+      "margin_pct": -52.950819672131146,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "LA CROSSE - C 0011",
+      "precinct_key": "LA CROSSE - C 0011",
+      "geoids": [
+        "55063002836"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 198,
+      "rep_votes": 54,
+      "other_votes": 0,
+      "total_votes": 252,
+      "dem_candidate": "Jill E. Billings",
+      "rep_candidate": "David A. Drewes",
+      "margin": -144,
+      "margin_pct": -57.14285714285714,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "LA CROSSE - C 0012",
+      "precinct_key": "LA CROSSE - C 0012",
+      "geoids": [
+        "55063002831"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 312,
+      "rep_votes": 89,
+      "other_votes": 0,
+      "total_votes": 401,
+      "dem_candidate": "Jill E. Billings",
+      "rep_candidate": "David A. Drewes",
+      "margin": -223,
+      "margin_pct": -55.61097256857855,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "LA CROSSE - C 0013",
+      "precinct_key": "LA CROSSE - C 0013",
+      "geoids": [
+        "55063002839"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 233,
+      "rep_votes": 83,
+      "other_votes": 0,
+      "total_votes": 316,
+      "dem_candidate": "Jill E. Billings",
+      "rep_candidate": "David A. Drewes",
+      "margin": -150,
+      "margin_pct": -47.46835443037975,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "LA CROSSE - C 0014",
+      "precinct_key": "LA CROSSE - C 0014",
+      "geoids": [
+        "55063002835"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 437,
+      "rep_votes": 161,
+      "other_votes": 0,
+      "total_votes": 598,
+      "dem_candidate": "Jill E. Billings",
+      "rep_candidate": "David A. Drewes",
+      "margin": -276,
+      "margin_pct": -46.15384615384615,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "LA CROSSE - C 0015",
+      "precinct_key": "LA CROSSE - C 0015",
+      "geoids": [
+        "55063002829"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 412,
+      "rep_votes": 161,
+      "other_votes": 0,
+      "total_votes": 573,
+      "dem_candidate": "Jill E. Billings",
+      "rep_candidate": "David A. Drewes",
+      "margin": -251,
+      "margin_pct": -43.80453752181501,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "LA CROSSE - C 0016",
+      "precinct_key": "LA CROSSE - C 0016",
+      "geoids": [
+        "55063002850"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 329,
+      "rep_votes": 163,
+      "other_votes": 0,
+      "total_votes": 492,
+      "dem_candidate": "Jill E. Billings",
+      "rep_candidate": "David A. Drewes",
+      "margin": -166,
+      "margin_pct": -33.739837398373986,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "LA CROSSE - C 0017",
+      "precinct_key": "LA CROSSE - C 0017",
+      "geoids": [
+        "55063002838"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 462,
+      "rep_votes": 207,
+      "other_votes": 0,
+      "total_votes": 669,
+      "dem_candidate": "Jill E. Billings",
+      "rep_candidate": "David A. Drewes",
+      "margin": -255,
+      "margin_pct": -38.11659192825112,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "LA CROSSE - C 0018",
+      "precinct_key": "LA CROSSE - C 0018",
+      "geoids": [
+        "55063002827"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 4,
+      "rep_votes": 9,
+      "other_votes": 0,
+      "total_votes": 13,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": 5,
+      "margin_pct": 38.46153846153847,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "LA CROSSE - C 0019",
+      "precinct_key": "LA CROSSE - C 0019",
+      "geoids": [
+        "55063002834"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 5,
+      "rep_votes": 16,
+      "other_votes": 0,
+      "total_votes": 21,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": 11,
+      "margin_pct": 52.38095238095239,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "LA CROSSE - C 0020",
+      "precinct_key": "LA CROSSE - C 0020",
+      "geoids": [
+        "55063002823"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 0,
+      "rep_votes": 0,
+      "other_votes": 0,
+      "total_votes": 0,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": 0,
+      "margin_pct": 0.0,
+      "winner": "TIE",
+      "competitiveness": {
+        "color": "#9ca3af"
+      }
+    },
+    {
+      "county": "LA CROSSE - C 0021",
+      "precinct_key": "LA CROSSE - C 0021",
+      "geoids": [
+        "55063002864"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 0,
+      "rep_votes": 0,
+      "other_votes": 0,
+      "total_votes": 0,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": 0,
+      "margin_pct": 0.0,
+      "winner": "TIE",
+      "competitiveness": {
+        "color": "#9ca3af"
+      }
+    },
+    {
+      "county": "LEON - T 0001",
+      "precinct_key": "LEON - T 0001",
+      "geoids": [
+        "55081004065"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 75,
+      "rep_votes": 117,
+      "other_votes": 0,
+      "total_votes": 192,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": 42,
+      "margin_pct": 21.875,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "MADISON - C 0001",
+      "precinct_key": "MADISON - C 0001",
+      "geoids": [
+        "55025001028"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 301,
+      "rep_votes": 0,
+      "other_votes": 11,
+      "total_votes": 312,
+      "dem_candidate": "Chris Taylor",
+      "rep_candidate": "",
+      "margin": -301,
+      "margin_pct": -96.47435897435898,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "MADISON - C 0002",
+      "precinct_key": "MADISON - C 0002",
+      "geoids": [
+        "55025001082"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 360,
+      "rep_votes": 0,
+      "other_votes": 30,
+      "total_votes": 390,
+      "dem_candidate": "Chris Taylor",
+      "rep_candidate": "",
+      "margin": -360,
+      "margin_pct": -92.3076923076923,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "MADISON - C 0003",
+      "precinct_key": "MADISON - C 0003",
+      "geoids": [
+        "55025001097"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 206,
+      "rep_votes": 0,
+      "other_votes": 16,
+      "total_votes": 222,
+      "dem_candidate": "Chris Taylor",
+      "rep_candidate": "",
+      "margin": -206,
+      "margin_pct": -92.7927927927928,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "MADISON - C 0004",
+      "precinct_key": "MADISON - C 0004",
+      "geoids": [
+        "55025001108"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 169,
+      "rep_votes": 0,
+      "other_votes": 18,
+      "total_votes": 187,
+      "dem_candidate": "Chris Taylor",
+      "rep_candidate": "",
+      "margin": -169,
+      "margin_pct": -90.37433155080214,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "MADISON - C 0005",
+      "precinct_key": "MADISON - C 0005",
+      "geoids": [
+        "55025001119"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 281,
+      "rep_votes": 0,
+      "other_votes": 23,
+      "total_votes": 304,
+      "dem_candidate": "Chris Taylor",
+      "rep_candidate": "",
+      "margin": -281,
+      "margin_pct": -92.43421052631578,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "MADISON - C 0006",
+      "precinct_key": "MADISON - C 0006",
+      "geoids": [
+        "55025001130"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 219,
+      "rep_votes": 0,
+      "other_votes": 10,
+      "total_votes": 229,
+      "dem_candidate": "Chris Taylor",
+      "rep_candidate": "",
+      "margin": -219,
+      "margin_pct": -95.63318777292577,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "MADISON - C 0007",
+      "precinct_key": "MADISON - C 0007",
+      "geoids": [
+        "55025001141"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 253,
+      "rep_votes": 0,
+      "other_votes": 9,
+      "total_votes": 262,
+      "dem_candidate": "Chris Taylor",
+      "rep_candidate": "",
+      "margin": -253,
+      "margin_pct": -96.56488549618321,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "MADISON - C 0008",
+      "precinct_key": "MADISON - C 0008",
+      "geoids": [
+        "55025001153"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 152,
+      "rep_votes": 0,
+      "other_votes": 9,
+      "total_votes": 161,
+      "dem_candidate": "Chris Taylor",
+      "rep_candidate": "",
+      "margin": -152,
+      "margin_pct": -94.40993788819875,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "MADISON - C 0010",
+      "precinct_key": "MADISON - C 0010",
+      "geoids": [
+        "55025001029"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 256,
+      "rep_votes": 0,
+      "other_votes": 14,
+      "total_votes": 270,
+      "dem_candidate": "Chris Taylor",
+      "rep_candidate": "",
+      "margin": -256,
+      "margin_pct": -94.81481481481482,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "MADISON - C 0011",
+      "precinct_key": "MADISON - C 0011",
+      "geoids": [
+        "55025001042"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 405,
+      "rep_votes": 0,
+      "other_votes": 16,
+      "total_votes": 421,
+      "dem_candidate": "Chris Taylor",
+      "rep_candidate": "",
+      "margin": -405,
+      "margin_pct": -96.19952494061758,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "MADISON - C 0012",
+      "precinct_key": "MADISON - C 0012",
+      "geoids": [
+        "55025001056"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 160,
+      "rep_votes": 0,
+      "other_votes": 8,
+      "total_votes": 168,
+      "dem_candidate": "Chris Taylor",
+      "rep_candidate": "",
+      "margin": -160,
+      "margin_pct": -95.23809523809523,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "MADISON - C 0013",
+      "precinct_key": "MADISON - C 0013",
+      "geoids": [
+        "55025001067"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 77,
+      "rep_votes": 0,
+      "other_votes": 3,
+      "total_votes": 80,
+      "dem_candidate": "Chris Taylor",
+      "rep_candidate": "",
+      "margin": -77,
+      "margin_pct": -96.25,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "MADISON - C 0033",
+      "precinct_key": "MADISON - C 0033",
+      "geoids": [
+        "55025001101"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 794,
+      "rep_votes": 0,
+      "other_votes": 10,
+      "total_votes": 804,
+      "dem_candidate": "Chris Taylor",
+      "rep_candidate": "",
+      "margin": -794,
+      "margin_pct": -98.75621890547264,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "MADISON - C 0055",
+      "precinct_key": "MADISON - C 0055",
+      "geoids": [
+        "55025001125"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 4,
+      "rep_votes": 0,
+      "other_votes": 0,
+      "total_votes": 4,
+      "dem_candidate": "Chris Taylor",
+      "rep_candidate": "",
+      "margin": -4,
+      "margin_pct": -100.0,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "MADISON - C 0056",
+      "precinct_key": "MADISON - C 0056",
+      "geoids": [
+        "55025001126"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 99,
+      "rep_votes": 0,
+      "other_votes": 4,
+      "total_votes": 103,
+      "dem_candidate": "Chris Taylor",
+      "rep_candidate": "",
+      "margin": -99,
+      "margin_pct": -96.11650485436894,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "MADISON - C 0131",
+      "precinct_key": "MADISON - C 0131",
+      "geoids": [
+        "55025001069"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 0,
+      "rep_votes": 0,
+      "other_votes": 0,
+      "total_votes": 0,
+      "dem_candidate": "Chris Taylor",
+      "rep_candidate": "",
+      "margin": 0,
+      "margin_pct": 0.0,
+      "winner": "TIE",
+      "competitiveness": {
+        "color": "#9ca3af"
+      }
+    },
+    {
+      "county": "MEDARY - T 0001",
+      "precinct_key": "MEDARY - T 0001",
+      "geoids": [
+        "55063002908"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 128,
+      "rep_votes": 106,
+      "other_votes": 0,
+      "total_votes": 235,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": -22,
+      "margin_pct": -9.148936170212766,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#6baed6"
+      }
+    },
+    {
+      "county": "MEDARY - T 0002",
+      "precinct_key": "MEDARY - T 0002",
+      "geoids": [
+        "55063002869"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 128,
+      "rep_votes": 106,
+      "other_votes": 0,
+      "total_votes": 235,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": -22,
+      "margin_pct": -9.148936170212766,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#6baed6"
+      }
+    },
+    {
+      "county": "MELVINA - V 0001",
+      "precinct_key": "MELVINA - V 0001",
+      "geoids": [
+        "55081004136"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 10,
+      "rep_votes": 5,
+      "other_votes": 0,
+      "total_votes": 15,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": -5,
+      "margin_pct": -33.33333333333333,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "MEQUON - C 0002",
+      "precinct_key": "MEQUON - C 0002",
+      "geoids": [
+        "55089004512"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 17,
+      "rep_votes": 149,
+      "other_votes": 0,
+      "total_votes": 166,
+      "dem_candidate": "Rick Aaron",
+      "rep_candidate": "Duey Stroebel",
+      "margin": 132,
+      "margin_pct": 79.51807228915662,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "MONONA - C 0001",
+      "precinct_key": "MONONA - C 0001",
+      "geoids": [
+        "55025001290"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 104,
+      "rep_votes": 0,
+      "other_votes": 7,
+      "total_votes": 112,
+      "dem_candidate": "Chris Taylor",
+      "rep_candidate": "",
+      "margin": -104,
+      "margin_pct": -93.36917562724014,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "MONONA - C 0002",
+      "precinct_key": "MONONA - C 0002",
+      "geoids": [
+        "55025001293"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 104,
+      "rep_votes": 0,
+      "other_votes": 7,
+      "total_votes": 112,
+      "dem_candidate": "Chris Taylor",
+      "rep_candidate": "",
+      "margin": -104,
+      "margin_pct": -93.36917562724014,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "MONONA - C 0003",
+      "precinct_key": "MONONA - C 0003",
+      "geoids": [
+        "55025001292"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 104,
+      "rep_votes": 0,
+      "other_votes": 7,
+      "total_votes": 112,
+      "dem_candidate": "Chris Taylor",
+      "rep_candidate": "",
+      "margin": -104,
+      "margin_pct": -93.36917562724014,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "MONONA - C 0004",
+      "precinct_key": "MONONA - C 0004",
+      "geoids": [
+        "55025001291"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 104,
+      "rep_votes": 0,
+      "other_votes": 7,
+      "total_votes": 112,
+      "dem_candidate": "Chris Taylor",
+      "rep_candidate": "",
+      "margin": -104,
+      "margin_pct": -93.36917562724014,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "MONONA - C 0005",
+      "precinct_key": "MONONA - C 0005",
+      "geoids": [
+        "55025001294"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 104,
+      "rep_votes": 0,
+      "other_votes": 7,
+      "total_votes": 112,
+      "dem_candidate": "Chris Taylor",
+      "rep_candidate": "",
+      "margin": -104,
+      "margin_pct": -93.36917562724014,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "MONONA - C 0006",
+      "precinct_key": "MONONA - C 0006",
+      "geoids": [
+        "55025001289"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 68,
+      "rep_votes": 0,
+      "other_votes": 5,
+      "total_votes": 73,
+      "dem_candidate": "Chris Taylor",
+      "rep_candidate": "",
+      "margin": -68,
+      "margin_pct": -92.92237442922374,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "MONONA - C 0007",
+      "precinct_key": "MONONA - C 0007",
+      "geoids": [
+        "55025001287"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 68,
+      "rep_votes": 0,
+      "other_votes": 5,
+      "total_votes": 73,
+      "dem_candidate": "Chris Taylor",
+      "rep_candidate": "",
+      "margin": -68,
+      "margin_pct": -92.92237442922374,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "MONONA - C 0008",
+      "precinct_key": "MONONA - C 0008",
+      "geoids": [
+        "55025001284",
+        "55025001285"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 136,
+      "rep_votes": 0,
+      "other_votes": 10,
+      "total_votes": 146,
+      "dem_candidate": "Chris Taylor",
+      "rep_candidate": "",
+      "margin": -136,
+      "margin_pct": -92.92237442922374,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "MONONA - C 0009",
+      "precinct_key": "MONONA - C 0009",
+      "geoids": [
+        "55025001288"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 68,
+      "rep_votes": 0,
+      "other_votes": 5,
+      "total_votes": 73,
+      "dem_candidate": "Chris Taylor",
+      "rep_candidate": "",
+      "margin": -68,
+      "margin_pct": -92.92237442922374,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "MONONA - C 0010",
+      "precinct_key": "MONONA - C 0010",
+      "geoids": [
+        "55025001286"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 68,
+      "rep_votes": 0,
+      "other_votes": 5,
+      "total_votes": 73,
+      "dem_candidate": "Chris Taylor",
+      "rep_candidate": "",
+      "margin": -68,
+      "margin_pct": -92.92237442922374,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "MUKWONAGO - T 0003",
+      "precinct_key": "MUKWONAGO - T 0003",
+      "geoids": [
+        "55133006882"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 19,
+      "rep_votes": 111,
+      "other_votes": 0,
+      "total_votes": 130,
+      "dem_candidate": "James Brownlow",
+      "rep_candidate": "Dave Craig",
+      "margin": 92,
+      "margin_pct": 70.76923076923077,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "MUKWONAGO - V 0001",
+      "precinct_key": "MUKWONAGO - V 0001",
+      "geoids": [
+        "55133006690"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 38,
+      "rep_votes": 106,
+      "other_votes": 0,
+      "total_votes": 144,
+      "dem_candidate": "James Brownlow",
+      "rep_candidate": "Dave Craig",
+      "margin": 69,
+      "margin_pct": 47.53246753246753,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "MUKWONAGO - V 0002",
+      "precinct_key": "MUKWONAGO - V 0002",
+      "geoids": [
+        "55133006808"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 38,
+      "rep_votes": 106,
+      "other_votes": 0,
+      "total_votes": 144,
+      "dem_candidate": "James Brownlow",
+      "rep_candidate": "Dave Craig",
+      "margin": 69,
+      "margin_pct": 47.53246753246753,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "MUKWONAGO - V 0003",
+      "precinct_key": "MUKWONAGO - V 0003",
+      "geoids": [
+        "55133006809"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 38,
+      "rep_votes": 106,
+      "other_votes": 0,
+      "total_votes": 144,
+      "dem_candidate": "James Brownlow",
+      "rep_candidate": "Dave Craig",
+      "margin": 69,
+      "margin_pct": 47.53246753246753,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "MUKWONAGO - V 0004",
+      "precinct_key": "MUKWONAGO - V 0004",
+      "geoids": [
+        "55133006661"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 38,
+      "rep_votes": 106,
+      "other_votes": 0,
+      "total_votes": 144,
+      "dem_candidate": "James Brownlow",
+      "rep_candidate": "Dave Craig",
+      "margin": 69,
+      "margin_pct": 47.53246753246753,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "MUKWONAGO - V 0005",
+      "precinct_key": "MUKWONAGO - V 0005",
+      "geoids": [
+        "55133006880"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 38,
+      "rep_votes": 106,
+      "other_votes": 0,
+      "total_votes": 144,
+      "dem_candidate": "James Brownlow",
+      "rep_candidate": "Dave Craig",
+      "margin": 69,
+      "margin_pct": 47.53246753246753,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "MUKWONAGO - V 0006",
+      "precinct_key": "MUKWONAGO - V 0006",
+      "geoids": [
+        "55133006656"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 38,
+      "rep_votes": 106,
+      "other_votes": 0,
+      "total_votes": 144,
+      "dem_candidate": "James Brownlow",
+      "rep_candidate": "Dave Craig",
+      "margin": 69,
+      "margin_pct": 47.53246753246753,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "MUKWONAGO - V 0007",
+      "precinct_key": "MUKWONAGO - V 0007",
+      "geoids": [
+        "55133006888"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 38,
+      "rep_votes": 106,
+      "other_votes": 0,
+      "total_votes": 144,
+      "dem_candidate": "James Brownlow",
+      "rep_candidate": "Dave Craig",
+      "margin": 69,
+      "margin_pct": 47.53246753246753,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "MUKWONAGO - V 0008",
+      "precinct_key": "MUKWONAGO - V 0008",
+      "geoids": [
+        "55133006821"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 38,
+      "rep_votes": 106,
+      "other_votes": 0,
+      "total_votes": 144,
+      "dem_candidate": "James Brownlow",
+      "rep_candidate": "Dave Craig",
+      "margin": 69,
+      "margin_pct": 47.53246753246753,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "MUSKEGO - C 0001",
+      "precinct_key": "MUSKEGO - C 0001",
+      "geoids": [
+        "55133006778"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 70,
+      "rep_votes": 192,
+      "other_votes": 0,
+      "total_votes": 262,
+      "dem_candidate": "James Brownlow",
+      "rep_candidate": "Dave Craig",
+      "margin": 122,
+      "margin_pct": 46.476190476190474,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "MUSKEGO - C 0002",
+      "precinct_key": "MUSKEGO - C 0002",
+      "geoids": [
+        "55133006777"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 70,
+      "rep_votes": 192,
+      "other_votes": 0,
+      "total_votes": 262,
+      "dem_candidate": "James Brownlow",
+      "rep_candidate": "Dave Craig",
+      "margin": 122,
+      "margin_pct": 46.476190476190474,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "MUSKEGO - C 0003",
+      "precinct_key": "MUSKEGO - C 0003",
+      "geoids": [
+        "55133006780"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 70,
+      "rep_votes": 192,
+      "other_votes": 0,
+      "total_votes": 262,
+      "dem_candidate": "James Brownlow",
+      "rep_candidate": "Dave Craig",
+      "margin": 122,
+      "margin_pct": 46.476190476190474,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "MUSKEGO - C 0004",
+      "precinct_key": "MUSKEGO - C 0004",
+      "geoids": [
+        "55133006779"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 70,
+      "rep_votes": 192,
+      "other_votes": 0,
+      "total_votes": 262,
+      "dem_candidate": "James Brownlow",
+      "rep_candidate": "Dave Craig",
+      "margin": 122,
+      "margin_pct": 46.476190476190474,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "MUSKEGO - C 0005",
+      "precinct_key": "MUSKEGO - C 0005",
+      "geoids": [
+        "55133006781"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 70,
+      "rep_votes": 192,
+      "other_votes": 0,
+      "total_votes": 262,
+      "dem_candidate": "James Brownlow",
+      "rep_candidate": "Dave Craig",
+      "margin": 122,
+      "margin_pct": 46.476190476190474,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "MUSKEGO - C 0006",
+      "precinct_key": "MUSKEGO - C 0006",
+      "geoids": [
+        "55133006782"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 70,
+      "rep_votes": 192,
+      "other_votes": 0,
+      "total_votes": 262,
+      "dem_candidate": "James Brownlow",
+      "rep_candidate": "Dave Craig",
+      "margin": 122,
+      "margin_pct": 46.476190476190474,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "MUSKEGO - C 0007",
+      "precinct_key": "MUSKEGO - C 0007",
+      "geoids": [
+        "55133006776"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 70,
+      "rep_votes": 192,
+      "other_votes": 0,
+      "total_votes": 262,
+      "dem_candidate": "James Brownlow",
+      "rep_candidate": "Dave Craig",
+      "margin": 122,
+      "margin_pct": 46.476190476190474,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "MUSKEGO - C 0008",
+      "precinct_key": "MUSKEGO - C 0008",
+      "geoids": [
+        "55133006783"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 70,
+      "rep_votes": 192,
+      "other_votes": 0,
+      "total_votes": 262,
+      "dem_candidate": "James Brownlow",
+      "rep_candidate": "Dave Craig",
+      "margin": 122,
+      "margin_pct": 46.476190476190474,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "MUSKEGO - C 0009",
+      "precinct_key": "MUSKEGO - C 0009",
+      "geoids": [
+        "55133006828"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 70,
+      "rep_votes": 192,
+      "other_votes": 0,
+      "total_votes": 262,
+      "dem_candidate": "James Brownlow",
+      "rep_candidate": "Dave Craig",
+      "margin": 122,
+      "margin_pct": 46.476190476190474,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "MUSKEGO - C 0010",
+      "precinct_key": "MUSKEGO - C 0010",
+      "geoids": [
+        "55133006784"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 70,
+      "rep_votes": 192,
+      "other_votes": 0,
+      "total_votes": 262,
+      "dem_candidate": "James Brownlow",
+      "rep_candidate": "Dave Craig",
+      "margin": 122,
+      "margin_pct": 46.476190476190474,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "MUSKEGO - C 0011",
+      "precinct_key": "MUSKEGO - C 0011",
+      "geoids": [
+        "55133006699"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 70,
+      "rep_votes": 192,
+      "other_votes": 0,
+      "total_votes": 262,
+      "dem_candidate": "James Brownlow",
+      "rep_candidate": "Dave Craig",
+      "margin": 122,
+      "margin_pct": 46.476190476190474,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "MUSKEGO - C 0012",
+      "precinct_key": "MUSKEGO - C 0012",
+      "geoids": [
+        "55133006785"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 70,
+      "rep_votes": 192,
+      "other_votes": 0,
+      "total_votes": 262,
+      "dem_candidate": "James Brownlow",
+      "rep_candidate": "Dave Craig",
+      "margin": 122,
+      "margin_pct": 46.476190476190474,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "MUSKEGO - C 0013",
+      "precinct_key": "MUSKEGO - C 0013",
+      "geoids": [
+        "55133006824"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 70,
+      "rep_votes": 192,
+      "other_votes": 0,
+      "total_votes": 262,
+      "dem_candidate": "James Brownlow",
+      "rep_candidate": "Dave Craig",
+      "margin": 122,
+      "margin_pct": 46.476190476190474,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "MUSKEGO - C 0014",
+      "precinct_key": "MUSKEGO - C 0014",
+      "geoids": [
+        "55133006825"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 70,
+      "rep_votes": 192,
+      "other_votes": 0,
+      "total_votes": 262,
+      "dem_candidate": "James Brownlow",
+      "rep_candidate": "Dave Craig",
+      "margin": 122,
+      "margin_pct": 46.476190476190474,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "MUSKEGO - C 0015",
+      "precinct_key": "MUSKEGO - C 0015",
+      "geoids": [
+        "55133006827"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 70,
+      "rep_votes": 192,
+      "other_votes": 0,
+      "total_votes": 262,
+      "dem_candidate": "James Brownlow",
+      "rep_candidate": "Dave Craig",
+      "margin": 122,
+      "margin_pct": 46.476190476190474,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "MUSKEGO - C 0016",
+      "precinct_key": "MUSKEGO - C 0016",
+      "geoids": [
+        "55133006823"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 70,
+      "rep_votes": 192,
+      "other_votes": 0,
+      "total_votes": 262,
+      "dem_candidate": "James Brownlow",
+      "rep_candidate": "Dave Craig",
+      "margin": 122,
+      "margin_pct": 46.476190476190474,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "NEWBURG - V 0001",
+      "precinct_key": "NEWBURG - V 0001",
+      "geoids": [
+        "55131006364"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 6,
+      "rep_votes": 30,
+      "other_votes": 0,
+      "total_votes": 36,
+      "dem_candidate": "Rick Aaron",
+      "rep_candidate": "Duey Stroebel",
+      "margin": 24,
+      "margin_pct": 69.01408450704226,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "NEWBURG - V 0002",
+      "precinct_key": "NEWBURG - V 0002",
+      "geoids": [
+        "55131006378"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 6,
+      "rep_votes": 30,
+      "other_votes": 0,
+      "total_votes": 36,
+      "dem_candidate": "Rick Aaron",
+      "rep_candidate": "Duey Stroebel",
+      "margin": 24,
+      "margin_pct": 69.01408450704226,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "NEWBURG - V 0003",
+      "precinct_key": "NEWBURG - V 0003",
+      "geoids": [
+        "55089004501"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 0,
+      "rep_votes": 8,
+      "other_votes": 0,
+      "total_votes": 8,
+      "dem_candidate": "Rick Aaron",
+      "rep_candidate": "Duey Stroebel",
+      "margin": 8,
+      "margin_pct": 100.0,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "ONALASKA - C 0001",
+      "precinct_key": "ONALASKA - C 0001",
+      "geoids": [
+        "55063002905"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 243,
+      "rep_votes": 230,
+      "other_votes": 0,
+      "total_votes": 473,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": -12,
+      "margin_pct": -2.588483888008452,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#c6dbef"
+      }
+    },
+    {
+      "county": "ONALASKA - C 0002",
+      "precinct_key": "ONALASKA - C 0002",
+      "geoids": [
+        "55063002900"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 243,
+      "rep_votes": 230,
+      "other_votes": 0,
+      "total_votes": 473,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": -12,
+      "margin_pct": -2.588483888008452,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#c6dbef"
+      }
+    },
+    {
+      "county": "ONALASKA - C 0003",
+      "precinct_key": "ONALASKA - C 0003",
+      "geoids": [
+        "55063002903"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 243,
+      "rep_votes": 230,
+      "other_votes": 0,
+      "total_votes": 473,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": -12,
+      "margin_pct": -2.588483888008452,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#c6dbef"
+      }
+    },
+    {
+      "county": "ONALASKA - C 0004",
+      "precinct_key": "ONALASKA - C 0004",
+      "geoids": [
+        "55063002894"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 243,
+      "rep_votes": 230,
+      "other_votes": 0,
+      "total_votes": 473,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": -12,
+      "margin_pct": -2.588483888008452,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#c6dbef"
+      }
+    },
+    {
+      "county": "ONALASKA - C 0005",
+      "precinct_key": "ONALASKA - C 0005",
+      "geoids": [
+        "55063002895"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 161,
+      "rep_votes": 106,
+      "other_votes": 0,
+      "total_votes": 268,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": -55,
+      "margin_pct": -20.634920634920633,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "ONALASKA - C 0006",
+      "precinct_key": "ONALASKA - C 0006",
+      "geoids": [
+        "55063002896"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 161,
+      "rep_votes": 106,
+      "other_votes": 0,
+      "total_votes": 268,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": -55,
+      "margin_pct": -20.634920634920633,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "ONALASKA - C 0007",
+      "precinct_key": "ONALASKA - C 0007",
+      "geoids": [
+        "55063002897"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 161,
+      "rep_votes": 106,
+      "other_votes": 0,
+      "total_votes": 268,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": -55,
+      "margin_pct": -20.634920634920633,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "ONALASKA - C 0008",
+      "precinct_key": "ONALASKA - C 0008",
+      "geoids": [
+        "55063002844"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 161,
+      "rep_votes": 106,
+      "other_votes": 0,
+      "total_votes": 268,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": -55,
+      "margin_pct": -20.634920634920633,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "ONALASKA - C 0009",
+      "precinct_key": "ONALASKA - C 0009",
+      "geoids": [
+        "55063002845"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 187,
+      "rep_votes": 174,
+      "other_votes": 0,
+      "total_votes": 362,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": -13,
+      "margin_pct": -3.59364201796821,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#c6dbef"
+      }
+    },
+    {
+      "county": "ONALASKA - C 0010",
+      "precinct_key": "ONALASKA - C 0010",
+      "geoids": [
+        "55063002843"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 187,
+      "rep_votes": 174,
+      "other_votes": 0,
+      "total_votes": 362,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": -13,
+      "margin_pct": -3.59364201796821,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#c6dbef"
+      }
+    },
+    {
+      "county": "ONALASKA - C 0011",
+      "precinct_key": "ONALASKA - C 0011",
+      "geoids": [
+        "55063002907"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 187,
+      "rep_votes": 174,
+      "other_votes": 0,
+      "total_votes": 362,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": -13,
+      "margin_pct": -3.59364201796821,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#c6dbef"
+      }
+    },
+    {
+      "county": "ONALASKA - C 0012",
+      "precinct_key": "ONALASKA - C 0012",
+      "geoids": [
+        "55063002857"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 187,
+      "rep_votes": 174,
+      "other_votes": 0,
+      "total_votes": 362,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": -13,
+      "margin_pct": -3.59364201796821,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#c6dbef"
+      }
+    },
+    {
+      "county": "ONALASKA - T 0001",
+      "precinct_key": "ONALASKA - T 0001",
+      "geoids": [
+        "55063002910"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 123,
+      "rep_votes": 108,
+      "other_votes": 0,
+      "total_votes": 232,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": -15,
+      "margin_pct": -6.539173349784083,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#6baed6"
+      }
+    },
+    {
+      "county": "ONALASKA - T 0002",
+      "precinct_key": "ONALASKA - T 0002",
+      "geoids": [
+        "55063002906"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 123,
+      "rep_votes": 108,
+      "other_votes": 0,
+      "total_votes": 232,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": -15,
+      "margin_pct": -6.539173349784083,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#6baed6"
+      }
+    },
+    {
+      "county": "ONALASKA - T 0003",
+      "precinct_key": "ONALASKA - T 0003",
+      "geoids": [
+        "55063002901"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 123,
+      "rep_votes": 108,
+      "other_votes": 0,
+      "total_votes": 232,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": -15,
+      "margin_pct": -6.539173349784083,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#6baed6"
+      }
+    },
+    {
+      "county": "ONALASKA - T 0004",
+      "precinct_key": "ONALASKA - T 0004",
+      "geoids": [
+        "55063002899"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 123,
+      "rep_votes": 108,
+      "other_votes": 0,
+      "total_votes": 232,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": -15,
+      "margin_pct": -6.539173349784083,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#6baed6"
+      }
+    },
+    {
+      "county": "ONALASKA - T 0005",
+      "precinct_key": "ONALASKA - T 0005",
+      "geoids": [
+        "55063002887"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 123,
+      "rep_votes": 108,
+      "other_votes": 0,
+      "total_votes": 232,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": -15,
+      "margin_pct": -6.539173349784083,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#6baed6"
+      }
+    },
+    {
+      "county": "ONALASKA - T 0006",
+      "precinct_key": "ONALASKA - T 0006",
+      "geoids": [
+        "55063002878"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 123,
+      "rep_votes": 108,
+      "other_votes": 0,
+      "total_votes": 232,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": -15,
+      "margin_pct": -6.539173349784083,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#6baed6"
+      }
+    },
+    {
+      "county": "ONALASKA - T 0007",
+      "precinct_key": "ONALASKA - T 0007",
+      "geoids": [
+        "55063002885"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 123,
+      "rep_votes": 108,
+      "other_votes": 0,
+      "total_votes": 232,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": -15,
+      "margin_pct": -6.539173349784083,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#6baed6"
+      }
+    },
+    {
+      "county": "PORT WASHINGTON - C 0001",
+      "precinct_key": "PORT WASHINGTON - C 0001",
+      "geoids": [
+        "55089004530"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 65,
+      "rep_votes": 171,
+      "other_votes": 0,
+      "total_votes": 236,
+      "dem_candidate": "Rick Aaron",
+      "rep_candidate": "Duey Stroebel",
+      "margin": 106,
+      "margin_pct": 44.91525423728814,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "PORT WASHINGTON - C 0002",
+      "precinct_key": "PORT WASHINGTON - C 0002",
+      "geoids": [
+        "55089004538"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 38,
+      "rep_votes": 68,
+      "other_votes": 0,
+      "total_votes": 106,
+      "dem_candidate": "Rick Aaron",
+      "rep_candidate": "Duey Stroebel",
+      "margin": 31,
+      "margin_pct": 29.245283018867923,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "PORT WASHINGTON - C 0003",
+      "precinct_key": "PORT WASHINGTON - C 0003",
+      "geoids": [
+        "55089004585"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 38,
+      "rep_votes": 68,
+      "other_votes": 0,
+      "total_votes": 106,
+      "dem_candidate": "Rick Aaron",
+      "rep_candidate": "Duey Stroebel",
+      "margin": 31,
+      "margin_pct": 29.245283018867923,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "PORT WASHINGTON - C 0004",
+      "precinct_key": "PORT WASHINGTON - C 0004",
+      "geoids": [
+        "55089004534"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 24,
+      "rep_votes": 62,
+      "other_votes": 0,
+      "total_votes": 86,
+      "dem_candidate": "Rick Aaron",
+      "rep_candidate": "Duey Stroebel",
+      "margin": 38,
+      "margin_pct": 43.93063583815029,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "PORT WASHINGTON - C 0005",
+      "precinct_key": "PORT WASHINGTON - C 0005",
+      "geoids": [
+        "55089004556"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 24,
+      "rep_votes": 62,
+      "other_votes": 0,
+      "total_votes": 86,
+      "dem_candidate": "Rick Aaron",
+      "rep_candidate": "Duey Stroebel",
+      "margin": 38,
+      "margin_pct": 43.93063583815029,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "PORT WASHINGTON - C 0006",
+      "precinct_key": "PORT WASHINGTON - C 0006",
+      "geoids": [
+        "55089004509"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 43,
+      "rep_votes": 99,
+      "other_votes": 2,
+      "total_votes": 144,
+      "dem_candidate": "Rick Aaron",
+      "rep_candidate": "Duey Stroebel",
+      "margin": 56,
+      "margin_pct": 38.88888888888889,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "PORT WASHINGTON - C 0007",
+      "precinct_key": "PORT WASHINGTON - C 0007",
+      "geoids": [
+        "55089004583"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 107,
+      "rep_votes": 220,
+      "other_votes": 0,
+      "total_votes": 327,
+      "dem_candidate": "Rick Aaron",
+      "rep_candidate": "Duey Stroebel",
+      "margin": 113,
+      "margin_pct": 34.5565749235474,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "PORT WASHINGTON - T 0001",
+      "precinct_key": "PORT WASHINGTON - T 0001",
+      "geoids": [
+        "55089004544"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 21,
+      "rep_votes": 109,
+      "other_votes": 0,
+      "total_votes": 130,
+      "dem_candidate": "Rick Aaron",
+      "rep_candidate": "Duey Stroebel",
+      "margin": 88,
+      "margin_pct": 67.43295019157088,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "PORT WASHINGTON - T 0002",
+      "precinct_key": "PORT WASHINGTON - T 0002",
+      "geoids": [
+        "55089004575"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 21,
+      "rep_votes": 109,
+      "other_votes": 0,
+      "total_votes": 130,
+      "dem_candidate": "Rick Aaron",
+      "rep_candidate": "Duey Stroebel",
+      "margin": 88,
+      "margin_pct": 67.43295019157088,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "PORTLAND - T 0001",
+      "precinct_key": "PORTLAND - T 0001",
+      "geoids": [
+        "55081004128"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 73,
+      "rep_votes": 64,
+      "other_votes": 0,
+      "total_votes": 137,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": -9,
+      "margin_pct": -6.569343065693431,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#6baed6"
+      }
+    },
+    {
+      "county": "ROCKLAND - V 0001",
+      "precinct_key": "ROCKLAND - V 0001",
+      "geoids": [
+        "55063002914"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 54,
+      "rep_votes": 55,
+      "other_votes": 0,
+      "total_votes": 109,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": 1,
+      "margin_pct": 0.9174311926605505,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#fcbba1"
+      }
+    },
+    {
+      "county": "SAUKVILLE - T 0002",
+      "precinct_key": "SAUKVILLE - T 0002",
+      "geoids": [
+        "55089004524"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 19,
+      "rep_votes": 112,
+      "other_votes": 0,
+      "total_votes": 131,
+      "dem_candidate": "Rick Aaron",
+      "rep_candidate": "Duey Stroebel",
+      "margin": 93,
+      "margin_pct": 70.99236641221374,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "SAUKVILLE - T 0003",
+      "precinct_key": "SAUKVILLE - T 0003",
+      "geoids": [
+        "55089004515"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 19,
+      "rep_votes": 112,
+      "other_votes": 0,
+      "total_votes": 131,
+      "dem_candidate": "Rick Aaron",
+      "rep_candidate": "Duey Stroebel",
+      "margin": 93,
+      "margin_pct": 70.99236641221374,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "SAUKVILLE - V 0001",
+      "precinct_key": "SAUKVILLE - V 0001",
+      "geoids": [
+        "55089004537"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 22,
+      "rep_votes": 63,
+      "other_votes": 0,
+      "total_votes": 85,
+      "dem_candidate": "Rick Aaron",
+      "rep_candidate": "Duey Stroebel",
+      "margin": 41,
+      "margin_pct": 48.23529411764706,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "SAUKVILLE - V 0002",
+      "precinct_key": "SAUKVILLE - V 0002",
+      "geoids": [
+        "55089004558"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 14,
+      "rep_votes": 43,
+      "other_votes": 0,
+      "total_votes": 57,
+      "dem_candidate": "Rick Aaron",
+      "rep_candidate": "Duey Stroebel",
+      "margin": 30,
+      "margin_pct": 51.75438596491229,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "SAUKVILLE - V 0003",
+      "precinct_key": "SAUKVILLE - V 0003",
+      "geoids": [
+        "55089004523"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 14,
+      "rep_votes": 43,
+      "other_votes": 0,
+      "total_votes": 57,
+      "dem_candidate": "Rick Aaron",
+      "rep_candidate": "Duey Stroebel",
+      "margin": 30,
+      "margin_pct": 51.75438596491229,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "SAUKVILLE - V 0004",
+      "precinct_key": "SAUKVILLE - V 0004",
+      "geoids": [
+        "55089004572"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 14,
+      "rep_votes": 43,
+      "other_votes": 0,
+      "total_votes": 57,
+      "dem_candidate": "Rick Aaron",
+      "rep_candidate": "Duey Stroebel",
+      "margin": 30,
+      "margin_pct": 51.75438596491229,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "SAUKVILLE - V 0005",
+      "precinct_key": "SAUKVILLE - V 0005",
+      "geoids": [
+        "55089004502"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 14,
+      "rep_votes": 43,
+      "other_votes": 0,
+      "total_votes": 57,
+      "dem_candidate": "Rick Aaron",
+      "rep_candidate": "Duey Stroebel",
+      "margin": 30,
+      "margin_pct": 51.75438596491229,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "SAUKVILLE - V 0006",
+      "precinct_key": "SAUKVILLE - V 0006",
+      "geoids": [
+        "55089004560"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 22,
+      "rep_votes": 63,
+      "other_votes": 0,
+      "total_votes": 85,
+      "dem_candidate": "Rick Aaron",
+      "rep_candidate": "Duey Stroebel",
+      "margin": 41,
+      "margin_pct": 48.23529411764706,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "SAUKVILLE - V 0007",
+      "precinct_key": "SAUKVILLE - V 0007",
+      "geoids": [
+        "55089004517"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 22,
+      "rep_votes": 63,
+      "other_votes": 0,
+      "total_votes": 85,
+      "dem_candidate": "Rick Aaron",
+      "rep_candidate": "Duey Stroebel",
+      "margin": 41,
+      "margin_pct": 48.23529411764706,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "SHELBY - T 0001",
+      "precinct_key": "SHELBY - T 0001",
+      "geoids": [
+        "55063002847"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 107,
+      "rep_votes": 68,
+      "other_votes": 0,
+      "total_votes": 176,
+      "dem_candidate": "Jill E. Billings",
+      "rep_candidate": "David A. Drewes",
+      "margin": -39,
+      "margin_pct": -22.190611664295876,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "SHELBY - T 0002",
+      "precinct_key": "SHELBY - T 0002",
+      "geoids": [
+        "55063002853"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 144,
+      "rep_votes": 128,
+      "other_votes": 1,
+      "total_votes": 274,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": -16,
+      "margin_pct": -6.032906764168191,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#6baed6"
+      }
+    },
+    {
+      "county": "SHELBY - T 0003",
+      "precinct_key": "SHELBY - T 0003",
+      "geoids": [
+        "55063002866"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 144,
+      "rep_votes": 128,
+      "other_votes": 1,
+      "total_votes": 274,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": -16,
+      "margin_pct": -6.032906764168191,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#6baed6"
+      }
+    },
+    {
+      "county": "SHELBY - T 0004",
+      "precinct_key": "SHELBY - T 0004",
+      "geoids": [
+        "55063002855"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 107,
+      "rep_votes": 68,
+      "other_votes": 0,
+      "total_votes": 176,
+      "dem_candidate": "Jill E. Billings",
+      "rep_candidate": "David A. Drewes",
+      "margin": -39,
+      "margin_pct": -22.190611664295876,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "SHELBY - T 0005",
+      "precinct_key": "SHELBY - T 0005",
+      "geoids": [
+        "55063002859"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 107,
+      "rep_votes": 68,
+      "other_votes": 0,
+      "total_votes": 176,
+      "dem_candidate": "Jill E. Billings",
+      "rep_candidate": "David A. Drewes",
+      "margin": -39,
+      "margin_pct": -22.190611664295876,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "SHELBY - T 0006",
+      "precinct_key": "SHELBY - T 0006",
+      "geoids": [
+        "55063002856"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 107,
+      "rep_votes": 68,
+      "other_votes": 0,
+      "total_votes": 176,
+      "dem_candidate": "Jill E. Billings",
+      "rep_candidate": "David A. Drewes",
+      "margin": -39,
+      "margin_pct": -22.190611664295876,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "WASHINGTON - T 0001",
+      "precinct_key": "WASHINGTON - T 0001",
+      "geoids": [
+        "55063002916"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 98,
+      "rep_votes": 77,
+      "other_votes": 0,
+      "total_votes": 175,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": -21,
+      "margin_pct": -12.0,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      }
+    },
+    {
+      "county": "WATERFORD - T 0001",
+      "precinct_key": "WATERFORD - T 0001",
+      "geoids": [
+        "55101005035"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 25,
+      "rep_votes": 91,
+      "other_votes": 0,
+      "total_votes": 116,
+      "dem_candidate": "James Brownlow",
+      "rep_candidate": "Dave Craig",
+      "margin": 67,
+      "margin_pct": 57.500000000000014,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "WATERFORD - T 0002",
+      "precinct_key": "WATERFORD - T 0002",
+      "geoids": [
+        "55101005029"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 25,
+      "rep_votes": 91,
+      "other_votes": 0,
+      "total_votes": 116,
+      "dem_candidate": "James Brownlow",
+      "rep_candidate": "Dave Craig",
+      "margin": 67,
+      "margin_pct": 57.500000000000014,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "WATERFORD - T 0003",
+      "precinct_key": "WATERFORD - T 0003",
+      "geoids": [
+        "55101004986"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 25,
+      "rep_votes": 91,
+      "other_votes": 0,
+      "total_votes": 116,
+      "dem_candidate": "James Brownlow",
+      "rep_candidate": "Dave Craig",
+      "margin": 67,
+      "margin_pct": 57.500000000000014,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "WATERFORD - T 0004",
+      "precinct_key": "WATERFORD - T 0004",
+      "geoids": [
+        "55101004974"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 25,
+      "rep_votes": 91,
+      "other_votes": 0,
+      "total_votes": 116,
+      "dem_candidate": "James Brownlow",
+      "rep_candidate": "Dave Craig",
+      "margin": 67,
+      "margin_pct": 57.500000000000014,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "WATERFORD - T 0005",
+      "precinct_key": "WATERFORD - T 0005",
+      "geoids": [
+        "55101004975"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 25,
+      "rep_votes": 91,
+      "other_votes": 0,
+      "total_votes": 116,
+      "dem_candidate": "James Brownlow",
+      "rep_candidate": "Dave Craig",
+      "margin": 67,
+      "margin_pct": 57.500000000000014,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "WATERFORD - T 0006",
+      "precinct_key": "WATERFORD - T 0006",
+      "geoids": [
+        "55101005038"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 25,
+      "rep_votes": 91,
+      "other_votes": 0,
+      "total_votes": 116,
+      "dem_candidate": "James Brownlow",
+      "rep_candidate": "Dave Craig",
+      "margin": 67,
+      "margin_pct": 57.500000000000014,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "WATERFORD - T 0007",
+      "precinct_key": "WATERFORD - T 0007",
+      "geoids": [
+        "55101005040"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 25,
+      "rep_votes": 91,
+      "other_votes": 0,
+      "total_votes": 116,
+      "dem_candidate": "James Brownlow",
+      "rep_candidate": "Dave Craig",
+      "margin": 67,
+      "margin_pct": 57.500000000000014,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "WATERFORD - T 0008",
+      "precinct_key": "WATERFORD - T 0008",
+      "geoids": [
+        "55101005043"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 25,
+      "rep_votes": 91,
+      "other_votes": 0,
+      "total_votes": 116,
+      "dem_candidate": "James Brownlow",
+      "rep_candidate": "Dave Craig",
+      "margin": 67,
+      "margin_pct": 57.500000000000014,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "WATERFORD - T 0009",
+      "precinct_key": "WATERFORD - T 0009",
+      "geoids": [
+        "55101005044"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 25,
+      "rep_votes": 91,
+      "other_votes": 0,
+      "total_votes": 116,
+      "dem_candidate": "James Brownlow",
+      "rep_candidate": "Dave Craig",
+      "margin": 67,
+      "margin_pct": 57.500000000000014,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "WATERFORD - T 0010",
+      "precinct_key": "WATERFORD - T 0010",
+      "geoids": [
+        "55101005030"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 25,
+      "rep_votes": 91,
+      "other_votes": 0,
+      "total_votes": 116,
+      "dem_candidate": "James Brownlow",
+      "rep_candidate": "Dave Craig",
+      "margin": 67,
+      "margin_pct": 57.500000000000014,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "WATERFORD - V 0001",
+      "precinct_key": "WATERFORD - V 0001",
+      "geoids": [
+        "55101005011"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 37,
+      "rep_votes": 91,
+      "other_votes": 0,
+      "total_votes": 129,
+      "dem_candidate": "James Brownlow",
+      "rep_candidate": "Dave Craig",
+      "margin": 54,
+      "margin_pct": 42.0,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "WATERFORD - V 0002",
+      "precinct_key": "WATERFORD - V 0002",
+      "geoids": [
+        "55101004987"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 37,
+      "rep_votes": 91,
+      "other_votes": 0,
+      "total_votes": 129,
+      "dem_candidate": "James Brownlow",
+      "rep_candidate": "Dave Craig",
+      "margin": 54,
+      "margin_pct": 42.0,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "WATERFORD - V 0003",
+      "precinct_key": "WATERFORD - V 0003",
+      "geoids": [
+        "55101005032"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 37,
+      "rep_votes": 91,
+      "other_votes": 0,
+      "total_votes": 129,
+      "dem_candidate": "James Brownlow",
+      "rep_candidate": "Dave Craig",
+      "margin": 54,
+      "margin_pct": 42.0,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "WATERFORD - V 0004",
+      "precinct_key": "WATERFORD - V 0004",
+      "geoids": [
+        "55101005033"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 37,
+      "rep_votes": 91,
+      "other_votes": 0,
+      "total_votes": 129,
+      "dem_candidate": "James Brownlow",
+      "rep_candidate": "Dave Craig",
+      "margin": 54,
+      "margin_pct": 42.0,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "WATERFORD - V 0005",
+      "precinct_key": "WATERFORD - V 0005",
+      "geoids": [
+        "55101005037"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 37,
+      "rep_votes": 91,
+      "other_votes": 0,
+      "total_votes": 129,
+      "dem_candidate": "James Brownlow",
+      "rep_candidate": "Dave Craig",
+      "margin": 54,
+      "margin_pct": 42.0,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "WATERFORD - V 0006",
+      "precinct_key": "WATERFORD - V 0006",
+      "geoids": [
+        "55101004989"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 37,
+      "rep_votes": 91,
+      "other_votes": 0,
+      "total_votes": 129,
+      "dem_candidate": "James Brownlow",
+      "rep_candidate": "Dave Craig",
+      "margin": 54,
+      "margin_pct": 42.0,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "WATERFORD - V 0007",
+      "precinct_key": "WATERFORD - V 0007",
+      "geoids": [
+        "55101004988"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 37,
+      "rep_votes": 91,
+      "other_votes": 0,
+      "total_votes": 129,
+      "dem_candidate": "James Brownlow",
+      "rep_candidate": "Dave Craig",
+      "margin": 54,
+      "margin_pct": 42.0,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "WEST BEND - C 0034",
+      "precinct_key": "WEST BEND - C 0034",
+      "geoids": [
+        "55131003015"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 0,
+      "rep_votes": 2,
+      "other_votes": 0,
+      "total_votes": 2,
+      "dem_candidate": "Rick Aaron",
+      "rep_candidate": "Duey Stroebel",
+      "margin": 2,
+      "margin_pct": 100.0,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "WEST SALEM - V 0001",
+      "precinct_key": "WEST SALEM - V 0001",
+      "geoids": [
+        "55063002923"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 107,
+      "rep_votes": 100,
+      "other_votes": 0,
+      "total_votes": 208,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": -6,
+      "margin_pct": -3.132530120481928,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#c6dbef"
+      }
+    },
+    {
+      "county": "WEST SALEM - V 0002",
+      "precinct_key": "WEST SALEM - V 0002",
+      "geoids": [
+        "55063002932"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 107,
+      "rep_votes": 100,
+      "other_votes": 0,
+      "total_votes": 208,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": -6,
+      "margin_pct": -3.132530120481928,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#c6dbef"
+      }
+    },
+    {
+      "county": "WEST SALEM - V 0003",
+      "precinct_key": "WEST SALEM - V 0003",
+      "geoids": [
+        "55063002933"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 107,
+      "rep_votes": 100,
+      "other_votes": 0,
+      "total_votes": 208,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": -6,
+      "margin_pct": -3.132530120481928,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#c6dbef"
+      }
+    },
+    {
+      "county": "WEST SALEM - V 0004",
+      "precinct_key": "WEST SALEM - V 0004",
+      "geoids": [
+        "55063002919"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 107,
+      "rep_votes": 100,
+      "other_votes": 0,
+      "total_votes": 208,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": -6,
+      "margin_pct": -3.132530120481928,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#c6dbef"
+      }
+    },
+    {
+      "county": "WEST SALEM - V 0005",
+      "precinct_key": "WEST SALEM - V 0005",
+      "geoids": [
+        "55063002918"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 107,
+      "rep_votes": 100,
+      "other_votes": 0,
+      "total_votes": 208,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": -6,
+      "margin_pct": -3.132530120481928,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#c6dbef"
+      }
+    },
+    {
+      "county": "WEST SALEM - V 0006",
+      "precinct_key": "WEST SALEM - V 0006",
+      "geoids": [
+        "55063002922"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 107,
+      "rep_votes": 100,
+      "other_votes": 0,
+      "total_votes": 208,
+      "dem_candidate": "Steve Doyle",
+      "rep_candidate": "John Lautz",
+      "margin": -6,
+      "margin_pct": -3.132530120481928,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#c6dbef"
+      }
+    }
+  ]
+}

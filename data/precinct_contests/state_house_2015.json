@@ -1,0 +1,1704 @@
+{
+  "rows": [
+    {
+      "county": "CHENEQUA - V 0001",
+      "precinct_key": "CHENEQUA - V 0001",
+      "geoids": [
+        "55133006615"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 0,
+      "rep_votes": 43,
+      "other_votes": 1,
+      "total_votes": 44,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 43,
+      "margin_pct": 97.72727272727273,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "DELAFIELD - C 0001",
+      "precinct_key": "DELAFIELD - C 0001",
+      "geoids": [
+        "55133006642"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 0,
+      "rep_votes": 14,
+      "other_votes": 1,
+      "total_votes": 15,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 14,
+      "margin_pct": 88.01843317972352,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "DELAFIELD - C 0002",
+      "precinct_key": "DELAFIELD - C 0002",
+      "geoids": [
+        "55133006640"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 0,
+      "rep_votes": 14,
+      "other_votes": 1,
+      "total_votes": 15,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 14,
+      "margin_pct": 88.01843317972352,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "DELAFIELD - C 0003",
+      "precinct_key": "DELAFIELD - C 0003",
+      "geoids": [
+        "55133006638"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 0,
+      "rep_votes": 14,
+      "other_votes": 1,
+      "total_votes": 15,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 14,
+      "margin_pct": 88.01843317972352,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "DELAFIELD - C 0004",
+      "precinct_key": "DELAFIELD - C 0004",
+      "geoids": [
+        "55133006633"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 0,
+      "rep_votes": 14,
+      "other_votes": 1,
+      "total_votes": 15,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 14,
+      "margin_pct": 88.01843317972352,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "DELAFIELD - C 0005",
+      "precinct_key": "DELAFIELD - C 0005",
+      "geoids": [
+        "55133006631"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 0,
+      "rep_votes": 14,
+      "other_votes": 1,
+      "total_votes": 15,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 14,
+      "margin_pct": 88.01843317972352,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "DELAFIELD - C 0006",
+      "precinct_key": "DELAFIELD - C 0006",
+      "geoids": [
+        "55133006632"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 0,
+      "rep_votes": 14,
+      "other_votes": 1,
+      "total_votes": 15,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 14,
+      "margin_pct": 88.01843317972352,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "DELAFIELD - C 0007",
+      "precinct_key": "DELAFIELD - C 0007",
+      "geoids": [
+        "55133006634"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 0,
+      "rep_votes": 14,
+      "other_votes": 1,
+      "total_votes": 15,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 14,
+      "margin_pct": 88.01843317972352,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "DELAFIELD - C 0008",
+      "precinct_key": "DELAFIELD - C 0008",
+      "geoids": [
+        "55133006635"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 0,
+      "rep_votes": 14,
+      "other_votes": 1,
+      "total_votes": 15,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 14,
+      "margin_pct": 88.01843317972352,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "DELAFIELD - C 0009",
+      "precinct_key": "DELAFIELD - C 0009",
+      "geoids": [
+        "55133006636"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 0,
+      "rep_votes": 14,
+      "other_votes": 1,
+      "total_votes": 15,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 14,
+      "margin_pct": 88.01843317972352,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "DELAFIELD - C 0010",
+      "precinct_key": "DELAFIELD - C 0010",
+      "geoids": [
+        "55133006637"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 0,
+      "rep_votes": 14,
+      "other_votes": 1,
+      "total_votes": 15,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 14,
+      "margin_pct": 88.01843317972352,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "DELAFIELD - C 0011",
+      "precinct_key": "DELAFIELD - C 0011",
+      "geoids": [
+        "55133006639"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 0,
+      "rep_votes": 14,
+      "other_votes": 1,
+      "total_votes": 15,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 14,
+      "margin_pct": 88.01843317972352,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "DELAFIELD - C 0012",
+      "precinct_key": "DELAFIELD - C 0012",
+      "geoids": [
+        "55133006641"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 0,
+      "rep_votes": 14,
+      "other_votes": 1,
+      "total_votes": 15,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 14,
+      "margin_pct": 88.01843317972352,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "DELAFIELD - C 0013",
+      "precinct_key": "DELAFIELD - C 0013",
+      "geoids": [
+        "55133006561"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 0,
+      "rep_votes": 14,
+      "other_votes": 1,
+      "total_votes": 15,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 14,
+      "margin_pct": 88.01843317972352,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "DELAFIELD - C 0014",
+      "precinct_key": "DELAFIELD - C 0014",
+      "geoids": [
+        "55133006560"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 0,
+      "rep_votes": 14,
+      "other_votes": 1,
+      "total_votes": 15,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 14,
+      "margin_pct": 88.01843317972352,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "DELAFIELD - T 0001",
+      "precinct_key": "DELAFIELD - T 0001",
+      "geoids": [
+        "55133006585"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 0,
+      "rep_votes": 35,
+      "other_votes": 4,
+      "total_votes": 39,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 35,
+      "margin_pct": 89.74358974358975,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "DELAFIELD - T 0002",
+      "precinct_key": "DELAFIELD - T 0002",
+      "geoids": [
+        "55133006592"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 0,
+      "rep_votes": 35,
+      "other_votes": 4,
+      "total_votes": 39,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 35,
+      "margin_pct": 89.74358974358975,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "DELAFIELD - T 0003",
+      "precinct_key": "DELAFIELD - T 0003",
+      "geoids": [
+        "55133006595"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 0,
+      "rep_votes": 47,
+      "other_votes": 2,
+      "total_votes": 50,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 46,
+      "margin_pct": 93.0,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "DELAFIELD - T 0004",
+      "precinct_key": "DELAFIELD - T 0004",
+      "geoids": [
+        "55133006597"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 0,
+      "rep_votes": 47,
+      "other_votes": 2,
+      "total_votes": 50,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 46,
+      "margin_pct": 93.0,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "DELAFIELD - T 0005",
+      "precinct_key": "DELAFIELD - T 0005",
+      "geoids": [
+        "55133006586"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 0,
+      "rep_votes": 35,
+      "other_votes": 4,
+      "total_votes": 39,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 35,
+      "margin_pct": 89.74358974358975,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "DELAFIELD - T 0006",
+      "precinct_key": "DELAFIELD - T 0006",
+      "geoids": [
+        "55133006580"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 0,
+      "rep_votes": 35,
+      "other_votes": 4,
+      "total_votes": 39,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 35,
+      "margin_pct": 89.74358974358975,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "DELAFIELD - T 0007",
+      "precinct_key": "DELAFIELD - T 0007",
+      "geoids": [
+        "55133006576"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 0,
+      "rep_votes": 30,
+      "other_votes": 1,
+      "total_votes": 30,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 30,
+      "margin_pct": 96.72131147540983,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "DELAFIELD - T 0008",
+      "precinct_key": "DELAFIELD - T 0008",
+      "geoids": [
+        "55133006569"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 0,
+      "rep_votes": 30,
+      "other_votes": 1,
+      "total_votes": 30,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 30,
+      "margin_pct": 96.72131147540983,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "DELAFIELD - T 0009",
+      "precinct_key": "DELAFIELD - T 0009",
+      "geoids": [
+        "55133006573"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 0,
+      "rep_votes": 24,
+      "other_votes": 2,
+      "total_votes": 26,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 24,
+      "margin_pct": 91.02564102564102,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "DELAFIELD - T 0010",
+      "precinct_key": "DELAFIELD - T 0010",
+      "geoids": [
+        "55133006570"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 0,
+      "rep_votes": 24,
+      "other_votes": 2,
+      "total_votes": 26,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 24,
+      "margin_pct": 91.02564102564102,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "DELAFIELD - T 0011",
+      "precinct_key": "DELAFIELD - T 0011",
+      "geoids": [
+        "55133006571"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 0,
+      "rep_votes": 24,
+      "other_votes": 2,
+      "total_votes": 26,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 24,
+      "margin_pct": 91.02564102564102,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "DOUSMAN - V 0001",
+      "precinct_key": "DOUSMAN - V 0001",
+      "geoids": [
+        "55133006849"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 1,
+      "rep_votes": 19,
+      "other_votes": 1,
+      "total_votes": 21,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 18,
+      "margin_pct": 84.12698412698413,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "DOUSMAN - V 0002",
+      "precinct_key": "DOUSMAN - V 0002",
+      "geoids": [
+        "55133006670"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 1,
+      "rep_votes": 19,
+      "other_votes": 1,
+      "total_votes": 21,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 18,
+      "margin_pct": 84.12698412698413,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "DOUSMAN - V 0003",
+      "precinct_key": "DOUSMAN - V 0003",
+      "geoids": [
+        "55133006671"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 1,
+      "rep_votes": 19,
+      "other_votes": 1,
+      "total_votes": 21,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 18,
+      "margin_pct": 84.12698412698413,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "GENESEE - T 0001",
+      "precinct_key": "GENESEE - T 0001",
+      "geoids": [
+        "55133006630"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 1,
+      "rep_votes": 15,
+      "other_votes": 0,
+      "total_votes": 15,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 14,
+      "margin_pct": 92.5925925925926,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "GENESEE - T 0002",
+      "precinct_key": "GENESEE - T 0002",
+      "geoids": [
+        "55133006558"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 1,
+      "rep_votes": 15,
+      "other_votes": 0,
+      "total_votes": 15,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 14,
+      "margin_pct": 92.5925925925926,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "GENESEE - T 0003",
+      "precinct_key": "GENESEE - T 0003",
+      "geoids": [
+        "55133006555"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 1,
+      "rep_votes": 15,
+      "other_votes": 0,
+      "total_votes": 15,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 14,
+      "margin_pct": 92.5925925925926,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "GENESEE - T 0004",
+      "precinct_key": "GENESEE - T 0004",
+      "geoids": [
+        "55133006552"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 1,
+      "rep_votes": 15,
+      "other_votes": 0,
+      "total_votes": 15,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 14,
+      "margin_pct": 92.5925925925926,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "GENESEE - T 0005",
+      "precinct_key": "GENESEE - T 0005",
+      "geoids": [
+        "55133006554"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 1,
+      "rep_votes": 15,
+      "other_votes": 0,
+      "total_votes": 15,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 14,
+      "margin_pct": 92.5925925925926,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "GENESEE - T 0009",
+      "precinct_key": "GENESEE - T 0009",
+      "geoids": [
+        "55133006900"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 1,
+      "rep_votes": 15,
+      "other_votes": 0,
+      "total_votes": 15,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 14,
+      "margin_pct": 92.5925925925926,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "GENESEE - T 0010",
+      "precinct_key": "GENESEE - T 0010",
+      "geoids": [
+        "55133006556"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 1,
+      "rep_votes": 15,
+      "other_votes": 0,
+      "total_votes": 15,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 14,
+      "margin_pct": 92.5925925925926,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "HARTLAND - V 0001",
+      "precinct_key": "HARTLAND - V 0001",
+      "geoids": [
+        "55133006607"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 1,
+      "rep_votes": 9,
+      "other_votes": 1,
+      "total_votes": 11,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 8,
+      "margin_pct": 72.85714285714286,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "HARTLAND - V 0002",
+      "precinct_key": "HARTLAND - V 0002",
+      "geoids": [
+        "55133006693"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 1,
+      "rep_votes": 9,
+      "other_votes": 1,
+      "total_votes": 11,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 8,
+      "margin_pct": 72.85714285714286,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "HARTLAND - V 0003",
+      "precinct_key": "HARTLAND - V 0003",
+      "geoids": [
+        "55133006815"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 1,
+      "rep_votes": 9,
+      "other_votes": 1,
+      "total_votes": 11,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 8,
+      "margin_pct": 72.85714285714286,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "HARTLAND - V 0004",
+      "precinct_key": "HARTLAND - V 0004",
+      "geoids": [
+        "55133006692"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 1,
+      "rep_votes": 9,
+      "other_votes": 1,
+      "total_votes": 11,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 8,
+      "margin_pct": 72.85714285714286,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "HARTLAND - V 0005",
+      "precinct_key": "HARTLAND - V 0005",
+      "geoids": [
+        "55133006816"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 1,
+      "rep_votes": 9,
+      "other_votes": 1,
+      "total_votes": 11,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 8,
+      "margin_pct": 72.85714285714286,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "HARTLAND - V 0006",
+      "precinct_key": "HARTLAND - V 0006",
+      "geoids": [
+        "55133006691"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 1,
+      "rep_votes": 9,
+      "other_votes": 1,
+      "total_votes": 11,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 8,
+      "margin_pct": 72.85714285714286,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "HARTLAND - V 0007",
+      "precinct_key": "HARTLAND - V 0007",
+      "geoids": [
+        "55133006606"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 1,
+      "rep_votes": 9,
+      "other_votes": 1,
+      "total_votes": 11,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 8,
+      "margin_pct": 72.85714285714286,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "HARTLAND - V 0008",
+      "precinct_key": "HARTLAND - V 0008",
+      "geoids": [
+        "55133006817"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 1,
+      "rep_votes": 9,
+      "other_votes": 1,
+      "total_votes": 11,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 8,
+      "margin_pct": 72.85714285714286,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "HARTLAND - V 0009",
+      "precinct_key": "HARTLAND - V 0009",
+      "geoids": [
+        "55133006870"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 1,
+      "rep_votes": 9,
+      "other_votes": 1,
+      "total_votes": 11,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 8,
+      "margin_pct": 72.85714285714286,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "HARTLAND - V 0010",
+      "precinct_key": "HARTLAND - V 0010",
+      "geoids": [
+        "55133006666"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 1,
+      "rep_votes": 9,
+      "other_votes": 1,
+      "total_votes": 11,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 8,
+      "margin_pct": 72.85714285714286,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "HARTLAND - V 0011",
+      "precinct_key": "HARTLAND - V 0011",
+      "geoids": [
+        "55133006822"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 1,
+      "rep_votes": 9,
+      "other_votes": 1,
+      "total_votes": 11,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 8,
+      "margin_pct": 72.85714285714286,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "HARTLAND - V 0012",
+      "precinct_key": "HARTLAND - V 0012",
+      "geoids": [
+        "55133006873"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 1,
+      "rep_votes": 9,
+      "other_votes": 1,
+      "total_votes": 11,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 8,
+      "margin_pct": 72.85714285714286,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "HARTLAND - V 0013",
+      "precinct_key": "HARTLAND - V 0013",
+      "geoids": [
+        "55133006872"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 1,
+      "rep_votes": 9,
+      "other_votes": 1,
+      "total_votes": 11,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 8,
+      "margin_pct": 72.85714285714286,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "MERTON - T 0001",
+      "precinct_key": "MERTON - T 0001",
+      "geoids": [
+        "55133006700"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 1,
+      "rep_votes": 15,
+      "other_votes": 0,
+      "total_votes": 16,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 14,
+      "margin_pct": 88.43930635838151,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "MERTON - T 0002",
+      "precinct_key": "MERTON - T 0002",
+      "geoids": [
+        "55133006705"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 1,
+      "rep_votes": 15,
+      "other_votes": 0,
+      "total_votes": 16,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 14,
+      "margin_pct": 88.43930635838151,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "MERTON - T 0003",
+      "precinct_key": "MERTON - T 0003",
+      "geoids": [
+        "55133006602"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 1,
+      "rep_votes": 15,
+      "other_votes": 0,
+      "total_votes": 16,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 14,
+      "margin_pct": 88.43930635838151,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "MERTON - T 0004",
+      "precinct_key": "MERTON - T 0004",
+      "geoids": [
+        "55133006701"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 1,
+      "rep_votes": 15,
+      "other_votes": 0,
+      "total_votes": 16,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 14,
+      "margin_pct": 88.43930635838151,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "MERTON - T 0005",
+      "precinct_key": "MERTON - T 0005",
+      "geoids": [
+        "55133006603"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 1,
+      "rep_votes": 15,
+      "other_votes": 0,
+      "total_votes": 16,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 14,
+      "margin_pct": 88.43930635838151,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "MERTON - T 0006",
+      "precinct_key": "MERTON - T 0006",
+      "geoids": [
+        "55133006647"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 1,
+      "rep_votes": 15,
+      "other_votes": 0,
+      "total_votes": 16,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 14,
+      "margin_pct": 88.43930635838151,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "MERTON - T 0007",
+      "precinct_key": "MERTON - T 0007",
+      "geoids": [
+        "55133006651"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 1,
+      "rep_votes": 15,
+      "other_votes": 0,
+      "total_votes": 16,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 14,
+      "margin_pct": 88.43930635838151,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "MERTON - T 0008",
+      "precinct_key": "MERTON - T 0008",
+      "geoids": [
+        "55133006860"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 1,
+      "rep_votes": 15,
+      "other_votes": 0,
+      "total_votes": 16,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 14,
+      "margin_pct": 88.43930635838151,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "MERTON - T 0009",
+      "precinct_key": "MERTON - T 0009",
+      "geoids": [
+        "55133006871"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 1,
+      "rep_votes": 15,
+      "other_votes": 0,
+      "total_votes": 16,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 14,
+      "margin_pct": 88.43930635838151,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "MERTON - T 0010",
+      "precinct_key": "MERTON - T 0010",
+      "geoids": [
+        "55133006678"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 1,
+      "rep_votes": 15,
+      "other_votes": 0,
+      "total_votes": 16,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 14,
+      "margin_pct": 88.43930635838151,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "MERTON - T 0011",
+      "precinct_key": "MERTON - T 0011",
+      "geoids": [
+        "55133006856"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 1,
+      "rep_votes": 15,
+      "other_votes": 0,
+      "total_votes": 16,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 14,
+      "margin_pct": 88.43930635838151,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "MERTON - V 0001",
+      "precinct_key": "MERTON - V 0001",
+      "geoids": [
+        "55133006813"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 0,
+      "rep_votes": 15,
+      "other_votes": 1,
+      "total_votes": 16,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 14,
+      "margin_pct": 92.06349206349206,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "MERTON - V 0002",
+      "precinct_key": "MERTON - V 0002",
+      "geoids": [
+        "55133006721"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 0,
+      "rep_votes": 15,
+      "other_votes": 1,
+      "total_votes": 16,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 14,
+      "margin_pct": 92.06349206349206,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "MERTON - V 0003",
+      "precinct_key": "MERTON - V 0003",
+      "geoids": [
+        "55133006704"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 0,
+      "rep_votes": 15,
+      "other_votes": 1,
+      "total_votes": 16,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 14,
+      "margin_pct": 92.06349206349206,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "MERTON - V 0004",
+      "precinct_key": "MERTON - V 0004",
+      "geoids": [
+        "55133006814"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 0,
+      "rep_votes": 15,
+      "other_votes": 1,
+      "total_votes": 16,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 14,
+      "margin_pct": 92.06349206349206,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "NASHOTAH - V 0001",
+      "precinct_key": "NASHOTAH - V 0001",
+      "geoids": [
+        "55133006605"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 1,
+      "rep_votes": 7,
+      "other_votes": 2,
+      "total_votes": 9,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 6,
+      "margin_pct": 67.85714285714285,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "NASHOTAH - V 0002",
+      "precinct_key": "NASHOTAH - V 0002",
+      "geoids": [
+        "55133006646"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 1,
+      "rep_votes": 7,
+      "other_votes": 2,
+      "total_votes": 9,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 6,
+      "margin_pct": 67.85714285714285,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "NASHOTAH - V 0003",
+      "precinct_key": "NASHOTAH - V 0003",
+      "geoids": [
+        "55133008073"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 1,
+      "rep_votes": 7,
+      "other_votes": 2,
+      "total_votes": 9,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 6,
+      "margin_pct": 67.85714285714285,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "NORTH PRAIRIE - V 0001",
+      "precinct_key": "NORTH PRAIRIE - V 0001",
+      "geoids": [
+        "55133006549"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 1,
+      "rep_votes": 16,
+      "other_votes": 0,
+      "total_votes": 17,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 15,
+      "margin_pct": 88.23529411764706,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "NORTH PRAIRIE - V 0002",
+      "precinct_key": "NORTH PRAIRIE - V 0002",
+      "geoids": [
+        "55133006550"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 1,
+      "rep_votes": 16,
+      "other_votes": 0,
+      "total_votes": 17,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 15,
+      "margin_pct": 88.23529411764706,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "NORTH PRAIRIE - V 0003",
+      "precinct_key": "NORTH PRAIRIE - V 0003",
+      "geoids": [
+        "55133006536"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 1,
+      "rep_votes": 16,
+      "other_votes": 0,
+      "total_votes": 17,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 15,
+      "margin_pct": 88.23529411764706,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "OCONOMOWOC - T 0010",
+      "precinct_key": "OCONOMOWOC - T 0010",
+      "geoids": [
+        "55133006841"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 0,
+      "rep_votes": 0,
+      "other_votes": 0,
+      "total_votes": 0,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 0,
+      "margin_pct": 0.0,
+      "winner": "TIE",
+      "competitiveness": {
+        "color": "#9ca3af"
+      }
+    },
+    {
+      "county": "OCONOMOWOC LAKE - V 0001",
+      "precinct_key": "OCONOMOWOC LAKE - V 0001",
+      "geoids": [
+        "55133006599"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 0,
+      "rep_votes": 26,
+      "other_votes": 1,
+      "total_votes": 27,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 26,
+      "margin_pct": 96.29629629629629,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "OTTAWA - T 0001",
+      "precinct_key": "OTTAWA - T 0001",
+      "geoids": [
+        "55133006706"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 2,
+      "rep_votes": 19,
+      "other_votes": 0,
+      "total_votes": 21,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 17,
+      "margin_pct": 81.13207547169812,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "OTTAWA - T 0002",
+      "precinct_key": "OTTAWA - T 0002",
+      "geoids": [
+        "55133006614"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 2,
+      "rep_votes": 19,
+      "other_votes": 0,
+      "total_votes": 21,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 17,
+      "margin_pct": 81.13207547169812,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "OTTAWA - T 0003",
+      "precinct_key": "OTTAWA - T 0003",
+      "geoids": [
+        "55133006667"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 2,
+      "rep_votes": 19,
+      "other_votes": 0,
+      "total_votes": 21,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 17,
+      "margin_pct": 81.13207547169812,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "OTTAWA - T 0004",
+      "precinct_key": "OTTAWA - T 0004",
+      "geoids": [
+        "55133006848"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 2,
+      "rep_votes": 19,
+      "other_votes": 0,
+      "total_votes": 21,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 17,
+      "margin_pct": 81.13207547169812,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "OTTAWA - T 0005",
+      "precinct_key": "OTTAWA - T 0005",
+      "geoids": [
+        "55133006648"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 2,
+      "rep_votes": 19,
+      "other_votes": 0,
+      "total_votes": 21,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 17,
+      "margin_pct": 81.13207547169812,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "SUMMIT - V 0002",
+      "precinct_key": "SUMMIT - V 0002",
+      "geoids": [
+        "55133006845"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 0,
+      "rep_votes": 16,
+      "other_votes": 0,
+      "total_votes": 16,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 15,
+      "margin_pct": 93.84615384615384,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "SUMMIT - V 0003",
+      "precinct_key": "SUMMIT - V 0003",
+      "geoids": [
+        "55133006547"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 0,
+      "rep_votes": 16,
+      "other_votes": 0,
+      "total_votes": 16,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 15,
+      "margin_pct": 93.84615384615384,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "SUMMIT - V 0004",
+      "precinct_key": "SUMMIT - V 0004",
+      "geoids": [
+        "55133006546"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 0,
+      "rep_votes": 16,
+      "other_votes": 0,
+      "total_votes": 16,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 15,
+      "margin_pct": 93.84615384615384,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "SUMMIT - V 0005",
+      "precinct_key": "SUMMIT - V 0005",
+      "geoids": [
+        "55133006668"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 0,
+      "rep_votes": 16,
+      "other_votes": 0,
+      "total_votes": 16,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 15,
+      "margin_pct": 93.84615384615384,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "WALES - V 0001",
+      "precinct_key": "WALES - V 0001",
+      "geoids": [
+        "55133006559"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 2,
+      "rep_votes": 22,
+      "other_votes": 2,
+      "total_votes": 26,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 20,
+      "margin_pct": 74.52830188679245,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "WALES - V 0002",
+      "precinct_key": "WALES - V 0002",
+      "geoids": [
+        "55133006884"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 2,
+      "rep_votes": 22,
+      "other_votes": 2,
+      "total_votes": 26,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 20,
+      "margin_pct": 74.52830188679245,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "WALES - V 0003",
+      "precinct_key": "WALES - V 0003",
+      "geoids": [
+        "55133006557"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 2,
+      "rep_votes": 22,
+      "other_votes": 2,
+      "total_votes": 26,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 20,
+      "margin_pct": 74.52830188679245,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "WALES - V 0004",
+      "precinct_key": "WALES - V 0004",
+      "geoids": [
+        "55133006899"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 2,
+      "rep_votes": 22,
+      "other_votes": 2,
+      "total_votes": 26,
+      "dem_candidate": "Thomas D. Hibbard (Write-In)",
+      "rep_candidate": "Cindi Duchow",
+      "margin": 20,
+      "margin_pct": 74.52830188679245,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    }
+  ]
+}
