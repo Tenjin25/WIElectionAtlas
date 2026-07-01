@@ -1,7 +1,7 @@
 {
   "files": [
     {
-      "contest_type": "presidential",
+      "contest_type": "president",
       "year": 2000,
       "election_type": "general",
       "file": "presidential_2000.json",
@@ -85,7 +85,7 @@
       "rows": 5064
     },
     {
-      "contest_type": "presidential",
+      "contest_type": "president",
       "year": 2004,
       "election_type": "general",
       "file": "presidential_2004.json",
@@ -183,7 +183,7 @@
       "rows": 5244
     },
     {
-      "contest_type": "presidential",
+      "contest_type": "president",
       "year": 2008,
       "election_type": "general",
       "file": "presidential_2008.json",
@@ -323,7 +323,7 @@
       "rows": 6143
     },
     {
-      "contest_type": "presidential",
+      "contest_type": "president",
       "year": 2012,
       "election_type": "general",
       "file": "presidential_2012.json",
@@ -449,7 +449,7 @@
       "rows": 6212
     },
     {
-      "contest_type": "presidential",
+      "contest_type": "president",
       "year": 2016,
       "election_type": "general",
       "file": "presidential_2016.json",
@@ -582,7 +582,7 @@
       "rows": 6584
     },
     {
-      "contest_type": "presidential",
+      "contest_type": "president",
       "year": 2020,
       "election_type": "general",
       "file": "presidential_2020.json",
@@ -708,7 +708,7 @@
       "rows": 6113
     },
     {
-      "contest_type": "presidential",
+      "contest_type": "president",
       "year": 2024,
       "election_type": "general",
       "file": "presidential_2024.json",
