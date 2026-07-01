@@ -1,0 +1,4944 @@
+{
+  "rows": [
+    {
+      "county": "ASHIPPUN - T 0001",
+      "precinct_key": "ASHIPPUN - T 0001",
+      "geoids": [
+        "55027001459"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 38,
+      "rep_votes": 115,
+      "other_votes": 12,
+      "total_votes": 164,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 78,
+      "margin_pct": 47.336377473363775,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "ASHIPPUN - T 0002",
+      "precinct_key": "ASHIPPUN - T 0002",
+      "geoids": [
+        "55027001460"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 38,
+      "rep_votes": 115,
+      "other_votes": 12,
+      "total_votes": 164,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 78,
+      "margin_pct": 47.336377473363775,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "ASHIPPUN - T 0003",
+      "precinct_key": "ASHIPPUN - T 0003",
+      "geoids": [
+        "55027001461"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 38,
+      "rep_votes": 115,
+      "other_votes": 12,
+      "total_votes": 164,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 78,
+      "margin_pct": 47.336377473363775,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "ASHIPPUN - T 0004",
+      "precinct_key": "ASHIPPUN - T 0004",
+      "geoids": [
+        "55027001462"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 38,
+      "rep_votes": 115,
+      "other_votes": 12,
+      "total_votes": 164,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 78,
+      "margin_pct": 47.336377473363775,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "AZTALAN - T 0001",
+      "precinct_key": "AZTALAN - T 0001",
+      "geoids": [
+        "55055002520"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 90,
+      "rep_votes": 116,
+      "other_votes": 10,
+      "total_votes": 216,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 26,
+      "margin_pct": 12.037037037037036,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#cb181d"
+      }
+    },
+    {
+      "county": "AZTALAN - T 0002",
+      "precinct_key": "AZTALAN - T 0002",
+      "geoids": [
+        "55055002501"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 90,
+      "rep_votes": 116,
+      "other_votes": 10,
+      "total_votes": 216,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 26,
+      "margin_pct": 12.037037037037036,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#cb181d"
+      }
+    },
+    {
+      "county": "BEAVER DAM - C 0001",
+      "precinct_key": "BEAVER DAM - C 0001",
+      "geoids": [
+        "55027001463"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 93,
+      "rep_votes": 61,
+      "other_votes": 5,
+      "total_votes": 160,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -32,
+      "margin_pct": -19.999999999999996,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      }
+    },
+    {
+      "county": "BEAVER DAM - C 0002",
+      "precinct_key": "BEAVER DAM - C 0002",
+      "geoids": [
+        "55027001464"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 78,
+      "rep_votes": 66,
+      "other_votes": 4,
+      "total_votes": 148,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -11,
+      "margin_pct": -7.4074074074074066,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#6baed6"
+      }
+    },
+    {
+      "county": "BEAVER DAM - C 0003",
+      "precinct_key": "BEAVER DAM - C 0003",
+      "geoids": [
+        "55027001465"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 93,
+      "rep_votes": 61,
+      "other_votes": 5,
+      "total_votes": 160,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -32,
+      "margin_pct": -19.999999999999996,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      }
+    },
+    {
+      "county": "BEAVER DAM - C 0004",
+      "precinct_key": "BEAVER DAM - C 0004",
+      "geoids": [
+        "55027001594"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 85,
+      "rep_votes": 47,
+      "other_votes": 6,
+      "total_votes": 138,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -38,
+      "margin_pct": -27.76769509981851,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "BEAVER DAM - C 0005",
+      "precinct_key": "BEAVER DAM - C 0005",
+      "geoids": [
+        "55027001466"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 93,
+      "rep_votes": 61,
+      "other_votes": 5,
+      "total_votes": 160,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -32,
+      "margin_pct": -19.999999999999996,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      }
+    },
+    {
+      "county": "BEAVER DAM - C 0006",
+      "precinct_key": "BEAVER DAM - C 0006",
+      "geoids": [
+        "55027001467"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 78,
+      "rep_votes": 66,
+      "other_votes": 4,
+      "total_votes": 148,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -11,
+      "margin_pct": -7.4074074074074066,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#6baed6"
+      }
+    },
+    {
+      "county": "BEAVER DAM - C 0007",
+      "precinct_key": "BEAVER DAM - C 0007",
+      "geoids": [
+        "55027001468"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 85,
+      "rep_votes": 57,
+      "other_votes": 5,
+      "total_votes": 147,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -28,
+      "margin_pct": -18.863636363636356,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      }
+    },
+    {
+      "county": "BEAVER DAM - C 0008",
+      "precinct_key": "BEAVER DAM - C 0008",
+      "geoids": [
+        "55027001469"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 85,
+      "rep_votes": 47,
+      "other_votes": 6,
+      "total_votes": 138,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -38,
+      "margin_pct": -27.76769509981851,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "BEAVER DAM - C 0009",
+      "precinct_key": "BEAVER DAM - C 0009",
+      "geoids": [
+        "55027001470"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 149,
+      "rep_votes": 92,
+      "other_votes": 6,
+      "total_votes": 246,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -57,
+      "margin_pct": -23.123732251521297,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "BEAVER DAM - C 0010",
+      "precinct_key": "BEAVER DAM - C 0010",
+      "geoids": [
+        "55027001471"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 85,
+      "rep_votes": 47,
+      "other_votes": 6,
+      "total_votes": 138,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -38,
+      "margin_pct": -27.76769509981851,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "BEAVER DAM - C 0011",
+      "precinct_key": "BEAVER DAM - C 0011",
+      "geoids": [
+        "55027001472"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 149,
+      "rep_votes": 92,
+      "other_votes": 6,
+      "total_votes": 246,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -57,
+      "margin_pct": -23.123732251521297,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "BEAVER DAM - C 0012",
+      "precinct_key": "BEAVER DAM - C 0012",
+      "geoids": [
+        "55027001473"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 85,
+      "rep_votes": 57,
+      "other_votes": 5,
+      "total_votes": 147,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -28,
+      "margin_pct": -18.863636363636356,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      }
+    },
+    {
+      "county": "BEAVER DAM - C 0013",
+      "precinct_key": "BEAVER DAM - C 0013",
+      "geoids": [
+        "55027001474"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 85,
+      "rep_votes": 57,
+      "other_votes": 5,
+      "total_votes": 147,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -28,
+      "margin_pct": -18.863636363636356,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      }
+    },
+    {
+      "county": "BEAVER DAM - C 0014",
+      "precinct_key": "BEAVER DAM - C 0014",
+      "geoids": [
+        "55027001475"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 85,
+      "rep_votes": 47,
+      "other_votes": 6,
+      "total_votes": 138,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -38,
+      "margin_pct": -27.76769509981851,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "BEAVER DAM - T 0001",
+      "precinct_key": "BEAVER DAM - T 0001",
+      "geoids": [
+        "55027001476"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 36,
+      "rep_votes": 32,
+      "other_votes": 4,
+      "total_votes": 72,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -4,
+      "margin_pct": -5.7788944723618165,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#6baed6"
+      }
+    },
+    {
+      "county": "BEAVER DAM - T 0002",
+      "precinct_key": "BEAVER DAM - T 0002",
+      "geoids": [
+        "55027001477"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 36,
+      "rep_votes": 32,
+      "other_votes": 4,
+      "total_votes": 72,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -4,
+      "margin_pct": -5.7788944723618165,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#6baed6"
+      }
+    },
+    {
+      "county": "BEAVER DAM - T 0003",
+      "precinct_key": "BEAVER DAM - T 0003",
+      "geoids": [
+        "55027001478"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 36,
+      "rep_votes": 32,
+      "other_votes": 4,
+      "total_votes": 72,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -4,
+      "margin_pct": -5.7788944723618165,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#6baed6"
+      }
+    },
+    {
+      "county": "BEAVER DAM - T 0004",
+      "precinct_key": "BEAVER DAM - T 0004",
+      "geoids": [
+        "55027001479"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 36,
+      "rep_votes": 32,
+      "other_votes": 4,
+      "total_votes": 72,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -4,
+      "margin_pct": -5.7788944723618165,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#6baed6"
+      }
+    },
+    {
+      "county": "BEAVER DAM - T 0005",
+      "precinct_key": "BEAVER DAM - T 0005",
+      "geoids": [
+        "55027001480"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 36,
+      "rep_votes": 32,
+      "other_votes": 4,
+      "total_votes": 72,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -4,
+      "margin_pct": -5.7788944723618165,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#6baed6"
+      }
+    },
+    {
+      "county": "BEAVER DAM - T 0006",
+      "precinct_key": "BEAVER DAM - T 0006",
+      "geoids": [
+        "55027001481"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 36,
+      "rep_votes": 32,
+      "other_votes": 4,
+      "total_votes": 72,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -4,
+      "margin_pct": -5.7788944723618165,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#6baed6"
+      }
+    },
+    {
+      "county": "BEAVER DAM - T 0007",
+      "precinct_key": "BEAVER DAM - T 0007",
+      "geoids": [
+        "55027001482"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 36,
+      "rep_votes": 32,
+      "other_votes": 4,
+      "total_votes": 72,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -4,
+      "margin_pct": -5.7788944723618165,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#6baed6"
+      }
+    },
+    {
+      "county": "BEAVER DAM - T 0008",
+      "precinct_key": "BEAVER DAM - T 0008",
+      "geoids": [
+        "55027001483"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 36,
+      "rep_votes": 32,
+      "other_votes": 4,
+      "total_votes": 72,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -4,
+      "margin_pct": -5.7788944723618165,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#6baed6"
+      }
+    },
+    {
+      "county": "BEAVER DAM - T 0009",
+      "precinct_key": "BEAVER DAM - T 0009",
+      "geoids": [
+        "55027001484"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 36,
+      "rep_votes": 32,
+      "other_votes": 4,
+      "total_votes": 72,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -4,
+      "margin_pct": -5.7788944723618165,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#6baed6"
+      }
+    },
+    {
+      "county": "BEAVER DAM - T 0010",
+      "precinct_key": "BEAVER DAM - T 0010",
+      "geoids": [
+        "55027001485"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 36,
+      "rep_votes": 32,
+      "other_votes": 4,
+      "total_votes": 72,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -4,
+      "margin_pct": -5.7788944723618165,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#6baed6"
+      }
+    },
+    {
+      "county": "BEAVER DAM - T 0011",
+      "precinct_key": "BEAVER DAM - T 0011",
+      "geoids": [
+        "55027001486"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 36,
+      "rep_votes": 32,
+      "other_votes": 4,
+      "total_votes": 72,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -4,
+      "margin_pct": -5.7788944723618165,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#6baed6"
+      }
+    },
+    {
+      "county": "BRISTOL - T 0001",
+      "precinct_key": "BRISTOL - T 0001",
+      "geoids": [
+        "55025000878"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 138,
+      "rep_votes": 106,
+      "other_votes": 15,
+      "total_votes": 259,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -32,
+      "margin_pct": -12.343297974927676,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      }
+    },
+    {
+      "county": "BRISTOL - T 0002",
+      "precinct_key": "BRISTOL - T 0002",
+      "geoids": [
+        "55025000879"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 138,
+      "rep_votes": 106,
+      "other_votes": 15,
+      "total_votes": 259,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -32,
+      "margin_pct": -12.343297974927676,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      }
+    },
+    {
+      "county": "BRISTOL - T 0003",
+      "precinct_key": "BRISTOL - T 0003",
+      "geoids": [
+        "55025000880"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 138,
+      "rep_votes": 106,
+      "other_votes": 15,
+      "total_votes": 259,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -32,
+      "margin_pct": -12.343297974927676,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      }
+    },
+    {
+      "county": "BRISTOL - T 0004",
+      "precinct_key": "BRISTOL - T 0004",
+      "geoids": [
+        "55025000881"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 138,
+      "rep_votes": 106,
+      "other_votes": 15,
+      "total_votes": 259,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -32,
+      "margin_pct": -12.343297974927676,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      }
+    },
+    {
+      "county": "BROWNSVILLE - V 0001",
+      "precinct_key": "BROWNSVILLE - V 0001",
+      "geoids": [
+        "55027001487"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 41,
+      "rep_votes": 87,
+      "other_votes": 14,
+      "total_votes": 142,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 46,
+      "margin_pct": 32.3943661971831,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "CAMBRIDGE - V 0001",
+      "precinct_key": "CAMBRIDGE - V 0001",
+      "geoids": [
+        "55055002500"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 20,
+      "rep_votes": 6,
+      "other_votes": 2,
+      "total_votes": 28,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -14,
+      "margin_pct": -50.0,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "CAMBRIDGE - V 0002",
+      "precinct_key": "CAMBRIDGE - V 0002",
+      "geoids": [
+        "55025000898"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 182,
+      "rep_votes": 74,
+      "other_votes": 16,
+      "total_votes": 272,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -108,
+      "margin_pct": -39.88970588235294,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "CAMBRIDGE - V 0003",
+      "precinct_key": "CAMBRIDGE - V 0003",
+      "geoids": [
+        "55025000896"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 182,
+      "rep_votes": 74,
+      "other_votes": 16,
+      "total_votes": 272,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -108,
+      "margin_pct": -39.88970588235294,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "CHRISTIANA - T 0001",
+      "precinct_key": "CHRISTIANA - T 0001",
+      "geoids": [
+        "55025000903"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 108,
+      "rep_votes": 86,
+      "other_votes": 15,
+      "total_votes": 210,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -22,
+      "margin_pct": -10.476190476190476,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      }
+    },
+    {
+      "county": "CHRISTIANA - T 0002",
+      "precinct_key": "CHRISTIANA - T 0002",
+      "geoids": [
+        "55025000902"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 108,
+      "rep_votes": 86,
+      "other_votes": 15,
+      "total_votes": 210,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -22,
+      "margin_pct": -10.476190476190476,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      }
+    },
+    {
+      "county": "CLYMAN - T 0001",
+      "precinct_key": "CLYMAN - T 0001",
+      "geoids": [
+        "55027001493"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 45,
+      "rep_votes": 128,
+      "other_votes": 14,
+      "total_votes": 187,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 83,
+      "margin_pct": 44.38502673796791,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "CLYMAN - V 0001",
+      "precinct_key": "CLYMAN - V 0001",
+      "geoids": [
+        "55027001492"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 18,
+      "rep_votes": 33,
+      "other_votes": 4,
+      "total_votes": 55,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 15,
+      "margin_pct": 27.27272727272727,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "COLUMBUS - C 0001",
+      "precinct_key": "COLUMBUS - C 0001",
+      "geoids": [
+        "55021000767"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 88,
+      "rep_votes": 58,
+      "other_votes": 6,
+      "total_votes": 151,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -30,
+      "margin_pct": -20.08264462809917,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "COLUMBUS - C 0002",
+      "precinct_key": "COLUMBUS - C 0002",
+      "geoids": [
+        "55021000766"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 88,
+      "rep_votes": 58,
+      "other_votes": 6,
+      "total_votes": 151,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -30,
+      "margin_pct": -20.08264462809917,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "COLUMBUS - C 0003",
+      "precinct_key": "COLUMBUS - C 0003",
+      "geoids": [
+        "55021000765"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 88,
+      "rep_votes": 58,
+      "other_votes": 6,
+      "total_votes": 151,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -30,
+      "margin_pct": -20.08264462809917,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "COLUMBUS - C 0004",
+      "precinct_key": "COLUMBUS - C 0004",
+      "geoids": [
+        "55021000776"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 88,
+      "rep_votes": 58,
+      "other_votes": 6,
+      "total_votes": 151,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -30,
+      "margin_pct": -20.08264462809917,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "COLUMBUS - C 0005",
+      "precinct_key": "COLUMBUS - C 0005",
+      "geoids": [
+        "55021000769"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 88,
+      "rep_votes": 58,
+      "other_votes": 6,
+      "total_votes": 151,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -30,
+      "margin_pct": -20.08264462809917,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "COLUMBUS - C 0006",
+      "precinct_key": "COLUMBUS - C 0006",
+      "geoids": [
+        "55021000770"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 88,
+      "rep_votes": 58,
+      "other_votes": 6,
+      "total_votes": 151,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -30,
+      "margin_pct": -20.08264462809917,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "COLUMBUS - C 0007",
+      "precinct_key": "COLUMBUS - C 0007",
+      "geoids": [
+        "55021000764"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 88,
+      "rep_votes": 58,
+      "other_votes": 6,
+      "total_votes": 151,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -30,
+      "margin_pct": -20.08264462809917,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "COLUMBUS - C 0008",
+      "precinct_key": "COLUMBUS - C 0008",
+      "geoids": [
+        "55021000781"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 88,
+      "rep_votes": 58,
+      "other_votes": 6,
+      "total_votes": 151,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -30,
+      "margin_pct": -20.08264462809917,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "COLUMBUS - C 0009",
+      "precinct_key": "COLUMBUS - C 0009",
+      "geoids": [
+        "55027001494"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 0,
+      "rep_votes": 0,
+      "other_votes": 0,
+      "total_votes": 0,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 0,
+      "margin_pct": 0.0,
+      "winner": "TIE",
+      "competitiveness": {
+        "color": "#9ca3af"
+      }
+    },
+    {
+      "county": "CONCORD - T 0001",
+      "precinct_key": "CONCORD - T 0001",
+      "geoids": [
+        "55055002510"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 54,
+      "rep_votes": 101,
+      "other_votes": 13,
+      "total_votes": 168,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 46,
+      "margin_pct": 27.634194831013914,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "CONCORD - T 0002",
+      "precinct_key": "CONCORD - T 0002",
+      "geoids": [
+        "55055002509"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 54,
+      "rep_votes": 101,
+      "other_votes": 13,
+      "total_votes": 168,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 46,
+      "margin_pct": 27.634194831013914,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "CONCORD - T 0003",
+      "precinct_key": "CONCORD - T 0003",
+      "geoids": [
+        "55055002483"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 54,
+      "rep_votes": 101,
+      "other_votes": 13,
+      "total_votes": 168,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 46,
+      "margin_pct": 27.634194831013914,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "DEERFIELD - T 0001",
+      "precinct_key": "DEERFIELD - T 0001",
+      "geoids": [
+        "55025000945"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 130,
+      "rep_votes": 60,
+      "other_votes": 8,
+      "total_votes": 199,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -70,
+      "margin_pct": -34.92462311557789,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "DEERFIELD - T 0002",
+      "precinct_key": "DEERFIELD - T 0002",
+      "geoids": [
+        "55025000944"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 130,
+      "rep_votes": 60,
+      "other_votes": 8,
+      "total_votes": 199,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -70,
+      "margin_pct": -34.92462311557789,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "DEERFIELD - V 0001",
+      "precinct_key": "DEERFIELD - V 0001",
+      "geoids": [
+        "55025000942"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 113,
+      "rep_votes": 46,
+      "other_votes": 7,
+      "total_votes": 166,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -67,
+      "margin_pct": -40.36144578313253,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "DEERFIELD - V 0002",
+      "precinct_key": "DEERFIELD - V 0002",
+      "geoids": [
+        "55025000941"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 113,
+      "rep_votes": 46,
+      "other_votes": 7,
+      "total_votes": 166,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -67,
+      "margin_pct": -40.36144578313253,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "DEERFIELD - V 0003",
+      "precinct_key": "DEERFIELD - V 0003",
+      "geoids": [
+        "55025000943"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 113,
+      "rep_votes": 46,
+      "other_votes": 7,
+      "total_votes": 166,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -67,
+      "margin_pct": -40.36144578313253,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "DEFOREST - V 0001",
+      "precinct_key": "DEFOREST - V 0001",
+      "geoids": [
+        "55025000960"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 120,
+      "rep_votes": 56,
+      "other_votes": 8,
+      "total_votes": 184,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -64,
+      "margin_pct": -34.69573115349682,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "DEFOREST - V 0003",
+      "precinct_key": "DEFOREST - V 0003",
+      "geoids": [
+        "55025000964"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 120,
+      "rep_votes": 56,
+      "other_votes": 8,
+      "total_votes": 184,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -64,
+      "margin_pct": -34.69573115349682,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "DEFOREST - V 0004",
+      "precinct_key": "DEFOREST - V 0004",
+      "geoids": [
+        "55025000965"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 120,
+      "rep_votes": 56,
+      "other_votes": 8,
+      "total_votes": 184,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -64,
+      "margin_pct": -34.69573115349682,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "DEFOREST - V 0005",
+      "precinct_key": "DEFOREST - V 0005",
+      "geoids": [
+        "55025000962"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 120,
+      "rep_votes": 56,
+      "other_votes": 8,
+      "total_votes": 184,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -64,
+      "margin_pct": -34.69573115349682,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "DEFOREST - V 0006",
+      "precinct_key": "DEFOREST - V 0006",
+      "geoids": [
+        "55025000961"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 120,
+      "rep_votes": 56,
+      "other_votes": 8,
+      "total_votes": 184,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -64,
+      "margin_pct": -34.69573115349682,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "DEFOREST - V 0007",
+      "precinct_key": "DEFOREST - V 0007",
+      "geoids": [
+        "55025000951"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 98,
+      "rep_votes": 42,
+      "other_votes": 5,
+      "total_votes": 145,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -56,
+      "margin_pct": -38.758620689655174,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "DEFOREST - V 0008",
+      "precinct_key": "DEFOREST - V 0008",
+      "geoids": [
+        "55025000950"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 98,
+      "rep_votes": 42,
+      "other_votes": 5,
+      "total_votes": 145,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -56,
+      "margin_pct": -38.758620689655174,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "DEFOREST - V 0009",
+      "precinct_key": "DEFOREST - V 0009",
+      "geoids": [
+        "55025000952"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 98,
+      "rep_votes": 42,
+      "other_votes": 5,
+      "total_votes": 145,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -56,
+      "margin_pct": -38.758620689655174,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "DEFOREST - V 0010",
+      "precinct_key": "DEFOREST - V 0010",
+      "geoids": [
+        "55025000953"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 98,
+      "rep_votes": 42,
+      "other_votes": 5,
+      "total_votes": 145,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -56,
+      "margin_pct": -38.758620689655174,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "DEFOREST - V 0012",
+      "precinct_key": "DEFOREST - V 0012",
+      "geoids": [
+        "55025000948"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 98,
+      "rep_votes": 42,
+      "other_votes": 5,
+      "total_votes": 145,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -56,
+      "margin_pct": -38.758620689655174,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "DEFOREST - V 0015",
+      "precinct_key": "DEFOREST - V 0015",
+      "geoids": [
+        "55025000967"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 120,
+      "rep_votes": 56,
+      "other_votes": 8,
+      "total_votes": 184,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -64,
+      "margin_pct": -34.69573115349682,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "DOUSMAN - V 0005",
+      "precinct_key": "DOUSMAN - V 0005",
+      "geoids": [
+        "55133008072"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 0,
+      "rep_votes": 0,
+      "other_votes": 0,
+      "total_votes": 0,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 0,
+      "margin_pct": 0.0,
+      "winner": "TIE",
+      "competitiveness": {
+        "color": "#9ca3af"
+      }
+    },
+    {
+      "county": "ELBA - T 0001",
+      "precinct_key": "ELBA - T 0001",
+      "geoids": [
+        "55027001495"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 108,
+      "rep_votes": 163,
+      "other_votes": 21,
+      "total_votes": 292,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 55,
+      "margin_pct": 18.835616438356166,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#cb181d"
+      }
+    },
+    {
+      "county": "EMMET - T 0001",
+      "precinct_key": "EMMET - T 0001",
+      "geoids": [
+        "55027001605"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 37,
+      "rep_votes": 113,
+      "other_votes": 8,
+      "total_votes": 158,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 76,
+      "margin_pct": 48.25396825396825,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "EMMET - T 0002",
+      "precinct_key": "EMMET - T 0002",
+      "geoids": [
+        "55027001496"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 37,
+      "rep_votes": 113,
+      "other_votes": 8,
+      "total_votes": 158,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 76,
+      "margin_pct": 48.25396825396825,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "FARMINGTON - T 0001",
+      "precinct_key": "FARMINGTON - T 0001",
+      "geoids": [
+        "55055002508"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 52,
+      "rep_votes": 94,
+      "other_votes": 9,
+      "total_votes": 154,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 42,
+      "margin_pct": 26.860841423948216,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "FARMINGTON - T 0002",
+      "precinct_key": "FARMINGTON - T 0002",
+      "geoids": [
+        "55055002502"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 52,
+      "rep_votes": 94,
+      "other_votes": 9,
+      "total_votes": 154,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 42,
+      "margin_pct": 26.860841423948216,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "HARTFORD - C 0001",
+      "precinct_key": "HARTFORD - C 0001",
+      "geoids": [
+        "55131006402"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 44,
+      "rep_votes": 78,
+      "other_votes": 12,
+      "total_votes": 134,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 34,
+      "margin_pct": 25.37313432835821,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "HARTFORD - C 0002",
+      "precinct_key": "HARTFORD - C 0002",
+      "geoids": [
+        "55131006424"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 44,
+      "rep_votes": 78,
+      "other_votes": 12,
+      "total_votes": 134,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 34,
+      "margin_pct": 25.37313432835821,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "HARTFORD - C 0007",
+      "precinct_key": "HARTFORD - C 0007",
+      "geoids": [
+        "55131006354"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 18,
+      "rep_votes": 23,
+      "other_votes": 7,
+      "total_votes": 48,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 4,
+      "margin_pct": 9.278350515463918,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#fb6a4a"
+      }
+    },
+    {
+      "county": "HARTFORD - C 0008",
+      "precinct_key": "HARTFORD - C 0008",
+      "geoids": [
+        "55131006522"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 18,
+      "rep_votes": 23,
+      "other_votes": 7,
+      "total_votes": 48,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 4,
+      "margin_pct": 9.278350515463918,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#fb6a4a"
+      }
+    },
+    {
+      "county": "HARTFORD - C 0018",
+      "precinct_key": "HARTFORD - C 0018",
+      "geoids": [
+        "55027001504"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 0,
+      "rep_votes": 1,
+      "other_votes": 0,
+      "total_votes": 2,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 0,
+      "margin_pct": 33.33333333333333,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "HARTFORD - C 0019",
+      "precinct_key": "HARTFORD - C 0019",
+      "geoids": [
+        "55027001505"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 0,
+      "rep_votes": 1,
+      "other_votes": 0,
+      "total_votes": 2,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 0,
+      "margin_pct": 33.33333333333333,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "HERMAN - T 0001",
+      "precinct_key": "HERMAN - T 0001",
+      "geoids": [
+        "55027001506"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 18,
+      "rep_votes": 101,
+      "other_votes": 12,
+      "total_votes": 132,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 83,
+      "margin_pct": 63.11787072243346,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "HERMAN - T 0002",
+      "precinct_key": "HERMAN - T 0002",
+      "geoids": [
+        "55027001507"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 18,
+      "rep_votes": 101,
+      "other_votes": 12,
+      "total_votes": 132,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 83,
+      "margin_pct": 63.11787072243346,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "HORICON - C 0001",
+      "precinct_key": "HORICON - C 0001",
+      "geoids": [
+        "55027001508"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 39,
+      "rep_votes": 39,
+      "other_votes": 4,
+      "total_votes": 82,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 1,
+      "margin_pct": 0.8726003490401323,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#fcbba1"
+      }
+    },
+    {
+      "county": "HORICON - C 0002",
+      "precinct_key": "HORICON - C 0002",
+      "geoids": [
+        "55027001509"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 39,
+      "rep_votes": 39,
+      "other_votes": 4,
+      "total_votes": 82,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 1,
+      "margin_pct": 0.8726003490401323,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#fcbba1"
+      }
+    },
+    {
+      "county": "HORICON - C 0003",
+      "precinct_key": "HORICON - C 0003",
+      "geoids": [
+        "55027001593"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 39,
+      "rep_votes": 39,
+      "other_votes": 4,
+      "total_votes": 82,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 1,
+      "margin_pct": 0.8726003490401323,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#fcbba1"
+      }
+    },
+    {
+      "county": "HORICON - C 0004",
+      "precinct_key": "HORICON - C 0004",
+      "geoids": [
+        "55027001510"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 39,
+      "rep_votes": 39,
+      "other_votes": 4,
+      "total_votes": 82,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 1,
+      "margin_pct": 0.8726003490401323,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#fcbba1"
+      }
+    },
+    {
+      "county": "HORICON - C 0005",
+      "precinct_key": "HORICON - C 0005",
+      "geoids": [
+        "55027001511"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 39,
+      "rep_votes": 39,
+      "other_votes": 4,
+      "total_votes": 82,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 1,
+      "margin_pct": 0.8726003490401323,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#fcbba1"
+      }
+    },
+    {
+      "county": "HORICON - C 0006",
+      "precinct_key": "HORICON - C 0006",
+      "geoids": [
+        "55027001512"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 39,
+      "rep_votes": 39,
+      "other_votes": 4,
+      "total_votes": 82,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 1,
+      "margin_pct": 0.8726003490401323,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#fcbba1"
+      }
+    },
+    {
+      "county": "HORICON - C 0007",
+      "precinct_key": "HORICON - C 0007",
+      "geoids": [
+        "55027001597"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 39,
+      "rep_votes": 39,
+      "other_votes": 4,
+      "total_votes": 82,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 1,
+      "margin_pct": 0.8726003490401323,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#fcbba1"
+      }
+    },
+    {
+      "county": "HUBBARD - T 0001",
+      "precinct_key": "HUBBARD - T 0001",
+      "geoids": [
+        "55027001513"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 24,
+      "rep_votes": 40,
+      "other_votes": 4,
+      "total_votes": 68,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 15,
+      "margin_pct": 22.493887530562343,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "HUBBARD - T 0002",
+      "precinct_key": "HUBBARD - T 0002",
+      "geoids": [
+        "55027001514"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 24,
+      "rep_votes": 40,
+      "other_votes": 4,
+      "total_votes": 68,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 15,
+      "margin_pct": 22.493887530562343,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "HUBBARD - T 0003",
+      "precinct_key": "HUBBARD - T 0003",
+      "geoids": [
+        "55027001515"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 24,
+      "rep_votes": 40,
+      "other_votes": 4,
+      "total_votes": 68,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 15,
+      "margin_pct": 22.493887530562343,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "HUBBARD - T 0004",
+      "precinct_key": "HUBBARD - T 0004",
+      "geoids": [
+        "55027001516"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 24,
+      "rep_votes": 40,
+      "other_votes": 4,
+      "total_votes": 68,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 15,
+      "margin_pct": 22.493887530562343,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "HUBBARD - T 0005",
+      "precinct_key": "HUBBARD - T 0005",
+      "geoids": [
+        "55027001596"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 24,
+      "rep_votes": 40,
+      "other_votes": 4,
+      "total_votes": 68,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 15,
+      "margin_pct": 22.493887530562343,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "HUBBARD - T 0006",
+      "precinct_key": "HUBBARD - T 0006",
+      "geoids": [
+        "55027001517"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 24,
+      "rep_votes": 40,
+      "other_votes": 4,
+      "total_votes": 68,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 15,
+      "margin_pct": 22.493887530562343,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "HUSTISFORD - T 0001",
+      "precinct_key": "HUSTISFORD - T 0001",
+      "geoids": [
+        "55027001601"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 43,
+      "rep_votes": 140,
+      "other_votes": 13,
+      "total_votes": 196,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 98,
+      "margin_pct": 49.61832061068702,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "HUSTISFORD - T 0002",
+      "precinct_key": "HUSTISFORD - T 0002",
+      "geoids": [
+        "55027001602"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 43,
+      "rep_votes": 140,
+      "other_votes": 13,
+      "total_votes": 196,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 98,
+      "margin_pct": 49.61832061068702,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "HUSTISFORD - V 0001",
+      "precinct_key": "HUSTISFORD - V 0001",
+      "geoids": [
+        "55027001518"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 40,
+      "rep_votes": 98,
+      "other_votes": 14,
+      "total_votes": 152,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 58,
+      "margin_pct": 38.15789473684211,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "HUSTISFORD - V 0002",
+      "precinct_key": "HUSTISFORD - V 0002",
+      "geoids": [
+        "55027001519"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 40,
+      "rep_votes": 98,
+      "other_votes": 14,
+      "total_votes": 152,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 58,
+      "margin_pct": 38.15789473684211,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "IRON RIDGE - V 0001",
+      "precinct_key": "IRON RIDGE - V 0001",
+      "geoids": [
+        "55027001520"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 31,
+      "rep_votes": 79,
+      "other_votes": 12,
+      "total_votes": 122,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 48,
+      "margin_pct": 39.34426229508197,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "IXONIA - T 0001",
+      "precinct_key": "IXONIA - T 0001",
+      "geoids": [
+        "55055002486"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 57,
+      "rep_votes": 155,
+      "other_votes": 14,
+      "total_votes": 226,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 98,
+      "margin_pct": 43.28908554572271,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "IXONIA - T 0002",
+      "precinct_key": "IXONIA - T 0002",
+      "geoids": [
+        "55055002481"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 57,
+      "rep_votes": 155,
+      "other_votes": 14,
+      "total_votes": 226,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 98,
+      "margin_pct": 43.28908554572271,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "IXONIA - T 0003",
+      "precinct_key": "IXONIA - T 0003",
+      "geoids": [
+        "55055002482"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 57,
+      "rep_votes": 155,
+      "other_votes": 14,
+      "total_votes": 226,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 98,
+      "margin_pct": 43.28908554572271,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "IXONIA - T 0004",
+      "precinct_key": "IXONIA - T 0004",
+      "geoids": [
+        "55055002485"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 57,
+      "rep_votes": 155,
+      "other_votes": 14,
+      "total_votes": 226,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 98,
+      "margin_pct": 43.28908554572271,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "IXONIA - T 0005",
+      "precinct_key": "IXONIA - T 0005",
+      "geoids": [
+        "55055002484"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 57,
+      "rep_votes": 155,
+      "other_votes": 14,
+      "total_votes": 226,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 98,
+      "margin_pct": 43.28908554572271,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "IXONIA - T 0006",
+      "precinct_key": "IXONIA - T 0006",
+      "geoids": [
+        "55055002436"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 57,
+      "rep_votes": 155,
+      "other_votes": 14,
+      "total_votes": 226,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 98,
+      "margin_pct": 43.28908554572271,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "JEFFERSON - C 0011",
+      "precinct_key": "JEFFERSON - C 0011",
+      "geoids": [
+        "55055002457"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 0,
+      "rep_votes": 0,
+      "other_votes": 0,
+      "total_votes": 0,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 0,
+      "margin_pct": 0.0,
+      "winner": "TIE",
+      "competitiveness": {
+        "color": "#9ca3af"
+      }
+    },
+    {
+      "county": "JOHNSON CREEK - V 0001",
+      "precinct_key": "JOHNSON CREEK - V 0001",
+      "geoids": [
+        "55055002460"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 66,
+      "rep_votes": 83,
+      "other_votes": 9,
+      "total_votes": 158,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 17,
+      "margin_pct": 10.970464135021103,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#cb181d"
+      }
+    },
+    {
+      "county": "JOHNSON CREEK - V 0002",
+      "precinct_key": "JOHNSON CREEK - V 0002",
+      "geoids": [
+        "55055002496"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 66,
+      "rep_votes": 83,
+      "other_votes": 9,
+      "total_votes": 158,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 17,
+      "margin_pct": 10.970464135021103,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#cb181d"
+      }
+    },
+    {
+      "county": "JOHNSON CREEK - V 0003",
+      "precinct_key": "JOHNSON CREEK - V 0003",
+      "geoids": [
+        "55055002497"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 66,
+      "rep_votes": 83,
+      "other_votes": 9,
+      "total_votes": 158,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 17,
+      "margin_pct": 10.970464135021103,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#cb181d"
+      }
+    },
+    {
+      "county": "JUNEAU - C 0001",
+      "precinct_key": "JUNEAU - C 0001",
+      "geoids": [
+        "55027001521"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 54,
+      "rep_votes": 47,
+      "other_votes": 6,
+      "total_votes": 107,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -6,
+      "margin_pct": -5.900621118012425,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#6baed6"
+      }
+    },
+    {
+      "county": "JUNEAU - C 0002",
+      "precinct_key": "JUNEAU - C 0002",
+      "geoids": [
+        "55027001522"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 54,
+      "rep_votes": 47,
+      "other_votes": 6,
+      "total_votes": 107,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -6,
+      "margin_pct": -5.900621118012425,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#6baed6"
+      }
+    },
+    {
+      "county": "JUNEAU - C 0003",
+      "precinct_key": "JUNEAU - C 0003",
+      "geoids": [
+        "55027001523"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 54,
+      "rep_votes": 47,
+      "other_votes": 6,
+      "total_votes": 107,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -6,
+      "margin_pct": -5.900621118012425,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#6baed6"
+      }
+    },
+    {
+      "county": "KEKOSKEE - V 0001",
+      "precinct_key": "KEKOSKEE - V 0001",
+      "geoids": [
+        "55027001524"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 14,
+      "rep_votes": 34,
+      "other_votes": 6,
+      "total_votes": 54,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 20,
+      "margin_pct": 36.809815950920246,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "KEKOSKEE - V 0002",
+      "precinct_key": "KEKOSKEE - V 0002",
+      "geoids": [
+        "55027001591"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 14,
+      "rep_votes": 34,
+      "other_votes": 6,
+      "total_votes": 54,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 20,
+      "margin_pct": 36.809815950920246,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "KEKOSKEE - V 0003",
+      "precinct_key": "KEKOSKEE - V 0003",
+      "geoids": [
+        "55027001592"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 14,
+      "rep_votes": 34,
+      "other_votes": 6,
+      "total_votes": 54,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 20,
+      "margin_pct": 36.809815950920246,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "LAC LA BELLE - V 0001",
+      "precinct_key": "LAC LA BELLE - V 0001",
+      "geoids": [
+        "55133006601"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 42,
+      "rep_votes": 86,
+      "other_votes": 2,
+      "total_votes": 130,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 44,
+      "margin_pct": 33.84615384615385,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "LAC LA BELLE - V 0002",
+      "precinct_key": "LAC LA BELLE - V 0002",
+      "geoids": [
+        "55055002480"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 0,
+      "rep_votes": 0,
+      "other_votes": 0,
+      "total_votes": 0,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 0,
+      "margin_pct": 0.0,
+      "winner": "TIE",
+      "competitiveness": {
+        "color": "#9ca3af"
+      }
+    },
+    {
+      "county": "LAKE MILLS - C 0001",
+      "precinct_key": "LAKE MILLS - C 0001",
+      "geoids": [
+        "55055002531"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 112,
+      "rep_votes": 63,
+      "other_votes": 6,
+      "total_votes": 181,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -49,
+      "margin_pct": -26.970954356846473,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "LAKE MILLS - C 0002",
+      "precinct_key": "LAKE MILLS - C 0002",
+      "geoids": [
+        "55055002461"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 112,
+      "rep_votes": 63,
+      "other_votes": 6,
+      "total_votes": 181,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -49,
+      "margin_pct": -26.970954356846473,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "LAKE MILLS - C 0003",
+      "precinct_key": "LAKE MILLS - C 0003",
+      "geoids": [
+        "55055002491"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 112,
+      "rep_votes": 63,
+      "other_votes": 6,
+      "total_votes": 181,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -49,
+      "margin_pct": -26.970954356846473,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "LAKE MILLS - C 0004",
+      "precinct_key": "LAKE MILLS - C 0004",
+      "geoids": [
+        "55055002467"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 112,
+      "rep_votes": 63,
+      "other_votes": 6,
+      "total_votes": 181,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -49,
+      "margin_pct": -26.970954356846473,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "LAKE MILLS - C 0005",
+      "precinct_key": "LAKE MILLS - C 0005",
+      "geoids": [
+        "55055002466"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 112,
+      "rep_votes": 63,
+      "other_votes": 6,
+      "total_votes": 181,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -49,
+      "margin_pct": -26.970954356846473,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "LAKE MILLS - C 0006",
+      "precinct_key": "LAKE MILLS - C 0006",
+      "geoids": [
+        "55055002488"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 112,
+      "rep_votes": 63,
+      "other_votes": 6,
+      "total_votes": 181,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -49,
+      "margin_pct": -26.970954356846473,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "LAKE MILLS - C 0007",
+      "precinct_key": "LAKE MILLS - C 0007",
+      "geoids": [
+        "55055002489"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 112,
+      "rep_votes": 63,
+      "other_votes": 6,
+      "total_votes": 181,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -49,
+      "margin_pct": -26.970954356846473,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "LAKE MILLS - C 0008",
+      "precinct_key": "LAKE MILLS - C 0008",
+      "geoids": [
+        "55055002465"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 112,
+      "rep_votes": 63,
+      "other_votes": 6,
+      "total_votes": 181,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -49,
+      "margin_pct": -26.970954356846473,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "LAKE MILLS - T 0001",
+      "precinct_key": "LAKE MILLS - T 0001",
+      "geoids": [
+        "55055002492"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 130,
+      "rep_votes": 81,
+      "other_votes": 10,
+      "total_votes": 221,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -49,
+      "margin_pct": -22.0211161387632,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "LAKE MILLS - T 0002",
+      "precinct_key": "LAKE MILLS - T 0002",
+      "geoids": [
+        "55055002532"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 130,
+      "rep_votes": 81,
+      "other_votes": 10,
+      "total_votes": 221,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -49,
+      "margin_pct": -22.0211161387632,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "LAKE MILLS - T 0003",
+      "precinct_key": "LAKE MILLS - T 0003",
+      "geoids": [
+        "55055002490"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 130,
+      "rep_votes": 81,
+      "other_votes": 10,
+      "total_votes": 221,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -49,
+      "margin_pct": -22.0211161387632,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "LEBANON - T 0001",
+      "precinct_key": "LEBANON - T 0001",
+      "geoids": [
+        "55027001525"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 45,
+      "rep_votes": 153,
+      "other_votes": 11,
+      "total_votes": 209,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 108,
+      "margin_pct": 51.674641148325364,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "LEBANON - T 0002",
+      "precinct_key": "LEBANON - T 0002",
+      "geoids": [
+        "55027001526"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 45,
+      "rep_votes": 153,
+      "other_votes": 11,
+      "total_votes": 209,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 108,
+      "margin_pct": 51.674641148325364,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "LEROY - T 0001",
+      "precinct_key": "LEROY - T 0001",
+      "geoids": [
+        "55027001527"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 22,
+      "rep_votes": 58,
+      "other_votes": 6,
+      "total_votes": 86,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 36,
+      "margin_pct": 41.040462427745666,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "LEROY - T 0002",
+      "precinct_key": "LEROY - T 0002",
+      "geoids": [
+        "55027001528"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 22,
+      "rep_votes": 58,
+      "other_votes": 6,
+      "total_votes": 86,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 36,
+      "margin_pct": 41.040462427745666,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "LOMIRA - T 0001",
+      "precinct_key": "LOMIRA - T 0001",
+      "geoids": [
+        "55027001595"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 13,
+      "rep_votes": 53,
+      "other_votes": 5,
+      "total_votes": 71,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 40,
+      "margin_pct": 56.54205607476636,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "LOMIRA - T 0002",
+      "precinct_key": "LOMIRA - T 0002",
+      "geoids": [
+        "55027001532"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 13,
+      "rep_votes": 53,
+      "other_votes": 5,
+      "total_votes": 71,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 40,
+      "margin_pct": 56.54205607476636,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "LOMIRA - T 0003",
+      "precinct_key": "LOMIRA - T 0003",
+      "geoids": [
+        "55027001533"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 13,
+      "rep_votes": 53,
+      "other_votes": 5,
+      "total_votes": 71,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 40,
+      "margin_pct": 56.54205607476636,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "LOMIRA - V 0001",
+      "precinct_key": "LOMIRA - V 0001",
+      "geoids": [
+        "55027001529"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 26,
+      "rep_votes": 59,
+      "other_votes": 9,
+      "total_votes": 95,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 33,
+      "margin_pct": 35.2112676056338,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "LOMIRA - V 0002",
+      "precinct_key": "LOMIRA - V 0002",
+      "geoids": [
+        "55027001530"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 26,
+      "rep_votes": 59,
+      "other_votes": 9,
+      "total_votes": 95,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 33,
+      "margin_pct": 35.2112676056338,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "LOMIRA - V 0003",
+      "precinct_key": "LOMIRA - V 0003",
+      "geoids": [
+        "55027001531"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 26,
+      "rep_votes": 59,
+      "other_votes": 9,
+      "total_votes": 95,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 33,
+      "margin_pct": 35.2112676056338,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "LOWELL - T 0001",
+      "precinct_key": "LOWELL - T 0001",
+      "geoids": [
+        "55027001535"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 16,
+      "rep_votes": 30,
+      "other_votes": 2,
+      "total_votes": 48,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 14,
+      "margin_pct": 30.208333333333332,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "LOWELL - T 0002",
+      "precinct_key": "LOWELL - T 0002",
+      "geoids": [
+        "55027001536"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 16,
+      "rep_votes": 30,
+      "other_votes": 2,
+      "total_votes": 48,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 14,
+      "margin_pct": 30.208333333333332,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "LOWELL - T 0003",
+      "precinct_key": "LOWELL - T 0003",
+      "geoids": [
+        "55027001537"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 16,
+      "rep_votes": 30,
+      "other_votes": 2,
+      "total_votes": 48,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 14,
+      "margin_pct": 30.208333333333332,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "LOWELL - T 0004",
+      "precinct_key": "LOWELL - T 0004",
+      "geoids": [
+        "55027001538"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 16,
+      "rep_votes": 30,
+      "other_votes": 2,
+      "total_votes": 48,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 14,
+      "margin_pct": 30.208333333333332,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "LOWELL - V 0001",
+      "precinct_key": "LOWELL - V 0001",
+      "geoids": [
+        "55027001534"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 11,
+      "rep_votes": 30,
+      "other_votes": 2,
+      "total_votes": 43,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 19,
+      "margin_pct": 44.18604651162791,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "MARSHALL - V 0001",
+      "precinct_key": "MARSHALL - V 0001",
+      "geoids": [
+        "55025001199"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 75,
+      "rep_votes": 39,
+      "other_votes": 6,
+      "total_votes": 120,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -36,
+      "margin_pct": -29.950083194675543,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "MARSHALL - V 0002",
+      "precinct_key": "MARSHALL - V 0002",
+      "geoids": [
+        "55025001197"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 75,
+      "rep_votes": 39,
+      "other_votes": 6,
+      "total_votes": 120,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -36,
+      "margin_pct": -29.950083194675543,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "MARSHALL - V 0003",
+      "precinct_key": "MARSHALL - V 0003",
+      "geoids": [
+        "55025001198"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 75,
+      "rep_votes": 39,
+      "other_votes": 6,
+      "total_votes": 120,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -36,
+      "margin_pct": -29.950083194675543,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "MARSHALL - V 0004",
+      "precinct_key": "MARSHALL - V 0004",
+      "geoids": [
+        "55025001200"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 75,
+      "rep_votes": 39,
+      "other_votes": 6,
+      "total_votes": 120,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -36,
+      "margin_pct": -29.950083194675543,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "MARSHALL - V 0005",
+      "precinct_key": "MARSHALL - V 0005",
+      "geoids": [
+        "55025001194"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 75,
+      "rep_votes": 39,
+      "other_votes": 6,
+      "total_votes": 120,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -36,
+      "margin_pct": -29.950083194675543,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "MAYVILLE - C 0001",
+      "precinct_key": "MAYVILLE - C 0001",
+      "geoids": [
+        "55027001539"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 44,
+      "rep_votes": 54,
+      "other_votes": 6,
+      "total_votes": 104,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 10,
+      "margin_pct": 9.820359281437126,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#fb6a4a"
+      }
+    },
+    {
+      "county": "MAYVILLE - C 0002",
+      "precinct_key": "MAYVILLE - C 0002",
+      "geoids": [
+        "55027001540"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 44,
+      "rep_votes": 54,
+      "other_votes": 6,
+      "total_votes": 104,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 10,
+      "margin_pct": 9.820359281437126,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#fb6a4a"
+      }
+    },
+    {
+      "county": "MAYVILLE - C 0003",
+      "precinct_key": "MAYVILLE - C 0003",
+      "geoids": [
+        "55027001541"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 44,
+      "rep_votes": 54,
+      "other_votes": 6,
+      "total_votes": 104,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 10,
+      "margin_pct": 9.820359281437126,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#fb6a4a"
+      }
+    },
+    {
+      "county": "MAYVILLE - C 0004",
+      "precinct_key": "MAYVILLE - C 0004",
+      "geoids": [
+        "55027001542"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 44,
+      "rep_votes": 54,
+      "other_votes": 6,
+      "total_votes": 104,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 10,
+      "margin_pct": 9.820359281437126,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#fb6a4a"
+      }
+    },
+    {
+      "county": "MAYVILLE - C 0005",
+      "precinct_key": "MAYVILLE - C 0005",
+      "geoids": [
+        "55027001543"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 44,
+      "rep_votes": 54,
+      "other_votes": 6,
+      "total_votes": 104,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 10,
+      "margin_pct": 9.820359281437126,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#fb6a4a"
+      }
+    },
+    {
+      "county": "MAYVILLE - C 0006",
+      "precinct_key": "MAYVILLE - C 0006",
+      "geoids": [
+        "55027001544"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 44,
+      "rep_votes": 54,
+      "other_votes": 6,
+      "total_votes": 104,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 10,
+      "margin_pct": 9.820359281437126,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#fb6a4a"
+      }
+    },
+    {
+      "county": "MAYVILLE - C 0007",
+      "precinct_key": "MAYVILLE - C 0007",
+      "geoids": [
+        "55027001545"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 44,
+      "rep_votes": 54,
+      "other_votes": 6,
+      "total_votes": 104,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 10,
+      "margin_pct": 9.820359281437126,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#fb6a4a"
+      }
+    },
+    {
+      "county": "MAYVILLE - C 0008",
+      "precinct_key": "MAYVILLE - C 0008",
+      "geoids": [
+        "55027001598"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 44,
+      "rep_votes": 54,
+      "other_votes": 6,
+      "total_votes": 104,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 10,
+      "margin_pct": 9.820359281437126,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#fb6a4a"
+      }
+    },
+    {
+      "county": "MEDINA - T 0001",
+      "precinct_key": "MEDINA - T 0001",
+      "geoids": [
+        "55025001212"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 92,
+      "rep_votes": 58,
+      "other_votes": 6,
+      "total_votes": 156,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -34,
+      "margin_pct": -21.474358974358974,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "MEDINA - T 0002",
+      "precinct_key": "MEDINA - T 0002",
+      "geoids": [
+        "55025001211"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 92,
+      "rep_votes": 58,
+      "other_votes": 6,
+      "total_votes": 156,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -34,
+      "margin_pct": -21.474358974358974,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "MILFORD - T 0001",
+      "precinct_key": "MILFORD - T 0001",
+      "geoids": [
+        "55055002469"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 59,
+      "rep_votes": 80,
+      "other_votes": 8,
+      "total_votes": 148,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 22,
+      "margin_pct": 14.576271186440678,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#cb181d"
+      }
+    },
+    {
+      "county": "MILFORD - T 0002",
+      "precinct_key": "MILFORD - T 0002",
+      "geoids": [
+        "55055002468"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 59,
+      "rep_votes": 80,
+      "other_votes": 8,
+      "total_votes": 148,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 22,
+      "margin_pct": 14.576271186440678,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#cb181d"
+      }
+    },
+    {
+      "county": "NEOSHO - V 0001",
+      "precinct_key": "NEOSHO - V 0001",
+      "geoids": [
+        "55027001546"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 37,
+      "rep_votes": 70,
+      "other_votes": 17,
+      "total_votes": 124,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 33,
+      "margin_pct": 26.61290322580645,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "OAK GROVE - T 0001",
+      "precinct_key": "OAK GROVE - T 0001",
+      "geoids": [
+        "55027001547"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 19,
+      "rep_votes": 20,
+      "other_votes": 3,
+      "total_votes": 41,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 2,
+      "margin_pct": 3.8647342995169023,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#fcbba1"
+      }
+    },
+    {
+      "county": "OAK GROVE - T 0002",
+      "precinct_key": "OAK GROVE - T 0002",
+      "geoids": [
+        "55027001548"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 19,
+      "rep_votes": 20,
+      "other_votes": 3,
+      "total_votes": 41,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 2,
+      "margin_pct": 3.8647342995169023,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#fcbba1"
+      }
+    },
+    {
+      "county": "OAK GROVE - T 0003",
+      "precinct_key": "OAK GROVE - T 0003",
+      "geoids": [
+        "55027001551"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 19,
+      "rep_votes": 20,
+      "other_votes": 3,
+      "total_votes": 41,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 2,
+      "margin_pct": 3.8647342995169023,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#fcbba1"
+      }
+    },
+    {
+      "county": "OAK GROVE - T 0004",
+      "precinct_key": "OAK GROVE - T 0004",
+      "geoids": [
+        "55027001549"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 19,
+      "rep_votes": 20,
+      "other_votes": 3,
+      "total_votes": 41,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 2,
+      "margin_pct": 3.8647342995169023,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#fcbba1"
+      }
+    },
+    {
+      "county": "OAK GROVE - T 0005",
+      "precinct_key": "OAK GROVE - T 0005",
+      "geoids": [
+        "55027001550"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 19,
+      "rep_votes": 20,
+      "other_votes": 3,
+      "total_votes": 41,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 2,
+      "margin_pct": 3.8647342995169023,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#fcbba1"
+      }
+    },
+    {
+      "county": "OCONOMOWOC - C 0001",
+      "precinct_key": "OCONOMOWOC - C 0001",
+      "geoids": [
+        "55133006709"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 136,
+      "rep_votes": 147,
+      "other_votes": 13,
+      "total_votes": 295,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 11,
+      "margin_pct": 3.65605958023019,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#fcbba1"
+      }
+    },
+    {
+      "county": "OCONOMOWOC - C 0002",
+      "precinct_key": "OCONOMOWOC - C 0002",
+      "geoids": [
+        "55133006712"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 136,
+      "rep_votes": 147,
+      "other_votes": 13,
+      "total_votes": 295,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 11,
+      "margin_pct": 3.65605958023019,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#fcbba1"
+      }
+    },
+    {
+      "county": "OCONOMOWOC - C 0003",
+      "precinct_key": "OCONOMOWOC - C 0003",
+      "geoids": [
+        "55133006863"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 136,
+      "rep_votes": 147,
+      "other_votes": 13,
+      "total_votes": 295,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 11,
+      "margin_pct": 3.65605958023019,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#fcbba1"
+      }
+    },
+    {
+      "county": "OCONOMOWOC - C 0004",
+      "precinct_key": "OCONOMOWOC - C 0004",
+      "geoids": [
+        "55133006713"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 144,
+      "rep_votes": 194,
+      "other_votes": 18,
+      "total_votes": 356,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 49,
+      "margin_pct": 13.844714686623016,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#cb181d"
+      }
+    },
+    {
+      "county": "OCONOMOWOC - C 0005",
+      "precinct_key": "OCONOMOWOC - C 0005",
+      "geoids": [
+        "55133006710"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 144,
+      "rep_votes": 194,
+      "other_votes": 18,
+      "total_votes": 356,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 49,
+      "margin_pct": 13.844714686623016,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#cb181d"
+      }
+    },
+    {
+      "county": "OCONOMOWOC - C 0006",
+      "precinct_key": "OCONOMOWOC - C 0006",
+      "geoids": [
+        "55133006716"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 144,
+      "rep_votes": 194,
+      "other_votes": 18,
+      "total_votes": 356,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 49,
+      "margin_pct": 13.844714686623016,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#cb181d"
+      }
+    },
+    {
+      "county": "OCONOMOWOC - C 0007",
+      "precinct_key": "OCONOMOWOC - C 0007",
+      "geoids": [
+        "55133006673"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 129,
+      "rep_votes": 167,
+      "other_votes": 17,
+      "total_votes": 313,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 37,
+      "margin_pct": 11.927582534611291,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#cb181d"
+      }
+    },
+    {
+      "county": "OCONOMOWOC - C 0008",
+      "precinct_key": "OCONOMOWOC - C 0008",
+      "geoids": [
+        "55133006664"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 129,
+      "rep_votes": 167,
+      "other_votes": 17,
+      "total_votes": 313,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 37,
+      "margin_pct": 11.927582534611291,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#cb181d"
+      }
+    },
+    {
+      "county": "OCONOMOWOC - C 0009",
+      "precinct_key": "OCONOMOWOC - C 0009",
+      "geoids": [
+        "55133006663"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 129,
+      "rep_votes": 167,
+      "other_votes": 17,
+      "total_votes": 313,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 37,
+      "margin_pct": 11.927582534611291,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#cb181d"
+      }
+    },
+    {
+      "county": "OCONOMOWOC - C 0010",
+      "precinct_key": "OCONOMOWOC - C 0010",
+      "geoids": [
+        "55133006718"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 125,
+      "rep_votes": 176,
+      "other_votes": 15,
+      "total_votes": 316,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 51,
+      "margin_pct": 16.016859852476284,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#cb181d"
+      }
+    },
+    {
+      "county": "OCONOMOWOC - C 0011",
+      "precinct_key": "OCONOMOWOC - C 0011",
+      "geoids": [
+        "55133006714"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 125,
+      "rep_votes": 176,
+      "other_votes": 15,
+      "total_votes": 316,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 51,
+      "margin_pct": 16.016859852476284,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#cb181d"
+      }
+    },
+    {
+      "county": "OCONOMOWOC - C 0012",
+      "precinct_key": "OCONOMOWOC - C 0012",
+      "geoids": [
+        "55133006717"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 125,
+      "rep_votes": 176,
+      "other_votes": 15,
+      "total_votes": 316,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 51,
+      "margin_pct": 16.016859852476284,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#cb181d"
+      }
+    },
+    {
+      "county": "OCONOMOWOC - C 0013",
+      "precinct_key": "OCONOMOWOC - C 0013",
+      "geoids": [
+        "55133006879"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 136,
+      "rep_votes": 147,
+      "other_votes": 13,
+      "total_votes": 295,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 11,
+      "margin_pct": 3.65605958023019,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#fcbba1"
+      }
+    },
+    {
+      "county": "OCONOMOWOC - C 0014",
+      "precinct_key": "OCONOMOWOC - C 0014",
+      "geoids": [
+        "55133006901"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 136,
+      "rep_votes": 147,
+      "other_votes": 13,
+      "total_votes": 295,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 11,
+      "margin_pct": 3.65605958023019,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#fcbba1"
+      }
+    },
+    {
+      "county": "OCONOMOWOC - T 0001",
+      "precinct_key": "OCONOMOWOC - T 0001",
+      "geoids": [
+        "55133006702"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 90,
+      "rep_votes": 184,
+      "other_votes": 18,
+      "total_votes": 292,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 94,
+      "margin_pct": 32.269099201824396,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "OCONOMOWOC - T 0002",
+      "precinct_key": "OCONOMOWOC - T 0002",
+      "geoids": [
+        "55133006703"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 90,
+      "rep_votes": 184,
+      "other_votes": 18,
+      "total_votes": 292,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 94,
+      "margin_pct": 32.269099201824396,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "OCONOMOWOC - T 0003",
+      "precinct_key": "OCONOMOWOC - T 0003",
+      "geoids": [
+        "55133006672"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 75,
+      "rep_votes": 147,
+      "other_votes": 12,
+      "total_votes": 234,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 72,
+      "margin_pct": 30.725462304409675,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "OCONOMOWOC - T 0004",
+      "precinct_key": "OCONOMOWOC - T 0004",
+      "geoids": [
+        "55133006711"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 90,
+      "rep_votes": 184,
+      "other_votes": 18,
+      "total_votes": 292,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 94,
+      "margin_pct": 32.269099201824396,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "OCONOMOWOC - T 0005",
+      "precinct_key": "OCONOMOWOC - T 0005",
+      "geoids": [
+        "55133006707"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 79,
+      "rep_votes": 152,
+      "other_votes": 12,
+      "total_votes": 243,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 73,
+      "margin_pct": 30.04115226337449,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "OCONOMOWOC - T 0006",
+      "precinct_key": "OCONOMOWOC - T 0006",
+      "geoids": [
+        "55133006862"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 75,
+      "rep_votes": 147,
+      "other_votes": 12,
+      "total_votes": 234,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 72,
+      "margin_pct": 30.725462304409675,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "OCONOMOWOC - T 0007",
+      "precinct_key": "OCONOMOWOC - T 0007",
+      "geoids": [
+        "55133006708"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 75,
+      "rep_votes": 147,
+      "other_votes": 12,
+      "total_votes": 234,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 72,
+      "margin_pct": 30.725462304409675,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "OCONOMOWOC - T 0008",
+      "precinct_key": "OCONOMOWOC - T 0008",
+      "geoids": [
+        "55133006665"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 79,
+      "rep_votes": 152,
+      "other_votes": 12,
+      "total_votes": 243,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 73,
+      "margin_pct": 30.04115226337449,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "OCONOMOWOC - T 0009",
+      "precinct_key": "OCONOMOWOC - T 0009",
+      "geoids": [
+        "55133006840"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 79,
+      "rep_votes": 152,
+      "other_votes": 12,
+      "total_votes": 243,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 73,
+      "margin_pct": 30.04115226337449,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "PORTLAND - T 0001",
+      "precinct_key": "PORTLAND - T 0001",
+      "geoids": [
+        "55027001552"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 36,
+      "rep_votes": 56,
+      "other_votes": 4,
+      "total_votes": 96,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 21,
+      "margin_pct": 21.761658031088082,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "PORTLAND - T 0002",
+      "precinct_key": "PORTLAND - T 0002",
+      "geoids": [
+        "55027001553"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 36,
+      "rep_votes": 56,
+      "other_votes": 4,
+      "total_votes": 96,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 21,
+      "margin_pct": 21.761658031088082,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "REESEVILLE - V 0001",
+      "precinct_key": "REESEVILLE - V 0001",
+      "geoids": [
+        "55027001556"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 51,
+      "rep_votes": 58,
+      "other_votes": 6,
+      "total_votes": 115,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 7,
+      "margin_pct": 6.086956521739131,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#fb6a4a"
+      }
+    },
+    {
+      "county": "ROCKDALE - V 0001",
+      "precinct_key": "ROCKDALE - V 0001",
+      "geoids": [
+        "55025001329"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 39,
+      "rep_votes": 23,
+      "other_votes": 5,
+      "total_votes": 67,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -16,
+      "margin_pct": -23.88059701492537,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "RUBICON - T 0001",
+      "precinct_key": "RUBICON - T 0001",
+      "geoids": [
+        "55027001557"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 31,
+      "rep_votes": 143,
+      "other_votes": 13,
+      "total_votes": 186,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 112,
+      "margin_pct": 60.10733452593918,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "RUBICON - T 0002",
+      "precinct_key": "RUBICON - T 0002",
+      "geoids": [
+        "55027001558"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 31,
+      "rep_votes": 143,
+      "other_votes": 13,
+      "total_votes": 186,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 112,
+      "margin_pct": 60.10733452593918,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "RUBICON - T 0003",
+      "precinct_key": "RUBICON - T 0003",
+      "geoids": [
+        "55027001559"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 31,
+      "rep_votes": 143,
+      "other_votes": 13,
+      "total_votes": 186,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 112,
+      "margin_pct": 60.10733452593918,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "SHIELDS - T 0001",
+      "precinct_key": "SHIELDS - T 0001",
+      "geoids": [
+        "55027001560"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 55,
+      "rep_votes": 101,
+      "other_votes": 7,
+      "total_votes": 163,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 46,
+      "margin_pct": 28.22085889570552,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "SUMMIT - V 0001",
+      "precinct_key": "SUMMIT - V 0001",
+      "geoids": [
+        "55133006545"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 62,
+      "rep_votes": 128,
+      "other_votes": 14,
+      "total_votes": 204,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 67,
+      "margin_pct": 32.76283618581907,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "SUMMIT - V 0006",
+      "precinct_key": "SUMMIT - V 0006",
+      "geoids": [
+        "55133006669"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 62,
+      "rep_votes": 128,
+      "other_votes": 14,
+      "total_votes": 204,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 67,
+      "margin_pct": 32.76283618581907,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "SUN PRAIRIE - C 0023",
+      "precinct_key": "SUN PRAIRIE - C 0023",
+      "geoids": [
+        "55025001385"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 0,
+      "rep_votes": 0,
+      "other_votes": 0,
+      "total_votes": 0,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 0,
+      "margin_pct": 0.0,
+      "winner": "TIE",
+      "competitiveness": {
+        "color": "#9ca3af"
+      }
+    },
+    {
+      "county": "SUN PRAIRIE - C 0027",
+      "precinct_key": "SUN PRAIRIE - C 0027",
+      "geoids": [
+        "55025003033"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 0,
+      "rep_votes": 0,
+      "other_votes": 0,
+      "total_votes": 0,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 0,
+      "margin_pct": 0.0,
+      "winner": "TIE",
+      "competitiveness": {
+        "color": "#9ca3af"
+      }
+    },
+    {
+      "county": "THERESA - T 0001",
+      "precinct_key": "THERESA - T 0001",
+      "geoids": [
+        "55027001564"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 6,
+      "rep_votes": 23,
+      "other_votes": 1,
+      "total_votes": 31,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 17,
+      "margin_pct": 55.60747663551402,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "THERESA - T 0002",
+      "precinct_key": "THERESA - T 0002",
+      "geoids": [
+        "55027001565"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 6,
+      "rep_votes": 23,
+      "other_votes": 1,
+      "total_votes": 31,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 17,
+      "margin_pct": 55.60747663551402,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "THERESA - T 0003",
+      "precinct_key": "THERESA - T 0003",
+      "geoids": [
+        "55027001566"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 6,
+      "rep_votes": 23,
+      "other_votes": 1,
+      "total_votes": 31,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 17,
+      "margin_pct": 55.60747663551402,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "THERESA - T 0004",
+      "precinct_key": "THERESA - T 0004",
+      "geoids": [
+        "55027001567"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 6,
+      "rep_votes": 23,
+      "other_votes": 1,
+      "total_votes": 31,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 17,
+      "margin_pct": 55.60747663551402,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "THERESA - T 0005",
+      "precinct_key": "THERESA - T 0005",
+      "geoids": [
+        "55027001568"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 6,
+      "rep_votes": 23,
+      "other_votes": 1,
+      "total_votes": 31,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 17,
+      "margin_pct": 55.60747663551402,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "THERESA - T 0006",
+      "precinct_key": "THERESA - T 0006",
+      "geoids": [
+        "55027001569"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 6,
+      "rep_votes": 23,
+      "other_votes": 1,
+      "total_votes": 31,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 17,
+      "margin_pct": 55.60747663551402,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "THERESA - T 0007",
+      "precinct_key": "THERESA - T 0007",
+      "geoids": [
+        "55027001570"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 6,
+      "rep_votes": 23,
+      "other_votes": 1,
+      "total_votes": 31,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 17,
+      "margin_pct": 55.60747663551402,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "THERESA - V 0001",
+      "precinct_key": "THERESA - V 0001",
+      "geoids": [
+        "55027001561"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 28,
+      "rep_votes": 48,
+      "other_votes": 3,
+      "total_votes": 79,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 20,
+      "margin_pct": 24.78991596638656,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "THERESA - V 0002",
+      "precinct_key": "THERESA - V 0002",
+      "geoids": [
+        "55027001562"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 28,
+      "rep_votes": 48,
+      "other_votes": 3,
+      "total_votes": 79,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 20,
+      "margin_pct": 24.78991596638656,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "THERESA - V 0003",
+      "precinct_key": "THERESA - V 0003",
+      "geoids": [
+        "55027001563"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 28,
+      "rep_votes": 48,
+      "other_votes": 3,
+      "total_votes": 79,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 20,
+      "margin_pct": 24.78991596638656,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "WATERLOO - C 0001",
+      "precinct_key": "WATERLOO - C 0001",
+      "geoids": [
+        "55055002435"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 59,
+      "rep_votes": 46,
+      "other_votes": 4,
+      "total_votes": 109,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -13,
+      "margin_pct": -12.293577981651381,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      }
+    },
+    {
+      "county": "WATERLOO - C 0002",
+      "precinct_key": "WATERLOO - C 0002",
+      "geoids": [
+        "55055002472"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 59,
+      "rep_votes": 46,
+      "other_votes": 4,
+      "total_votes": 109,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -13,
+      "margin_pct": -12.293577981651381,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      }
+    },
+    {
+      "county": "WATERLOO - C 0003",
+      "precinct_key": "WATERLOO - C 0003",
+      "geoids": [
+        "55055002471"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 59,
+      "rep_votes": 46,
+      "other_votes": 4,
+      "total_votes": 109,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -13,
+      "margin_pct": -12.293577981651381,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      }
+    },
+    {
+      "county": "WATERLOO - C 0004",
+      "precinct_key": "WATERLOO - C 0004",
+      "geoids": [
+        "55055002444"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 59,
+      "rep_votes": 46,
+      "other_votes": 4,
+      "total_votes": 109,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -13,
+      "margin_pct": -12.293577981651381,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      }
+    },
+    {
+      "county": "WATERLOO - C 0005",
+      "precinct_key": "WATERLOO - C 0005",
+      "geoids": [
+        "55055002470"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 59,
+      "rep_votes": 46,
+      "other_votes": 4,
+      "total_votes": 109,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -13,
+      "margin_pct": -12.293577981651381,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      }
+    },
+    {
+      "county": "WATERLOO - T 0001",
+      "precinct_key": "WATERLOO - T 0001",
+      "geoids": [
+        "55055002473"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 92,
+      "rep_votes": 102,
+      "other_votes": 7,
+      "total_votes": 201,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 10,
+      "margin_pct": 4.975124378109453,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#fcbba1"
+      }
+    },
+    {
+      "county": "WATERTOWN - C 0001",
+      "precinct_key": "WATERTOWN - C 0001",
+      "geoids": [
+        "55027001573"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 124,
+      "rep_votes": 175,
+      "other_votes": 17,
+      "total_votes": 316,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 50,
+      "margin_pct": 15.955766192733018,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#cb181d"
+      }
+    },
+    {
+      "county": "WATERTOWN - C 0002",
+      "precinct_key": "WATERTOWN - C 0002",
+      "geoids": [
+        "55027001574"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 124,
+      "rep_votes": 175,
+      "other_votes": 17,
+      "total_votes": 316,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 50,
+      "margin_pct": 15.955766192733018,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#cb181d"
+      }
+    },
+    {
+      "county": "WATERTOWN - C 0003",
+      "precinct_key": "WATERTOWN - C 0003",
+      "geoids": [
+        "55027001575"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 92,
+      "rep_votes": 150,
+      "other_votes": 9,
+      "total_votes": 250,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 58,
+      "margin_pct": 22.954091816367264,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "WATERTOWN - C 0004",
+      "precinct_key": "WATERTOWN - C 0004",
+      "geoids": [
+        "55027001576"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 92,
+      "rep_votes": 150,
+      "other_votes": 9,
+      "total_votes": 250,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 58,
+      "margin_pct": 22.954091816367264,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "WATERTOWN - C 0005",
+      "precinct_key": "WATERTOWN - C 0005",
+      "geoids": [
+        "55027001577"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 88,
+      "rep_votes": 143,
+      "other_votes": 5,
+      "total_votes": 236,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 56,
+      "margin_pct": 23.56687898089172,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "WATERTOWN - C 0006",
+      "precinct_key": "WATERTOWN - C 0006",
+      "geoids": [
+        "55027001578"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 88,
+      "rep_votes": 143,
+      "other_votes": 5,
+      "total_votes": 236,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 56,
+      "margin_pct": 23.56687898089172,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "WATERTOWN - C 0007",
+      "precinct_key": "WATERTOWN - C 0007",
+      "geoids": [
+        "55027001579"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 63,
+      "rep_votes": 102,
+      "other_votes": 7,
+      "total_votes": 172,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 39,
+      "margin_pct": 22.674418604651162,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "WATERTOWN - C 0008",
+      "precinct_key": "WATERTOWN - C 0008",
+      "geoids": [
+        "55055002478"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 28,
+      "rep_votes": 32,
+      "other_votes": 4,
+      "total_votes": 64,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 4,
+      "margin_pct": 6.299212598425196,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#fb6a4a"
+      }
+    },
+    {
+      "county": "WATERTOWN - C 0009",
+      "precinct_key": "WATERTOWN - C 0009",
+      "geoids": [
+        "55055002432"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 58,
+      "rep_votes": 78,
+      "other_votes": 10,
+      "total_votes": 146,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 20,
+      "margin_pct": 13.310580204778159,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#cb181d"
+      }
+    },
+    {
+      "county": "WATERTOWN - C 0010",
+      "precinct_key": "WATERTOWN - C 0010",
+      "geoids": [
+        "55055002438"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 58,
+      "rep_votes": 78,
+      "other_votes": 10,
+      "total_votes": 146,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 20,
+      "margin_pct": 13.310580204778159,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#cb181d"
+      }
+    },
+    {
+      "county": "WATERTOWN - C 0011",
+      "precinct_key": "WATERTOWN - C 0011",
+      "geoids": [
+        "55055002448"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 79,
+      "rep_votes": 98,
+      "other_votes": 8,
+      "total_votes": 185,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 18,
+      "margin_pct": 10.0,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#cb181d"
+      }
+    },
+    {
+      "county": "WATERTOWN - C 0012",
+      "precinct_key": "WATERTOWN - C 0012",
+      "geoids": [
+        "55055002442"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 79,
+      "rep_votes": 98,
+      "other_votes": 8,
+      "total_votes": 185,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 18,
+      "margin_pct": 10.0,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#cb181d"
+      }
+    },
+    {
+      "county": "WATERTOWN - C 0013",
+      "precinct_key": "WATERTOWN - C 0013",
+      "geoids": [
+        "55055002474"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 78,
+      "rep_votes": 122,
+      "other_votes": 8,
+      "total_votes": 208,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 44,
+      "margin_pct": 21.103117505995204,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "WATERTOWN - C 0014",
+      "precinct_key": "WATERTOWN - C 0014",
+      "geoids": [
+        "55055002475"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 78,
+      "rep_votes": 122,
+      "other_votes": 8,
+      "total_votes": 208,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 44,
+      "margin_pct": 21.103117505995204,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "WATERTOWN - C 0015",
+      "precinct_key": "WATERTOWN - C 0015",
+      "geoids": [
+        "55055002446"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 96,
+      "rep_votes": 117,
+      "other_votes": 10,
+      "total_votes": 222,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 21,
+      "margin_pct": 9.438202247191011,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#fb6a4a"
+      }
+    },
+    {
+      "county": "WATERTOWN - C 0016",
+      "precinct_key": "WATERTOWN - C 0016",
+      "geoids": [
+        "55055002476"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 96,
+      "rep_votes": 117,
+      "other_votes": 10,
+      "total_votes": 222,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 21,
+      "margin_pct": 9.438202247191011,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#fb6a4a"
+      }
+    },
+    {
+      "county": "WATERTOWN - C 0017",
+      "precinct_key": "WATERTOWN - C 0017",
+      "geoids": [
+        "55055002477"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 118,
+      "rep_votes": 216,
+      "other_votes": 11,
+      "total_votes": 344,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 98,
+      "margin_pct": 28.30188679245283,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "WATERTOWN - C 0018",
+      "precinct_key": "WATERTOWN - C 0018",
+      "geoids": [
+        "55055002450"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 118,
+      "rep_votes": 216,
+      "other_votes": 11,
+      "total_votes": 344,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 98,
+      "margin_pct": 28.30188679245283,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "WATERTOWN - C 0019",
+      "precinct_key": "WATERTOWN - C 0019",
+      "geoids": [
+        "55055002464"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 28,
+      "rep_votes": 32,
+      "other_votes": 4,
+      "total_votes": 64,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 4,
+      "margin_pct": 6.299212598425196,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#fb6a4a"
+      }
+    },
+    {
+      "county": "WATERTOWN - T 0001",
+      "precinct_key": "WATERTOWN - T 0001",
+      "geoids": [
+        "55055002479"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 81,
+      "rep_votes": 162,
+      "other_votes": 14,
+      "total_votes": 256,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 80,
+      "margin_pct": 31.4453125,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "WATERTOWN - T 0002",
+      "precinct_key": "WATERTOWN - T 0002",
+      "geoids": [
+        "55055002487"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 81,
+      "rep_votes": 162,
+      "other_votes": 14,
+      "total_votes": 256,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 80,
+      "margin_pct": 31.4453125,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "WESTFORD - T 0003",
+      "precinct_key": "WESTFORD - T 0003",
+      "geoids": [
+        "55027001590"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 0,
+      "rep_votes": 2,
+      "other_votes": 0,
+      "total_votes": 2,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": 2,
+      "margin_pct": 100.0,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "WINDSOR - V 0003",
+      "precinct_key": "WINDSOR - V 0003",
+      "geoids": [
+        "55025001453"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 121,
+      "rep_votes": 91,
+      "other_votes": 9,
+      "total_votes": 222,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -30,
+      "margin_pct": -13.513513513513514,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      }
+    },
+    {
+      "county": "WINDSOR - V 0004",
+      "precinct_key": "WINDSOR - V 0004",
+      "geoids": [
+        "55025001455"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 121,
+      "rep_votes": 91,
+      "other_votes": 9,
+      "total_votes": 222,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -30,
+      "margin_pct": -13.513513513513514,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      }
+    },
+    {
+      "county": "WINDSOR - V 0005",
+      "precinct_key": "WINDSOR - V 0005",
+      "geoids": [
+        "55025001456"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 121,
+      "rep_votes": 91,
+      "other_votes": 9,
+      "total_votes": 222,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -30,
+      "margin_pct": -13.513513513513514,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      }
+    },
+    {
+      "county": "YORK - T 0001",
+      "precinct_key": "YORK - T 0001",
+      "geoids": [
+        "55025001458"
+      ],
+      "election_type": "special_general",
+      "dem_votes": 95,
+      "rep_votes": 74,
+      "other_votes": 3,
+      "total_votes": 172,
+      "dem_candidate": "Melissa Winker",
+      "rep_candidate": "John Jagler",
+      "margin": -21,
+      "margin_pct": -12.209302325581394,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      }
+    }
+  ]
+}

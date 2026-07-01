@@ -10268,8 +10268,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Cache destroyer token for static data requests.
     // Bump this value when you want browsers/CDNs to fetch fresh files immediately.
-    const DATA_CACHE_BUSTER = '2026-06-30-1';
-    const APP_BUILD_ID = '2026-06-30-1';
+    const DATA_CACHE_BUSTER = '2026-06-30-2';
+    const APP_BUILD_ID = '2026-06-30-2';
 
     function withCacheBuster(path) {
       const p = (path || '').toString().trim();
@@ -10343,6 +10343,7 @@ document.addEventListener('DOMContentLoaded', function() {
         ],
         district_election: withBase('./data/wi_district_results_2022_lines.json'),
         district_contests_dir: withBase('./data/district_contests'),
+        precinct_contests_dir: withBase('./data/precinct_contests'),
         district_contests_2020_2024_dir: '',
         district_contests_dirs: {
           '2022': withBase('./data/district_contests'),
@@ -10824,6 +10825,7 @@ document.addEventListener('DOMContentLoaded', function() {
     let districtElectionDataLoadFailed = false;
     let electionData = null; // Flattened array for compatibility
     let contestManifest = [];
+    let precinctContestManifest = [];
     let districtManifest = [];
     let districtManifestByLines = { '2022': [], '2024': [], '2026': [] };
     let currentDistrictLinesYear = 2022;
@@ -10831,12 +10833,16 @@ document.addEventListener('DOMContentLoaded', function() {
     let congressionalData = []; // Optional legacy district-level table
     let candidateNameCache = new Map();
     let contestSliceCache = new Map();
+    let precinctContestSliceCache = new Map();
     let districtSliceCache = new Map();
     // In-flight request dedupe (promise reuse) for atlas-wide loads.
     const jsonInflightByPath = new Map(); // requestPath -> Promise<any>
     const csvInflightByPath = new Map(); // requestPath -> Promise<string>
     const contestSliceInflight = new Map(); // `${contestType}_${year}` -> Promise<rows[]>
+    const precinctContestSliceInflight = new Map(); // `${contestType}_${year}` -> Promise<rows[]>
     const districtSliceInflight = new Map(); // `${linesYear}|${scope}_${contestType}_${year}` -> Promise<payload>
+    let precinctContestManifestInflight = null;
+    let precinctContestManifestLoadFailed = false;
     let countyTrendSeriesCache = new Map(); // Map<string key, Array<seriesRow>> (in-session cache)
     const districtCarryCrosswalkCache = new Map();
     let districtsInfo = null;
@@ -10994,6 +11000,121 @@ document.addEventListener('DOMContentLoaded', function() {
       if (!modeledDef) return 'raw';
       const sig = getModeledDefSignature(modeledDef);
       return sig ? `modeled:${sig}` : 'modeled';
+    }
+
+    function mapSlicePayloadRows(payloadRows, contestType, year, rowNameField = 'county') {
+      return (payloadRows || []).map(r => ({
+        year: Number(year),
+        county: r[rowNameField] || r.county || '',
+        precinct_key: r.precinct_key || r[rowNameField] || r.county || '',
+        geoids: Array.isArray(r.geoids) ? r.geoids : [],
+        [`${contestType}_dem`]: Number(r.dem_votes) || 0,
+        [`${contestType}_rep`]: Number(r.rep_votes) || 0,
+        [`${contestType}_other`]: Number(r.other_votes) || 0,
+        [`${contestType}_total`]: Number(r.total_votes) || 0,
+        [`${contestType}_dem_candidate`]: r.dem_candidate || '',
+        [`${contestType}_rep_candidate`]: r.rep_candidate || '',
+        [`${contestType}_margin`]: Number(r.margin) || 0,
+        [`${contestType}_margin_pct`]: Number(r.margin_pct) || 0,
+        [`${contestType}_winner`]: r.winner || '',
+        [`${contestType}_color`]: r.color || ''
+      }));
+    }
+
+    async function ensurePrecinctContestManifestLoaded() {
+      if (Array.isArray(precinctContestManifest) && precinctContestManifest.length > 0) return precinctContestManifest;
+      if (precinctContestManifestLoadFailed) return [];
+      if (precinctContestManifestInflight) return precinctContestManifestInflight;
+      const precinctDir = (CONFIG.paths?.precinct_contests_dir || '').toString().trim();
+      if (!precinctDir) {
+        precinctContestManifestLoadFailed = true;
+        return [];
+      }
+      precinctContestManifestInflight = (async () => {
+        try {
+          const manifest = await loadJSON(`${precinctDir}/manifest.json`);
+          precinctContestManifest = manifest?.files || [];
+          return precinctContestManifest;
+        } catch (err) {
+          precinctContestManifestLoadFailed = true;
+          console.warn('Precinct contest manifest not loaded:', err?.message || err);
+          precinctContestManifest = [];
+          return [];
+        } finally {
+          precinctContestManifestInflight = null;
+        }
+      })();
+      return precinctContestManifestInflight;
+    }
+
+    async function loadPrecinctContestSlice(contestType, year) {
+      const key = `${contestType}_${year}`;
+      if (precinctContestSliceCache.has(key)) return precinctContestSliceCache.get(key);
+      if (precinctContestSliceInflight.has(key)) return precinctContestSliceInflight.get(key);
+      const p = atlasPerf(`slice.precinct:${key}`, async () => {
+        const precinctDir = (CONFIG.paths?.precinct_contests_dir || '').toString().trim();
+        if (!precinctDir) {
+          precinctContestSliceCache.set(key, []);
+          return [];
+        }
+        const manifest = await ensurePrecinctContestManifestLoaded();
+        const entry = (Array.isArray(manifest) ? manifest : []).find(e => e && e.contest_type === contestType && Number(e.year) === Number(year) && !e.scope) || null;
+        if (!entry) {
+          precinctContestSliceCache.set(key, []);
+          return [];
+        }
+        try {
+          const payload = await loadJSON(`${precinctDir}/${String(entry.file || '').trim()}`);
+          const rows = mapSlicePayloadRows(payload?.rows || [], contestType, year, 'precinct_key');
+          precinctContestSliceCache.set(key, rows);
+          return rows;
+        } catch (err) {
+          console.warn('Precinct contest slice not loaded:', contestType, year, err?.message || err);
+          precinctContestSliceCache.set(key, []);
+          return [];
+        }
+      });
+      precinctContestSliceInflight.set(key, p);
+      try {
+        return await p;
+      } finally {
+        precinctContestSliceInflight.delete(key);
+      }
+    }
+
+    function buildAdjustedPrecinctResultMapFromSliceRows(rows, contestType) {
+      const out = new Map();
+      const normalize = (s) => (s || '').toString().replace(/[^a-z0-9 .\-]/gi, '').replace(/\s+/g, ' ').trim().toUpperCase();
+      (rows || []).forEach(row => {
+        const rowName = (row?.precinct_key || row?.county || '').toString().trim();
+        const norm = normalize(rowName);
+        if (!norm) return;
+        const countyOnly = rowName.includes(' - ') ? rowName.split(' - ')[0] : rowName;
+        const countyNorm = normalize(countyOnly);
+        const rawDemVotes = Number(row?.[`${contestType}_dem`] || 0);
+        const rawRepVotes = Number(row?.[`${contestType}_rep`] || 0);
+        const rawOtherVotes = Number(row?.[`${contestType}_other`] || 0);
+        const rawTotalVotes = Number(row?.[`${contestType}_total`] || 0);
+        const adjusted = applyScenarioShiftToVotes(countyNorm, rawDemVotes, rawRepVotes, rawOtherVotes, rawTotalVotes);
+        const demVotes = Number(adjusted.dem || 0);
+        const repVotes = Number(adjusted.rep || 0);
+        const otherVotes = Number(adjusted.other || 0);
+        const totalVotes = Number(adjusted.total || 0);
+        const adjustedSigned = signedMarginPctFromVotes(demVotes, repVotes, totalVotes);
+        const adjustedWinner = adjustedSigned > 0 ? 'REPUBLICAN' : (adjustedSigned < 0 ? 'DEMOCRAT' : 'TIE');
+        out.set(norm, {
+          ...row,
+          county: rowName,
+          precinct_key: rowName,
+          [`${contestType}_dem`]: demVotes,
+          [`${contestType}_rep`]: repVotes,
+          [`${contestType}_other`]: otherVotes,
+          [`${contestType}_total`]: totalVotes,
+          [`${contestType}_margin_pct`]: adjustedSigned,
+          [`${contestType}_winner`]: adjustedWinner
+        });
+      });
+      return out;
     }
 
     // --- Optional atlas-wide perf instrumentation (disabled by default) ---
@@ -32818,6 +32939,15 @@ document.addEventListener('DOMContentLoaded', function() {
           } catch (_) {}
 	        return Array.from(out);
 	      }
+      let prevPrecinctRows = [];
+      if (includePrecinctMargins) {
+        try {
+          prevPrecinctRows = await loadPrecinctContestSlice(contestType, prevMeta.year);
+        } catch (_) {
+          prevPrecinctRows = [];
+        }
+      }
+
       (prevMeta.rows || []).forEach(r => {
         const rowName = (r.county || '').toString();
         const countyOnly = rowName.includes(' - ') ? rowName.split(' - ')[0] : rowName;
@@ -32836,6 +32966,17 @@ document.addEventListener('DOMContentLoaded', function() {
           precinctNormVariantsLite(rowName).forEach(n => prevPrecinctMarginByNorm.set(n, mPct));
         }
       });
+
+      if (includePrecinctMargins && Array.isArray(prevPrecinctRows) && prevPrecinctRows.length > 0) {
+        prevPrecinctMarginByNorm.clear();
+        (prevPrecinctRows || []).forEach(r => {
+          const rowName = (r.precinct_key || r.county || '').toString();
+          const precinctNorm = (rowName || '').toString().replace(/[^a-z0-9 .\-]/gi, '').replace(/\s+/g, ' ').trim().toUpperCase();
+          if (!precinctNorm) return;
+          const mPct = Number(r[`${contestType}_margin_pct`] || 0);
+          prevPrecinctMarginByNorm.set(precinctNorm, mPct);
+        });
+      }
 
       vizPrevCache = {
         contestType,
@@ -33282,12 +33423,23 @@ document.addEventListener('DOMContentLoaded', function() {
       // If we already have cached county aggregates, reusing them keeps normal contest switches fast.
       let precinctCacheKey = '';
       let skipPrecinctRowBuild = false;
+      let precomputedPrecinctRows = [];
       currentPrecinctResults = needsPrecinctDetail ? new Map() : null;
       if (needsPrecinctDetail) {
-        const matchSig = `code:${precinctIdx ? 1 : 0}|alias:${precinctAliasIdx ? 1 : 0}|var:${precinctVariantOverridesByCounty ? 1 : 0}`;
+        try {
+          precomputedPrecinctRows = await loadPrecinctContestSlice(contestType, year);
+        } catch (_) {
+          precomputedPrecinctRows = [];
+        }
+        const matchSig = Array.isArray(precomputedPrecinctRows) && precomputedPrecinctRows.length > 0
+          ? 'precomputed:1'
+          : `code:${precinctIdx ? 1 : 0}|alias:${precinctAliasIdx ? 1 : 0}|var:${precinctVariantOverridesByCounty ? 1 : 0}`;
         precinctCacheKey = `${aggCacheKey}|precinctMatch:${matchSig}`;
         if (precinctAdjustedRowCache.has(precinctCacheKey)) {
           currentPrecinctResults = precinctAdjustedRowCache.get(precinctCacheKey) || new Map();
+          skipPrecinctRowBuild = true;
+        } else if (Array.isArray(precomputedPrecinctRows) && precomputedPrecinctRows.length > 0) {
+          currentPrecinctResults = buildAdjustedPrecinctResultMapFromSliceRows(precomputedPrecinctRows, contestType);
           skipPrecinctRowBuild = true;
         }
       }
@@ -33457,7 +33609,7 @@ document.addEventListener('DOMContentLoaded', function() {
             });
           } catch (_) {}
         }
-        if (needsPrecinctDetail && !skipPrecinctRowBuild && precinctCacheKey && currentPrecinctResults) {
+        if (needsPrecinctDetail && precinctCacheKey && currentPrecinctResults && !precinctAdjustedRowCache.has(precinctCacheKey)) {
           try { precinctAdjustedRowCache.set(precinctCacheKey, currentPrecinctResults); } catch (_) {}
         }
       }
