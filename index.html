@@ -763,6 +763,45 @@ body.focus-active.hover-preview-active .vote-counter {
   margin-bottom: 8px;
 }
 
+#hover-tooltip[data-context="votehub-results"] .vhr-pop-card {
+  display: grid;
+  grid-template-columns: minmax(0, 1.2fr) minmax(84px, 0.8fr);
+  gap: 10px 12px;
+  margin: 0 0 10px;
+  padding: 0 0 10px;
+  border-bottom: 1px solid rgba(148,163,184,0.22);
+}
+
+#hover-tooltip[data-context="votehub-results"] .vhr-pop-left {
+  min-width: 0;
+}
+
+#hover-tooltip[data-context="votehub-results"] .vhr-pop-line {
+  color: #15803d;
+  font-size: 12.5px;
+  line-height: 1.38;
+  font-weight: 800;
+}
+
+#hover-tooltip[data-context="votehub-results"] .vhr-pop-line .statewide {
+  opacity: 0.92;
+}
+
+#hover-tooltip[data-context="votehub-results"] .vhr-pop-right {
+  text-align: right;
+  color: #15803d;
+  font-size: 12.5px;
+  line-height: 1.45;
+  font-weight: 800;
+}
+
+#hover-tooltip[data-context="votehub-results"] .vhr-pop-label {
+  display: block;
+  margin-top: 2px;
+  font-size: 13px;
+  font-weight: 900;
+}
+
 #hover-tooltip[data-context="votehub-results"] .vhr-winner {
   font-size: 12.5px;
   font-weight: 900;
@@ -10331,8 +10370,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Cache destroyer token for static data requests.
     // Bump this value when you want browsers/CDNs to fetch fresh files immediately.
-    const DATA_CACHE_BUSTER = '2026-07-01-2';
-    const APP_BUILD_ID = '2026-07-01-2';
+    const DATA_CACHE_BUSTER = '2026-07-02-3';
+    const APP_BUILD_ID = '2026-07-02-3';
 
     function withCacheBuster(path) {
       const p = (path || '').toString().trim();
@@ -26778,28 +26817,36 @@ document.addEventListener('DOMContentLoaded', function() {
           line: `Population change: ${signAbs}${Math.round(abs).toLocaleString()} (${pctLine})`,
           raw: `${p2020.toLocaleString()} -> ${p2025.toLocaleString()}`,
           tone,
-          label: toneLabel
+          label: toneLabel,
+          p2020,
+          p2025,
+          abs,
+          pct,
+          statePct
         };
       })();
-      const popChangeTopLineDesktop = (() => {
+      const popChangeCardHtml = (() => {
         if (!popChangeHeaderMeta) return '';
-        if (!isDesktopTooltipMode()) return '';
+        const absValue = Number(popChangeHeaderMeta.abs);
+        const pctValue = Number(popChangeHeaderMeta.pct);
+        const statePctValue = Number(popChangeHeaderMeta.statePct);
+        if (!Number.isFinite(absValue) || !Number.isFinite(pctValue)) return '';
+        const signAbs = absValue > 0 ? '+' : '';
+        const signPct = pctValue > 0 ? '+' : '';
+        const statewideLine = Number.isFinite(statePctValue)
+          ? `${signPct}${pctValue.toFixed(1)}% (${statePctValue >= 0 ? '+' : ''}${statePctValue.toFixed(1)}% statewide)`
+          : `${signPct}${pctValue.toFixed(1)}%`;
         return `
-          <div class="tooltip-insight tooltip-insight-card ${escapeHtml(popChangeHeaderMeta.tone)}">
-            <span class="tooltip-insight-value">${escapeHtml(popChangeHeaderMeta.line)}</span>
-            <span class="tooltip-insight-subvalue">${escapeHtml(popChangeHeaderMeta.raw)}</span>
-            <span class="tooltip-insight-tone">${escapeHtml(popChangeHeaderMeta.label)}</span>
-          </div>
-        `.trim();
-      })();
-      const popChangeTopLineMobile = (() => {
-        if (!popChangeHeaderMeta) return '';
-        if (isDesktopTooltipMode()) return '';
-        return `
-          <div class="tooltip-insight tooltip-insight-card ${escapeHtml(popChangeHeaderMeta.tone)}">
-            <span class="tooltip-insight-value">${escapeHtml(popChangeHeaderMeta.line)}</span>
-            <span class="tooltip-insight-subvalue">${escapeHtml(popChangeHeaderMeta.raw)}</span>
-            <span class="tooltip-insight-tone">${escapeHtml(popChangeHeaderMeta.label)}</span>
+          <div class="vhr-pop-card">
+            <div class="vhr-pop-left">
+              <div class="vhr-pop-line">Population change: ${escapeHtml(`${signAbs}${Math.round(absValue).toLocaleString()}`)}</div>
+              <div class="vhr-pop-line"><span class="statewide">(${escapeHtml(statewideLine)})</span></div>
+            </div>
+            <div class="vhr-pop-right">
+              <div>${escapeHtml(Math.round(Number(popChangeHeaderMeta.p2020)).toLocaleString())} -></div>
+              <div>${escapeHtml(Math.round(Number(popChangeHeaderMeta.p2025)).toLocaleString())}</div>
+              <span class="vhr-pop-label">${escapeHtml(popChangeHeaderMeta.label)}</span>
+            </div>
           </div>
         `.trim();
       })();
@@ -26830,11 +26877,12 @@ document.addEventListener('DOMContentLoaded', function() {
         currentSignedMarginPct: signedMarginPct,
         flipYearLabel: vizPrevCache?.prevYear || null,
         districtType: 'County',
-        showWinnerLine: true,
+        showWinnerLine: currentVizMode !== 'population_change',
         shiftLineText: Number.isFinite(shiftDelta) ? formatShiftLabel(shiftDelta) : '',
         shiftToneClass: shiftClass,
         shiftYearLabel: (vizShiftCache?.prevYear && vizShiftCache?.year) ? `${vizShiftCache.prevYear}→${vizShiftCache.year}` : '',
-        showShiftLine: currentVizMode === 'shift' && Number.isFinite(shiftDelta) && !!vizShiftCache?.prevYear
+        showShiftLine: currentVizMode === 'shift' && Number.isFinite(shiftDelta) && !!vizShiftCache?.prevYear,
+        popChangeCardHtml
       });
       const detailLines = `
         ${finalInsight ? `<div class="tooltip-insight">${escapeHtml(finalInsight)}</div>` : ''}
@@ -26848,8 +26896,6 @@ document.addEventListener('DOMContentLoaded', function() {
         ${demoLine}
       `.trim();
       const inner = `
-        ${popChangeTopLineDesktop}
-        ${popChangeTopLineMobile}
         ${votehubCore}
         <details class="tooltip-more" aria-label="More details">
           <summary>More details</summary>
@@ -29289,7 +29335,8 @@ document.addEventListener('DOMContentLoaded', function() {
       showShiftLine,
       winnerLineToneClass,
       winnerRawLeadToneClass,
-      marginPrecision
+      marginPrecision,
+      popChangeCardHtml
     } = {}) {
       const dVotes = Number(demVotes || 0);
       const rVotes = Number(repVotes || 0);
@@ -29367,6 +29414,7 @@ document.addEventListener('DOMContentLoaded', function() {
         <div class="votehub-results-card">
           <div class="vhr-title">${escapeHtml((title || '').toString())}</div>
           ${(subtitle || districtType) ? `<div class="vhr-subtitle">${escapeHtml(String(subtitle || districtType || ''))}</div>` : ''}
+          ${String(popChangeCardHtml || '').trim()}
           ${winnerLine}
           ${flipLine}
           ${shiftLine}
