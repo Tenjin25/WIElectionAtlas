@@ -729,11 +729,11 @@ body.focus-active.hover-preview-active .vote-counter {
   background: rgba(3,7,18,0.96);
   color: #e5e7eb;
   border: 1px solid rgba(148,163,184,0.28);
-  border-radius: 16px;
+  border-radius: 8px;
   box-shadow: 0 18px 44px rgba(0,0,0,0.34);
   padding: 0;
-  max-width: 390px;
-  min-width: 300px;
+  max-width: 310px;
+  min-width: 250px;
   backdrop-filter: blur(10px);
   opacity: 1;
 }
@@ -766,8 +766,8 @@ body.focus-active.hover-preview-active .vote-counter {
 
 #hover-tooltip[data-context="votehub-results"] .vhr-pop-card {
   display: grid;
-  grid-template-columns: minmax(0, 1.2fr) minmax(108px, 0.8fr);
-  gap: 12px 18px;
+  grid-template-columns: minmax(0, 1.2fr) minmax(92px, 0.8fr);
+  gap: 12px 14px;
   margin: 0 0 16px;
   padding: 0 0 16px;
   border-bottom: 1px solid rgba(148,163,184,0.20);
@@ -956,7 +956,7 @@ body.focus-active.hover-preview-active .vote-counter {
   justify-content: flex-start;
   min-height: 56px;
   padding: 14px 16px;
-  border-radius: 14px;
+  border-radius: 8px;
   background: rgba(15, 23, 42, 0.62);
   border-color: rgba(51, 65, 85, 0.72);
   color: #e5e7eb;
@@ -26842,35 +26842,28 @@ document.addEventListener('DOMContentLoaded', function() {
           line: `Population change: ${signAbs}${Math.round(abs).toLocaleString()} (${pctLine})`,
           raw: `${p2020.toLocaleString()} -> ${p2025.toLocaleString()}`,
           tone,
-          label: toneLabel,
-          p2020,
-          p2025,
-          abs,
-          pct,
-          statePct
+          label: toneLabel
         };
       })();
-      const popChangeCardHtml = (() => {
+      const popChangeTopLineDesktop = (() => {
         if (!popChangeHeaderMeta) return '';
-        const absValue = Number(popChangeHeaderMeta.abs);
-        const pctValue = Number(popChangeHeaderMeta.pct);
-        const statePctValue = Number(popChangeHeaderMeta.statePct);
-        const signAbs = absValue > 0 ? '+' : '';
-        const signPct = pctValue > 0 ? '+' : '';
-        const statewideLine = Number.isFinite(statePctValue)
-          ? `${signPct}${pctValue.toFixed(1)}% (${statePctValue >= 0 ? '+' : ''}${statePctValue.toFixed(1)}% statewide)`
-          : `${signPct}${pctValue.toFixed(1)}%`;
+        if (!isDesktopTooltipMode()) return '';
         return `
-          <div class="vhr-pop-card">
-            <div class="vhr-pop-left">
-              <div class="vhr-pop-line">Population change: ${escapeHtml(`${signAbs}${Math.round(absValue).toLocaleString()}`)}</div>
-              <div class="vhr-pop-line"><span class="statewide">(${escapeHtml(statewideLine)})</span></div>
-            </div>
-            <div class="vhr-pop-right">
-              <div>${escapeHtml(Math.round(Number(popChangeHeaderMeta.p2020)).toLocaleString())} -></div>
-              <div>${escapeHtml(Math.round(Number(popChangeHeaderMeta.p2025)).toLocaleString())}</div>
-              <span class="vhr-pop-label">${escapeHtml(popChangeHeaderMeta.label)}</span>
-            </div>
+          <div class="tooltip-insight tooltip-insight-card ${escapeHtml(popChangeHeaderMeta.tone)}">
+            <span class="tooltip-insight-value">${escapeHtml(popChangeHeaderMeta.line)}</span>
+            <span class="tooltip-insight-subvalue">${escapeHtml(popChangeHeaderMeta.raw)}</span>
+            <span class="tooltip-insight-tone">${escapeHtml(popChangeHeaderMeta.label)}</span>
+          </div>
+        `.trim();
+      })();
+      const popChangeTopLineMobile = (() => {
+        if (!popChangeHeaderMeta) return '';
+        if (isDesktopTooltipMode()) return '';
+        return `
+          <div class="tooltip-insight tooltip-insight-card ${escapeHtml(popChangeHeaderMeta.tone)}">
+            <span class="tooltip-insight-value">${escapeHtml(popChangeHeaderMeta.line)}</span>
+            <span class="tooltip-insight-subvalue">${escapeHtml(popChangeHeaderMeta.raw)}</span>
+            <span class="tooltip-insight-tone">${escapeHtml(popChangeHeaderMeta.label)}</span>
           </div>
         `.trim();
       })();
@@ -26901,12 +26894,11 @@ document.addEventListener('DOMContentLoaded', function() {
         currentSignedMarginPct: signedMarginPct,
         flipYearLabel: vizPrevCache?.prevYear || null,
         districtType: 'County',
-        showWinnerLine: currentVizMode !== 'population_change',
+        showWinnerLine: true,
         shiftLineText: Number.isFinite(shiftDelta) ? formatShiftLabel(shiftDelta) : '',
         shiftToneClass: shiftClass,
         shiftYearLabel: (vizShiftCache?.prevYear && vizShiftCache?.year) ? `${vizShiftCache.prevYear}->${vizShiftCache.year}` : '',
-        showShiftLine: currentVizMode === 'shift' && Number.isFinite(shiftDelta) && !!vizShiftCache?.prevYear,
-        popChangeCardHtml
+        showShiftLine: currentVizMode === 'shift' && Number.isFinite(shiftDelta) && !!vizShiftCache?.prevYear
       });
       const detailLines = `
         ${finalInsight ? `<div class="tooltip-insight">${escapeHtml(finalInsight)}</div>` : ''}
@@ -26920,6 +26912,8 @@ document.addEventListener('DOMContentLoaded', function() {
         ${demoLine}
       `.trim();
       const inner = `
+        ${popChangeTopLineDesktop}
+        ${popChangeTopLineMobile}
         ${votehubCore}
         <details class="tooltip-more" aria-label="More details">
           <summary>More details</summary>
@@ -29359,8 +29353,7 @@ document.addEventListener('DOMContentLoaded', function() {
       showShiftLine,
       winnerLineToneClass,
       winnerRawLeadToneClass,
-      marginPrecision,
-      popChangeCardHtml
+      marginPrecision
     } = {}) {
       const dVotes = Number(demVotes || 0);
       const rVotes = Number(repVotes || 0);
@@ -29438,7 +29431,6 @@ document.addEventListener('DOMContentLoaded', function() {
         <div class="votehub-results-card">
           <div class="vhr-title">${escapeHtml((title || '').toString())}</div>
           ${(subtitle || districtType) ? `<div class="vhr-subtitle">${escapeHtml(String(subtitle || districtType || ''))}</div>` : ''}
-          ${String(popChangeCardHtml || '').trim()}
           ${winnerLine}
           ${flipLine}
           ${shiftLine}
