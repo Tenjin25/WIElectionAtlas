@@ -728,18 +728,18 @@ body.focus-active.hover-preview-active .vote-counter {
 #hover-tooltip[data-context="votehub-results"] {
   background: rgba(3,7,18,0.96);
   color: #e5e7eb;
-  border: 1px solid rgba(148,163,184,0.24);
-  border-radius: 8px;
-  box-shadow: 0 8px 26px rgba(0,0,0,0.22);
+  border: 1px solid rgba(148,163,184,0.28);
+  border-radius: 16px;
+  box-shadow: 0 18px 44px rgba(0,0,0,0.34);
   padding: 0;
-  max-width: 310px;
-  min-width: 250px;
+  max-width: 390px;
+  min-width: 300px;
   backdrop-filter: blur(10px);
   opacity: 1;
 }
 
 #hover-tooltip[data-context="votehub-results"] .votehub-results-card {
-  padding: 12px 14px;
+  padding: 22px 18px 0;
   font-family: inherit;
 }
 
@@ -748,19 +748,60 @@ body.focus-active.hover-preview-active .vote-counter {
 }
 
 #hover-tooltip[data-context="votehub-results"] .vhr-title {
-  font-size: 13px;
-  font-weight: 800;
+  font-size: 17px;
+  line-height: 1.2;
+  font-weight: 850;
   color: #f8fafc;
-  margin-bottom: 2px;
+  margin-bottom: 8px;
 }
 
 #hover-tooltip[data-context="votehub-results"] .vhr-subtitle {
-  font-size: 10.5px;
+  font-size: 11px;
   font-weight: 800;
   text-transform: uppercase;
   letter-spacing: 0.06em;
   color: #94a3b8;
-  margin-bottom: 8px;
+  margin-bottom: 14px;
+}
+
+#hover-tooltip[data-context="votehub-results"] .vhr-pop-card {
+  display: grid;
+  grid-template-columns: minmax(0, 1.2fr) minmax(108px, 0.8fr);
+  gap: 12px 18px;
+  margin: 0 0 16px;
+  padding: 0 0 16px;
+  border-bottom: 1px solid rgba(148,163,184,0.20);
+}
+
+#hover-tooltip[data-context="votehub-results"] .vhr-pop-left {
+  min-width: 0;
+}
+
+#hover-tooltip[data-context="votehub-results"] .vhr-pop-line {
+  color: #16a34a;
+  font-size: 13px;
+  line-height: 1.45;
+  font-weight: 800;
+}
+
+#hover-tooltip[data-context="votehub-results"] .vhr-pop-line .statewide {
+  opacity: 0.9;
+}
+
+#hover-tooltip[data-context="votehub-results"] .vhr-pop-right {
+  text-align: right;
+  color: #16a34a;
+  font-size: 13px;
+  line-height: 1.55;
+  font-weight: 800;
+  font-variant-numeric: tabular-nums;
+}
+
+#hover-tooltip[data-context="votehub-results"] .vhr-pop-label {
+  display: block;
+  margin-top: 2px;
+  font-size: 14px;
+  font-weight: 900;
 }
 
 #hover-tooltip[data-context="votehub-results"] .vhr-winner {
@@ -788,9 +829,9 @@ body.focus-active.hover-preview-active .vote-counter {
   display: grid;
   grid-template-columns: 10px minmax(0, 1fr) auto auto;
   align-items: center;
-  gap: 8px;
-  padding: 5px 0;
-  font-size: 12.5px;
+  gap: 10px;
+  padding: 7px 0;
+  font-size: 13px;
   color: #e2e8f0;
 }
 
@@ -818,6 +859,7 @@ body.focus-active.hover-preview-active .vote-counter {
   text-overflow: ellipsis;
   white-space: nowrap;
   font-weight: 800;
+  color: #e5e7eb;
 }
 
 #hover-tooltip[data-context="votehub-results"] .vhr-votes,
@@ -838,16 +880,16 @@ body.focus-active.hover-preview-active .vote-counter {
 }
 
 #hover-tooltip[data-context="votehub-results"] .vhr-total {
-  margin-top: 8px;
-  padding-top: 8px;
+  margin-top: 16px;
+  padding: 14px 0 18px;
   border-top: 1px solid rgba(148,163,184,0.22);
-  font-size: 11.5px;
+  font-size: 12px;
   color: #94a3b8;
 }
 
 #hover-tooltip[data-context="votehub-results"] .vhr-flip {
-  margin: 6px 0 8px;
-  font-size: 11.5px;
+  margin: 0 0 12px;
+  font-size: 12px;
   font-weight: 800;
   color: #cbd5e1;
 }
@@ -902,6 +944,28 @@ body.focus-active.hover-preview-active .vote-counter {
 
 #hover-tooltip[data-context="votehub-results"] .vhr-shift-value.tie {
   color: #cbd5e1;
+}
+
+#hover-tooltip[data-context="votehub-results"] .tooltip-more {
+  margin: 0;
+  padding: 14px 0 0;
+  border-top: 1px solid rgba(148,163,184,0.18);
+}
+
+#hover-tooltip[data-context="votehub-results"] .tooltip-more summary {
+  justify-content: flex-start;
+  min-height: 56px;
+  padding: 14px 16px;
+  border-radius: 14px;
+  background: rgba(15, 23, 42, 0.62);
+  border-color: rgba(51, 65, 85, 0.72);
+  color: #e5e7eb;
+  font-size: 12px;
+  letter-spacing: 0.04em;
+}
+
+#hover-tooltip[data-context="votehub-results"] .tooltip-more-body {
+  padding-bottom: 18px;
 }
 
 body.focus-active #hover-tooltip[data-context="preview"] {
@@ -10331,8 +10395,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Cache destroyer token for static data requests.
     // Bump this value when you want browsers/CDNs to fetch fresh files immediately.
-    const DATA_CACHE_BUSTER = '2026-07-01-2';
-    const APP_BUILD_ID = '2026-07-01-2';
+    const DATA_CACHE_BUSTER = '2026-07-02-1';
+    const APP_BUILD_ID = '2026-07-02-1';
 
     function withCacheBuster(path) {
       const p = (path || '').toString().trim();
@@ -26778,28 +26842,35 @@ document.addEventListener('DOMContentLoaded', function() {
           line: `Population change: ${signAbs}${Math.round(abs).toLocaleString()} (${pctLine})`,
           raw: `${p2020.toLocaleString()} -> ${p2025.toLocaleString()}`,
           tone,
-          label: toneLabel
+          label: toneLabel,
+          p2020,
+          p2025,
+          abs,
+          pct,
+          statePct
         };
       })();
-      const popChangeTopLineDesktop = (() => {
+      const popChangeCardHtml = (() => {
         if (!popChangeHeaderMeta) return '';
-        if (!isDesktopTooltipMode()) return '';
+        const absValue = Number(popChangeHeaderMeta.abs);
+        const pctValue = Number(popChangeHeaderMeta.pct);
+        const statePctValue = Number(popChangeHeaderMeta.statePct);
+        const signAbs = absValue > 0 ? '+' : '';
+        const signPct = pctValue > 0 ? '+' : '';
+        const statewideLine = Number.isFinite(statePctValue)
+          ? `${signPct}${pctValue.toFixed(1)}% (${statePctValue >= 0 ? '+' : ''}${statePctValue.toFixed(1)}% statewide)`
+          : `${signPct}${pctValue.toFixed(1)}%`;
         return `
-          <div class="tooltip-insight tooltip-insight-card ${escapeHtml(popChangeHeaderMeta.tone)}">
-            <span class="tooltip-insight-value">${escapeHtml(popChangeHeaderMeta.line)}</span>
-            <span class="tooltip-insight-subvalue">${escapeHtml(popChangeHeaderMeta.raw)}</span>
-            <span class="tooltip-insight-tone">${escapeHtml(popChangeHeaderMeta.label)}</span>
-          </div>
-        `.trim();
-      })();
-      const popChangeTopLineMobile = (() => {
-        if (!popChangeHeaderMeta) return '';
-        if (isDesktopTooltipMode()) return '';
-        return `
-          <div class="tooltip-insight tooltip-insight-card ${escapeHtml(popChangeHeaderMeta.tone)}">
-            <span class="tooltip-insight-value">${escapeHtml(popChangeHeaderMeta.line)}</span>
-            <span class="tooltip-insight-subvalue">${escapeHtml(popChangeHeaderMeta.raw)}</span>
-            <span class="tooltip-insight-tone">${escapeHtml(popChangeHeaderMeta.label)}</span>
+          <div class="vhr-pop-card">
+            <div class="vhr-pop-left">
+              <div class="vhr-pop-line">Population change: ${escapeHtml(`${signAbs}${Math.round(absValue).toLocaleString()}`)}</div>
+              <div class="vhr-pop-line"><span class="statewide">(${escapeHtml(statewideLine)})</span></div>
+            </div>
+            <div class="vhr-pop-right">
+              <div>${escapeHtml(Math.round(Number(popChangeHeaderMeta.p2020)).toLocaleString())} -></div>
+              <div>${escapeHtml(Math.round(Number(popChangeHeaderMeta.p2025)).toLocaleString())}</div>
+              <span class="vhr-pop-label">${escapeHtml(popChangeHeaderMeta.label)}</span>
+            </div>
           </div>
         `.trim();
       })();
@@ -26830,11 +26901,12 @@ document.addEventListener('DOMContentLoaded', function() {
         currentSignedMarginPct: signedMarginPct,
         flipYearLabel: vizPrevCache?.prevYear || null,
         districtType: 'County',
-        showWinnerLine: true,
+        showWinnerLine: currentVizMode !== 'population_change',
         shiftLineText: Number.isFinite(shiftDelta) ? formatShiftLabel(shiftDelta) : '',
         shiftToneClass: shiftClass,
-        shiftYearLabel: (vizShiftCache?.prevYear && vizShiftCache?.year) ? `${vizShiftCache.prevYear}→${vizShiftCache.year}` : '',
-        showShiftLine: currentVizMode === 'shift' && Number.isFinite(shiftDelta) && !!vizShiftCache?.prevYear
+        shiftYearLabel: (vizShiftCache?.prevYear && vizShiftCache?.year) ? `${vizShiftCache.prevYear}->${vizShiftCache.year}` : '',
+        showShiftLine: currentVizMode === 'shift' && Number.isFinite(shiftDelta) && !!vizShiftCache?.prevYear,
+        popChangeCardHtml
       });
       const detailLines = `
         ${finalInsight ? `<div class="tooltip-insight">${escapeHtml(finalInsight)}</div>` : ''}
@@ -26848,8 +26920,6 @@ document.addEventListener('DOMContentLoaded', function() {
         ${demoLine}
       `.trim();
       const inner = `
-        ${popChangeTopLineDesktop}
-        ${popChangeTopLineMobile}
         ${votehubCore}
         <details class="tooltip-more" aria-label="More details">
           <summary>More details</summary>
@@ -29289,7 +29359,8 @@ document.addEventListener('DOMContentLoaded', function() {
       showShiftLine,
       winnerLineToneClass,
       winnerRawLeadToneClass,
-      marginPrecision
+      marginPrecision,
+      popChangeCardHtml
     } = {}) {
       const dVotes = Number(demVotes || 0);
       const rVotes = Number(repVotes || 0);
@@ -29367,6 +29438,7 @@ document.addEventListener('DOMContentLoaded', function() {
         <div class="votehub-results-card">
           <div class="vhr-title">${escapeHtml((title || '').toString())}</div>
           ${(subtitle || districtType) ? `<div class="vhr-subtitle">${escapeHtml(String(subtitle || districtType || ''))}</div>` : ''}
+          ${String(popChangeCardHtml || '').trim()}
           ${winnerLine}
           ${flipLine}
           ${shiftLine}
