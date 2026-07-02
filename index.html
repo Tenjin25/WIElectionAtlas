@@ -10331,8 +10331,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Cache destroyer token for static data requests.
     // Bump this value when you want browsers/CDNs to fetch fresh files immediately.
-    const DATA_CACHE_BUSTER = '2026-07-01-1';
-    const APP_BUILD_ID = '2026-07-01-1';
+    const DATA_CACHE_BUSTER = '2026-07-01-2';
+    const APP_BUILD_ID = '2026-07-01-2';
 
     function withCacheBuster(path) {
       const p = (path || '').toString().trim();
@@ -22890,11 +22890,11 @@ document.addEventListener('DOMContentLoaded', function() {
       const amenityNorthwoods = new Set(['DOOR', 'VILAS', 'BAYFIELD', 'BURNETT', 'SAWYER', 'WASHBURN', 'POLK', 'ONEIDA', 'ASHLAND', 'IRON']);
 
       let signalEmoji = 'o';
-      let signalLabel = 'Steady population signal';
+      let signalLabel = 'Steady Wisconsin population signal';
       let patternEmoji = '~';
-      let patternLabel = 'Mixed local and regional forces';
+      let patternLabel = 'Mixed Wisconsin regional forces';
       let noteEmoji = '*';
-      let noteLabel = 'Population change may shape the electorate over time, even when margins remain stable in the short run.';
+      let noteLabel = 'Population change can reshape Wisconsin electorates gradually, even when margins look steady for a cycle or two.';
       let sourceNote = 'Qualitative context inspired by recent Census population-estimate patterns; not a raw population table.';
 
       const estimate = countyPopulationEstimatesByNorm?.get(norm) || null;
@@ -22923,93 +22923,93 @@ document.addEventListener('DOMContentLoaded', function() {
           signalEmoji = '+';
           patternEmoji = 'M';
           patternLabel = slowedIn2025
-            ? 'Major metro anchor with slower 2025 growth'
-            : 'Major metro anchor with continued growth';
+            ? 'Major Wisconsin metro anchor with slower 2025 growth'
+            : 'Major Wisconsin metro anchor with continued growth';
           noteLabel = `2025 estimate: ${countyPop2025.toLocaleString()}. Since April 2020, this county is ${formatPopulationChangePct(totalPct)}${Number.isFinite(stateTotalPct) ? ` versus ${formatPopulationChangePct(stateTotalPct)} statewide` : ''}. ${norm === 'DANE' ? 'Dane remains the clearest Madison-area population engine.' : 'Milwaukee still matters because even modest change can reshape a very large voter pool.'} ${slowedIn2025 ? 'Growth cooled a bit from the prior year.' : 'That points to continued churn rather than a frozen electorate.'}`;
         } else if (milwaukeeCorridor.has(norm) && !isFlatOrDeclining) {
           signalEmoji = '+';
           patternEmoji = 'S';
           patternLabel = fastGrowth
-            ? 'Milwaukee collar / I-94 growth corridor'
-            : 'Large suburban county with modest growth';
+            ? 'WOW / I-94 southeast growth corridor'
+            : 'Southeast suburban corridor with modest growth';
           noteLabel = `2025 estimate: ${countyPop2025.toLocaleString()}. Since April 2020, the county is ${formatPopulationChangePct(totalPct)} and ${formatPopulationChangePct(recentPct)} from 2024 to 2025. In southeast Wisconsin, even moderate growth can matter because these suburban counties often decide how much statewide margins tighten or loosen.`;
         } else if (madisonOrbit.has(norm) && !isFlatOrDeclining) {
           signalEmoji = '+';
           patternEmoji = 'E';
           patternLabel = fastGrowth
-            ? 'Madison spillover / exurban growth'
-            : 'Madison orbit county with steadier growth';
+            ? 'Dane fringe / Madison exurban growth corridor'
+            : 'Madison orbit with steadier Wisconsin growth';
           noteLabel = `2025 estimate: ${countyPop2025.toLocaleString()}. Since April 2020, this county is ${formatPopulationChangePct(totalPct)}${Number.isFinite(stateTotalPct) ? ` versus ${formatPopulationChangePct(stateTotalPct)} statewide` : ''}. Counties on Madison's edge often show electorate churn earlier than slower-growth rural territory.`;
         } else if (foxValley.has(norm) && !isFlatOrDeclining) {
           signalEmoji = aboveStatewide ? '+' : 'o';
           patternEmoji = 'F';
           patternLabel = fastGrowth
-            ? 'Fox Valley regional hub with steady growth'
-            : 'Fox Valley county with mixed but positive growth';
+            ? 'Fox Valley US-41 growth corridor'
+            : 'Fox Valley corridor with modest but positive growth';
           noteLabel = `2025 estimate: ${countyPop2025.toLocaleString()}. Since April 2020, the county is ${formatPopulationChangePct(totalPct)} and ${formatPopulationChangePct(recentPct)} from 2024 to 2025. In the Fox Valley, population movement usually changes the mix gradually rather than all at once.`;
         } else if (regionalHubs.has(norm) && !isFlatOrDeclining) {
           signalEmoji = aboveStatewide ? '+' : 'o';
           patternEmoji = 'H';
           patternLabel = fastGrowth
-            ? 'Regional hub growing faster than much of the state'
-            : 'Regional center with steadier population change';
+            ? 'Regional Wisconsin hub growing faster than much of the state'
+            : 'Regional Wisconsin center with steadier population change';
           noteLabel = `2025 estimate: ${countyPop2025.toLocaleString()}. Since April 2020, the county is ${formatPopulationChangePct(totalPct)}${Number.isFinite(stateTotalPct) ? ` versus ${formatPopulationChangePct(stateTotalPct)} statewide` : ''}. Places like this often move through turnout, student churn, and metro pull rather than pure large-scale in-migration.`;
         } else if (amenityNorthwoods.has(norm) && !belowStatewide) {
           signalEmoji = '+';
           patternEmoji = 'N';
           patternLabel = slowedIn2025
-            ? 'Amenity / Northwoods county with slower recent growth'
-            : 'Amenity / Northwoods county with positive growth';
+            ? 'Northwoods or recreation county with slower recent growth'
+            : 'Northwoods or recreation county with positive growth';
           noteLabel = `2025 estimate: ${countyPop2025.toLocaleString()}. Since April 2020, the county is ${formatPopulationChangePct(totalPct)}. In northern and vacation-heavy counties, small population gains can still change turnout mix because the baseline electorate is smaller.`;
         } else if (Number.isFinite(totalPct) && totalPct < 0) {
           signalEmoji = '-';
           patternEmoji = 'R';
           patternLabel = isLargeCounty
-            ? 'Large county with slight population loss'
-            : 'Slow-growth or declining rural county';
+            ? 'Older industrial county with slight population loss'
+            : 'North-central and western rural decline corridor';
           noteLabel = `2025 estimate: ${countyPop2025.toLocaleString()}. Since April 2020, this county is ${formatPopulationChangePct(totalPct)}, and the 2024 to 2025 change was ${formatPopulationChangePct(recentPct)}. Slower growth usually means less electorate churn from in-migration, so political change shows up more through turnout and coalition shifts.`;
         } else if (isFlatOrDeclining) {
           signalEmoji = 'o';
           patternEmoji = 'R';
-          patternLabel = 'Low-growth county';
+          patternLabel = 'North-central and western slow-growth corridor';
           noteLabel = `2025 estimate: ${countyPop2025.toLocaleString()}. Since April 2020, growth has been ${formatPopulationChangePct(totalPct)}${Number.isFinite(stateTotalPct) ? ` versus ${formatPopulationChangePct(stateTotalPct)} statewide` : ''}. That is a slower-moving population backdrop than the faster-growing Wisconsin metros and exurbs.`;
         } else {
           signalEmoji = aboveStatewide ? '+' : 'o';
           patternEmoji = '~';
           patternLabel = aboveStatewide
-            ? 'Above-state growth county'
-            : 'Mixed-growth county';
+            ? 'Above-state growth Wisconsin county'
+            : 'Mixed-growth Wisconsin county';
           noteLabel = `2025 estimate: ${countyPop2025.toLocaleString()}. Since April 2020, this county is ${formatPopulationChangePct(totalPct)}${Number.isFinite(stateTotalPct) ? ` versus ${formatPopulationChangePct(stateTotalPct)} statewide` : ''}. Use this as electorate context, not as a direct prediction of vote movement.`;
         }
       }
 
       if (!estimate && majorMetros.has(norm)) {
         signalEmoji = '+';
-        signalLabel = 'Major metro anchor';
+        signalLabel = 'Major Wisconsin metro anchor';
         patternEmoji = 'M';
         patternLabel = 'Big population base, even when growth is modest';
         noteLabel = 'Large Wisconsin metro counties can matter electorally even when they are not the fastest-growing places, because a small shift applies to a huge vote pool.';
       } else if (!estimate && milwaukeeCorridor.has(norm)) {
         signalEmoji = '+';
-        signalLabel = 'Suburban corridor county';
+        signalLabel = 'Milwaukee-area suburban corridor county';
         patternEmoji = 'S';
-        patternLabel = 'Milwaukee collar / I-94 growth corridor';
+        patternLabel = 'WOW / I-94 southeast growth corridor';
         noteLabel = 'Southeast Wisconsin suburbs often show the connection between moderate growth, coalition churn, and statewide competitiveness.';
       } else if (!estimate && madisonOrbit.has(norm)) {
         signalEmoji = '+';
         signalLabel = 'Madison orbit county';
         patternEmoji = 'E';
-        patternLabel = 'Exurban growth around Dane County';
+        patternLabel = 'Dane fringe / Madison exurban growth corridor';
         noteLabel = 'Counties on Madison\'s outer edge are useful places to watch for gradual electorate churn.';
       } else if (!estimate && foxValley.has(norm)) {
         signalEmoji = 'o';
         signalLabel = 'Fox Valley county';
         patternEmoji = 'F';
-        patternLabel = 'Regional hub with mixed growth signals';
+        patternLabel = 'Fox Valley US-41 growth corridor';
         noteLabel = 'Fox Valley change is often gradual and coalition-based rather than driven by one giant population jump.';
       } else if (!estimate && amenityNorthwoods.has(norm)) {
         signalEmoji = 'o';
-        signalLabel = 'Amenity / Northwoods county';
+        signalLabel = 'Northwoods or recreation county';
         patternEmoji = 'N';
         patternLabel = 'Retirement and seasonal-migration county';
         noteLabel = 'Smaller northern counties can feel turnout-mix changes quickly because even modest population movement lands on a small base.';
@@ -23048,14 +23048,14 @@ document.addEventListener('DOMContentLoaded', function() {
         (Number.isFinite(stateTotalPct) && totalPct > stateTotalPct + 1.0)
       );
       const slowGrowth = (Number.isFinite(totalPct) && totalPct < 0.6) || (Number.isFinite(recentPct) && recentPct < 0);
-      const demGrowthPattern = /Major metro|Madison spillover|Milwaukee collar|suburban county|Fox Valley regional hub|Regional hub|Above-state growth county/i.test(patternLabel);
-      const repGrowthPattern = /Slow-growth|declining rural|Low-growth county|population loss/i.test(patternLabel);
+      const demGrowthPattern = /Major Wisconsin metro|Dane fringe|Madison exurban|WOW \/ I-94|southeast suburban corridor|Fox Valley US-41|Fox Valley corridor|Regional Wisconsin hub|Regional Wisconsin center|Above-state growth Wisconsin county/i.test(patternLabel);
+      const repGrowthPattern = /North-central and western rural decline corridor|North-central and western slow-growth corridor|population loss|Older industrial county/i.test(patternLabel);
       const growthLabel = (() => {
-        if (/Madison spillover|Milwaukee collar/i.test(patternLabel)) return 'fast suburban and exurban growth';
-        if (/Major metro/i.test(patternLabel)) return 'continued metro growth';
-        if (/Fox Valley|Regional hub/i.test(patternLabel)) return 'regional-hub growth';
-        if (/Amenity \/ Northwoods/i.test(patternLabel)) return 'amenity-county growth';
-        if (/Above-state growth county/i.test(patternLabel)) return 'above-average growth';
+        if (/Dane fringe|Madison exurban|WOW \/ I-94|southeast suburban corridor/i.test(patternLabel)) return 'fast suburban and exurban corridor growth';
+        if (/Major Wisconsin metro/i.test(patternLabel)) return 'continued Wisconsin metro growth';
+        if (/Fox Valley|Regional Wisconsin hub|Regional Wisconsin center/i.test(patternLabel)) return 'regional-hub corridor growth in Wisconsin';
+        if (/Northwoods or recreation/i.test(patternLabel)) return 'Northwoods and recreation-county growth';
+        if (/Above-state growth Wisconsin county/i.test(patternLabel)) return 'above-average Wisconsin growth';
         return 'fast county growth';
       })();
       // Modeling refinement (2026-04): treat Census context as "confirmatory" only when the political signal is clear.
@@ -26702,10 +26702,10 @@ document.addEventListener('DOMContentLoaded', function() {
         ? (Math.abs(shiftDelta) < 0.01 ? 'tie' : (shiftDelta > 0 ? 'rep' : 'dem'))
         : 'tie';
       const shiftLine = (currentVizMode === 'shift' && Number.isFinite(shiftDelta) && vizShiftCache?.prevYear)
-        ? `<div class="tooltip-delta"><div class="tooltip-delta-line">Shift (${escapeHtml(`${vizShiftCache.prevYear}→${vizShiftCache.year}`)}): <span class="tooltip-shift ${shiftClass}">${escapeHtml(formatShiftLabel(shiftDelta))}</span></div></div>`
+        ? `<div class="tooltip-delta"><div class="tooltip-delta-line">Shift (${escapeHtml(`${vizShiftCache.prevYear}->${vizShiftCache.year}`)}): <span class="tooltip-shift ${shiftClass}">${escapeHtml(formatShiftLabel(shiftDelta))}</span></div></div>`
         : '';
       const tooltipInsight = (() => {
-        // Keep “trend/shift” narration out of Margins/Winners views to reduce hover clutter.
+        // Keep "trend/shift" narration out of Margins/Winners views to reduce hover clutter.
         if (currentVizMode !== 'shift') return '';
         const abs = Math.abs(Number(signedMarginPct) || 0);
         if (abs < 0.5) return 'Tiny changes can flip it.';
@@ -26722,11 +26722,11 @@ document.addEventListener('DOMContentLoaded', function() {
         if (!countyNorm || !smartInsightsActiveCountySet.has(countyNorm)) return '';
         const reasons = smartInsightsReasonsByCounty?.get(countyNorm) || [];
         const primary = Array.isArray(reasons) && reasons.length ? String(reasons[0] || '').trim() : '';
-        if (!primary) return 'Smart Insights: one of today’s key counties.';
+        if (!primary) return 'Smart Insights: one of today\'s key counties.';
         if (/closest/i.test(primary)) return 'Smart Insights: one of the closest margins.';
         if (/shift/i.test(primary)) return 'Smart Insights: among the biggest shifts.';
         if (/growth/i.test(primary)) return 'Smart Insights: one of the fastest-growing counties.';
-        return 'Smart Insights: one of today’s key counties.';
+        return 'Smart Insights: one of today\'s key counties.';
       })();
       const finalInsight = tooltipInsight || smartInsight;
       const pinnedShell = !!(tooltipPinned || (forceTooltip && isTouchInteractionMode()));
@@ -26752,10 +26752,10 @@ document.addEventListener('DOMContentLoaded', function() {
         if (!(p2020 > 0) || !(p2025 > 0) || !Number.isFinite(pct)) return '';
         if (String(populationChangeMetric || 'pct') === 'abs' && Number.isFinite(abs)) {
           const signAbs = abs > 0 ? '+' : '';
-          return `<div class="tooltip-insight">Population 2020→2025: ${p2020.toLocaleString()} → ${p2025.toLocaleString()} (${signAbs}${Math.round(abs).toLocaleString()}).</div>`;
+          return `<div class="tooltip-insight">Population 2020->2025: ${p2020.toLocaleString()} -> ${p2025.toLocaleString()} (${signAbs}${Math.round(abs).toLocaleString()}).</div>`;
         }
         const signPct = pct > 0 ? '+' : '';
-        return `<div class="tooltip-insight">Population 2020→2025: ${p2020.toLocaleString()} → ${p2025.toLocaleString()} (${signPct}${pct.toFixed(1)}%).</div>`;
+        return `<div class="tooltip-insight">Population 2020->2025: ${p2020.toLocaleString()} -> ${p2025.toLocaleString()} (${signPct}${pct.toFixed(1)}%).</div>`;
       })();
       const popChangeHeaderMeta = (() => {
         if (currentVizMode !== 'population_change') return null;
@@ -26776,7 +26776,7 @@ document.addEventListener('DOMContentLoaded', function() {
         const toneLabel = tone === 'gain' ? 'Growth' : (tone === 'loss' ? 'Decline' : 'Flat');
         return {
           line: `Population change: ${signAbs}${Math.round(abs).toLocaleString()} (${pctLine})`,
-          raw: `${p2020.toLocaleString()} → ${p2025.toLocaleString()}`,
+          raw: `${p2020.toLocaleString()} -> ${p2025.toLocaleString()}`,
           tone,
           label: toneLabel
         };
