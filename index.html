@@ -729,11 +729,11 @@ body.focus-active.hover-preview-active .vote-counter {
   background: rgba(3,7,18,0.96);
   color: #e5e7eb;
   border: 1px solid rgba(148,163,184,0.28);
-  border-radius: 16px;
+  border-radius: 8px;
   box-shadow: 0 18px 44px rgba(0,0,0,0.34);
   padding: 0;
-  max-width: 390px;
-  min-width: 300px;
+  max-width: 310px;
+  min-width: 250px;
   backdrop-filter: blur(10px);
   opacity: 1;
 }
@@ -766,8 +766,8 @@ body.focus-active.hover-preview-active .vote-counter {
 
 #hover-tooltip[data-context="votehub-results"] .vhr-pop-card {
   display: grid;
-  grid-template-columns: minmax(0, 1.2fr) minmax(108px, 0.8fr);
-  gap: 12px 18px;
+  grid-template-columns: minmax(0, 1.2fr) minmax(92px, 0.8fr);
+  gap: 12px 14px;
   margin: 0 0 16px;
   padding: 0 0 16px;
   border-bottom: 1px solid rgba(148,163,184,0.20);
@@ -956,7 +956,7 @@ body.focus-active.hover-preview-active .vote-counter {
   justify-content: flex-start;
   min-height: 56px;
   padding: 14px 16px;
-  border-radius: 14px;
+  border-radius: 8px;
   background: rgba(15, 23, 42, 0.62);
   border-color: rgba(51, 65, 85, 0.72);
   color: #e5e7eb;
@@ -10395,8 +10395,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Cache destroyer token for static data requests.
     // Bump this value when you want browsers/CDNs to fetch fresh files immediately.
-    const DATA_CACHE_BUSTER = '2026-07-02-1';
-    const APP_BUILD_ID = '2026-07-02-1';
+    const DATA_CACHE_BUSTER = '2026-07-02-2';
+    const APP_BUILD_ID = '2026-07-02-2';
 
     function withCacheBuster(path) {
       const p = (path || '').toString().trim();
