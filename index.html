@@ -10370,8 +10370,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Cache destroyer token for static data requests.
     // Bump this value when you want browsers/CDNs to fetch fresh files immediately.
-    const DATA_CACHE_BUSTER = '2026-07-02-3';
-    const APP_BUILD_ID = '2026-07-02-3';
+    const DATA_CACHE_BUSTER = '2026-07-02-4';
+    const APP_BUILD_ID = '2026-07-02-4';
 
     function withCacheBuster(path) {
       const p = (path || '').toString().trim();
@@ -26895,12 +26895,12 @@ document.addEventListener('DOMContentLoaded', function() {
         ${splitInsightLine}
         ${demoLine}
       `.trim();
+      const detailSection = isDesktopTooltipMode()
+        ? ''
+        : `<details class="tooltip-more" aria-label="More details"><summary>More details</summary><div class="tooltip-more-body">${detailLines}</div></details>`;
       const inner = `
         ${votehubCore}
-        <details class="tooltip-more" aria-label="More details">
-          <summary>More details</summary>
-          <div class="tooltip-more-body">${detailLines}</div>
-        </details>
+        ${detailSection}
       `.trim();
 
       const copyText = `${countyDisplay} County`;
