@@ -10488,8 +10488,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Cache destroyer token for static data requests.
     // Bump this value when you want browsers/CDNs to fetch fresh files immediately.
-    const DATA_CACHE_BUSTER = '2026-07-18-1';
-    const APP_BUILD_ID = '2026-07-18-1';
+    const DATA_CACHE_BUSTER = '2026-07-18-2';
+    const APP_BUILD_ID = '2026-07-18-2';
 
     function withCacheBuster(path) {
       const p = (path || '').toString().trim();
@@ -13984,6 +13984,23 @@ document.addEventListener('DOMContentLoaded', function() {
           precinctDotBaseOpacity = Math.max(precinctDotBaseOpacity, 0.97);
         }
       }
+      const draPartisanPresentationActive =
+        activePartisanPaletteKey() === 'dra' &&
+        contestIsActive &&
+        !demographicsModeActive;
+      const draCountyPresentationActive =
+        draPartisanPresentationActive &&
+        currentView === 'counties';
+      if (draPartisanPresentationActive) {
+        // Keep the shared DRA table at the same perceived weight across
+        // congressional and state legislative district views.
+        houseBaseOpacity = districtBaseOpacity;
+        senateBaseOpacity = districtBaseOpacity;
+      }
+      if (draCountyPresentationActive && !precinctsActuallyVisible) {
+        // Counties use that same blend unless precincts need to remain primary.
+        countyBaseOpacity = districtBaseOpacity;
+      }
 
       if (map.getLayer('county-fill')) {
         if (!contestIsActive) {
@@ -13995,6 +14012,13 @@ document.addEventListener('DOMContentLoaded', function() {
         try {
           map.setPaintProperty('county-fill', 'fill-opacity', countyOpacity);
           updateCountyLabelHaloForFillOpacity(countyBaseOpacity);
+        } catch (_) {}
+      }
+      if (map.getLayer('county-stroke-casing')) {
+        try {
+          map.setPaintProperty('county-stroke-casing', 'line-opacity', draCountyPresentationActive
+            ? ['interpolate', ['linear'], ['zoom'], 4, 0.30, 6, 0.38, 8, 0.50, 10, 0.62, 12, 0.76]
+            : 0);
         } catch (_) {}
       }
       if (map.getLayer('district-fill')) {
@@ -29099,6 +29123,19 @@ document.addEventListener('DOMContentLoaded', function() {
           // This lets precinct/block/district coloring read cleanly while still
           // showing county outlines.
           paint: { 'fill-color': '#d9e3ef', 'fill-opacity': 0.0 }
+        });
+        addLayerWithOptionalSourceLayer({
+          id: 'county-stroke-casing',
+          type: 'line',
+          source: 'counties',
+          beforeId: baseSymbolLayerId,
+          layout: { 'line-join': 'round', 'line-cap': 'round' },
+          paint: {
+            'line-color': 'rgba(248, 250, 252, 0.94)',
+            'line-opacity': 0,
+            'line-width': ['interpolate', ['linear'], ['zoom'], 4, 1.5, 6, 1.8, 8, 2.2, 10, 2.7, 12, 3.2],
+            'line-blur': ['interpolate', ['linear'], ['zoom'], 4, 0.48, 7, 0.30, 10, 0.10, 12, 0]
+          }
         });
         addLayerWithOptionalSourceLayer({
           id: 'county-stroke',
