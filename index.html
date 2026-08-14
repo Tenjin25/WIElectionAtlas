@@ -577,7 +577,7 @@
     <link href='https://api.mapbox.com/mapbox-gl-js/v3.0.1/mapbox-gl.css' rel='stylesheet'>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@500;600;700;800&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;700&family=IBM+Plex+Sans:wght@400;700&display=swap" rel="stylesheet">
     <style>
 html, body {
   height: 100vh;
@@ -586,6 +586,7 @@ html, body {
   box-sizing: border-box;
   -webkit-tap-highlight-color: transparent;
   -webkit-touch-callout: none;
+  font-synthesis: none;
 }
 body {
   height: 100vh;
@@ -1506,7 +1507,8 @@ body.focus-active #hover-tooltip[data-context="preview"] {
   border-radius: 10px;
   background: rgba(255, 255, 255, 0.95);
   color: var(--ui-text);
-  font-size: 14px;`n  font-weight: 700;
+  font-size: 14px;
+  font-weight: 700;
 }
 
 /* Legend */
@@ -2887,6 +2889,7 @@ body.focus-active #hover-tooltip[data-context="preview"] {
 
   body {
     font-family: 'Manrope', 'IBM Plex Sans', system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif;
+  font-weight: 400;
     background:
       radial-gradient(circle at 14% 12%, rgba(36, 85, 61, 0.18) 0%, rgba(223, 238, 229, 0.72) 30%, rgba(248, 245, 236, 0) 60%),
       radial-gradient(circle at 86% 10%, rgba(210, 165, 74, 0.18) 0%, rgba(244, 230, 195, 0.68) 26%, rgba(248, 245, 236, 0) 58%),
@@ -3777,7 +3780,8 @@ body.focus-active #hover-tooltip[data-context="preview"] {
     background: transparent;
     box-shadow: none;
     color: #0f172a;
-    font-size: 14px;`n  font-weight: 700;
+    font-size: 14px;
+  font-weight: 700;
   }
 
   .map-topbar #county-search {
@@ -26983,7 +26987,8 @@ document.addEventListener('DOMContentLoaded', function() {
       // Avoid rebuilding the same tooltip repeatedly while the mouse moves within one precinct.
       // Also throttle rapid transitions between precincts to keep hover responsive.
       try {
-        const featKey = (feature?.id !== null && feature?.id !== undefined) ? `id:${feature.id}` : `norm:${precinctNorm}`;
+        const featKey = (feature?.id !== null && feature?.id !== undefined) ? `id:${feature.id}` : 
+orm:${precinctNorm}`;
         const hoverKey = `${featKey}|${contestValue}`;
         const tooltip = document.getElementById('hover-tooltip');
         const tooltipVisible = !!tooltip && tooltip.style.display !== 'none' && (tooltip.innerHTML || '').trim().length > 0;
