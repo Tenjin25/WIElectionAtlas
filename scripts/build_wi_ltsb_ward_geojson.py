@@ -42,6 +42,7 @@ def main() -> None:
         county_name = str(row.get("CNTY_NAME") or "").strip()
         geoid = str(row.get("GEOID") or "").strip()
         municipality = str(row.get("MCD_NAME") or source_label.split(" - ", 1)[0]).strip()
+        municipality_display = municipality.title()
         kind = str(row.get("CTV") or "").strip().upper()
         ward_id = str(row.get("WARDID") or source_label.rsplit(" ", 1)[-1]).strip()
         ward_match = re.fullmatch(r"0*(\d+)([A-Z]*)", ward_id, flags=re.IGNORECASE)
@@ -56,7 +57,7 @@ def main() -> None:
         label = f"{municipality.upper()} - {kind} {ward_token}"
         kind_name = {"C": "City", "T": "Town", "V": "Village"}.get(kind, "Municipality")
         ward_number = ward_id.lstrip("0") or "0"
-        friendly_name = f"{kind_name} of {municipality}, Ward {ward_number}"
+        friendly_name = f"{kind_name} of {municipality_display}, Ward {ward_number}"
         geometry = row.geometry
         if not label or not county_name or not geoid or geometry is None or geometry.is_empty:
             continue
