@@ -4,7 +4,7 @@
       "county": "BAYSIDE - V 0001",
       "precinct_key": "BAYSIDE - V 0001",
       "geoids": [
-        "55079003825"
+        "55079054500001"
       ],
       "election_type": "spring",
       "dem_votes": 282,
@@ -24,7 +24,7 @@
       "county": "BAYSIDE - V 0002",
       "precinct_key": "BAYSIDE - V 0002",
       "geoids": [
-        "55079003823"
+        "55079054500002"
       ],
       "election_type": "spring",
       "dem_votes": 390,
@@ -44,7 +44,7 @@
       "county": "BAYSIDE - V 0003",
       "precinct_key": "BAYSIDE - V 0003",
       "geoids": [
-        "55079003827"
+        "55079054500003"
       ],
       "election_type": "spring",
       "dem_votes": 282,
@@ -64,7 +64,7 @@
       "county": "BAYSIDE - V 0004",
       "precinct_key": "BAYSIDE - V 0004",
       "geoids": [
-        "55079003826"
+        "55079054500004"
       ],
       "election_type": "spring",
       "dem_votes": 390,
@@ -84,7 +84,7 @@
       "county": "BAYSIDE - V 0005",
       "precinct_key": "BAYSIDE - V 0005",
       "geoids": [
-        "55079003828"
+        "55079054500005"
       ],
       "election_type": "spring",
       "dem_votes": 357,
@@ -104,7 +104,7 @@
       "county": "BAYSIDE - V 0006",
       "precinct_key": "BAYSIDE - V 0006",
       "geoids": [
-        "55089004564"
+        "55089054500006"
       ],
       "election_type": "spring",
       "dem_votes": 47,
@@ -124,7 +124,7 @@
       "county": "BROOKFIELD - C 0022",
       "precinct_key": "BROOKFIELD - C 0022",
       "geoids": [
-        "55133006753"
+        "55133100250022"
       ],
       "election_type": "spring",
       "dem_votes": 0,
@@ -144,7 +144,7 @@
       "county": "BROWN DEER - V 0001",
       "precinct_key": "BROWN DEER - V 0001",
       "geoids": [
-        "55079003805"
+        "55079103750001"
       ],
       "election_type": "spring",
       "dem_votes": 508,
@@ -164,7 +164,7 @@
       "county": "BROWN DEER - V 0002",
       "precinct_key": "BROWN DEER - V 0002",
       "geoids": [
-        "55079003804"
+        "55079103750002"
       ],
       "election_type": "spring",
       "dem_votes": 508,
@@ -184,16 +184,16 @@
       "county": "BROWN DEER - V 0004",
       "precinct_key": "BROWN DEER - V 0004",
       "geoids": [
-        "55079003788"
+        "55079103750004"
       ],
       "election_type": "spring",
-      "dem_votes": 533,
-      "rep_votes": 266,
-      "other_votes": 1,
-      "total_votes": 800,
+      "dem_votes": 266,
+      "rep_votes": 133,
+      "other_votes": 0,
+      "total_votes": 400,
       "dem_candidate": "Jodi Habush Sinykin",
       "rep_candidate": "Dan Knodl",
-      "margin": -267,
+      "margin": -134,
       "margin_pct": -33.375,
       "winner": "DEM",
       "competitiveness": {
@@ -204,7 +204,7 @@
       "county": "BROWN DEER - V 0005",
       "precinct_key": "BROWN DEER - V 0005",
       "geoids": [
-        "55079003806"
+        "55079103750005"
       ],
       "election_type": "spring",
       "dem_votes": 481,
@@ -224,7 +224,7 @@
       "county": "BROWN DEER - V 0006",
       "precinct_key": "BROWN DEER - V 0006",
       "geoids": [
-        "55079003807"
+        "55079103750006"
       ],
       "election_type": "spring",
       "dem_votes": 481,
@@ -241,10 +241,30 @@
       }
     },
     {
+      "county": "BROWN DEER - V 0007",
+      "precinct_key": "BROWN DEER - V 0007",
+      "geoids": [
+        "55079103750007"
+      ],
+      "election_type": "spring",
+      "dem_votes": 266,
+      "rep_votes": 133,
+      "other_votes": 0,
+      "total_votes": 400,
+      "dem_candidate": "Jodi Habush Sinykin",
+      "rep_candidate": "Dan Knodl",
+      "margin": -134,
+      "margin_pct": -33.375,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
       "county": "BUTLER - V 0001",
       "precinct_key": "BUTLER - V 0001",
       "geoids": [
-        "55133006567"
+        "55133114750001"
       ],
       "election_type": "spring",
       "dem_votes": 75,
@@ -264,7 +284,7 @@
       "county": "BUTLER - V 0002",
       "precinct_key": "BUTLER - V 0002",
       "geoids": [
-        "55133006807"
+        "55133114750002"
       ],
       "election_type": "spring",
       "dem_votes": 75,
@@ -284,7 +304,7 @@
       "county": "BUTLER - V 0003",
       "precinct_key": "BUTLER - V 0003",
       "geoids": [
-        "55133006622"
+        "55133114750003"
       ],
       "election_type": "spring",
       "dem_votes": 75,
@@ -304,17 +324,17 @@
       "county": "ERIN - T 0001",
       "precinct_key": "ERIN - T 0001",
       "geoids": [
-        "55131006436"
+        "55131242250001"
       ],
       "election_type": "spring",
-      "dem_votes": 116,
-      "rep_votes": 354,
+      "dem_votes": 93,
+      "rep_votes": 283,
       "other_votes": 0,
-      "total_votes": 470,
+      "total_votes": 376,
       "dem_candidate": "Jodi Habush Sinykin",
       "rep_candidate": "Dan Knodl",
-      "margin": 237,
-      "margin_pct": 50.50558807876529,
+      "margin": 190,
+      "margin_pct": 50.50558807876531,
       "winner": "REP",
       "competitiveness": {
         "color": "#67000d"
@@ -324,17 +344,17 @@
       "county": "ERIN - T 0002",
       "precinct_key": "ERIN - T 0002",
       "geoids": [
-        "55131006384"
+        "55131242250002"
       ],
       "election_type": "spring",
-      "dem_votes": 116,
-      "rep_votes": 354,
+      "dem_votes": 93,
+      "rep_votes": 283,
       "other_votes": 0,
-      "total_votes": 470,
+      "total_votes": 376,
       "dem_candidate": "Jodi Habush Sinykin",
       "rep_candidate": "Dan Knodl",
-      "margin": 237,
-      "margin_pct": 50.50558807876529,
+      "margin": 190,
+      "margin_pct": 50.50558807876531,
       "winner": "REP",
       "competitiveness": {
         "color": "#67000d"
@@ -344,17 +364,17 @@
       "county": "ERIN - T 0003",
       "precinct_key": "ERIN - T 0003",
       "geoids": [
-        "55131006361"
+        "55131242250003"
       ],
       "election_type": "spring",
-      "dem_votes": 116,
-      "rep_votes": 354,
+      "dem_votes": 93,
+      "rep_votes": 283,
       "other_votes": 0,
-      "total_votes": 470,
+      "total_votes": 376,
       "dem_candidate": "Jodi Habush Sinykin",
       "rep_candidate": "Dan Knodl",
-      "margin": 237,
-      "margin_pct": 50.50558807876529,
+      "margin": 190,
+      "margin_pct": 50.50558807876531,
       "winner": "REP",
       "competitiveness": {
         "color": "#67000d"
@@ -364,17 +384,37 @@
       "county": "ERIN - T 0004",
       "precinct_key": "ERIN - T 0004",
       "geoids": [
-        "55131006478"
+        "55131242250004"
       ],
       "election_type": "spring",
-      "dem_votes": 116,
-      "rep_votes": 354,
+      "dem_votes": 93,
+      "rep_votes": 283,
       "other_votes": 0,
-      "total_votes": 470,
+      "total_votes": 376,
       "dem_candidate": "Jodi Habush Sinykin",
       "rep_candidate": "Dan Knodl",
-      "margin": 237,
-      "margin_pct": 50.50558807876529,
+      "margin": 190,
+      "margin_pct": 50.50558807876531,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "ERIN - T 0005",
+      "precinct_key": "ERIN - T 0005",
+      "geoids": [
+        "55131242250005"
+      ],
+      "election_type": "spring",
+      "dem_votes": 93,
+      "rep_votes": 283,
+      "other_votes": 0,
+      "total_votes": 376,
+      "dem_candidate": "Jodi Habush Sinykin",
+      "rep_candidate": "Dan Knodl",
+      "margin": 190,
+      "margin_pct": 50.50558807876531,
       "winner": "REP",
       "competitiveness": {
         "color": "#67000d"
@@ -384,7 +424,7 @@
       "county": "FOX POINT - V 0001",
       "precinct_key": "FOX POINT - V 0001",
       "geoids": [
-        "55079003811"
+        "55079270750001"
       ],
       "election_type": "spring",
       "dem_votes": 276,
@@ -404,7 +444,7 @@
       "county": "FOX POINT - V 0002",
       "precinct_key": "FOX POINT - V 0002",
       "geoids": [
-        "55079003810"
+        "55079270750002"
       ],
       "election_type": "spring",
       "dem_votes": 276,
@@ -424,7 +464,7 @@
       "county": "FOX POINT - V 0003",
       "precinct_key": "FOX POINT - V 0003",
       "geoids": [
-        "55079003812"
+        "55079270750003"
       ],
       "election_type": "spring",
       "dem_votes": 276,
@@ -444,7 +484,7 @@
       "county": "FOX POINT - V 0004",
       "precinct_key": "FOX POINT - V 0004",
       "geoids": [
-        "55079003789"
+        "55079270750004"
       ],
       "election_type": "spring",
       "dem_votes": 276,
@@ -464,7 +504,7 @@
       "county": "FOX POINT - V 0005",
       "precinct_key": "FOX POINT - V 0005",
       "geoids": [
-        "55079003808"
+        "55079270750005"
       ],
       "election_type": "spring",
       "dem_votes": 297,
@@ -484,7 +524,7 @@
       "county": "FOX POINT - V 0006",
       "precinct_key": "FOX POINT - V 0006",
       "geoids": [
-        "55079003809"
+        "55079270750006"
       ],
       "election_type": "spring",
       "dem_votes": 297,
@@ -504,7 +544,7 @@
       "county": "FOX POINT - V 0007",
       "precinct_key": "FOX POINT - V 0007",
       "geoids": [
-        "55079003790"
+        "55079270750007"
       ],
       "election_type": "spring",
       "dem_votes": 297,
@@ -524,7 +564,7 @@
       "county": "FOX POINT - V 0008",
       "precinct_key": "FOX POINT - V 0008",
       "geoids": [
-        "55079003829"
+        "55079270750008"
       ],
       "election_type": "spring",
       "dem_votes": 297,
@@ -544,7 +584,7 @@
       "county": "FOX POINT - V 0009",
       "precinct_key": "FOX POINT - V 0009",
       "geoids": [
-        "55079003791"
+        "55079270750009"
       ],
       "election_type": "spring",
       "dem_votes": 297,
@@ -564,7 +604,7 @@
       "county": "GERMANTOWN - T 0001",
       "precinct_key": "GERMANTOWN - T 0001",
       "geoids": [
-        "55131006405"
+        "55131289000001"
       ],
       "election_type": "spring",
       "dem_votes": 41,
@@ -584,7 +624,7 @@
       "county": "GERMANTOWN - V 0001",
       "precinct_key": "GERMANTOWN - V 0001",
       "geoids": [
-        "55131006368"
+        "55131288750001"
       ],
       "election_type": "spring",
       "dem_votes": 206,
@@ -604,7 +644,7 @@
       "county": "GERMANTOWN - V 0002",
       "precinct_key": "GERMANTOWN - V 0002",
       "geoids": [
-        "55131006460"
+        "55131288750002"
       ],
       "election_type": "spring",
       "dem_votes": 206,
@@ -624,7 +664,7 @@
       "county": "GERMANTOWN - V 0003",
       "precinct_key": "GERMANTOWN - V 0003",
       "geoids": [
-        "55131006382"
+        "55131288750003"
       ],
       "election_type": "spring",
       "dem_votes": 206,
@@ -644,7 +684,7 @@
       "county": "GERMANTOWN - V 0004",
       "precinct_key": "GERMANTOWN - V 0004",
       "geoids": [
-        "55131006439"
+        "55131288750004"
       ],
       "election_type": "spring",
       "dem_votes": 206,
@@ -664,7 +704,7 @@
       "county": "GERMANTOWN - V 0005",
       "precinct_key": "GERMANTOWN - V 0005",
       "geoids": [
-        "55131006422"
+        "55131288750005"
       ],
       "election_type": "spring",
       "dem_votes": 188,
@@ -684,7 +724,7 @@
       "county": "GERMANTOWN - V 0006",
       "precinct_key": "GERMANTOWN - V 0006",
       "geoids": [
-        "55131006481"
+        "55131288750006"
       ],
       "election_type": "spring",
       "dem_votes": 188,
@@ -704,7 +744,7 @@
       "county": "GERMANTOWN - V 0007",
       "precinct_key": "GERMANTOWN - V 0007",
       "geoids": [
-        "55131006410"
+        "55131288750007"
       ],
       "election_type": "spring",
       "dem_votes": 188,
@@ -724,7 +764,7 @@
       "county": "GERMANTOWN - V 0008",
       "precinct_key": "GERMANTOWN - V 0008",
       "geoids": [
-        "55131006479"
+        "55131288750008"
       ],
       "election_type": "spring",
       "dem_votes": 188,
@@ -744,7 +784,7 @@
       "county": "GERMANTOWN - V 0009",
       "precinct_key": "GERMANTOWN - V 0009",
       "geoids": [
-        "55131006352"
+        "55131288750009"
       ],
       "election_type": "spring",
       "dem_votes": 258,
@@ -764,7 +804,7 @@
       "county": "GERMANTOWN - V 0010",
       "precinct_key": "GERMANTOWN - V 0010",
       "geoids": [
-        "55131006435"
+        "55131288750010"
       ],
       "election_type": "spring",
       "dem_votes": 258,
@@ -784,7 +824,7 @@
       "county": "GERMANTOWN - V 0011",
       "precinct_key": "GERMANTOWN - V 0011",
       "geoids": [
-        "55131006350"
+        "55131288750011"
       ],
       "election_type": "spring",
       "dem_votes": 258,
@@ -804,7 +844,7 @@
       "county": "GERMANTOWN - V 0012",
       "precinct_key": "GERMANTOWN - V 0012",
       "geoids": [
-        "55131006467"
+        "55131288750012"
       ],
       "election_type": "spring",
       "dem_votes": 283,
@@ -824,7 +864,7 @@
       "county": "GERMANTOWN - V 0013",
       "precinct_key": "GERMANTOWN - V 0013",
       "geoids": [
-        "55131006434"
+        "55131288750013"
       ],
       "election_type": "spring",
       "dem_votes": 283,
@@ -844,7 +884,7 @@
       "county": "GERMANTOWN - V 0014",
       "precinct_key": "GERMANTOWN - V 0014",
       "geoids": [
-        "55131006403"
+        "55131288750014"
       ],
       "election_type": "spring",
       "dem_votes": 283,
@@ -864,7 +904,7 @@
       "county": "GRAFTON - T 0001",
       "precinct_key": "GRAFTON - T 0001",
       "geoids": [
-        "55089004570"
+        "55089300250001"
       ],
       "election_type": "spring",
       "dem_votes": 119,
@@ -884,7 +924,7 @@
       "county": "GRAFTON - T 0002",
       "precinct_key": "GRAFTON - T 0002",
       "geoids": [
-        "55089004542"
+        "55089300250002"
       ],
       "election_type": "spring",
       "dem_votes": 119,
@@ -904,16 +944,16 @@
       "county": "GRAFTON - T 0003",
       "precinct_key": "GRAFTON - T 0003",
       "geoids": [
-        "55089004541"
+        "55089300250003"
       ],
       "election_type": "spring",
-      "dem_votes": 182,
-      "rep_votes": 304,
-      "other_votes": 2,
-      "total_votes": 488,
+      "dem_votes": 122,
+      "rep_votes": 203,
+      "other_votes": 1,
+      "total_votes": 325,
       "dem_candidate": "Jodi Habush Sinykin",
       "rep_candidate": "Dan Knodl",
-      "margin": 122,
+      "margin": 81,
       "margin_pct": 24.897540983606557,
       "winner": "REP",
       "competitiveness": {
@@ -924,16 +964,16 @@
       "county": "GRAFTON - T 0004",
       "precinct_key": "GRAFTON - T 0004",
       "geoids": [
-        "55089004503"
+        "55089300250004"
       ],
       "election_type": "spring",
-      "dem_votes": 182,
-      "rep_votes": 304,
-      "other_votes": 2,
-      "total_votes": 488,
+      "dem_votes": 122,
+      "rep_votes": 203,
+      "other_votes": 1,
+      "total_votes": 325,
       "dem_candidate": "Jodi Habush Sinykin",
       "rep_candidate": "Dan Knodl",
-      "margin": 122,
+      "margin": 81,
       "margin_pct": 24.897540983606557,
       "winner": "REP",
       "competitiveness": {
@@ -944,7 +984,7 @@
       "county": "GRAFTON - T 0005",
       "precinct_key": "GRAFTON - T 0005",
       "geoids": [
-        "55089004527"
+        "55089300250005"
       ],
       "election_type": "spring",
       "dem_votes": 119,
@@ -961,10 +1001,30 @@
       }
     },
     {
+      "county": "GRAFTON - T 0006",
+      "precinct_key": "GRAFTON - T 0006",
+      "geoids": [
+        "55089300250006"
+      ],
+      "election_type": "spring",
+      "dem_votes": 122,
+      "rep_votes": 203,
+      "other_votes": 1,
+      "total_votes": 325,
+      "dem_candidate": "Jodi Habush Sinykin",
+      "rep_candidate": "Dan Knodl",
+      "margin": 81,
+      "margin_pct": 24.897540983606557,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
       "county": "GRAFTON - V 0001",
       "precinct_key": "GRAFTON - V 0001",
       "geoids": [
-        "55089004559"
+        "55089300000001"
       ],
       "election_type": "spring",
       "dem_votes": 177,
@@ -984,7 +1044,7 @@
       "county": "GRAFTON - V 0002",
       "precinct_key": "GRAFTON - V 0002",
       "geoids": [
-        "55089004516"
+        "55089300000002"
       ],
       "election_type": "spring",
       "dem_votes": 177,
@@ -1004,7 +1064,7 @@
       "county": "GRAFTON - V 0003",
       "precinct_key": "GRAFTON - V 0003",
       "geoids": [
-        "55089004582"
+        "55089300000003"
       ],
       "election_type": "spring",
       "dem_votes": 148,
@@ -1024,7 +1084,7 @@
       "county": "GRAFTON - V 0004",
       "precinct_key": "GRAFTON - V 0004",
       "geoids": [
-        "55089004525"
+        "55089300000004"
       ],
       "election_type": "spring",
       "dem_votes": 148,
@@ -1044,7 +1104,7 @@
       "county": "GRAFTON - V 0005",
       "precinct_key": "GRAFTON - V 0005",
       "geoids": [
-        "55089004499"
+        "55089300000005"
       ],
       "election_type": "spring",
       "dem_votes": 180,
@@ -1064,7 +1124,7 @@
       "county": "GRAFTON - V 0006",
       "precinct_key": "GRAFTON - V 0006",
       "geoids": [
-        "55089004522"
+        "55089300000006"
       ],
       "election_type": "spring",
       "dem_votes": 180,
@@ -1084,7 +1144,7 @@
       "county": "GRAFTON - V 0007",
       "precinct_key": "GRAFTON - V 0007",
       "geoids": [
-        "55089004520"
+        "55089300000007"
       ],
       "election_type": "spring",
       "dem_votes": 144,
@@ -1104,7 +1164,7 @@
       "county": "GRAFTON - V 0008",
       "precinct_key": "GRAFTON - V 0008",
       "geoids": [
-        "55089004532"
+        "55089300000008"
       ],
       "election_type": "spring",
       "dem_votes": 144,
@@ -1124,7 +1184,7 @@
       "county": "GRAFTON - V 0009",
       "precinct_key": "GRAFTON - V 0009",
       "geoids": [
-        "55089004498"
+        "55089300000009"
       ],
       "election_type": "spring",
       "dem_votes": 182,
@@ -1144,7 +1204,7 @@
       "county": "GRAFTON - V 0010",
       "precinct_key": "GRAFTON - V 0010",
       "geoids": [
-        "55089004568"
+        "55089300000010"
       ],
       "election_type": "spring",
       "dem_votes": 182,
@@ -1164,7 +1224,7 @@
       "county": "GRAFTON - V 0011",
       "precinct_key": "GRAFTON - V 0011",
       "geoids": [
-        "55089004528"
+        "55089300000011"
       ],
       "election_type": "spring",
       "dem_votes": 134,
@@ -1184,7 +1244,7 @@
       "county": "GRAFTON - V 0012",
       "precinct_key": "GRAFTON - V 0012",
       "geoids": [
-        "55089004555"
+        "55089300000012"
       ],
       "election_type": "spring",
       "dem_votes": 134,
@@ -1204,7 +1264,7 @@
       "county": "GRAFTON - V 0013",
       "precinct_key": "GRAFTON - V 0013",
       "geoids": [
-        "55089004581"
+        "55089300000013"
       ],
       "election_type": "spring",
       "dem_votes": 184,
@@ -1224,7 +1284,7 @@
       "county": "GRAFTON - V 0014",
       "precinct_key": "GRAFTON - V 0014",
       "geoids": [
-        "55089004580"
+        "55089300000014"
       ],
       "election_type": "spring",
       "dem_votes": 184,
@@ -1244,7 +1304,7 @@
       "county": "LANNON - V 0001",
       "precinct_key": "LANNON - V 0001",
       "geoids": [
-        "55133006611"
+        "55133424500001"
       ],
       "election_type": "spring",
       "dem_votes": 144,
@@ -1264,7 +1324,7 @@
       "county": "LANNON - V 0002",
       "precinct_key": "LANNON - V 0002",
       "geoids": [
-        "55133006723"
+        "55133424500002"
       ],
       "election_type": "spring",
       "dem_votes": 144,
@@ -1281,19 +1341,19 @@
       }
     },
     {
-      "county": "LISBON - T 0001",
-      "precinct_key": "LISBON - T 0001",
+      "county": "LISBON - V 0001",
+      "precinct_key": "LISBON - V 0001",
       "geoids": [
-        "55133006596"
+        "55133448470001"
       ],
       "election_type": "spring",
-      "dem_votes": 307,
-      "rep_votes": 694,
-      "other_votes": 1,
-      "total_votes": 1002,
+      "dem_votes": 154,
+      "rep_votes": 347,
+      "other_votes": 0,
+      "total_votes": 501,
       "dem_candidate": "Jodi Habush Sinykin",
       "rep_candidate": "Dan Knodl",
-      "margin": 387,
+      "margin": 194,
       "margin_pct": 38.622754491017965,
       "winner": "REP",
       "competitiveness": {
@@ -1301,10 +1361,10 @@
       }
     },
     {
-      "county": "LISBON - T 0002",
-      "precinct_key": "LISBON - T 0002",
+      "county": "LISBON - V 0002",
+      "precinct_key": "LISBON - V 0002",
       "geoids": [
-        "55133006885"
+        "55133448470002"
       ],
       "election_type": "spring",
       "dem_votes": 164,
@@ -1321,10 +1381,10 @@
       }
     },
     {
-      "county": "LISBON - T 0003",
-      "precinct_key": "LISBON - T 0003",
+      "county": "LISBON - V 0003",
+      "precinct_key": "LISBON - V 0003",
       "geoids": [
-        "55133006889"
+        "55133448470003"
       ],
       "election_type": "spring",
       "dem_votes": 164,
@@ -1335,6 +1395,26 @@
       "rep_candidate": "Dan Knodl",
       "margin": 178,
       "margin_pct": 35.039370078740156,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "LISBON - V 0007",
+      "precinct_key": "LISBON - V 0007",
+      "geoids": [
+        "55133448470007"
+      ],
+      "election_type": "spring",
+      "dem_votes": 154,
+      "rep_votes": 347,
+      "other_votes": 0,
+      "total_votes": 501,
+      "dem_candidate": "Jodi Habush Sinykin",
+      "rep_candidate": "Dan Knodl",
+      "margin": 194,
+      "margin_pct": 38.622754491017965,
       "winner": "REP",
       "competitiveness": {
         "color": "#67000d"
@@ -1344,7 +1424,7 @@
       "county": "MENOMONEE FALLS - V 0001",
       "precinct_key": "MENOMONEE FALLS - V 0001",
       "geoids": [
-        "55133006613"
+        "55133510000001"
       ],
       "election_type": "spring",
       "dem_votes": 163,
@@ -1364,7 +1444,7 @@
       "county": "MENOMONEE FALLS - V 0002",
       "precinct_key": "MENOMONEE FALLS - V 0002",
       "geoids": [
-        "55133006725"
+        "55133510000002"
       ],
       "election_type": "spring",
       "dem_votes": 257,
@@ -1384,7 +1464,7 @@
       "county": "MENOMONEE FALLS - V 0003",
       "precinct_key": "MENOMONEE FALLS - V 0003",
       "geoids": [
-        "55133006724"
+        "55133510000003"
       ],
       "election_type": "spring",
       "dem_votes": 277,
@@ -1404,7 +1484,7 @@
       "county": "MENOMONEE FALLS - V 0004",
       "precinct_key": "MENOMONEE FALLS - V 0004",
       "geoids": [
-        "55133006726"
+        "55133510000004"
       ],
       "election_type": "spring",
       "dem_votes": 266,
@@ -1424,7 +1504,7 @@
       "county": "MENOMONEE FALLS - V 0005",
       "precinct_key": "MENOMONEE FALLS - V 0005",
       "geoids": [
-        "55133006727"
+        "55133510000005"
       ],
       "election_type": "spring",
       "dem_votes": 235,
@@ -1444,7 +1524,7 @@
       "county": "MENOMONEE FALLS - V 0006",
       "precinct_key": "MENOMONEE FALLS - V 0006",
       "geoids": [
-        "55133006731"
+        "55133510000006"
       ],
       "election_type": "spring",
       "dem_votes": 250,
@@ -1464,7 +1544,7 @@
       "county": "MENOMONEE FALLS - V 0007",
       "precinct_key": "MENOMONEE FALLS - V 0007",
       "geoids": [
-        "55133006562"
+        "55133510000007"
       ],
       "election_type": "spring",
       "dem_votes": 262,
@@ -1484,7 +1564,7 @@
       "county": "MENOMONEE FALLS - V 0008",
       "precinct_key": "MENOMONEE FALLS - V 0008",
       "geoids": [
-        "55133006732"
+        "55133510000008"
       ],
       "election_type": "spring",
       "dem_votes": 312,
@@ -1504,7 +1584,7 @@
       "county": "MENOMONEE FALLS - V 0009",
       "precinct_key": "MENOMONEE FALLS - V 0009",
       "geoids": [
-        "55133006733"
+        "55133510000009"
       ],
       "election_type": "spring",
       "dem_votes": 197,
@@ -1524,7 +1604,7 @@
       "county": "MENOMONEE FALLS - V 0010",
       "precinct_key": "MENOMONEE FALLS - V 0010",
       "geoids": [
-        "55133006736"
+        "55133510000010"
       ],
       "election_type": "spring",
       "dem_votes": 379,
@@ -1544,7 +1624,7 @@
       "county": "MENOMONEE FALLS - V 0011",
       "precinct_key": "MENOMONEE FALLS - V 0011",
       "geoids": [
-        "55133006734"
+        "55133510000011"
       ],
       "election_type": "spring",
       "dem_votes": 367,
@@ -1564,7 +1644,7 @@
       "county": "MENOMONEE FALLS - V 0012",
       "precinct_key": "MENOMONEE FALLS - V 0012",
       "geoids": [
-        "55133006737"
+        "55133510000012"
       ],
       "election_type": "spring",
       "dem_votes": 260,
@@ -1584,7 +1664,7 @@
       "county": "MENOMONEE FALLS - V 0013",
       "precinct_key": "MENOMONEE FALLS - V 0013",
       "geoids": [
-        "55133006729"
+        "55133510000013"
       ],
       "election_type": "spring",
       "dem_votes": 283,
@@ -1604,7 +1684,7 @@
       "county": "MENOMONEE FALLS - V 0014",
       "precinct_key": "MENOMONEE FALLS - V 0014",
       "geoids": [
-        "55133006728"
+        "55133510000014"
       ],
       "election_type": "spring",
       "dem_votes": 305,
@@ -1624,7 +1704,7 @@
       "county": "MENOMONEE FALLS - V 0015",
       "precinct_key": "MENOMONEE FALLS - V 0015",
       "geoids": [
-        "55133006738"
+        "55133510000015"
       ],
       "election_type": "spring",
       "dem_votes": 339,
@@ -1644,7 +1724,7 @@
       "county": "MENOMONEE FALLS - V 0016",
       "precinct_key": "MENOMONEE FALLS - V 0016",
       "geoids": [
-        "55133006730"
+        "55133510000016"
       ],
       "election_type": "spring",
       "dem_votes": 313,
@@ -1664,7 +1744,7 @@
       "county": "MENOMONEE FALLS - V 0017",
       "precinct_key": "MENOMONEE FALLS - V 0017",
       "geoids": [
-        "55133006735"
+        "55133510000017"
       ],
       "election_type": "spring",
       "dem_votes": 330,
@@ -1684,7 +1764,7 @@
       "county": "MENOMONEE FALLS - V 0018",
       "precinct_key": "MENOMONEE FALLS - V 0018",
       "geoids": [
-        "55133006563"
+        "55133510000018"
       ],
       "election_type": "spring",
       "dem_votes": 321,
@@ -1704,7 +1784,7 @@
       "county": "MENOMONEE FALLS - V 0019",
       "precinct_key": "MENOMONEE FALLS - V 0019",
       "geoids": [
-        "55133006610"
+        "55133510000019"
       ],
       "election_type": "spring",
       "dem_votes": 250,
@@ -1724,7 +1804,7 @@
       "county": "MENOMONEE FALLS - V 0020",
       "precinct_key": "MENOMONEE FALLS - V 0020",
       "geoids": [
-        "55133006612"
+        "55133510000020"
       ],
       "election_type": "spring",
       "dem_votes": 235,
@@ -1744,7 +1824,7 @@
       "county": "MENOMONEE FALLS - V 0021",
       "precinct_key": "MENOMONEE FALLS - V 0021",
       "geoids": [
-        "55133006739"
+        "55133510000021"
       ],
       "election_type": "spring",
       "dem_votes": 244,
@@ -1764,7 +1844,7 @@
       "county": "MENOMONEE FALLS - V 0022",
       "precinct_key": "MENOMONEE FALLS - V 0022",
       "geoids": [
-        "55133006740"
+        "55133510000022"
       ],
       "election_type": "spring",
       "dem_votes": 244,
@@ -1784,7 +1864,7 @@
       "county": "MENOMONEE FALLS - V 0023",
       "precinct_key": "MENOMONEE FALLS - V 0023",
       "geoids": [
-        "55133006719"
+        "55133510000023"
       ],
       "election_type": "spring",
       "dem_votes": 315,
@@ -1801,10 +1881,70 @@
       }
     },
     {
+      "county": "MENOMONEE FALLS - V 0024",
+      "precinct_key": "MENOMONEE FALLS - V 0024",
+      "geoids": [
+        "55133510000024"
+      ],
+      "election_type": "spring",
+      "dem_votes": 353,
+      "rep_votes": 432,
+      "other_votes": 0,
+      "total_votes": 785,
+      "dem_candidate": "Jodi Habush Sinykin",
+      "rep_candidate": "Dan Knodl",
+      "margin": 79,
+      "margin_pct": 10.063694267515924,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#cb181d"
+      }
+    },
+    {
+      "county": "MENOMONEE FALLS - V 0025",
+      "precinct_key": "MENOMONEE FALLS - V 0025",
+      "geoids": [
+        "55133510000025"
+      ],
+      "election_type": "spring",
+      "dem_votes": 135,
+      "rep_votes": 254,
+      "other_votes": 0,
+      "total_votes": 389,
+      "dem_candidate": "Jodi Habush Sinykin",
+      "rep_candidate": "Dan Knodl",
+      "margin": 119,
+      "margin_pct": 30.59125964010283,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "MENOMONEE FALLS - V 0026",
+      "precinct_key": "MENOMONEE FALLS - V 0026",
+      "geoids": [
+        "55133510000026"
+      ],
+      "election_type": "spring",
+      "dem_votes": 111,
+      "rep_votes": 116,
+      "other_votes": 1,
+      "total_votes": 228,
+      "dem_candidate": "Jodi Habush Sinykin",
+      "rep_candidate": "Dan Knodl",
+      "margin": 5,
+      "margin_pct": 2.1929824561403506,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#fcbba1"
+      }
+    },
+    {
       "county": "MEQUON - C 0001",
       "precinct_key": "MEQUON - C 0001",
       "geoids": [
-        "55089004549"
+        "55089511500001"
       ],
       "election_type": "spring",
       "dem_votes": 177,
@@ -1824,7 +1964,7 @@
       "county": "MEQUON - C 0002",
       "precinct_key": "MEQUON - C 0002",
       "geoids": [
-        "55089004512"
+        "55089511500002"
       ],
       "election_type": "spring",
       "dem_votes": 177,
@@ -1844,7 +1984,7 @@
       "county": "MEQUON - C 0003",
       "precinct_key": "MEQUON - C 0003",
       "geoids": [
-        "55089004531"
+        "55089511500003"
       ],
       "election_type": "spring",
       "dem_votes": 177,
@@ -1864,7 +2004,7 @@
       "county": "MEQUON - C 0004",
       "precinct_key": "MEQUON - C 0004",
       "geoids": [
-        "55089004496"
+        "55089511500004"
       ],
       "election_type": "spring",
       "dem_votes": 457,
@@ -1884,7 +2024,7 @@
       "county": "MEQUON - C 0005",
       "precinct_key": "MEQUON - C 0005",
       "geoids": [
-        "55089004551"
+        "55089511500005"
       ],
       "election_type": "spring",
       "dem_votes": 457,
@@ -1904,16 +2044,36 @@
       "county": "MEQUON - C 0006",
       "precinct_key": "MEQUON - C 0006",
       "geoids": [
-        "55089004518"
+        "55089511500006"
       ],
       "election_type": "spring",
-      "dem_votes": 350,
-      "rep_votes": 370,
+      "dem_votes": 175,
+      "rep_votes": 185,
       "other_votes": 0,
-      "total_votes": 720,
+      "total_votes": 360,
       "dem_candidate": "Jodi Habush Sinykin",
       "rep_candidate": "Dan Knodl",
-      "margin": 19,
+      "margin": 10,
+      "margin_pct": 2.63705759888966,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#fcbba1"
+      }
+    },
+    {
+      "county": "MEQUON - C 0007",
+      "precinct_key": "MEQUON - C 0007",
+      "geoids": [
+        "55089511500007"
+      ],
+      "election_type": "spring",
+      "dem_votes": 175,
+      "rep_votes": 185,
+      "other_votes": 0,
+      "total_votes": 360,
+      "dem_candidate": "Jodi Habush Sinykin",
+      "rep_candidate": "Dan Knodl",
+      "margin": 10,
       "margin_pct": 2.63705759888966,
       "winner": "REP",
       "competitiveness": {
@@ -1924,16 +2084,16 @@
       "county": "MEQUON - C 0008",
       "precinct_key": "MEQUON - C 0008",
       "geoids": [
-        "55089004553"
+        "55089511500008"
       ],
       "election_type": "spring",
-      "dem_votes": 350,
-      "rep_votes": 370,
+      "dem_votes": 175,
+      "rep_votes": 185,
       "other_votes": 0,
-      "total_votes": 720,
+      "total_votes": 360,
       "dem_candidate": "Jodi Habush Sinykin",
       "rep_candidate": "Dan Knodl",
-      "margin": 19,
+      "margin": 10,
       "margin_pct": 2.63705759888966,
       "winner": "REP",
       "competitiveness": {
@@ -1944,17 +2104,17 @@
       "county": "MEQUON - C 0009",
       "precinct_key": "MEQUON - C 0009",
       "geoids": [
-        "55089004548"
+        "55089511500009"
       ],
       "election_type": "spring",
-      "dem_votes": 258,
-      "rep_votes": 226,
+      "dem_votes": 194,
+      "rep_votes": 170,
       "other_votes": 0,
-      "total_votes": 485,
+      "total_votes": 364,
       "dem_candidate": "Jodi Habush Sinykin",
       "rep_candidate": "Dan Knodl",
-      "margin": -32,
-      "margin_pct": -6.602475928473178,
+      "margin": -24,
+      "margin_pct": -6.602475928473177,
       "winner": "DEM",
       "competitiveness": {
         "color": "#6baed6"
@@ -1964,17 +2124,17 @@
       "county": "MEQUON - C 0010",
       "precinct_key": "MEQUON - C 0010",
       "geoids": [
-        "55089004584"
+        "55089511500010"
       ],
       "election_type": "spring",
-      "dem_votes": 258,
-      "rep_votes": 226,
+      "dem_votes": 194,
+      "rep_votes": 170,
       "other_votes": 0,
-      "total_votes": 485,
+      "total_votes": 364,
       "dem_candidate": "Jodi Habush Sinykin",
       "rep_candidate": "Dan Knodl",
-      "margin": -32,
-      "margin_pct": -6.602475928473178,
+      "margin": -24,
+      "margin_pct": -6.602475928473177,
       "winner": "DEM",
       "competitiveness": {
         "color": "#6baed6"
@@ -1984,17 +2144,17 @@
       "county": "MEQUON - C 0011",
       "precinct_key": "MEQUON - C 0011",
       "geoids": [
-        "55089004569"
+        "55089511500011"
       ],
       "election_type": "spring",
-      "dem_votes": 258,
-      "rep_votes": 226,
+      "dem_votes": 194,
+      "rep_votes": 170,
       "other_votes": 0,
-      "total_votes": 485,
+      "total_votes": 364,
       "dem_candidate": "Jodi Habush Sinykin",
       "rep_candidate": "Dan Knodl",
-      "margin": -32,
-      "margin_pct": -6.602475928473178,
+      "margin": -24,
+      "margin_pct": -6.602475928473177,
       "winner": "DEM",
       "competitiveness": {
         "color": "#6baed6"
@@ -2004,7 +2164,7 @@
       "county": "MEQUON - C 0012",
       "precinct_key": "MEQUON - C 0012",
       "geoids": [
-        "55089004494"
+        "55089511500012"
       ],
       "election_type": "spring",
       "dem_votes": 233,
@@ -2024,7 +2184,7 @@
       "county": "MEQUON - C 0013",
       "precinct_key": "MEQUON - C 0013",
       "geoids": [
-        "55089004495"
+        "55089511500013"
       ],
       "election_type": "spring",
       "dem_votes": 233,
@@ -2044,7 +2204,7 @@
       "county": "MEQUON - C 0014",
       "precinct_key": "MEQUON - C 0014",
       "geoids": [
-        "55089004571"
+        "55089511500014"
       ],
       "election_type": "spring",
       "dem_votes": 260,
@@ -2064,7 +2224,7 @@
       "county": "MEQUON - C 0015",
       "precinct_key": "MEQUON - C 0015",
       "geoids": [
-        "55089004561"
+        "55089511500015"
       ],
       "election_type": "spring",
       "dem_votes": 260,
@@ -2084,7 +2244,7 @@
       "county": "MEQUON - C 0016",
       "precinct_key": "MEQUON - C 0016",
       "geoids": [
-        "55089004519"
+        "55089511500016"
       ],
       "election_type": "spring",
       "dem_votes": 260,
@@ -2104,7 +2264,7 @@
       "county": "MEQUON - C 0017",
       "precinct_key": "MEQUON - C 0017",
       "geoids": [
-        "55089004543"
+        "55089511500017"
       ],
       "election_type": "spring",
       "dem_votes": 420,
@@ -2124,7 +2284,7 @@
       "county": "MEQUON - C 0018",
       "precinct_key": "MEQUON - C 0018",
       "geoids": [
-        "55089004574"
+        "55089511500018"
       ],
       "election_type": "spring",
       "dem_votes": 420,
@@ -2144,7 +2304,7 @@
       "county": "MEQUON - C 0019",
       "precinct_key": "MEQUON - C 0019",
       "geoids": [
-        "55089004562"
+        "55089511500019"
       ],
       "election_type": "spring",
       "dem_votes": 415,
@@ -2164,7 +2324,7 @@
       "county": "MEQUON - C 0020",
       "precinct_key": "MEQUON - C 0020",
       "geoids": [
-        "55089004533"
+        "55089511500020"
       ],
       "election_type": "spring",
       "dem_votes": 415,
@@ -2181,10 +2341,110 @@
       }
     },
     {
+      "county": "MEQUON - C 007A",
+      "precinct_key": "MEQUON - C 007A",
+      "geoids": [
+        "5508951150007A"
+      ],
+      "election_type": "spring",
+      "dem_votes": 175,
+      "rep_votes": 185,
+      "other_votes": 0,
+      "total_votes": 360,
+      "dem_candidate": "Jodi Habush Sinykin",
+      "rep_candidate": "Dan Knodl",
+      "margin": 10,
+      "margin_pct": 2.63705759888966,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#fcbba1"
+      }
+    },
+    {
+      "county": "MEQUON - C 011A",
+      "precinct_key": "MEQUON - C 011A",
+      "geoids": [
+        "5508951150011A"
+      ],
+      "election_type": "spring",
+      "dem_votes": 194,
+      "rep_votes": 170,
+      "other_votes": 0,
+      "total_votes": 364,
+      "dem_candidate": "Jodi Habush Sinykin",
+      "rep_candidate": "Dan Knodl",
+      "margin": -24,
+      "margin_pct": -6.602475928473177,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#6baed6"
+      }
+    },
+    {
+      "county": "MILWAUKEE - C 0316",
+      "precinct_key": "MILWAUKEE - C 0316",
+      "geoids": [
+        "55131530000316"
+      ],
+      "election_type": "spring",
+      "dem_votes": 0,
+      "rep_votes": 0,
+      "other_votes": 0,
+      "total_votes": 0,
+      "dem_candidate": "Jodi Habush Sinykin",
+      "rep_candidate": "Dan Knodl",
+      "margin": 0,
+      "margin_pct": 0.0,
+      "winner": "TIE",
+      "competitiveness": {
+        "color": "#9ca3af"
+      }
+    },
+    {
+      "county": "MILWAUKEE - C 0317",
+      "precinct_key": "MILWAUKEE - C 0317",
+      "geoids": [
+        "55133530000317"
+      ],
+      "election_type": "spring",
+      "dem_votes": 0,
+      "rep_votes": 0,
+      "other_votes": 0,
+      "total_votes": 0,
+      "dem_candidate": "Jodi Habush Sinykin",
+      "rep_candidate": "Dan Knodl",
+      "margin": 0,
+      "margin_pct": 0.0,
+      "winner": "TIE",
+      "competitiveness": {
+        "color": "#9ca3af"
+      }
+    },
+    {
+      "county": "PORT WASHINGTON - C 0008",
+      "precinct_key": "PORT WASHINGTON - C 0008",
+      "geoids": [
+        "55089644500008"
+      ],
+      "election_type": "spring",
+      "dem_votes": 0,
+      "rep_votes": 0,
+      "other_votes": 0,
+      "total_votes": 0,
+      "dem_candidate": "Jodi Habush Sinykin",
+      "rep_candidate": "Dan Knodl",
+      "margin": 0,
+      "margin_pct": 0.0,
+      "winner": "TIE",
+      "competitiveness": {
+        "color": "#9ca3af"
+      }
+    },
+    {
       "county": "RICHFIELD - V 0001",
       "precinct_key": "RICHFIELD - V 0001",
       "geoids": [
-        "55131006389"
+        "55131674750001"
       ],
       "election_type": "spring",
       "dem_votes": 160,
@@ -2204,7 +2464,7 @@
       "county": "RICHFIELD - V 0002",
       "precinct_key": "RICHFIELD - V 0002",
       "geoids": [
-        "55131006394"
+        "55131674750002"
       ],
       "election_type": "spring",
       "dem_votes": 160,
@@ -2224,7 +2484,7 @@
       "county": "RICHFIELD - V 0003",
       "precinct_key": "RICHFIELD - V 0003",
       "geoids": [
-        "55131006411"
+        "55131674750003"
       ],
       "election_type": "spring",
       "dem_votes": 177,
@@ -2244,7 +2504,7 @@
       "county": "RICHFIELD - V 0004",
       "precinct_key": "RICHFIELD - V 0004",
       "geoids": [
-        "55131006459"
+        "55131674750004"
       ],
       "election_type": "spring",
       "dem_votes": 177,
@@ -2264,7 +2524,7 @@
       "county": "RICHFIELD - V 0005",
       "precinct_key": "RICHFIELD - V 0005",
       "geoids": [
-        "55131006401"
+        "55131674750005"
       ],
       "election_type": "spring",
       "dem_votes": 156,
@@ -2284,7 +2544,7 @@
       "county": "RICHFIELD - V 0006",
       "precinct_key": "RICHFIELD - V 0006",
       "geoids": [
-        "55131006395"
+        "55131674750006"
       ],
       "election_type": "spring",
       "dem_votes": 156,
@@ -2304,7 +2564,7 @@
       "county": "RICHFIELD - V 0007",
       "precinct_key": "RICHFIELD - V 0007",
       "geoids": [
-        "55131006349"
+        "55131674750007"
       ],
       "election_type": "spring",
       "dem_votes": 167,
@@ -2324,7 +2584,7 @@
       "county": "RICHFIELD - V 0008",
       "precinct_key": "RICHFIELD - V 0008",
       "geoids": [
-        "55131006379"
+        "55131674750008"
       ],
       "election_type": "spring",
       "dem_votes": 167,
@@ -2344,7 +2604,7 @@
       "county": "RICHFIELD - V 0009",
       "precinct_key": "RICHFIELD - V 0009",
       "geoids": [
-        "55131006444"
+        "55131674750009"
       ],
       "election_type": "spring",
       "dem_votes": 167,
@@ -2364,7 +2624,7 @@
       "county": "RIVER HILLS - V 0001",
       "precinct_key": "RIVER HILLS - V 0001",
       "geoids": [
-        "55079003831"
+        "55079683250001"
       ],
       "election_type": "spring",
       "dem_votes": 229,
@@ -2384,7 +2644,7 @@
       "county": "RIVER HILLS - V 0002",
       "precinct_key": "RIVER HILLS - V 0002",
       "geoids": [
-        "55079003813"
+        "55079683250002"
       ],
       "election_type": "spring",
       "dem_votes": 264,
@@ -2404,7 +2664,7 @@
       "county": "SUSSEX - V 0001",
       "precinct_key": "SUSSEX - V 0001",
       "geoids": [
-        "55133006722"
+        "55133787500001"
       ],
       "election_type": "spring",
       "dem_votes": 220,
@@ -2424,7 +2684,7 @@
       "county": "SUSSEX - V 0002",
       "precinct_key": "SUSSEX - V 0002",
       "geoids": [
-        "55133006715"
+        "55133787500002"
       ],
       "election_type": "spring",
       "dem_votes": 220,
@@ -2444,7 +2704,7 @@
       "county": "SUSSEX - V 0003",
       "precinct_key": "SUSSEX - V 0003",
       "geoids": [
-        "55133006890"
+        "55133787500003"
       ],
       "election_type": "spring",
       "dem_votes": 121,
@@ -2464,7 +2724,7 @@
       "county": "SUSSEX - V 0004",
       "precinct_key": "SUSSEX - V 0004",
       "geoids": [
-        "55133006617"
+        "55133787500004"
       ],
       "election_type": "spring",
       "dem_votes": 121,
@@ -2484,7 +2744,7 @@
       "county": "SUSSEX - V 0005",
       "precinct_key": "SUSSEX - V 0005",
       "geoids": [
-        "55133006675"
+        "55133787500005"
       ],
       "election_type": "spring",
       "dem_votes": 308,
@@ -2504,7 +2764,7 @@
       "county": "SUSSEX - V 0006",
       "precinct_key": "SUSSEX - V 0006",
       "geoids": [
-        "55133006674"
+        "55133787500006"
       ],
       "election_type": "spring",
       "dem_votes": 241,
@@ -2524,7 +2784,7 @@
       "county": "SUSSEX - V 0007",
       "precinct_key": "SUSSEX - V 0007",
       "geoids": [
-        "55133006676"
+        "55133787500007"
       ],
       "election_type": "spring",
       "dem_votes": 241,
@@ -2544,7 +2804,7 @@
       "county": "SUSSEX - V 0008",
       "precinct_key": "SUSSEX - V 0008",
       "geoids": [
-        "55133006854"
+        "55133787500008"
       ],
       "election_type": "spring",
       "dem_votes": 121,
@@ -2564,7 +2824,7 @@
       "county": "SUSSEX - V 0011",
       "precinct_key": "SUSSEX - V 0011",
       "geoids": [
-        "55133003024"
+        "55133787500011"
       ],
       "election_type": "spring",
       "dem_votes": 121,
@@ -2584,7 +2844,7 @@
       "county": "THIENSVILLE - V 0001",
       "precinct_key": "THIENSVILLE - V 0001",
       "geoids": [
-        "55089004539"
+        "55089794750001"
       ],
       "election_type": "spring",
       "dem_votes": 236,
@@ -2604,7 +2864,7 @@
       "county": "THIENSVILLE - V 0002",
       "precinct_key": "THIENSVILLE - V 0002",
       "geoids": [
-        "55089004508"
+        "55089794750002"
       ],
       "election_type": "spring",
       "dem_votes": 236,
@@ -2624,7 +2884,7 @@
       "county": "THIENSVILLE - V 0003",
       "precinct_key": "THIENSVILLE - V 0003",
       "geoids": [
-        "55089004535"
+        "55089794750003"
       ],
       "election_type": "spring",
       "dem_votes": 162,
@@ -2644,7 +2904,7 @@
       "county": "THIENSVILLE - V 0004",
       "precinct_key": "THIENSVILLE - V 0004",
       "geoids": [
-        "55089004505"
+        "55089794750004"
       ],
       "election_type": "spring",
       "dem_votes": 162,
@@ -2664,7 +2924,7 @@
       "county": "WHITEFISH BAY - V 0001",
       "precinct_key": "WHITEFISH BAY - V 0001",
       "geoids": [
-        "55079003496"
+        "55079867000001"
       ],
       "election_type": "spring",
       "dem_votes": 385,
@@ -2684,7 +2944,7 @@
       "county": "WHITEFISH BAY - V 0002",
       "precinct_key": "WHITEFISH BAY - V 0002",
       "geoids": [
-        "55079003497"
+        "55079867000002"
       ],
       "election_type": "spring",
       "dem_votes": 385,
@@ -2704,7 +2964,7 @@
       "county": "WHITEFISH BAY - V 0003",
       "precinct_key": "WHITEFISH BAY - V 0003",
       "geoids": [
-        "55079003498"
+        "55079867000003"
       ],
       "election_type": "spring",
       "dem_votes": 390,
@@ -2724,7 +2984,7 @@
       "county": "WHITEFISH BAY - V 0004",
       "precinct_key": "WHITEFISH BAY - V 0004",
       "geoids": [
-        "55079003504"
+        "55079867000004"
       ],
       "election_type": "spring",
       "dem_votes": 390,
@@ -2744,7 +3004,7 @@
       "county": "WHITEFISH BAY - V 0005",
       "precinct_key": "WHITEFISH BAY - V 0005",
       "geoids": [
-        "55079003499"
+        "55079867000005"
       ],
       "election_type": "spring",
       "dem_votes": 420,
@@ -2764,7 +3024,7 @@
       "county": "WHITEFISH BAY - V 0006",
       "precinct_key": "WHITEFISH BAY - V 0006",
       "geoids": [
-        "55079003500"
+        "55079867000006"
       ],
       "election_type": "spring",
       "dem_votes": 420,
@@ -2784,7 +3044,7 @@
       "county": "WHITEFISH BAY - V 0007",
       "precinct_key": "WHITEFISH BAY - V 0007",
       "geoids": [
-        "55079003698"
+        "55079867000007"
       ],
       "election_type": "spring",
       "dem_votes": 448,
@@ -2804,7 +3064,7 @@
       "county": "WHITEFISH BAY - V 0008",
       "precinct_key": "WHITEFISH BAY - V 0008",
       "geoids": [
-        "55079003501"
+        "55079867000008"
       ],
       "election_type": "spring",
       "dem_votes": 498,
@@ -2824,7 +3084,7 @@
       "county": "WHITEFISH BAY - V 0009",
       "precinct_key": "WHITEFISH BAY - V 0009",
       "geoids": [
-        "55079003699"
+        "55079867000009"
       ],
       "election_type": "spring",
       "dem_votes": 396,
@@ -2844,7 +3104,7 @@
       "county": "WHITEFISH BAY - V 0010",
       "precinct_key": "WHITEFISH BAY - V 0010",
       "geoids": [
-        "55079003503"
+        "55079867000010"
       ],
       "election_type": "spring",
       "dem_votes": 498,
@@ -2864,7 +3124,7 @@
       "county": "WHITEFISH BAY - V 0011",
       "precinct_key": "WHITEFISH BAY - V 0011",
       "geoids": [
-        "55079003697"
+        "55079867000011"
       ],
       "election_type": "spring",
       "dem_votes": 396,
@@ -2884,7 +3144,7 @@
       "county": "WHITEFISH BAY - V 0012",
       "precinct_key": "WHITEFISH BAY - V 0012",
       "geoids": [
-        "55079003502"
+        "55079867000012"
       ],
       "election_type": "spring",
       "dem_votes": 528,

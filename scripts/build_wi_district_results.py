@@ -190,6 +190,27 @@ def normalize_token(value: str) -> str:
     return re.sub(r"[^A-Z0-9]+", " ", (value or "").upper()).strip()
 
 
+def normalize_municipality_token(value: str) -> str:
+    """Normalize harmless municipality spelling variants without guessing geography."""
+    words = normalize_token(value).split()
+    expanded = [
+        "MOUNT" if word == "MT" else "SAINT" if word == "ST" else word
+        for word in words
+    ]
+    compact = "".join(expanded)
+    return {
+        "FONTANA": "FONTANAONGENEVALAKE",
+    }.get(compact, compact)
+
+
+def normalize_municipality_for_county(county_norm: str, value: str) -> str:
+    municipality = normalize_municipality_token(value)
+    # Williamstown's surviving territory was incorporated into Kekoskee for 2025.
+    if county_norm == "DODGE" and municipality == "WILLIAMSTOWN":
+        return "KEKOSKEE"
+    return municipality
+
+
 def normalize_county(value: str) -> str:
     return " ".join((value or "").strip().split()).title()
 
@@ -348,7 +369,7 @@ def build_county_fips_to_name() -> dict[str, str]:
 
 def parse_vtd_name(raw_name: str) -> tuple[str, str, int] | None:
     name = (raw_name or "").strip()
-    match = re.match(r"^(.*?)\s*-\s*([A-Z])?\s*0*([0-9]+)$", name, flags=re.IGNORECASE)
+    match = re.match(r"^(.*?)\s*-\s*([A-Z])?\s*0*([0-9]+)[A-Z]?$", name, flags=re.IGNORECASE)
     if not match:
         return None
     muni = normalize_token(match.group(1))
@@ -357,15 +378,15 @@ def parse_vtd_name(raw_name: str) -> tuple[str, str, int] | None:
     return muni, kind, ward_num
 
 
-def build_precinct_records() -> tuple[dict[str, list[dict[str, object]]], dict[str, str]]:
+def build_precinct_records(precinct_path: Path | None = None) -> tuple[dict[str, list[dict[str, object]]], dict[str, str]]:
     county_fips_to_name = build_county_fips_to_name()
-    fc = read_geojson(TIGER_DIR / "tl_2020_55_vtd20.geojson")
+    fc = read_geojson(precinct_path or (TIGER_DIR / "tl_2020_55_vtd20.geojson"))
     precincts_by_county: dict[str, list[dict[str, object]]] = defaultdict(list)
     geoid_to_key: dict[str, str] = {}
     for feature in fc.get("features") or []:
         props = feature.get("properties") or {}
         geoid = str(props.get("GEOID20") or "")
-        county_name = county_fips_to_name.get(str(props.get("COUNTYFP20") or "").zfill(3), "")
+        county_name = normalize_county(str(props.get("county_nam") or "")) or county_fips_to_name.get(str(props.get("COUNTYFP20") or "").zfill(3), "")
         parsed = parse_vtd_name(str(props.get("NAME20") or ""))
         if not geoid or not county_name or not parsed:
             continue
@@ -378,6 +399,7 @@ def build_precinct_records() -> tuple[dict[str, list[dict[str, object]]], dict[s
             "municipality_norm": muni,
             "kind": kind,
             "ward_num": ward_num,
+            "persons": float(props.get("PERSONS") or 0),
             "lon": float(str(props.get("INTPTLON20") or "0")),
             "lat": float(str(props.get("INTPTLAT20") or "0")),
         }
@@ -482,7 +504,7 @@ def parse_ward_list(ward_part: str) -> list[int]:
 
 def parse_ward_label(raw: str) -> tuple[str, str, list[int]] | None:
     text = " ".join((raw or "").strip().split())
-    match = re.match(r"^(Town|Village|City)\s+Of\s+(.*?)\s+Wards?\s+(.+)$", text, flags=re.IGNORECASE)
+    match = re.match(r"^(Town|Village|City)\s+Of\s+(.*?)\s+(?:Wards?|Wds?)\s*(.+)$", text, flags=re.IGNORECASE)
     if not match:
         return None
     kind_word = match.group(1).lower()
@@ -499,11 +521,13 @@ def match_row_precincts(
     ward_label: str,
     by_kind: dict[tuple[str, str, str, int], list[dict[str, object]]],
     by_any_kind: dict[tuple[str, str, int], list[dict[str, object]]],
+    allow_municipality_fallback: bool = False,
 ) -> list[dict[str, object]]:
     parsed = parse_ward_label(ward_label)
     if not parsed:
         return []
     municipality_norm, kind, ward_nums = parsed
+    allow_kind_change = county_norm == "DODGE" and normalize_municipality_token(municipality_norm) == "WILLIAMSTOWN"
     matches = []
     if not matches:
         for ward_num in ward_nums:
@@ -511,6 +535,40 @@ def match_row_precincts(
     if not matches:
         for ward_num in ward_nums:
             matches.extend(by_any_kind.get((county_norm, municipality_norm, ward_num), []))
+    if not matches:
+        municipality_alias = normalize_municipality_for_county(county_norm, municipality_norm)
+        for ward_num in ward_nums:
+            alias_candidates = []
+            for (candidate_county, candidate_muni, candidate_kind, candidate_ward), rows in by_kind.items():
+                if (
+                    candidate_county == county_norm
+                    and (candidate_kind == kind or allow_kind_change)
+                    and candidate_ward == ward_num
+                    and normalize_municipality_for_county(candidate_county, candidate_muni) == municipality_alias
+                ):
+                    alias_candidates.extend(rows)
+            if len(alias_candidates) == 1:
+                matches.extend(alias_candidates)
+    suffix_match = re.search(r"\bWard\s+\d+([A-Z])\s*$", ward_label, flags=re.IGNORECASE)
+    if matches and suffix_match:
+        suffix = suffix_match.group(1).upper()
+        suffixed = [
+            item for item in matches
+            if re.search(rf"0*{ward_nums[0]}{suffix}$", str(item.get("precinct_key") or ""), flags=re.IGNORECASE)
+        ]
+        if suffixed:
+            matches = suffixed
+    if not matches and allow_municipality_fallback:
+        municipality_alias = normalize_municipality_for_county(county_norm, municipality_norm)
+        fallback = []
+        for (candidate_county, candidate_muni, candidate_kind, _), rows in by_kind.items():
+            if (
+                candidate_county == county_norm
+                and (candidate_kind == kind or allow_kind_change)
+                and normalize_municipality_for_county(candidate_county, candidate_muni) == municipality_alias
+            ):
+                fallback.extend({**row, "_municipality_fallback": True} for row in rows)
+        matches = fallback
     seen = set()
     deduped = []
     for item in matches:
