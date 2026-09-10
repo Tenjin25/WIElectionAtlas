@@ -2,6 +2,7 @@ import argparse
 import json
 import re
 import zipfile
+from collections import Counter, defaultdict
 from pathlib import Path
 
 import geopandas as gpd
@@ -12,12 +13,14 @@ ROOT = Path(__file__).resolve().parents[1]
 DATA_DIR = ROOT / "data"
 DEFAULT_ARCHIVE = DATA_DIR / "wi_municipal_wards_fall_2025.zip"
 DEFAULT_OUT = DATA_DIR / "tiger" / "wi_ltsb_2025_wards.geojson"
+DEFAULT_FRIENDLY_OUT = DATA_DIR / "mappings" / "precinct_friendly_names.json"
 
 
 def main() -> None:
     parser = argparse.ArgumentParser(description="Convert the official LTSB FileGDB ward layer to app-ready GeoJSON.")
     parser.add_argument("--archive", type=Path, default=DEFAULT_ARCHIVE)
     parser.add_argument("--output", type=Path, default=DEFAULT_OUT)
+    parser.add_argument("--friendly-output", type=Path, default=DEFAULT_FRIENDLY_OUT)
     parser.add_argument("--simplify", type=float, default=0.00003, help="Geometry tolerance in degrees.")
     args = parser.parse_args()
 
@@ -86,7 +89,28 @@ def main() -> None:
         json.dumps({"type": "FeatureCollection", "features": features}, separators=(",", ":")),
         encoding="utf-8",
     )
+    names_by_county: dict[str, dict[str, str]] = defaultdict(dict)
+    short_counts_by_county: dict[str, Counter[str]] = defaultdict(Counter)
+    for feature in features:
+        props = feature["properties"]
+        county = str(props["county_nam"]).upper()
+        short_counts_by_county[county][str(props["prec_id"])] += 1
+    for feature in features:
+        props = feature["properties"]
+        county = str(props["county_nam"]).upper()
+        full_key = str(props["precinct_key"])
+        short_key = str(props["prec_id"])
+        friendly = str(props["precinct_full_name"])
+        names_by_county[county][full_key] = friendly
+        if short_counts_by_county[county][short_key] == 1:
+            names_by_county[county][short_key] = friendly
+    args.friendly_output.parent.mkdir(parents=True, exist_ok=True)
+    args.friendly_output.write_text(
+        json.dumps({"counties": dict(sorted(names_by_county.items()))}, indent=2) + "\n",
+        encoding="utf-8",
+    )
     print(f"Wrote {args.output} ({len(features)} wards)")
+    print(f"Wrote {args.friendly_output} ({len(names_by_county)} counties)")
 
 
 if __name__ == "__main__":
