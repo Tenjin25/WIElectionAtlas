@@ -89,6 +89,8 @@ def main() -> None:
             "county_name": "",
             "precinct_key": "",
             "geoids": set(),
+            "reporting_units": set(),
+            "shared_reporting_unit": False,
         }
     )
     seen_total_rows = set()
@@ -166,6 +168,8 @@ def main() -> None:
                     node["county_name"] = precinct_key
                     node["precinct_key"] = precinct_key
                     node["geoids"].add(geoid)
+                    node["reporting_units"].add(ward_label)
+                    node["shared_reporting_unit"] = bool(node["shared_reporting_unit"] or len(matched_precincts) > 1)
 
                     if party in DEM_PARTIES or aligned_party == "dem":
                         node["dem_votes"] += share_votes
@@ -199,6 +203,14 @@ def main() -> None:
             "precinct_key": precinct_key,
             "geoids": sorted(node["geoids"]),
             "election_type": contest_election_types.get((year, office_key), "general"),
+            **(
+                {
+                    "reporting_units": sorted(node["reporting_units"]),
+                    "shared_reporting_unit": True,
+                }
+                if node["shared_reporting_unit"]
+                else {}
+            ),
             **payload,
         }
         year_bucket = results_by_year.setdefault(year, {})
