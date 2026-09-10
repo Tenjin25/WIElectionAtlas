@@ -21068,6 +21068,29 @@
       "rep_label": "Conservative"
     },
     {
+      "county": "CHIPPEWA FALLS - C 0001A",
+      "precinct_key": "CHIPPEWA FALLS - C 0001A",
+      "geoids": [
+        "5501714575001A"
+      ],
+      "election_type": "spring",
+      "dem_votes": 87,
+      "rep_votes": 57,
+      "other_votes": 0,
+      "total_votes": 144,
+      "dem_candidate": "Janet C. Protasiewicz",
+      "rep_candidate": "Daniel Kelly",
+      "margin": -29,
+      "margin_pct": -20.370370370370367,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
       "county": "CHIPPEWA FALLS - C 0002",
       "precinct_key": "CHIPPEWA FALLS - C 0002",
       "geoids": [
@@ -21275,6 +21298,29 @@
       "rep_label": "Conservative"
     },
     {
+      "county": "CHIPPEWA FALLS - C 0010A",
+      "precinct_key": "CHIPPEWA FALLS - C 0010A",
+      "geoids": [
+        "5501714575010A"
+      ],
+      "election_type": "spring",
+      "dem_votes": 72,
+      "rep_votes": 44,
+      "other_votes": 1,
+      "total_votes": 117,
+      "dem_candidate": "Janet C. Protasiewicz",
+      "rep_candidate": "Daniel Kelly",
+      "margin": -28,
+      "margin_pct": -23.64672364672365,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
       "county": "CHIPPEWA FALLS - C 0011",
       "precinct_key": "CHIPPEWA FALLS - C 0011",
       "geoids": [
@@ -21407,52 +21453,6 @@
       "winner": "DEM",
       "competitiveness": {
         "color": "#6baed6"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "CHIPPEWA FALLS - C 001A",
-      "precinct_key": "CHIPPEWA FALLS - C 001A",
-      "geoids": [
-        "5501714575001A"
-      ],
-      "election_type": "spring",
-      "dem_votes": 87,
-      "rep_votes": 57,
-      "other_votes": 0,
-      "total_votes": 144,
-      "dem_candidate": "Janet C. Protasiewicz",
-      "rep_candidate": "Daniel Kelly",
-      "margin": -29,
-      "margin_pct": -20.370370370370367,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "CHIPPEWA FALLS - C 010A",
-      "precinct_key": "CHIPPEWA FALLS - C 010A",
-      "geoids": [
-        "5501714575010A"
-      ],
-      "election_type": "spring",
-      "dem_votes": 72,
-      "rep_votes": 44,
-      "other_votes": 1,
-      "total_votes": 117,
-      "dem_candidate": "Janet C. Protasiewicz",
-      "rep_candidate": "Daniel Kelly",
-      "margin": -28,
-      "margin_pct": -23.64672364672365,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
       },
       "contest_partisan_style": "nonpartisan_ideology",
       "dem_label": "Liberal",
@@ -38211,7 +38211,7 @@
       "county": "FOND DU LAC - C 0020",
       "precinct_key": "FOND DU LAC - C 0020",
       "geoids": [
-        "55039262750020"
+        "550392627500020"
       ],
       "election_type": "spring",
       "dem_votes": 346,
@@ -38234,7 +38234,7 @@
       "county": "FOND DU LAC - C 0021",
       "precinct_key": "FOND DU LAC - C 0021",
       "geoids": [
-        "55039262750021"
+        "550392627500021"
       ],
       "election_type": "spring",
       "dem_votes": 286,
@@ -38257,7 +38257,7 @@
       "county": "FOND DU LAC - C 0022",
       "precinct_key": "FOND DU LAC - C 0022",
       "geoids": [
-        "55039262750022"
+        "550392627500022"
       ],
       "election_type": "spring",
       "dem_votes": 226,
@@ -45481,10 +45481,56 @@
       "rep_label": "Conservative"
     },
     {
+      "county": "GREEN BAY - C 0011A",
+      "precinct_key": "GREEN BAY - C 0011A",
+      "geoids": [
+        "5500931000011A"
+      ],
+      "election_type": "spring",
+      "dem_votes": 130,
+      "rep_votes": 100,
+      "other_votes": 0,
+      "total_votes": 231,
+      "dem_candidate": "Janet C. Protasiewicz",
+      "rep_candidate": "Daniel Kelly",
+      "margin": -30,
+      "margin_pct": -12.987012987012985,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
       "county": "GREEN BAY - C 0012",
       "precinct_key": "GREEN BAY - C 0012",
       "geoids": [
         "55009310000012"
+      ],
+      "election_type": "spring",
+      "dem_votes": 68,
+      "rep_votes": 46,
+      "other_votes": 0,
+      "total_votes": 114,
+      "dem_candidate": "Janet C. Protasiewicz",
+      "rep_candidate": "Daniel Kelly",
+      "margin": -22,
+      "margin_pct": -19.213973799126638,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "GREEN BAY - C 0012A",
+      "precinct_key": "GREEN BAY - C 0012A",
+      "geoids": [
+        "5500931000012A"
       ],
       "election_type": "spring",
       "dem_votes": 68,
@@ -46079,6 +46125,29 @@
       "rep_label": "Conservative"
     },
     {
+      "county": "GREEN BAY - C 0037A",
+      "precinct_key": "GREEN BAY - C 0037A",
+      "geoids": [
+        "5500931000037A"
+      ],
+      "election_type": "spring",
+      "dem_votes": 188,
+      "rep_votes": 128,
+      "other_votes": 0,
+      "total_votes": 316,
+      "dem_candidate": "Janet C. Protasiewicz",
+      "rep_candidate": "Daniel Kelly",
+      "margin": -60,
+      "margin_pct": -18.829113924050635,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
       "county": "GREEN BAY - C 0038",
       "precinct_key": "GREEN BAY - C 0038",
       "geoids": [
@@ -46263,6 +46332,29 @@
       "rep_label": "Conservative"
     },
     {
+      "county": "GREEN BAY - C 0045A",
+      "precinct_key": "GREEN BAY - C 0045A",
+      "geoids": [
+        "5500931000045A"
+      ],
+      "election_type": "spring",
+      "dem_votes": 270,
+      "rep_votes": 258,
+      "other_votes": 1,
+      "total_votes": 529,
+      "dem_candidate": "Janet C. Protasiewicz",
+      "rep_candidate": "Daniel Kelly",
+      "margin": -11,
+      "margin_pct": -2.0793950850661624,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#c6dbef"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
       "county": "GREEN BAY - C 0046",
       "precinct_key": "GREEN BAY - C 0046",
       "geoids": [
@@ -46303,98 +46395,6 @@
       "winner": "REP",
       "competitiveness": {
         "color": "#fcbba1"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "GREEN BAY - C 011A",
-      "precinct_key": "GREEN BAY - C 011A",
-      "geoids": [
-        "5500931000011A"
-      ],
-      "election_type": "spring",
-      "dem_votes": 130,
-      "rep_votes": 100,
-      "other_votes": 0,
-      "total_votes": 231,
-      "dem_candidate": "Janet C. Protasiewicz",
-      "rep_candidate": "Daniel Kelly",
-      "margin": -30,
-      "margin_pct": -12.987012987012985,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#2171b5"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "GREEN BAY - C 012A",
-      "precinct_key": "GREEN BAY - C 012A",
-      "geoids": [
-        "5500931000012A"
-      ],
-      "election_type": "spring",
-      "dem_votes": 68,
-      "rep_votes": 46,
-      "other_votes": 0,
-      "total_votes": 114,
-      "dem_candidate": "Janet C. Protasiewicz",
-      "rep_candidate": "Daniel Kelly",
-      "margin": -22,
-      "margin_pct": -19.213973799126638,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#2171b5"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "GREEN BAY - C 037A",
-      "precinct_key": "GREEN BAY - C 037A",
-      "geoids": [
-        "5500931000037A"
-      ],
-      "election_type": "spring",
-      "dem_votes": 188,
-      "rep_votes": 128,
-      "other_votes": 0,
-      "total_votes": 316,
-      "dem_candidate": "Janet C. Protasiewicz",
-      "rep_candidate": "Daniel Kelly",
-      "margin": -60,
-      "margin_pct": -18.829113924050635,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#2171b5"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "GREEN BAY - C 045A",
-      "precinct_key": "GREEN BAY - C 045A",
-      "geoids": [
-        "5500931000045A"
-      ],
-      "election_type": "spring",
-      "dem_votes": 270,
-      "rep_votes": 258,
-      "other_votes": 1,
-      "total_votes": 529,
-      "dem_candidate": "Janet C. Protasiewicz",
-      "rep_candidate": "Daniel Kelly",
-      "margin": -11,
-      "margin_pct": -2.0793950850661624,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#c6dbef"
       },
       "contest_partisan_style": "nonpartisan_ideology",
       "dem_label": "Liberal",
@@ -63024,10 +63024,10 @@
       "rep_label": "Conservative"
     },
     {
-      "county": "LAC LA BELLE - V 0002",
-      "precinct_key": "LAC LA BELLE - V 0002",
+      "county": "LAC LA BELLE - V 0012",
+      "precinct_key": "LAC LA BELLE - V 0012",
       "geoids": [
-        "55055407500002"
+        "55055407500012"
       ],
       "election_type": "spring",
       "dem_votes": 0,
@@ -69586,14 +69586,14 @@
         "55025480000001"
       ],
       "election_type": "spring",
-      "dem_votes": 611,
+      "dem_votes": 612,
       "rep_votes": 171,
       "other_votes": 3,
-      "total_votes": 784,
+      "total_votes": 786,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -440,
-      "margin_pct": -56.10224844185401,
+      "margin": -442,
+      "margin_pct": -56.158846806105146,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -69609,14 +69609,14 @@
         "55025480000002"
       ],
       "election_type": "spring",
-      "dem_votes": 433,
+      "dem_votes": 435,
       "rep_votes": 102,
       "other_votes": 2,
-      "total_votes": 536,
+      "total_votes": 539,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -331,
-      "margin_pct": -61.756971072707636,
+      "margin": -334,
+      "margin_pct": -61.854522975479085,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -69632,14 +69632,14 @@
         "55025480000003"
       ],
       "election_type": "spring",
-      "dem_votes": 579,
+      "dem_votes": 578,
       "rep_votes": 116,
       "other_votes": 1,
       "total_votes": 695,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
       "margin": -463,
-      "margin_pct": -66.53526567452037,
+      "margin_pct": -66.53028607959087,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -69661,8 +69661,8 @@
       "total_votes": 1071,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -669,
-      "margin_pct": -62.49607908723368,
+      "margin": -670,
+      "margin_pct": -62.50181516440203,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -69678,14 +69678,14 @@
         "55025480000005"
       ],
       "election_type": "spring",
-      "dem_votes": 610,
+      "dem_votes": 612,
       "rep_votes": 142,
       "other_votes": 1,
-      "total_votes": 753,
+      "total_votes": 755,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -468,
-      "margin_pct": -62.243032475273516,
+      "margin": -471,
+      "margin_pct": -62.30395762836546,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -69701,14 +69701,14 @@
         "55025480000006"
       ],
       "election_type": "spring",
-      "dem_votes": 1069,
+      "dem_votes": 1066,
       "rep_votes": 198,
       "other_votes": 2,
-      "total_votes": 1269,
+      "total_votes": 1266,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -871,
-      "margin_pct": -68.6141214473038,
+      "margin": -869,
+      "margin_pct": -68.59248859248859,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -69724,14 +69724,14 @@
         "55025480000007"
       ],
       "election_type": "spring",
-      "dem_votes": 1094,
+      "dem_votes": 1090,
       "rep_votes": 219,
       "other_votes": 3,
-      "total_votes": 1316,
+      "total_votes": 1312,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -874,
-      "margin_pct": -66.45180215507199,
+      "margin": -872,
+      "margin_pct": -66.41659610499578,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -69747,14 +69747,14 @@
         "55025480000008"
       ],
       "election_type": "spring",
-      "dem_votes": 1217,
+      "dem_votes": 1215,
       "rep_votes": 182,
       "other_votes": 4,
-      "total_votes": 1404,
+      "total_votes": 1401,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -1035,
-      "margin_pct": -73.76883712110298,
+      "margin": -1034,
+      "margin_pct": -73.7594163825232,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -69770,14 +69770,14 @@
         "55025480000009"
       ],
       "election_type": "spring",
-      "dem_votes": 666,
+      "dem_votes": 665,
       "rep_votes": 103,
       "other_votes": 1,
-      "total_votes": 770,
+      "total_votes": 769,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
       "margin": -563,
-      "margin_pct": -73.13692895937443,
+      "margin_pct": -73.13014589050991,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -69800,7 +69800,7 @@
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
       "margin": -722,
-      "margin_pct": -62.24248234569079,
+      "margin_pct": -62.242883159206364,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -69816,14 +69816,14 @@
         "55025480000011"
       ],
       "election_type": "spring",
-      "dem_votes": 1100,
+      "dem_votes": 1097,
       "rep_votes": 167,
       "other_votes": 4,
-      "total_votes": 1271,
+      "total_votes": 1268,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -933,
-      "margin_pct": -73.38678843097117,
+      "margin": -931,
+      "margin_pct": -73.37305063956545,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -69839,14 +69839,14 @@
         "55025480000012"
       ],
       "election_type": "spring",
-      "dem_votes": 688,
+      "dem_votes": 683,
       "rep_votes": 95,
       "other_votes": 3,
-      "total_votes": 787,
+      "total_votes": 781,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -593,
-      "margin_pct": -75.36320388884815,
+      "margin": -589,
+      "margin_pct": -75.33494524249753,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -69862,14 +69862,14 @@
         "55025480000013"
       ],
       "election_type": "spring",
-      "dem_votes": 300,
+      "dem_votes": 302,
       "rep_votes": 38,
       "other_votes": 0,
-      "total_votes": 337,
+      "total_votes": 340,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -262,
-      "margin_pct": -77.73773822557517,
+      "margin": -265,
+      "margin_pct": -77.75310254735469,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -69885,14 +69885,14 @@
         "55025480000014"
       ],
       "election_type": "spring",
-      "dem_votes": 974,
+      "dem_votes": 972,
       "rep_votes": 137,
       "other_votes": 0,
-      "total_votes": 1111,
+      "total_votes": 1109,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -837,
-      "margin_pct": -75.3324159037844,
+      "margin": -836,
+      "margin_pct": -75.3260542922969,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -69908,14 +69908,14 @@
         "55025480000015"
       ],
       "election_type": "spring",
-      "dem_votes": 1142,
+      "dem_votes": 1141,
       "rep_votes": 114,
       "other_votes": 1,
-      "total_votes": 1257,
+      "total_votes": 1256,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
       "margin": -1028,
-      "margin_pct": -81.7943032874147,
+      "margin_pct": -81.79550681054306,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -69931,14 +69931,14 @@
         "55025480000016"
       ],
       "election_type": "spring",
-      "dem_votes": 642,
-      "rep_votes": 61,
+      "dem_votes": 646,
+      "rep_votes": 62,
       "other_votes": 2,
-      "total_votes": 706,
+      "total_votes": 710,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -581,
-      "margin_pct": -82.32031459263277,
+      "margin": -585,
+      "margin_pct": -82.30287859824782,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -69954,14 +69954,14 @@
         "55025480000017"
       ],
       "election_type": "spring",
-      "dem_votes": 1379,
+      "dem_votes": 1377,
       "rep_votes": 140,
       "other_votes": 2,
-      "total_votes": 1521,
+      "total_votes": 1519,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -1239,
-      "margin_pct": -81.4559370940364,
+      "margin": -1238,
+      "margin_pct": -81.4583485701748,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -69977,14 +69977,14 @@
         "55025480000018"
       ],
       "election_type": "spring",
-      "dem_votes": 1301,
+      "dem_votes": 1299,
       "rep_votes": 67,
       "other_votes": 1,
-      "total_votes": 1369,
+      "total_votes": 1367,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -1234,
-      "margin_pct": -90.13637715067401,
+      "margin": -1233,
+      "margin_pct": -90.14872003250709,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -70000,14 +70000,14 @@
         "55025480000019"
       ],
       "election_type": "spring",
-      "dem_votes": 1984,
+      "dem_votes": 1979,
       "rep_votes": 51,
       "other_votes": 1,
-      "total_votes": 2036,
+      "total_votes": 2031,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -1933,
-      "margin_pct": -94.9051241659095,
+      "margin": -1929,
+      "margin_pct": -94.94447787320168,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -70023,14 +70023,14 @@
         "55025480000020"
       ],
       "election_type": "spring",
-      "dem_votes": 971,
+      "dem_votes": 965,
       "rep_votes": 169,
       "other_votes": 1,
-      "total_votes": 1142,
+      "total_votes": 1135,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -802,
-      "margin_pct": -70.21780090680659,
+      "margin": -797,
+      "margin_pct": -70.1654105901928,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -70046,14 +70046,14 @@
         "55025480000021"
       ],
       "election_type": "spring",
-      "dem_votes": 282,
-      "rep_votes": 43,
+      "dem_votes": 285,
+      "rep_votes": 44,
       "other_votes": 0,
-      "total_votes": 325,
+      "total_votes": 329,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -238,
-      "margin_pct": -73.28869703326752,
+      "margin": -242,
+      "margin_pct": -73.36483293958827,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -70072,11 +70072,11 @@
       "dem_votes": 700,
       "rep_votes": 105,
       "other_votes": 3,
-      "total_votes": 807,
+      "total_votes": 808,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -595,
-      "margin_pct": -73.6783262350271,
+      "margin": -596,
+      "margin_pct": -73.68435523783339,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -70092,14 +70092,14 @@
         "55025480000023"
       ],
       "election_type": "spring",
-      "dem_votes": 672,
+      "dem_votes": 671,
       "rep_votes": 135,
       "other_votes": 0,
-      "total_votes": 807,
+      "total_votes": 806,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
       "margin": -537,
-      "margin_pct": -66.56000493813985,
+      "margin_pct": -66.54906284454245,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -70115,14 +70115,14 @@
         "55025480000024"
       ],
       "election_type": "spring",
-      "dem_votes": 531,
+      "dem_votes": 530,
       "rep_votes": 65,
       "other_votes": 0,
-      "total_votes": 596,
+      "total_votes": 595,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
       "margin": -466,
-      "margin_pct": -78.21387747107407,
+      "margin_pct": -78.21168564495052,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -70138,14 +70138,14 @@
         "55025480000025"
       ],
       "election_type": "spring",
-      "dem_votes": 1032,
+      "dem_votes": 1027,
       "rep_votes": 202,
       "other_votes": 3,
-      "total_votes": 1237,
+      "total_votes": 1232,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -830,
-      "margin_pct": -67.04616225548443,
+      "margin": -826,
+      "margin_pct": -66.99549143372407,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -70161,14 +70161,14 @@
         "55025480000026"
       ],
       "election_type": "spring",
-      "dem_votes": 148,
-      "rep_votes": 14,
+      "dem_votes": 153,
+      "rep_votes": 15,
       "other_votes": 0,
-      "total_votes": 162,
+      "total_votes": 168,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -134,
-      "margin_pct": -82.46322378787065,
+      "margin": -139,
+      "margin_pct": -82.35138705416115,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -70184,14 +70184,14 @@
         "55025480000027"
       ],
       "election_type": "spring",
-      "dem_votes": 308,
+      "dem_votes": 311,
       "rep_votes": 36,
       "other_votes": 2,
-      "total_votes": 346,
+      "total_votes": 349,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -273,
-      "margin_pct": -78.89389037859176,
+      "margin": -276,
+      "margin_pct": -78.89914094813874,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -70207,14 +70207,14 @@
         "55025480000028"
       ],
       "election_type": "spring",
-      "dem_votes": 1198,
+      "dem_votes": 1196,
       "rep_votes": 72,
       "other_votes": 0,
-      "total_votes": 1270,
+      "total_votes": 1268,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -1126,
-      "margin_pct": -88.65847261622942,
+      "margin": -1125,
+      "margin_pct": -88.67005431925705,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -70236,8 +70236,8 @@
       "total_votes": 1257,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -1167,
-      "margin_pct": -92.86686854455257,
+      "margin": -1168,
+      "margin_pct": -92.86610693769332,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -70253,14 +70253,14 @@
         "55025480000030"
       ],
       "election_type": "spring",
-      "dem_votes": 719,
+      "dem_votes": 718,
       "rep_votes": 44,
       "other_votes": 0,
-      "total_votes": 763,
+      "total_votes": 762,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
       "margin": -675,
-      "margin_pct": -88.48165136036037,
+      "margin_pct": -88.49562682215743,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -70276,14 +70276,14 @@
         "55025480000031"
       ],
       "election_type": "spring",
-      "dem_votes": 639,
+      "dem_votes": 641,
       "rep_votes": 64,
       "other_votes": 1,
-      "total_votes": 704,
+      "total_votes": 706,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -576,
-      "margin_pct": -81.78570633879329,
+      "margin": -578,
+      "margin_pct": -81.77784770295784,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -70299,14 +70299,14 @@
         "55025480000032"
       ],
       "election_type": "spring",
-      "dem_votes": 1117,
+      "dem_votes": 1113,
       "rep_votes": 128,
       "other_votes": 2,
-      "total_votes": 1247,
+      "total_votes": 1243,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -989,
-      "margin_pct": -79.2730951474454,
+      "margin": -986,
+      "margin_pct": -79.27249977656626,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -70322,14 +70322,14 @@
         "55025480000033"
       ],
       "election_type": "spring",
-      "dem_votes": 503,
+      "dem_votes": 500,
       "rep_votes": 74,
       "other_votes": 1,
-      "total_votes": 578,
+      "total_votes": 575,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -429,
-      "margin_pct": -74.17518262709125,
+      "margin": -427,
+      "margin_pct": -74.15105273324318,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -70348,11 +70348,11 @@
       "dem_votes": 770,
       "rep_votes": 123,
       "other_votes": 1,
-      "total_votes": 893,
+      "total_votes": 894,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -647,
-      "margin_pct": -72.40675640829812,
+      "margin": -648,
+      "margin_pct": -72.41302186878727,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -70368,14 +70368,14 @@
         "55025480000035"
       ],
       "election_type": "spring",
-      "dem_votes": 886,
+      "dem_votes": 887,
       "rep_votes": 236,
       "other_votes": 0,
-      "total_votes": 1121,
+      "total_votes": 1123,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -650,
-      "margin_pct": -57.96735165466037,
+      "margin": -652,
+      "margin_pct": -58.00573746166782,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -70391,14 +70391,14 @@
         "55025480000036"
       ],
       "election_type": "spring",
-      "dem_votes": 547,
+      "dem_votes": 549,
       "rep_votes": 51,
       "other_votes": 1,
-      "total_votes": 599,
+      "total_votes": 601,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -497,
-      "margin_pct": -82.93310867601939,
+      "margin": -499,
+      "margin_pct": -82.91997782295326,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -70414,14 +70414,14 @@
         "55025480000037"
       ],
       "election_type": "spring",
-      "dem_votes": 932,
+      "dem_votes": 931,
       "rep_votes": 131,
       "other_votes": 1,
-      "total_votes": 1064,
+      "total_votes": 1063,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
       "margin": -801,
-      "margin_pct": -75.29451564227824,
+      "margin_pct": -75.29313407879611,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -70437,14 +70437,14 @@
         "55025480000038"
       ],
       "election_type": "spring",
-      "dem_votes": 536,
+      "dem_votes": 534,
       "rep_votes": 90,
       "other_votes": 0,
-      "total_votes": 626,
+      "total_votes": 624,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -446,
-      "margin_pct": -71.23631949858427,
+      "margin": -445,
+      "margin_pct": -71.21395514417942,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -70460,14 +70460,14 @@
         "55025480000039"
       ],
       "election_type": "spring",
-      "dem_votes": 761,
+      "dem_votes": 760,
       "rep_votes": 97,
       "other_votes": 1,
-      "total_votes": 859,
+      "total_votes": 858,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
       "margin": -664,
-      "margin_pct": -77.31578405785297,
+      "margin_pct": -77.31486276540653,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -70483,14 +70483,14 @@
         "55025480000040"
       ],
       "election_type": "spring",
-      "dem_votes": 1887,
+      "dem_votes": 1884,
       "rep_votes": 45,
       "other_votes": 0,
-      "total_votes": 1932,
+      "total_votes": 1929,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -1842,
-      "margin_pct": -95.32614238382244,
+      "margin": -1840,
+      "margin_pct": -95.35103380752173,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -70506,14 +70506,14 @@
         "55025480000041"
       ],
       "election_type": "spring",
-      "dem_votes": 1652,
+      "dem_votes": 1649,
       "rep_votes": 52,
       "other_votes": 2,
-      "total_votes": 1706,
+      "total_votes": 1703,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -1600,
-      "margin_pct": -93.77225398468664,
+      "margin": -1598,
+      "margin_pct": -93.79476808663316,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -70529,14 +70529,14 @@
         "55025480000042"
       ],
       "election_type": "spring",
-      "dem_votes": 1361,
+      "dem_votes": 1360,
       "rep_votes": 35,
       "other_votes": 1,
-      "total_votes": 1397,
+      "total_votes": 1396,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -1327,
-      "margin_pct": -94.92342883559957,
+      "margin": -1326,
+      "margin_pct": -94.93713194333915,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -70552,14 +70552,14 @@
         "55025480000043"
       ],
       "election_type": "spring",
-      "dem_votes": 1476,
+      "dem_votes": 1471,
       "rep_votes": 64,
       "other_votes": 0,
-      "total_votes": 1540,
+      "total_votes": 1535,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -1412,
-      "margin_pct": -91.64186655456038,
+      "margin": -1408,
+      "margin_pct": -91.68270970543531,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -70581,8 +70581,8 @@
       "total_votes": 1097,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -1032,
-      "margin_pct": -94.1121617040839,
+      "margin": -1033,
+      "margin_pct": -94.10430379746833,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -70598,14 +70598,14 @@
         "55025480000045"
       ],
       "election_type": "spring",
-      "dem_votes": 277,
-      "rep_votes": 10,
+      "dem_votes": 282,
+      "rep_votes": 11,
       "other_votes": 0,
-      "total_votes": 287,
+      "total_votes": 293,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -267,
-      "margin_pct": -92.87258281181686,
+      "margin": -272,
+      "margin_pct": -92.60325881015538,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -70621,14 +70621,14 @@
         "55025480000046"
       ],
       "election_type": "spring",
-      "dem_votes": 1349,
+      "dem_votes": 1345,
       "rep_votes": 75,
       "other_votes": 3,
-      "total_votes": 1427,
+      "total_votes": 1423,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -1274,
-      "margin_pct": -89.24551870656656,
+      "margin": -1271,
+      "margin_pct": -89.27160590210008,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -70644,14 +70644,14 @@
         "55025480000047"
       ],
       "election_type": "spring",
-      "dem_votes": 854,
+      "dem_votes": 849,
       "rep_votes": 74,
       "other_votes": 2,
-      "total_votes": 930,
+      "total_votes": 925,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -779,
-      "margin_pct": -83.7980586241429,
+      "margin": -776,
+      "margin_pct": -83.8213041911853,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -70667,14 +70667,14 @@
         "55025480000048"
       ],
       "election_type": "spring",
-      "dem_votes": 965,
+      "dem_votes": 961,
       "rep_votes": 87,
       "other_votes": 2,
-      "total_votes": 1054,
+      "total_votes": 1050,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -878,
-      "margin_pct": -83.25585708651887,
+      "margin": -875,
+      "margin_pct": -83.27126534066863,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -70690,14 +70690,14 @@
         "55025480000049"
       ],
       "election_type": "spring",
-      "dem_votes": 597,
+      "dem_votes": 594,
       "rep_votes": 56,
       "other_votes": 0,
-      "total_votes": 653,
+      "total_votes": 650,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -541,
-      "margin_pct": -82.80775584777875,
+      "margin": -539,
+      "margin_pct": -82.82296650717704,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -70713,14 +70713,14 @@
         "55025480000050"
       ],
       "election_type": "spring",
-      "dem_votes": 423,
+      "dem_votes": 422,
       "rep_votes": 26,
       "other_votes": 0,
-      "total_votes": 449,
+      "total_votes": 448,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
       "margin": -397,
-      "margin_pct": -88.45818410355697,
+      "margin_pct": -88.46802181457612,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -70736,14 +70736,14 @@
         "55025480000051"
       ],
       "election_type": "spring",
-      "dem_votes": 595,
+      "dem_votes": 596,
       "rep_votes": 47,
       "other_votes": 0,
-      "total_votes": 642,
+      "total_votes": 643,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -548,
-      "margin_pct": -85.4484601986139,
+      "margin": -550,
+      "margin_pct": -85.43444463637935,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -70759,14 +70759,14 @@
         "55025480000052"
       ],
       "election_type": "spring",
-      "dem_votes": 893,
+      "dem_votes": 892,
       "rep_votes": 70,
       "other_votes": 2,
-      "total_votes": 965,
+      "total_votes": 964,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
       "margin": -823,
-      "margin_pct": -85.29983304822359,
+      "margin_pct": -85.30536990089882,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -70782,14 +70782,14 @@
         "55025480000053"
       ],
       "election_type": "spring",
-      "dem_votes": 1007,
+      "dem_votes": 1006,
       "rep_votes": 70,
       "other_votes": 0,
-      "total_votes": 1077,
+      "total_votes": 1076,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -938,
-      "margin_pct": -87.0118729183872,
+      "margin": -937,
+      "margin_pct": -87.02044187487094,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -70805,14 +70805,14 @@
         "55025480000054"
       ],
       "election_type": "spring",
-      "dem_votes": 973,
+      "dem_votes": 968,
       "rep_votes": 110,
       "other_votes": 0,
-      "total_votes": 1083,
+      "total_votes": 1078,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -863,
-      "margin_pct": -79.62410298394535,
+      "margin": -859,
+      "margin_pct": -79.62489694971146,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -70828,14 +70828,14 @@
         "55025480000055"
       ],
       "election_type": "spring",
-      "dem_votes": 1113,
+      "dem_votes": 1111,
       "rep_votes": 60,
       "other_votes": 0,
-      "total_votes": 1173,
+      "total_votes": 1171,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -1053,
-      "margin_pct": -89.76797538315468,
+      "margin": -1052,
+      "margin_pct": -89.78085570628971,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -70851,14 +70851,14 @@
         "55025480000056"
       ],
       "election_type": "spring",
-      "dem_votes": 417,
+      "dem_votes": 419,
       "rep_votes": 47,
       "other_votes": 0,
-      "total_votes": 464,
+      "total_votes": 466,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -371,
-      "margin_pct": -79.90707024697359,
+      "margin": -373,
+      "margin_pct": -79.90467111534795,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -70874,14 +70874,14 @@
         "55025480000057"
       ],
       "election_type": "spring",
-      "dem_votes": 1110,
+      "dem_votes": 1105,
       "rep_votes": 115,
       "other_votes": 1,
-      "total_votes": 1226,
+      "total_votes": 1221,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -995,
-      "margin_pct": -81.10321799129987,
+      "margin": -991,
+      "margin_pct": -81.10999909016468,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -70897,14 +70897,14 @@
         "55025480000058"
       ],
       "election_type": "spring",
-      "dem_votes": 1056,
+      "dem_votes": 1053,
       "rep_votes": 112,
       "other_votes": 0,
-      "total_votes": 1168,
+      "total_votes": 1165,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -944,
-      "margin_pct": -80.79965474178377,
+      "margin": -942,
+      "margin_pct": -80.80289882711928,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -70920,14 +70920,14 @@
         "55025480000059"
       ],
       "election_type": "spring",
-      "dem_votes": 832,
+      "dem_votes": 827,
       "rep_votes": 99,
       "other_votes": 1,
-      "total_votes": 933,
+      "total_votes": 927,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -733,
-      "margin_pct": -78.57681462722059,
+      "margin": -729,
+      "margin_pct": -78.57159976033553,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -70943,14 +70943,14 @@
         "55025480000060"
       ],
       "election_type": "spring",
-      "dem_votes": 700,
+      "dem_votes": 696,
       "rep_votes": 41,
       "other_votes": 0,
-      "total_votes": 742,
+      "total_votes": 737,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -659,
-      "margin_pct": -88.86283459141634,
+      "margin": -656,
+      "margin_pct": -88.91936699321778,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -70966,14 +70966,14 @@
         "55025480000061"
       ],
       "election_type": "spring",
-      "dem_votes": 918,
+      "dem_votes": 920,
       "rep_votes": 96,
       "other_votes": 1,
-      "total_votes": 1015,
+      "total_votes": 1017,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -823,
-      "margin_pct": -81.06133172184447,
+      "margin": -825,
+      "margin_pct": -81.0573457127253,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -70989,14 +70989,14 @@
         "55025480000062"
       ],
       "election_type": "spring",
-      "dem_votes": 279,
+      "dem_votes": 277,
       "rep_votes": 16,
       "other_votes": 1,
-      "total_votes": 296,
+      "total_votes": 294,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -263,
-      "margin_pct": -88.84074864607182,
+      "margin": -262,
+      "margin_pct": -88.88972809667675,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -71012,14 +71012,14 @@
         "55025480000063"
       ],
       "election_type": "spring",
-      "dem_votes": 1262,
-      "rep_votes": 132,
+      "dem_votes": 1256,
+      "rep_votes": 131,
       "other_votes": 3,
-      "total_votes": 1397,
+      "total_votes": 1390,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -1131,
-      "margin_pct": -80.95347962133033,
+      "margin": -1126,
+      "margin_pct": -80.96067774936063,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -71035,14 +71035,14 @@
         "55025480000064"
       ],
       "election_type": "spring",
-      "dem_votes": 738,
-      "rep_votes": 43,
+      "dem_votes": 741,
+      "rep_votes": 44,
       "other_votes": 0,
-      "total_votes": 781,
+      "total_votes": 785,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -695,
-      "margin_pct": -88.87725175346134,
+      "margin": -698,
+      "margin_pct": -88.8326022357436,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -71058,14 +71058,14 @@
         "55025480000065"
       ],
       "election_type": "spring",
-      "dem_votes": 1282,
+      "dem_votes": 1279,
       "rep_votes": 73,
       "other_votes": 2,
-      "total_votes": 1357,
+      "total_votes": 1354,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -1209,
-      "margin_pct": -89.07622656275113,
+      "margin": -1207,
+      "margin_pct": -89.09419100754839,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -71088,7 +71088,7 @@
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
       "margin": -1035,
-      "margin_pct": -88.32924841864303,
+      "margin_pct": -88.3293805141827,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -71107,11 +71107,11 @@
       "dem_votes": 1105,
       "rep_votes": 54,
       "other_votes": 3,
-      "total_votes": 1161,
+      "total_votes": 1162,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -1051,
-      "margin_pct": -90.48493837082765,
+      "margin": -1052,
+      "margin_pct": -90.47609942638621,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -71127,14 +71127,14 @@
         "55025480000068"
       ],
       "election_type": "spring",
-      "dem_votes": 538,
+      "dem_votes": 539,
       "rep_votes": 44,
       "other_votes": 0,
-      "total_votes": 581,
+      "total_votes": 583,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -494,
-      "margin_pct": -84.98245228382883,
+      "margin": -496,
+      "margin_pct": -84.96475519146504,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -71150,14 +71150,14 @@
         "55025480000069"
       ],
       "election_type": "spring",
-      "dem_votes": 854,
+      "dem_votes": 853,
       "rep_votes": 108,
       "other_votes": 2,
       "total_votes": 963,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
       "margin": -746,
-      "margin_pct": -77.40040841670705,
+      "margin_pct": -77.39993078786482,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -71173,14 +71173,14 @@
         "55025480000070"
       ],
       "election_type": "spring",
-      "dem_votes": 1363,
+      "dem_votes": 1360,
       "rep_votes": 99,
       "other_votes": 0,
-      "total_votes": 1462,
+      "total_votes": 1459,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -1264,
-      "margin_pct": -86.44059661689151,
+      "margin": -1262,
+      "margin_pct": -86.45244803167593,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -71196,14 +71196,14 @@
         "55025480000071"
       ],
       "election_type": "spring",
-      "dem_votes": 1335,
+      "dem_votes": 1334,
       "rep_votes": 67,
       "other_votes": 0,
-      "total_votes": 1402,
+      "total_votes": 1401,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
       "margin": -1268,
-      "margin_pct": -90.456196646137,
+      "margin_pct": -90.45912298786773,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -71219,14 +71219,14 @@
         "55025480000072"
       ],
       "election_type": "spring",
-      "dem_votes": 792,
+      "dem_votes": 793,
       "rep_votes": 52,
       "other_votes": 0,
-      "total_votes": 844,
+      "total_votes": 845,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -740,
-      "margin_pct": -87.74683377649566,
+      "margin": -742,
+      "margin_pct": -87.73235178125411,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -71242,14 +71242,14 @@
         "55025480000073"
       ],
       "election_type": "spring",
-      "dem_votes": 1374,
+      "dem_votes": 1372,
       "rep_votes": 81,
       "other_votes": 1,
-      "total_votes": 1456,
+      "total_votes": 1454,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -1293,
-      "margin_pct": -88.80322397693047,
+      "margin": -1292,
+      "margin_pct": -88.81265281173593,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -71265,14 +71265,14 @@
         "55025480000074"
       ],
       "election_type": "spring",
-      "dem_votes": 707,
+      "dem_votes": 706,
       "rep_votes": 100,
       "other_votes": 0,
-      "total_votes": 807,
+      "total_votes": 806,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
       "margin": -607,
-      "margin_pct": -75.2378418618063,
+      "margin_pct": -75.23153252480706,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -71288,14 +71288,14 @@
         "55025480000075"
       ],
       "election_type": "spring",
-      "dem_votes": 789,
+      "dem_votes": 788,
       "rep_votes": 117,
       "other_votes": 1,
       "total_votes": 906,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
       "margin": -672,
-      "margin_pct": -74.10403645976861,
+      "margin_pct": -74.10250122609122,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -71311,14 +71311,14 @@
         "55025480000076"
       ],
       "election_type": "spring",
-      "dem_votes": 317,
+      "dem_votes": 315,
       "rep_votes": 19,
       "other_votes": 2,
-      "total_votes": 338,
+      "total_votes": 336,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -298,
-      "margin_pct": -88.13712308291035,
+      "margin": -297,
+      "margin_pct": -88.19563780568409,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -71334,14 +71334,14 @@
         "55025480000077"
       ],
       "election_type": "spring",
-      "dem_votes": 343,
+      "dem_votes": 338,
       "rep_votes": 34,
       "other_votes": 3,
-      "total_votes": 381,
+      "total_votes": 375,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -309,
-      "margin_pct": -81.13698789717374,
+      "margin": -305,
+      "margin_pct": -81.16079360379035,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -71357,14 +71357,14 @@
         "55025480000078"
       ],
       "election_type": "spring",
-      "dem_votes": 205,
-      "rep_votes": 25,
+      "dem_votes": 208,
+      "rep_votes": 26,
       "other_votes": 2,
-      "total_votes": 232,
+      "total_votes": 236,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -180,
-      "margin_pct": -77.23642019237599,
+      "margin": -183,
+      "margin_pct": -77.27187206020695,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -71380,14 +71380,14 @@
         "55025480000079"
       ],
       "election_type": "spring",
-      "dem_votes": 649,
+      "dem_votes": 646,
       "rep_votes": 98,
       "other_votes": 1,
-      "total_votes": 748,
+      "total_votes": 745,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -551,
-      "margin_pct": -73.62821262151536,
+      "margin": -549,
+      "margin_pct": -73.60667958848964,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -71403,14 +71403,14 @@
         "55025480000080"
       ],
       "election_type": "spring",
-      "dem_votes": 1861,
+      "dem_votes": 1856,
       "rep_votes": 147,
       "other_votes": 1,
-      "total_votes": 2010,
+      "total_votes": 2004,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -1714,
-      "margin_pct": -85.28107073550518,
+      "margin": -1710,
+      "margin_pct": -85.29659607495289,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -71426,14 +71426,14 @@
         "55025480000081"
       ],
       "election_type": "spring",
-      "dem_votes": 389,
+      "dem_votes": 387,
       "rep_votes": 29,
       "other_votes": 0,
-      "total_votes": 418,
+      "total_votes": 416,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -360,
-      "margin_pct": -86.11261650428445,
+      "margin": -359,
+      "margin_pct": -86.13988254137747,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -71449,14 +71449,14 @@
         "55025480000082"
       ],
       "election_type": "spring",
-      "dem_votes": 1033,
+      "dem_votes": 1032,
       "rep_votes": 203,
       "other_votes": 0,
-      "total_votes": 1236,
+      "total_votes": 1235,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
       "margin": -830,
-      "margin_pct": -67.16429875443322,
+      "margin_pct": -67.15660699829091,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -71478,8 +71478,8 @@
       "total_votes": 856,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -611,
-      "margin_pct": -71.41556411027011,
+      "margin": -612,
+      "margin_pct": -71.4222683623151,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -71495,14 +71495,14 @@
         "55025480000084"
       ],
       "election_type": "spring",
-      "dem_votes": 583,
+      "dem_votes": 585,
       "rep_votes": 93,
       "other_votes": 0,
-      "total_votes": 676,
+      "total_votes": 678,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -491,
-      "margin_pct": -72.59881419733536,
+      "margin": -493,
+      "margin_pct": -72.62123197903014,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -71518,14 +71518,14 @@
         "55025480000085"
       ],
       "election_type": "spring",
-      "dem_votes": 1504,
+      "dem_votes": 1502,
       "rep_votes": 103,
       "other_votes": 3,
-      "total_votes": 1611,
+      "total_votes": 1608,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -1401,
-      "margin_pct": -87.01275266452555,
+      "margin": -1400,
+      "margin_pct": -87.02362857537652,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -71541,14 +71541,14 @@
         "55025480000086"
       ],
       "election_type": "spring",
-      "dem_votes": 1002,
+      "dem_votes": 1003,
       "rep_votes": 83,
       "other_votes": 1,
-      "total_votes": 1086,
+      "total_votes": 1087,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -920,
-      "margin_pct": -84.67361323876504,
+      "margin": -921,
+      "margin_pct": -84.66836995401124,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -71570,8 +71570,8 @@
       "total_votes": 1219,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -1001,
-      "margin_pct": -82.14583238175676,
+      "margin": -1002,
+      "margin_pct": -82.14526565205503,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -71587,14 +71587,14 @@
         "55025480000088"
       ],
       "election_type": "spring",
-      "dem_votes": 1221,
+      "dem_votes": 1220,
       "rep_votes": 93,
       "other_votes": 0,
-      "total_votes": 1314,
+      "total_votes": 1313,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
       "margin": -1128,
-      "margin_pct": -85.85729469735408,
+      "margin_pct": -85.86005584228784,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -71610,14 +71610,14 @@
         "55025480000089"
       ],
       "election_type": "spring",
-      "dem_votes": 1111,
-      "rep_votes": 142,
+      "dem_votes": 1105,
+      "rep_votes": 141,
       "other_votes": 3,
-      "total_votes": 1256,
+      "total_votes": 1249,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -970,
-      "margin_pct": -77.22287447936138,
+      "margin": -965,
+      "margin_pct": -77.21070888552877,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -71633,14 +71633,14 @@
         "55025480000090"
       ],
       "election_type": "spring",
-      "dem_votes": 768,
+      "dem_votes": 770,
       "rep_votes": 78,
       "other_votes": 0,
-      "total_votes": 845,
+      "total_votes": 848,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -690,
-      "margin_pct": -81.6528085814147,
+      "margin": -693,
+      "margin_pct": -81.64527115535762,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -71656,14 +71656,14 @@
         "55025480000091"
       ],
       "election_type": "spring",
-      "dem_votes": 1518,
+      "dem_votes": 1514,
       "rep_votes": 138,
       "other_votes": 2,
-      "total_votes": 1658,
+      "total_votes": 1654,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -1379,
-      "margin_pct": -83.20532039519418,
+      "margin": -1377,
+      "margin_pct": -83.2133261687265,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -71679,14 +71679,14 @@
         "55025480000092"
       ],
       "election_type": "spring",
-      "dem_votes": 941,
+      "dem_votes": 942,
       "rep_votes": 135,
       "other_votes": 0,
-      "total_votes": 1076,
+      "total_votes": 1077,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -806,
-      "margin_pct": -74.95876677111633,
+      "margin": -808,
+      "margin_pct": -74.9644146467251,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -71705,11 +71705,11 @@
       "dem_votes": 564,
       "rep_votes": 82,
       "other_votes": 2,
-      "total_votes": 647,
+      "total_votes": 648,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -482,
-      "margin_pct": -74.43242354152221,
+      "margin": -483,
+      "margin_pct": -74.43949262941378,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -71725,14 +71725,14 @@
         "55025480000094"
       ],
       "election_type": "spring",
-      "dem_votes": 1379,
+      "dem_votes": 1375,
       "rep_votes": 161,
       "other_votes": 0,
-      "total_votes": 1540,
+      "total_votes": 1536,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -1218,
-      "margin_pct": -79.06071365404274,
+      "margin": -1215,
+      "margin_pct": -79.05974251410387,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -71748,14 +71748,14 @@
         "55025480000095"
       ],
       "election_type": "spring",
-      "dem_votes": 332,
-      "rep_votes": 52,
+      "dem_votes": 335,
+      "rep_votes": 53,
       "other_votes": 2,
-      "total_votes": 387,
+      "total_votes": 390,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -280,
-      "margin_pct": -72.34176951938946,
+      "margin": -283,
+      "margin_pct": -72.40318906605924,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -71771,14 +71771,14 @@
         "55025480000096"
       ],
       "election_type": "spring",
-      "dem_votes": 1222,
+      "dem_votes": 1219,
       "rep_votes": 251,
       "other_votes": 6,
-      "total_votes": 1479,
+      "total_votes": 1476,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -971,
-      "margin_pct": -65.63623070499347,
+      "margin": -969,
+      "margin_pct": -65.6089116363089,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -71794,14 +71794,14 @@
         "55025480000097"
       ],
       "election_type": "spring",
-      "dem_votes": 878,
+      "dem_votes": 877,
       "rep_votes": 143,
       "other_votes": 0,
-      "total_votes": 1021,
+      "total_votes": 1020,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
       "margin": -735,
-      "margin_pct": -72.00512763973227,
+      "margin_pct": -71.99738619037247,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -71817,14 +71817,14 @@
         "55025480000098"
       ],
       "election_type": "spring",
-      "dem_votes": 1314,
+      "dem_votes": 1308,
       "rep_votes": 210,
       "other_votes": 2,
-      "total_votes": 1527,
+      "total_votes": 1520,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -1104,
-      "margin_pct": -72.29142378457604,
+      "margin": -1099,
+      "margin_pct": -72.26136529747113,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -71840,14 +71840,14 @@
         "55025480000099"
       ],
       "election_type": "spring",
-      "dem_votes": 425,
+      "dem_votes": 426,
       "rep_votes": 60,
       "other_votes": 0,
-      "total_votes": 485,
+      "total_votes": 486,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -366,
-      "margin_pct": -75.37363895467134,
+      "margin": -367,
+      "margin_pct": -75.38391224862889,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -71863,14 +71863,14 @@
         "55025480000100"
       ],
       "election_type": "spring",
-      "dem_votes": 218,
-      "rep_votes": 27,
+      "dem_votes": 221,
+      "rep_votes": 28,
       "other_votes": 0,
-      "total_votes": 245,
+      "total_votes": 249,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -190,
-      "margin_pct": -77.62466483326813,
+      "margin": -194,
+      "margin_pct": -77.65492643780651,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -71886,14 +71886,14 @@
         "55025480000101"
       ],
       "election_type": "spring",
-      "dem_votes": 670,
+      "dem_votes": 668,
       "rep_votes": 114,
       "other_votes": 0,
-      "total_votes": 784,
+      "total_votes": 782,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -556,
-      "margin_pct": -70.90738274924064,
+      "margin": -555,
+      "margin_pct": -70.89204545454547,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -71915,8 +71915,8 @@
       "total_votes": 760,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -534,
-      "margin_pct": -70.31021320459065,
+      "margin": -535,
+      "margin_pct": -70.31277404267759,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -71932,14 +71932,14 @@
         "55025480000103"
       ],
       "election_type": "spring",
-      "dem_votes": 1165,
+      "dem_votes": 1160,
       "rep_votes": 193,
       "other_votes": 3,
-      "total_votes": 1361,
+      "total_votes": 1356,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -971,
-      "margin_pct": -71.36941293615344,
+      "margin": -968,
+      "margin_pct": -71.34032443060791,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -71955,14 +71955,14 @@
         "55025480000104"
       ],
       "election_type": "spring",
-      "dem_votes": 1237,
+      "dem_votes": 1232,
       "rep_votes": 216,
       "other_votes": 2,
-      "total_votes": 1455,
+      "total_votes": 1450,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -1020,
-      "margin_pct": -70.12555828265378,
+      "margin": -1017,
+      "margin_pct": -70.09500459699663,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -71984,8 +71984,8 @@
       "total_votes": 1052,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -784,
-      "margin_pct": -74.55727826560491,
+      "margin": -785,
+      "margin_pct": -74.55966209081309,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -72001,14 +72001,14 @@
         "55025480000106"
       ],
       "election_type": "spring",
-      "dem_votes": 1075,
+      "dem_votes": 1072,
       "rep_votes": 189,
       "other_votes": 1,
-      "total_votes": 1265,
+      "total_votes": 1262,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -886,
-      "margin_pct": -70.0184901983429,
+      "margin": -884,
+      "margin_pct": -69.99823943661973,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -72024,14 +72024,14 @@
         "55025480000107"
       ],
       "election_type": "spring",
-      "dem_votes": 1229,
+      "dem_votes": 1225,
       "rep_votes": 164,
       "other_votes": 1,
-      "total_votes": 1394,
+      "total_votes": 1390,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -1064,
-      "margin_pct": -76.36492191270705,
+      "margin": -1062,
+      "margin_pct": -76.35709718670078,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -72047,14 +72047,14 @@
         "55025480000108"
       ],
       "election_type": "spring",
-      "dem_votes": 294,
-      "rep_votes": 27,
+      "dem_votes": 297,
+      "rep_votes": 28,
       "other_votes": 0,
-      "total_votes": 321,
+      "total_votes": 325,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -266,
-      "margin_pct": -82.91818953340498,
+      "margin": -270,
+      "margin_pct": -82.87666552784422,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -72070,14 +72070,14 @@
         "55025480000109"
       ],
       "election_type": "spring",
-      "dem_votes": 536,
+      "dem_votes": 538,
       "rep_votes": 155,
       "other_votes": 3,
-      "total_votes": 694,
+      "total_votes": 696,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -382,
-      "margin_pct": -55.00553788128535,
+      "margin": -384,
+      "margin_pct": -55.08777529524418,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -72093,14 +72093,14 @@
         "55025480000110"
       ],
       "election_type": "spring",
-      "dem_votes": 809,
+      "dem_votes": 808,
       "rep_votes": 123,
       "other_votes": 0,
-      "total_votes": 932,
+      "total_votes": 931,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
       "margin": -686,
-      "margin_pct": -73.62328034830131,
+      "margin_pct": -73.6165135425367,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -72116,14 +72116,14 @@
         "55025480000111"
       ],
       "election_type": "spring",
-      "dem_votes": 473,
-      "rep_votes": 98,
+      "dem_votes": 476,
+      "rep_votes": 99,
       "other_votes": 0,
-      "total_votes": 572,
+      "total_votes": 575,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -375,
-      "margin_pct": -65.55118839365295,
+      "margin": -378,
+      "margin_pct": -65.63260575622948,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -72139,14 +72139,14 @@
         "55025480000112"
       ],
       "election_type": "spring",
-      "dem_votes": 306,
-      "rep_votes": 68,
+      "dem_votes": 310,
+      "rep_votes": 69,
       "other_votes": 0,
-      "total_votes": 374,
+      "total_votes": 379,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -238,
-      "margin_pct": -63.48165144470019,
+      "margin": -242,
+      "margin_pct": -63.69176677409902,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -72162,14 +72162,14 @@
         "55025480000113"
       ],
       "election_type": "spring",
-      "dem_votes": 1340,
+      "dem_votes": 1334,
       "rep_votes": 386,
       "other_votes": 1,
-      "total_votes": 1727,
+      "total_votes": 1721,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -953,
-      "margin_pct": -55.19429727827085,
+      "margin": -949,
+      "margin_pct": -55.10812729972242,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -72185,14 +72185,14 @@
         "55025480000114"
       ],
       "election_type": "spring",
-      "dem_votes": 1479,
+      "dem_votes": 1476,
       "rep_votes": 225,
       "other_votes": 0,
-      "total_votes": 1704,
+      "total_votes": 1701,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -1253,
-      "margin_pct": -73.57522914655239,
+      "margin": -1252,
+      "margin_pct": -73.56671673959899,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -72208,14 +72208,14 @@
         "55025480000115"
       ],
       "election_type": "spring",
-      "dem_votes": 1146,
+      "dem_votes": 1141,
       "rep_votes": 130,
       "other_votes": 2,
-      "total_votes": 1279,
+      "total_votes": 1273,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -1016,
-      "margin_pct": -79.4467790670569,
+      "margin": -1012,
+      "margin_pct": -79.44672309974693,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -72231,14 +72231,14 @@
         "55025480000116"
       ],
       "election_type": "spring",
-      "dem_votes": 1160,
+      "dem_votes": 1157,
       "rep_votes": 187,
       "other_votes": 4,
-      "total_votes": 1351,
+      "total_votes": 1348,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -973,
-      "margin_pct": -72.00418588046958,
+      "margin": -971,
+      "margin_pct": -71.98615460688974,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -72254,14 +72254,14 @@
         "55025480000117"
       ],
       "election_type": "spring",
-      "dem_votes": 943,
+      "dem_votes": 942,
       "rep_votes": 199,
       "other_votes": 2,
-      "total_votes": 1144,
+      "total_votes": 1143,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
       "margin": -744,
-      "margin_pct": -65.04833517579496,
+      "margin_pct": -65.03839051414131,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -72277,14 +72277,14 @@
         "55025480000118"
       ],
       "election_type": "spring",
-      "dem_votes": 485,
+      "dem_votes": 486,
       "rep_votes": 114,
       "other_votes": 0,
-      "total_votes": 599,
+      "total_votes": 600,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -372,
-      "margin_pct": -62.031811796702605,
+      "margin": -373,
+      "margin_pct": -62.06590151795631,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -72300,14 +72300,14 @@
         "55025480000119"
       ],
       "election_type": "spring",
-      "dem_votes": 932,
+      "dem_votes": 928,
       "rep_votes": 237,
       "other_votes": 0,
-      "total_votes": 1169,
+      "total_votes": 1165,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -695,
-      "margin_pct": -59.413381227925,
+      "margin": -692,
+      "margin_pct": -59.34776389815962,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -72323,17 +72323,17 @@
         "55025480000120"
       ],
       "election_type": "spring",
-      "dem_votes": 0,
-      "rep_votes": 2,
+      "dem_votes": 7,
+      "rep_votes": 3,
       "other_votes": 0,
-      "total_votes": 2,
+      "total_votes": 10,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": 2,
-      "margin_pct": 94.04331367941121,
-      "winner": "REP",
+      "margin": -5,
+      "margin_pct": -44.34782608695652,
+      "winner": "DEM",
       "competitiveness": {
-        "color": "#67000d"
+        "color": "#08306b"
       },
       "contest_partisan_style": "nonpartisan_ideology",
       "dem_label": "Liberal",
@@ -72346,14 +72346,14 @@
         "55025480000121"
       ],
       "election_type": "spring",
-      "dem_votes": 4,
-      "rep_votes": 0,
+      "dem_votes": 11,
+      "rep_votes": 1,
       "other_votes": 0,
-      "total_votes": 4,
+      "total_votes": 12,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -4,
-      "margin_pct": -99.79466267039398,
+      "margin": -11,
+      "margin_pct": -86.18181818181819,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -72369,14 +72369,14 @@
         "55025480000122"
       ],
       "election_type": "spring",
-      "dem_votes": 3,
-      "rep_votes": 2,
+      "dem_votes": 10,
+      "rep_votes": 3,
       "other_votes": 0,
-      "total_votes": 5,
+      "total_votes": 13,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -1,
-      "margin_pct": -20.852184080369277,
+      "margin": -8,
+      "margin_pct": -56.97478991596638,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -72392,14 +72392,14 @@
         "55025480000123"
       ],
       "election_type": "spring",
-      "dem_votes": 34,
-      "rep_votes": 8,
+      "dem_votes": 41,
+      "rep_votes": 9,
       "other_votes": 0,
-      "total_votes": 42,
+      "total_votes": 50,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -26,
-      "margin_pct": -62.05705518458474,
+      "margin": -33,
+      "margin_pct": -64.77876106194691,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -72415,14 +72415,14 @@
         "55025480000124"
       ],
       "election_type": "spring",
-      "dem_votes": 68,
-      "rep_votes": 2,
+      "dem_votes": 75,
+      "rep_votes": 3,
       "other_votes": 0,
-      "total_votes": 70,
+      "total_votes": 78,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -66,
-      "margin_pct": -94.253276948365,
+      "margin": -73,
+      "margin_pct": -92.72727272727273,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -72438,14 +72438,14 @@
         "55025480000125"
       ],
       "election_type": "spring",
-      "dem_votes": 0,
-      "rep_votes": 0,
+      "dem_votes": 7,
+      "rep_votes": 1,
       "other_votes": 0,
-      "total_votes": 0,
+      "total_votes": 8,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": 0,
-      "margin_pct": -79.45945945945945,
+      "margin": -7,
+      "margin_pct": -79.45945945945947,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -72461,17 +72461,17 @@
         "55025480000126"
       ],
       "election_type": "spring",
-      "dem_votes": 0,
-      "rep_votes": 0,
+      "dem_votes": 7,
+      "rep_votes": 1,
       "other_votes": 0,
-      "total_votes": 0,
+      "total_votes": 8,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": 0,
-      "margin_pct": 0.0,
-      "winner": "TIE",
+      "margin": -7,
+      "margin_pct": -79.45945945945947,
+      "winner": "DEM",
       "competitiveness": {
-        "color": "#9ca3af"
+        "color": "#08306b"
       },
       "contest_partisan_style": "nonpartisan_ideology",
       "dem_label": "Liberal",
@@ -72484,14 +72484,14 @@
         "55025480000127"
       ],
       "election_type": "spring",
-      "dem_votes": 115,
-      "rep_votes": 9,
+      "dem_votes": 120,
+      "rep_votes": 10,
       "other_votes": 0,
-      "total_votes": 124,
+      "total_votes": 130,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -106,
-      "margin_pct": -85.1341185026707,
+      "margin": -111,
+      "margin_pct": -84.88054607508532,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -72507,14 +72507,14 @@
         "55025480000128"
       ],
       "election_type": "spring",
-      "dem_votes": 247,
+      "dem_votes": 249,
       "rep_votes": 13,
       "other_votes": 2,
-      "total_votes": 261,
+      "total_votes": 264,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -234,
-      "margin_pct": -89.6284374995998,
+      "margin": -237,
+      "margin_pct": -89.52060555088308,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -72530,14 +72530,14 @@
         "55025480000129"
       ],
       "election_type": "spring",
-      "dem_votes": 0,
-      "rep_votes": 0,
+      "dem_votes": 7,
+      "rep_votes": 1,
       "other_votes": 0,
-      "total_votes": 0,
+      "total_votes": 8,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": 0,
-      "margin_pct": -79.45945945945945,
+      "margin": -7,
+      "margin_pct": -79.45945945945947,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -72553,14 +72553,14 @@
         "55025480000130"
       ],
       "election_type": "spring",
-      "dem_votes": 251,
-      "rep_votes": 21,
+      "dem_votes": 258,
+      "rep_votes": 22,
       "other_votes": 0,
-      "total_votes": 272,
+      "total_votes": 280,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -230,
-      "margin_pct": -84.55882352941177,
+      "margin": -237,
+      "margin_pct": -84.40919904837432,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -72576,17 +72576,17 @@
         "55025480000131"
       ],
       "election_type": "spring",
-      "dem_votes": 0,
-      "rep_votes": 0,
+      "dem_votes": 7,
+      "rep_votes": 1,
       "other_votes": 0,
-      "total_votes": 0,
+      "total_votes": 8,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": 0,
-      "margin_pct": 0.0,
-      "winner": "TIE",
+      "margin": -7,
+      "margin_pct": -79.45945945945947,
+      "winner": "DEM",
       "competitiveness": {
-        "color": "#9ca3af"
+        "color": "#08306b"
       },
       "contest_partisan_style": "nonpartisan_ideology",
       "dem_label": "Liberal",
@@ -72605,8 +72605,8 @@
       "total_votes": 90,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -64,
-      "margin_pct": -71.50620005350703,
+      "margin": -65,
+      "margin_pct": -71.52709359605912,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -72622,14 +72622,14 @@
         "55025480000133"
       ],
       "election_type": "spring",
-      "dem_votes": 156,
-      "rep_votes": 26,
+      "dem_votes": 163,
+      "rep_votes": 27,
       "other_votes": 0,
-      "total_votes": 182,
+      "total_votes": 190,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -130,
-      "margin_pct": -71.42857142857143,
+      "margin": -137,
+      "margin_pct": -71.77570093457943,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -72645,14 +72645,14 @@
         "55025480000134"
       ],
       "election_type": "spring",
-      "dem_votes": 63,
-      "rep_votes": 18,
+      "dem_votes": 70,
+      "rep_votes": 19,
       "other_votes": 0,
-      "total_votes": 81,
+      "total_votes": 89,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -45,
-      "margin_pct": -55.55674746028835,
+      "margin": -52,
+      "margin_pct": -57.75840597758406,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -72668,14 +72668,14 @@
         "55025480000135"
       ],
       "election_type": "spring",
-      "dem_votes": 533,
-      "rep_votes": 39,
+      "dem_votes": 540,
+      "rep_votes": 40,
       "other_votes": 0,
-      "total_votes": 572,
+      "total_votes": 580,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": -494,
-      "margin_pct": -86.36358761166301,
+      "margin": -501,
+      "margin_pct": -86.26579854461892,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -78581,6 +78581,29 @@
       "rep_label": "Conservative"
     },
     {
+      "county": "MEQUON - C 0007A",
+      "precinct_key": "MEQUON - C 0007A",
+      "geoids": [
+        "5508951150007A"
+      ],
+      "election_type": "spring",
+      "dem_votes": 182,
+      "rep_votes": 178,
+      "other_votes": 0,
+      "total_votes": 360,
+      "dem_candidate": "Janet C. Protasiewicz",
+      "rep_candidate": "Daniel Kelly",
+      "margin": -4,
+      "margin_pct": -1.1111111111111112,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#c6dbef"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
       "county": "MEQUON - C 0008",
       "precinct_key": "MEQUON - C 0008",
       "geoids": [
@@ -78654,6 +78677,29 @@
       "precinct_key": "MEQUON - C 0011",
       "geoids": [
         "55089511500011"
+      ],
+      "election_type": "spring",
+      "dem_votes": 198,
+      "rep_votes": 166,
+      "other_votes": 0,
+      "total_votes": 364,
+      "dem_candidate": "Janet C. Protasiewicz",
+      "rep_candidate": "Daniel Kelly",
+      "margin": -32,
+      "margin_pct": -8.803301237964236,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#6baed6"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "MEQUON - C 0011A",
+      "precinct_key": "MEQUON - C 0011A",
+      "geoids": [
+        "5508951150011A"
       ],
       "election_type": "spring",
       "dem_votes": 198,
@@ -78874,52 +78920,6 @@
       "winner": "DEM",
       "competitiveness": {
         "color": "#2171b5"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "MEQUON - C 007A",
-      "precinct_key": "MEQUON - C 007A",
-      "geoids": [
-        "5508951150007A"
-      ],
-      "election_type": "spring",
-      "dem_votes": 182,
-      "rep_votes": 178,
-      "other_votes": 0,
-      "total_votes": 360,
-      "dem_candidate": "Janet C. Protasiewicz",
-      "rep_candidate": "Daniel Kelly",
-      "margin": -4,
-      "margin_pct": -1.1111111111111112,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#c6dbef"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "MEQUON - C 011A",
-      "precinct_key": "MEQUON - C 011A",
-      "geoids": [
-        "5508951150011A"
-      ],
-      "election_type": "spring",
-      "dem_votes": 198,
-      "rep_votes": 166,
-      "other_votes": 0,
-      "total_votes": 364,
-      "dem_candidate": "Janet C. Protasiewicz",
-      "rep_candidate": "Daniel Kelly",
-      "margin": -32,
-      "margin_pct": -8.803301237964236,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#6baed6"
       },
       "contest_partisan_style": "nonpartisan_ideology",
       "dem_label": "Liberal",
@@ -80720,6 +80720,29 @@
       "rep_label": "Conservative"
     },
     {
+      "county": "MIDDLETON - T 0004A",
+      "precinct_key": "MIDDLETON - T 0004A",
+      "geoids": [
+        "5502551600004A"
+      ],
+      "election_type": "spring",
+      "dem_votes": 226,
+      "rep_votes": 90,
+      "other_votes": 0,
+      "total_votes": 316,
+      "dem_candidate": "Janet C. Protasiewicz",
+      "rep_candidate": "Daniel Kelly",
+      "margin": -136,
+      "margin_pct": -43.21926489226868,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
       "county": "MIDDLETON - T 0005",
       "precinct_key": "MIDDLETON - T 0005",
       "geoids": [
@@ -80812,31 +80835,8 @@
       "rep_label": "Conservative"
     },
     {
-      "county": "MIDDLETON - T 004A",
-      "precinct_key": "MIDDLETON - T 004A",
-      "geoids": [
-        "5502551600004A"
-      ],
-      "election_type": "spring",
-      "dem_votes": 226,
-      "rep_votes": 90,
-      "other_votes": 0,
-      "total_votes": 316,
-      "dem_candidate": "Janet C. Protasiewicz",
-      "rep_candidate": "Daniel Kelly",
-      "margin": -136,
-      "margin_pct": -43.21926489226868,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "MIDDLETON - T 008A",
-      "precinct_key": "MIDDLETON - T 008A",
+      "county": "MIDDLETON - T 0008A",
+      "precinct_key": "MIDDLETON - T 0008A",
       "geoids": [
         "5502551600008A"
       ],
@@ -99668,17 +99668,17 @@
         "55133592500001"
       ],
       "election_type": "spring",
-      "dem_votes": 216,
-      "rep_votes": 274,
-      "other_votes": 1,
-      "total_votes": 490,
+      "dem_votes": 342,
+      "rep_votes": 522,
+      "other_votes": 2,
+      "total_votes": 867,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": 57,
-      "margin_pct": 11.671763506625892,
+      "margin": 181,
+      "margin_pct": 20.853764061147967,
       "winner": "REP",
       "competitiveness": {
-        "color": "#cb181d"
+        "color": "#67000d"
       },
       "contest_partisan_style": "nonpartisan_ideology",
       "dem_label": "Liberal",
@@ -99691,17 +99691,17 @@
         "55133592500002"
       ],
       "election_type": "spring",
-      "dem_votes": 216,
-      "rep_votes": 274,
-      "other_votes": 1,
-      "total_votes": 490,
+      "dem_votes": 342,
+      "rep_votes": 522,
+      "other_votes": 2,
+      "total_votes": 867,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": 57,
-      "margin_pct": 11.671763506625892,
+      "margin": 181,
+      "margin_pct": 20.853764061147967,
       "winner": "REP",
       "competitiveness": {
-        "color": "#cb181d"
+        "color": "#67000d"
       },
       "contest_partisan_style": "nonpartisan_ideology",
       "dem_label": "Liberal",
@@ -99737,14 +99737,14 @@
         "55133592500004"
       ],
       "election_type": "spring",
-      "dem_votes": 277,
-      "rep_votes": 349,
-      "other_votes": 2,
-      "total_votes": 628,
+      "dem_votes": 402,
+      "rep_votes": 598,
+      "other_votes": 4,
+      "total_votes": 1004,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": 72,
-      "margin_pct": 11.524163568773242,
+      "margin": 196,
+      "margin_pct": 19.506931186187437,
       "winner": "REP",
       "competitiveness": {
         "color": "#cb181d"
@@ -99760,17 +99760,17 @@
         "55133592500005"
       ],
       "election_type": "spring",
-      "dem_votes": 277,
-      "rep_votes": 349,
-      "other_votes": 2,
-      "total_votes": 628,
+      "dem_votes": 413,
+      "rep_votes": 626,
+      "other_votes": 4,
+      "total_votes": 1043,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": 72,
-      "margin_pct": 11.524163568773242,
+      "margin": 213,
+      "margin_pct": 20.41533546325879,
       "winner": "REP",
       "competitiveness": {
-        "color": "#cb181d"
+        "color": "#67000d"
       },
       "contest_partisan_style": "nonpartisan_ideology",
       "dem_label": "Liberal",
@@ -99829,17 +99829,17 @@
         "55133592500008"
       ],
       "election_type": "spring",
-      "dem_votes": 264,
-      "rep_votes": 360,
-      "other_votes": 1,
-      "total_votes": 624,
+      "dem_votes": 401,
+      "rep_votes": 637,
+      "other_votes": 2,
+      "total_votes": 1040,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": 96,
-      "margin_pct": 15.32301121195942,
+      "margin": 236,
+      "margin_pct": 22.72435897435898,
       "winner": "REP",
       "competitiveness": {
-        "color": "#cb181d"
+        "color": "#67000d"
       },
       "contest_partisan_style": "nonpartisan_ideology",
       "dem_label": "Liberal",
@@ -99852,17 +99852,17 @@
         "55133592500009"
       ],
       "election_type": "spring",
-      "dem_votes": 264,
-      "rep_votes": 360,
-      "other_votes": 1,
-      "total_votes": 624,
+      "dem_votes": 401,
+      "rep_votes": 637,
+      "other_votes": 2,
+      "total_votes": 1040,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": 96,
-      "margin_pct": 15.32301121195942,
+      "margin": 236,
+      "margin_pct": 22.72435897435898,
       "winner": "REP",
       "competitiveness": {
-        "color": "#cb181d"
+        "color": "#67000d"
       },
       "contest_partisan_style": "nonpartisan_ideology",
       "dem_label": "Liberal",
@@ -99875,17 +99875,17 @@
         "55133592500010"
       ],
       "election_type": "spring",
-      "dem_votes": 241,
-      "rep_votes": 341,
-      "other_votes": 3,
-      "total_votes": 585,
+      "dem_votes": 366,
+      "rep_votes": 590,
+      "other_votes": 5,
+      "total_votes": 962,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": 100,
-      "margin_pct": 17.14123006833713,
+      "margin": 224,
+      "margin_pct": 23.27758037958228,
       "winner": "REP",
       "competitiveness": {
-        "color": "#cb181d"
+        "color": "#67000d"
       },
       "contest_partisan_style": "nonpartisan_ideology",
       "dem_label": "Liberal",
@@ -99961,227 +99961,20 @@
       "rep_label": "Conservative"
     },
     {
-      "county": "OCONOMOWOC - T 0001",
-      "precinct_key": "OCONOMOWOC - T 0001",
-      "geoids": [
-        "55133592750001"
-      ],
-      "election_type": "spring",
-      "dem_votes": 126,
-      "rep_votes": 249,
-      "other_votes": 2,
-      "total_votes": 376,
-      "dem_candidate": "Janet C. Protasiewicz",
-      "rep_candidate": "Daniel Kelly",
-      "margin": 124,
-      "margin_pct": 32.82392026578073,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#67000d"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "OCONOMOWOC - T 0002",
-      "precinct_key": "OCONOMOWOC - T 0002",
-      "geoids": [
-        "55133592750002"
-      ],
-      "election_type": "spring",
-      "dem_votes": 126,
-      "rep_votes": 249,
-      "other_votes": 2,
-      "total_votes": 376,
-      "dem_candidate": "Janet C. Protasiewicz",
-      "rep_candidate": "Daniel Kelly",
-      "margin": 124,
-      "margin_pct": 32.82392026578073,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#67000d"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "OCONOMOWOC - T 0003",
-      "precinct_key": "OCONOMOWOC - T 0003",
-      "geoids": [
-        "55133592750003"
-      ],
-      "election_type": "spring",
-      "dem_votes": 109,
-      "rep_votes": 191,
-      "other_votes": 2,
-      "total_votes": 301,
-      "dem_candidate": "Janet C. Protasiewicz",
-      "rep_candidate": "Daniel Kelly",
-      "margin": 82,
-      "margin_pct": 27.219917012448132,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#67000d"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "OCONOMOWOC - T 0004",
-      "precinct_key": "OCONOMOWOC - T 0004",
-      "geoids": [
-        "55133592750004"
-      ],
-      "election_type": "spring",
-      "dem_votes": 126,
-      "rep_votes": 249,
-      "other_votes": 2,
-      "total_votes": 376,
-      "dem_candidate": "Janet C. Protasiewicz",
-      "rep_candidate": "Daniel Kelly",
-      "margin": 124,
-      "margin_pct": 32.82392026578073,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#67000d"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "OCONOMOWOC - T 0005",
-      "precinct_key": "OCONOMOWOC - T 0005",
-      "geoids": [
-        "55133592750005"
-      ],
-      "election_type": "spring",
-      "dem_votes": 137,
-      "rep_votes": 277,
-      "other_votes": 2,
-      "total_votes": 416,
-      "dem_candidate": "Janet C. Protasiewicz",
-      "rep_candidate": "Daniel Kelly",
-      "margin": 141,
-      "margin_pct": 33.84121892542101,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#67000d"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
       "county": "OCONOMOWOC - T 0006",
       "precinct_key": "OCONOMOWOC - T 0006",
       "geoids": [
         "55133592750006"
       ],
       "election_type": "spring",
-      "dem_votes": 109,
-      "rep_votes": 191,
-      "other_votes": 2,
-      "total_votes": 301,
+      "dem_votes": 218,
+      "rep_votes": 382,
+      "other_votes": 4,
+      "total_votes": 602,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": 82,
+      "margin": 164,
       "margin_pct": 27.219917012448132,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#67000d"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "OCONOMOWOC - T 0007",
-      "precinct_key": "OCONOMOWOC - T 0007",
-      "geoids": [
-        "55133592750007"
-      ],
-      "election_type": "spring",
-      "dem_votes": 109,
-      "rep_votes": 191,
-      "other_votes": 2,
-      "total_votes": 301,
-      "dem_candidate": "Janet C. Protasiewicz",
-      "rep_candidate": "Daniel Kelly",
-      "margin": 82,
-      "margin_pct": 27.219917012448132,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#67000d"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "OCONOMOWOC - T 0008",
-      "precinct_key": "OCONOMOWOC - T 0008",
-      "geoids": [
-        "55133592750008"
-      ],
-      "election_type": "spring",
-      "dem_votes": 137,
-      "rep_votes": 277,
-      "other_votes": 2,
-      "total_votes": 416,
-      "dem_candidate": "Janet C. Protasiewicz",
-      "rep_candidate": "Daniel Kelly",
-      "margin": 141,
-      "margin_pct": 33.84121892542101,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#67000d"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "OCONOMOWOC - T 0009",
-      "precinct_key": "OCONOMOWOC - T 0009",
-      "geoids": [
-        "55133592750009"
-      ],
-      "election_type": "spring",
-      "dem_votes": 137,
-      "rep_votes": 277,
-      "other_votes": 2,
-      "total_votes": 416,
-      "dem_candidate": "Janet C. Protasiewicz",
-      "rep_candidate": "Daniel Kelly",
-      "margin": 141,
-      "margin_pct": 33.84121892542101,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#67000d"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "OCONOMOWOC - T 0010",
-      "precinct_key": "OCONOMOWOC - T 0010",
-      "geoids": [
-        "55133592750010"
-      ],
-      "election_type": "spring",
-      "dem_votes": 126,
-      "rep_votes": 249,
-      "other_votes": 2,
-      "total_votes": 376,
-      "dem_candidate": "Janet C. Protasiewicz",
-      "rep_candidate": "Daniel Kelly",
-      "margin": 124,
-      "margin_pct": 32.82392026578073,
       "winner": "REP",
       "competitiveness": {
         "color": "#67000d"
@@ -100197,13 +99990,13 @@
         "55133592750011"
       ],
       "election_type": "spring",
-      "dem_votes": 109,
-      "rep_votes": 191,
-      "other_votes": 2,
-      "total_votes": 301,
+      "dem_votes": 218,
+      "rep_votes": 382,
+      "other_votes": 4,
+      "total_votes": 602,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
-      "margin": 82,
+      "margin": 164,
       "margin_pct": 27.219917012448132,
       "winner": "REP",
       "competitiveness": {
@@ -102548,11 +102341,11 @@
       "dem_votes": 405,
       "rep_votes": 293,
       "other_votes": 3,
-      "total_votes": 702,
+      "total_votes": 701,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
       "margin": -112,
-      "margin_pct": -15.98978699907699,
+      "margin_pct": -15.98328416912488,
       "winner": "DEM",
       "competitiveness": {
         "color": "#2171b5"
@@ -102575,7 +102368,7 @@
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
       "margin": -97,
-      "margin_pct": -20.688054457823572,
+      "margin_pct": -20.687628563032618,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -102591,14 +102384,14 @@
         "55139605000003"
       ],
       "election_type": "spring",
-      "dem_votes": 45,
+      "dem_votes": 44,
       "rep_votes": 56,
       "other_votes": 0,
-      "total_votes": 101,
+      "total_votes": 100,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
       "margin": 12,
-      "margin_pct": 11.691816417163544,
+      "margin_pct": 11.851597389213333,
       "winner": "REP",
       "competitiveness": {
         "color": "#cb181d"
@@ -102621,7 +102414,7 @@
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
       "margin": -64,
-      "margin_pct": -18.443804034582133,
+      "margin_pct": -18.453444510621402,
       "winner": "DEM",
       "competitiveness": {
         "color": "#2171b5"
@@ -102640,11 +102433,11 @@
       "dem_votes": 307,
       "rep_votes": 220,
       "other_votes": 1,
-      "total_votes": 529,
+      "total_votes": 528,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
       "margin": -87,
-      "margin_pct": -16.49315883192824,
+      "margin_pct": -16.48502251517327,
       "winner": "DEM",
       "competitiveness": {
         "color": "#2171b5"
@@ -102667,7 +102460,7 @@
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
       "margin": -94,
-      "margin_pct": -17.472118959107807,
+      "margin_pct": -17.479023890347786,
       "winner": "DEM",
       "competitiveness": {
         "color": "#2171b5"
@@ -102683,14 +102476,14 @@
         "55139605000007"
       ],
       "election_type": "spring",
-      "dem_votes": 547,
+      "dem_votes": 546,
       "rep_votes": 307,
       "other_votes": 2,
-      "total_votes": 856,
+      "total_votes": 855,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
       "margin": -239,
-      "margin_pct": -27.95258706585245,
+      "margin_pct": -27.952914617431272,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -102709,11 +102502,11 @@
       "dem_votes": 315,
       "rep_votes": 137,
       "other_votes": 2,
-      "total_votes": 455,
+      "total_votes": 454,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
       "margin": -178,
-      "margin_pct": -39.18647396506169,
+      "margin_pct": -39.197085831372846,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -102729,14 +102522,14 @@
         "55139605000009"
       ],
       "election_type": "spring",
-      "dem_votes": 289,
+      "dem_votes": 288,
       "rep_votes": 100,
       "other_votes": 1,
-      "total_votes": 390,
+      "total_votes": 389,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
       "margin": -188,
-      "margin_pct": -48.28638495944597,
+      "margin_pct": -48.30853701735742,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -102755,11 +102548,11 @@
       "dem_votes": 332,
       "rep_votes": 120,
       "other_votes": 2,
-      "total_votes": 455,
+      "total_votes": 454,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
       "margin": -212,
-      "margin_pct": -46.662808933224014,
+      "margin_pct": -46.67982090005312,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -102778,11 +102571,11 @@
       "dem_votes": 470,
       "rep_votes": 215,
       "other_votes": 2,
-      "total_votes": 688,
+      "total_votes": 687,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
       "margin": -255,
-      "margin_pct": -37.10668799661642,
+      "margin_pct": -37.112471154810876,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -102801,11 +102594,11 @@
       "dem_votes": 229,
       "rep_votes": 71,
       "other_votes": 0,
-      "total_votes": 301,
+      "total_votes": 300,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
       "margin": -158,
-      "margin_pct": -52.600501339849124,
+      "margin_pct": -52.63459993112157,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -102828,7 +102621,7 @@
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
       "margin": -124,
-      "margin_pct": -39.85908915739994,
+      "margin_pct": -39.85603543743078,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -102851,7 +102644,7 @@
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
       "margin": -129,
-      "margin_pct": -27.100865353893962,
+      "margin_pct": -27.10097719869707,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -102874,7 +102667,7 @@
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
       "margin": -241,
-      "margin_pct": -37.07283338378062,
+      "margin_pct": -37.071205132283545,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -102893,11 +102686,11 @@
       "dem_votes": 416,
       "rep_votes": 194,
       "other_votes": 1,
-      "total_votes": 612,
+      "total_votes": 611,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
       "margin": -222,
-      "margin_pct": -36.326224733860485,
+      "margin_pct": -36.32825719120135,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -102920,7 +102713,7 @@
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
       "margin": -152,
-      "margin_pct": -22.891606350083862,
+      "margin_pct": -22.894067576685526,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -102943,7 +102736,7 @@
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
       "margin": -128,
-      "margin_pct": -23.794334361078747,
+      "margin_pct": -23.79427400243387,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -102966,7 +102759,7 @@
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
       "margin": -167,
-      "margin_pct": -23.1966781398125,
+      "margin_pct": -23.196591833804035,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -102985,11 +102778,11 @@
       "dem_votes": 440,
       "rep_votes": 325,
       "other_votes": 2,
-      "total_votes": 768,
+      "total_votes": 767,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
       "margin": -115,
-      "margin_pct": -15.005317187292693,
+      "margin_pct": -14.999550642581113,
       "winner": "DEM",
       "competitiveness": {
         "color": "#2171b5"
@@ -103012,7 +102805,7 @@
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
       "margin": -64,
-      "margin_pct": -8.345182794232489,
+      "margin_pct": -8.353554417183432,
       "winner": "DEM",
       "competitiveness": {
         "color": "#6baed6"
@@ -103031,11 +102824,11 @@
       "dem_votes": 528,
       "rep_votes": 471,
       "other_votes": 0,
-      "total_votes": 1000,
+      "total_votes": 999,
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
       "margin": -57,
-      "margin_pct": -5.7226540962117465,
+      "margin_pct": -5.713891380857091,
       "winner": "DEM",
       "competitiveness": {
         "color": "#6baed6"
@@ -103058,7 +102851,7 @@
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
       "margin": -178,
-      "margin_pct": -23.42105263157895,
+      "margin_pct": -23.422974014783914,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -103081,7 +102874,7 @@
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
       "margin": -143,
-      "margin_pct": -20.341434498305325,
+      "margin_pct": -20.34513187567409,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -103104,7 +102897,7 @@
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
       "margin": -98,
-      "margin_pct": -21.777815872520108,
+      "margin_pct": -21.782405635096854,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -103127,7 +102920,7 @@
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
       "margin": -131,
-      "margin_pct": -25.143956618319983,
+      "margin_pct": -25.145502645502642,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -103150,7 +102943,7 @@
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
       "margin": -49,
-      "margin_pct": -6.862782646908237,
+      "margin_pct": -6.873582082347834,
       "winner": "DEM",
       "competitiveness": {
         "color": "#6baed6"
@@ -103173,7 +102966,7 @@
       "dem_candidate": "Janet C. Protasiewicz",
       "rep_candidate": "Daniel Kelly",
       "margin": -50,
-      "margin_pct": -7.473895007228948,
+      "margin_pct": -7.485060787141978,
       "winner": "DEM",
       "competitiveness": {
         "color": "#6baed6"
@@ -143586,6 +143379,52 @@
       "rep_label": "Conservative"
     },
     {
+      "county": "WAUWATOSA - C 0002A",
+      "precinct_key": "WAUWATOSA - C 0002A",
+      "geoids": [
+        "5507984675002A"
+      ],
+      "election_type": "spring",
+      "dem_votes": 697,
+      "rep_votes": 218,
+      "other_votes": 1,
+      "total_votes": 916,
+      "dem_candidate": "Janet C. Protasiewicz",
+      "rep_candidate": "Daniel Kelly",
+      "margin": -479,
+      "margin_pct": -52.29257641921398,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "WAUWATOSA - C 0002B",
+      "precinct_key": "WAUWATOSA - C 0002B",
+      "geoids": [
+        "5507984675002B"
+      ],
+      "election_type": "spring",
+      "dem_votes": 47,
+      "rep_votes": 16,
+      "other_votes": 1,
+      "total_votes": 64,
+      "dem_candidate": "Janet C. Protasiewicz",
+      "rep_candidate": "Daniel Kelly",
+      "margin": -31,
+      "margin_pct": -48.4375,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
       "county": "WAUWATOSA - C 0003",
       "precinct_key": "WAUWATOSA - C 0003",
       "geoids": [
@@ -143600,6 +143439,52 @@
       "rep_candidate": "Daniel Kelly",
       "margin": -422,
       "margin_pct": -59.68882602545968,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "WAUWATOSA - C 0004A",
+      "precinct_key": "WAUWATOSA - C 0004A",
+      "geoids": [
+        "5507984675004A"
+      ],
+      "election_type": "spring",
+      "dem_votes": 371,
+      "rep_votes": 96,
+      "other_votes": 0,
+      "total_votes": 467,
+      "dem_candidate": "Janet C. Protasiewicz",
+      "rep_candidate": "Daniel Kelly",
+      "margin": -275,
+      "margin_pct": -58.886509635974306,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "WAUWATOSA - C 0004B",
+      "precinct_key": "WAUWATOSA - C 0004B",
+      "geoids": [
+        "5507984675004B"
+      ],
+      "election_type": "spring",
+      "dem_votes": 305,
+      "rep_votes": 83,
+      "other_votes": 0,
+      "total_votes": 388,
+      "dem_candidate": "Janet C. Protasiewicz",
+      "rep_candidate": "Daniel Kelly",
+      "margin": -222,
+      "margin_pct": -57.21649484536082,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -143626,6 +143511,144 @@
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "WAUWATOSA - C 0006A",
+      "precinct_key": "WAUWATOSA - C 0006A",
+      "geoids": [
+        "5507984675006A"
+      ],
+      "election_type": "spring",
+      "dem_votes": 245,
+      "rep_votes": 86,
+      "other_votes": 0,
+      "total_votes": 331,
+      "dem_candidate": "Janet C. Protasiewicz",
+      "rep_candidate": "Daniel Kelly",
+      "margin": -159,
+      "margin_pct": -48.036253776435046,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "WAUWATOSA - C 0006B",
+      "precinct_key": "WAUWATOSA - C 0006B",
+      "geoids": [
+        "5507984675006B"
+      ],
+      "election_type": "spring",
+      "dem_votes": 432,
+      "rep_votes": 150,
+      "other_votes": 0,
+      "total_votes": 582,
+      "dem_candidate": "Janet C. Protasiewicz",
+      "rep_candidate": "Daniel Kelly",
+      "margin": -282,
+      "margin_pct": -48.45360824742268,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "WAUWATOSA - C 0007A",
+      "precinct_key": "WAUWATOSA - C 0007A",
+      "geoids": [
+        "5507984675007A"
+      ],
+      "election_type": "spring",
+      "dem_votes": 270,
+      "rep_votes": 176,
+      "other_votes": 0,
+      "total_votes": 446,
+      "dem_candidate": "Janet C. Protasiewicz",
+      "rep_candidate": "Daniel Kelly",
+      "margin": -94,
+      "margin_pct": -21.099887766554435,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "WAUWATOSA - C 0007B",
+      "precinct_key": "WAUWATOSA - C 0007B",
+      "geoids": [
+        "5507984675007B"
+      ],
+      "election_type": "spring",
+      "dem_votes": 270,
+      "rep_votes": 176,
+      "other_votes": 0,
+      "total_votes": 446,
+      "dem_candidate": "Janet C. Protasiewicz",
+      "rep_candidate": "Daniel Kelly",
+      "margin": -94,
+      "margin_pct": -21.099887766554435,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "WAUWATOSA - C 0008A",
+      "precinct_key": "WAUWATOSA - C 0008A",
+      "geoids": [
+        "5507984675008A"
+      ],
+      "election_type": "spring",
+      "dem_votes": 230,
+      "rep_votes": 157,
+      "other_votes": 2,
+      "total_votes": 388,
+      "dem_candidate": "Janet C. Protasiewicz",
+      "rep_candidate": "Daniel Kelly",
+      "margin": -72,
+      "margin_pct": -18.685567010309278,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "WAUWATOSA - C 0008B",
+      "precinct_key": "WAUWATOSA - C 0008B",
+      "geoids": [
+        "5507984675008B"
+      ],
+      "election_type": "spring",
+      "dem_votes": 230,
+      "rep_votes": 157,
+      "other_votes": 2,
+      "total_votes": 388,
+      "dem_candidate": "Janet C. Protasiewicz",
+      "rep_candidate": "Daniel Kelly",
+      "margin": -72,
+      "margin_pct": -18.685567010309278,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
       },
       "contest_partisan_style": "nonpartisan_ideology",
       "dem_label": "Liberal",
@@ -143692,6 +143715,52 @@
       "rep_candidate": "Daniel Kelly",
       "margin": -380,
       "margin_pct": -37.21841332027424,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "WAUWATOSA - C 0012A",
+      "precinct_key": "WAUWATOSA - C 0012A",
+      "geoids": [
+        "5507984675012A"
+      ],
+      "election_type": "spring",
+      "dem_votes": 0,
+      "rep_votes": 0,
+      "other_votes": 0,
+      "total_votes": 0,
+      "dem_candidate": "Janet C. Protasiewicz",
+      "rep_candidate": "Daniel Kelly",
+      "margin": 0,
+      "margin_pct": 0.0,
+      "winner": "TIE",
+      "competitiveness": {
+        "color": "#9ca3af"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "WAUWATOSA - C 0012B",
+      "precinct_key": "WAUWATOSA - C 0012B",
+      "geoids": [
+        "5507984675012B"
+      ],
+      "election_type": "spring",
+      "dem_votes": 677,
+      "rep_votes": 274,
+      "other_votes": 2,
+      "total_votes": 953,
+      "dem_candidate": "Janet C. Protasiewicz",
+      "rep_candidate": "Daniel Kelly",
+      "margin": -403,
+      "margin_pct": -42.28751311647429,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -143954,284 +144023,8 @@
       "rep_label": "Conservative"
     },
     {
-      "county": "WAUWATOSA - C 002A",
-      "precinct_key": "WAUWATOSA - C 002A",
-      "geoids": [
-        "5507984675002A"
-      ],
-      "election_type": "spring",
-      "dem_votes": 697,
-      "rep_votes": 218,
-      "other_votes": 1,
-      "total_votes": 916,
-      "dem_candidate": "Janet C. Protasiewicz",
-      "rep_candidate": "Daniel Kelly",
-      "margin": -479,
-      "margin_pct": -52.29257641921398,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "WAUWATOSA - C 002B",
-      "precinct_key": "WAUWATOSA - C 002B",
-      "geoids": [
-        "5507984675002B"
-      ],
-      "election_type": "spring",
-      "dem_votes": 47,
-      "rep_votes": 16,
-      "other_votes": 1,
-      "total_votes": 64,
-      "dem_candidate": "Janet C. Protasiewicz",
-      "rep_candidate": "Daniel Kelly",
-      "margin": -31,
-      "margin_pct": -48.4375,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "WAUWATOSA - C 004A",
-      "precinct_key": "WAUWATOSA - C 004A",
-      "geoids": [
-        "5507984675004A"
-      ],
-      "election_type": "spring",
-      "dem_votes": 371,
-      "rep_votes": 96,
-      "other_votes": 0,
-      "total_votes": 467,
-      "dem_candidate": "Janet C. Protasiewicz",
-      "rep_candidate": "Daniel Kelly",
-      "margin": -275,
-      "margin_pct": -58.886509635974306,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "WAUWATOSA - C 004B",
-      "precinct_key": "WAUWATOSA - C 004B",
-      "geoids": [
-        "5507984675004B"
-      ],
-      "election_type": "spring",
-      "dem_votes": 305,
-      "rep_votes": 83,
-      "other_votes": 0,
-      "total_votes": 388,
-      "dem_candidate": "Janet C. Protasiewicz",
-      "rep_candidate": "Daniel Kelly",
-      "margin": -222,
-      "margin_pct": -57.21649484536082,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "WAUWATOSA - C 006A",
-      "precinct_key": "WAUWATOSA - C 006A",
-      "geoids": [
-        "5507984675006A"
-      ],
-      "election_type": "spring",
-      "dem_votes": 245,
-      "rep_votes": 86,
-      "other_votes": 0,
-      "total_votes": 331,
-      "dem_candidate": "Janet C. Protasiewicz",
-      "rep_candidate": "Daniel Kelly",
-      "margin": -159,
-      "margin_pct": -48.036253776435046,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "WAUWATOSA - C 006B",
-      "precinct_key": "WAUWATOSA - C 006B",
-      "geoids": [
-        "5507984675006B"
-      ],
-      "election_type": "spring",
-      "dem_votes": 432,
-      "rep_votes": 150,
-      "other_votes": 0,
-      "total_votes": 582,
-      "dem_candidate": "Janet C. Protasiewicz",
-      "rep_candidate": "Daniel Kelly",
-      "margin": -282,
-      "margin_pct": -48.45360824742268,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "WAUWATOSA - C 007A",
-      "precinct_key": "WAUWATOSA - C 007A",
-      "geoids": [
-        "5507984675007A"
-      ],
-      "election_type": "spring",
-      "dem_votes": 270,
-      "rep_votes": 176,
-      "other_votes": 0,
-      "total_votes": 446,
-      "dem_candidate": "Janet C. Protasiewicz",
-      "rep_candidate": "Daniel Kelly",
-      "margin": -94,
-      "margin_pct": -21.099887766554435,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "WAUWATOSA - C 007B",
-      "precinct_key": "WAUWATOSA - C 007B",
-      "geoids": [
-        "5507984675007B"
-      ],
-      "election_type": "spring",
-      "dem_votes": 270,
-      "rep_votes": 176,
-      "other_votes": 0,
-      "total_votes": 446,
-      "dem_candidate": "Janet C. Protasiewicz",
-      "rep_candidate": "Daniel Kelly",
-      "margin": -94,
-      "margin_pct": -21.099887766554435,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "WAUWATOSA - C 008A",
-      "precinct_key": "WAUWATOSA - C 008A",
-      "geoids": [
-        "5507984675008A"
-      ],
-      "election_type": "spring",
-      "dem_votes": 230,
-      "rep_votes": 157,
-      "other_votes": 2,
-      "total_votes": 388,
-      "dem_candidate": "Janet C. Protasiewicz",
-      "rep_candidate": "Daniel Kelly",
-      "margin": -72,
-      "margin_pct": -18.685567010309278,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#2171b5"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "WAUWATOSA - C 008B",
-      "precinct_key": "WAUWATOSA - C 008B",
-      "geoids": [
-        "5507984675008B"
-      ],
-      "election_type": "spring",
-      "dem_votes": 230,
-      "rep_votes": 157,
-      "other_votes": 2,
-      "total_votes": 388,
-      "dem_candidate": "Janet C. Protasiewicz",
-      "rep_candidate": "Daniel Kelly",
-      "margin": -72,
-      "margin_pct": -18.685567010309278,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#2171b5"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "WAUWATOSA - C 012A",
-      "precinct_key": "WAUWATOSA - C 012A",
-      "geoids": [
-        "5507984675012A"
-      ],
-      "election_type": "spring",
-      "dem_votes": 0,
-      "rep_votes": 0,
-      "other_votes": 0,
-      "total_votes": 0,
-      "dem_candidate": "Janet C. Protasiewicz",
-      "rep_candidate": "Daniel Kelly",
-      "margin": 0,
-      "margin_pct": 0.0,
-      "winner": "TIE",
-      "competitiveness": {
-        "color": "#9ca3af"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "WAUWATOSA - C 012B",
-      "precinct_key": "WAUWATOSA - C 012B",
-      "geoids": [
-        "5507984675012B"
-      ],
-      "election_type": "spring",
-      "dem_votes": 677,
-      "rep_votes": 274,
-      "other_votes": 2,
-      "total_votes": 953,
-      "dem_candidate": "Janet C. Protasiewicz",
-      "rep_candidate": "Daniel Kelly",
-      "margin": -403,
-      "margin_pct": -42.28751311647429,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "WAUWATOSA - C 024A",
-      "precinct_key": "WAUWATOSA - C 024A",
+      "county": "WAUWATOSA - C 0024A",
+      "precinct_key": "WAUWATOSA - C 0024A",
       "geoids": [
         "5507984675024A"
       ],
@@ -144253,8 +144046,8 @@
       "rep_label": "Conservative"
     },
     {
-      "county": "WAUWATOSA - C 024B",
-      "precinct_key": "WAUWATOSA - C 024B",
+      "county": "WAUWATOSA - C 0024B",
+      "precinct_key": "WAUWATOSA - C 0024B",
       "geoids": [
         "5507984675024B"
       ],
@@ -150728,8 +150521,8 @@
       "rep_label": "Conservative"
     },
     {
-      "county": "WOLF RIVER - T 002A",
-      "precinct_key": "WOLF RIVER - T 002A",
+      "county": "WOLF RIVER - T 0002A",
+      "precinct_key": "WOLF RIVER - T 0002A",
       "geoids": [
         "5513988475002A"
       ],
@@ -150751,8 +150544,8 @@
       "rep_label": "Conservative"
     },
     {
-      "county": "WOLF RIVER - T 002B",
-      "precinct_key": "WOLF RIVER - T 002B",
+      "county": "WOLF RIVER - T 0002B",
+      "precinct_key": "WOLF RIVER - T 0002B",
       "geoids": [
         "5513988475002B"
       ],

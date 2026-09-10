@@ -1,5 +1,6 @@
 import argparse
 import json
+import re
 import zipfile
 from pathlib import Path
 
@@ -9,7 +10,7 @@ import pandas as pd
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA_DIR = ROOT / "data"
-DEFAULT_ARCHIVE = DATA_DIR / "ltsb_2024_election_2025_wards.zip"
+DEFAULT_ARCHIVE = DATA_DIR / "wi_municipal_wards_fall_2025.zip"
 DEFAULT_OUT = DATA_DIR / "tiger" / "wi_ltsb_2025_wards.geojson"
 
 
@@ -20,21 +21,39 @@ def main() -> None:
     parser.add_argument("--simplify", type=float, default=0.00003, help="Geometry tolerance in degrees.")
     args = parser.parse_args()
 
-    extract_dir = DATA_DIR / "tiger" / "_tmp" / "ltsb_2025_wards"
+    extract_dir = DATA_DIR / "tiger" / "_tmp" / args.archive.stem
     extract_dir.mkdir(parents=True, exist_ok=True)
     with zipfile.ZipFile(args.archive) as archive:
         archive.extractall(extract_dir)
-    geodatabases = list(extract_dir.glob("*.gdb"))
-    if len(geodatabases) != 1:
-        raise RuntimeError(f"Expected one FileGDB in {args.archive}, found {len(geodatabases)}")
+    geodatabases = list(extract_dir.rglob("*.gdb"))
+    shapefiles = list(extract_dir.rglob("*.shp"))
+    sources = geodatabases or shapefiles
+    if len(sources) != 1:
+        raise RuntimeError(f"Expected one FileGDB or shapefile in {args.archive}, found {len(sources)}")
 
-    wards = gpd.read_file(geodatabases[0]).to_crs(4326)
+    wards = gpd.read_file(sources[0]).to_crs(4326)
     features = []
     for _, row in wards.iterrows():
-        label = str(row.get("LABEL") or "").strip().upper()
+        source_label = str(row.get("LABEL") or "").strip()
         county_fips = str(row.get("CNTY_FIPS") or "").strip().zfill(3)[-3:]
         county_name = str(row.get("CNTY_NAME") or "").strip()
         geoid = str(row.get("GEOID") or "").strip()
+        municipality = str(row.get("MCD_NAME") or source_label.split(" - ", 1)[0]).strip()
+        kind = str(row.get("CTV") or "").strip().upper()
+        ward_id = str(row.get("WARDID") or source_label.rsplit(" ", 1)[-1]).strip()
+        ward_match = re.fullmatch(r"0*(\d+)([A-Z]*)", ward_id, flags=re.IGNORECASE)
+        if not ward_match:
+            continue
+        ward_token = f"{int(ward_match.group(1)):04d}{ward_match.group(2).upper()}"
+        # Fall 2025 source corrections needed for the April 2026 reporting units.
+        if county_name.upper() == "WAUSHARA" and municipality.upper() == "WAUTOMA" and kind == "C" and ward_token == "0004":
+            continue
+        if county_name.upper() == "LAFAYETTE" and municipality.upper() == "DARLINGTON" and kind == "T" and ward_token == "0008":
+            kind = "C"
+        label = f"{municipality.upper()} - {kind} {ward_token}"
+        kind_name = {"C": "City", "T": "Town", "V": "Village"}.get(kind, "Municipality")
+        ward_number = ward_id.lstrip("0") or "0"
+        friendly_name = f"{kind_name} of {municipality}, Ward {ward_number}"
         geometry = row.geometry
         if not label or not county_name or not geoid or geometry is None or geometry.is_empty:
             continue
@@ -52,7 +71,7 @@ def main() -> None:
                 "county_nam": county_name,
                 "precinct_key": label,
                 "precinct_name": label,
-                "precinct_full_name": label,
+                "precinct_full_name": friendly_name,
                 "prec_id": label.split(" - ", 1)[-1],
                 "PERSONS": 0 if pd.isna(persons) else int(persons),
                 "PERSONS18": 0 if pd.isna(persons18) else int(persons18),

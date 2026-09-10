@@ -18667,6 +18667,26 @@
       }
     },
     {
+      "county": "CHIPPEWA FALLS - C 0001A",
+      "precinct_key": "CHIPPEWA FALLS - C 0001A",
+      "geoids": [
+        "5501714575001A"
+      ],
+      "election_type": "general",
+      "dem_votes": 153,
+      "rep_votes": 148,
+      "other_votes": 12,
+      "total_votes": 314,
+      "dem_candidate": "Tammy Baldwin",
+      "rep_candidate": "Eric Hovde",
+      "margin": -5,
+      "margin_pct": -1.4869888475836404,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#c6dbef"
+      }
+    },
+    {
       "county": "CHIPPEWA FALLS - C 0002",
       "precinct_key": "CHIPPEWA FALLS - C 0002",
       "geoids": [
@@ -18847,6 +18867,26 @@
       }
     },
     {
+      "county": "CHIPPEWA FALLS - C 0010A",
+      "precinct_key": "CHIPPEWA FALLS - C 0010A",
+      "geoids": [
+        "5501714575010A"
+      ],
+      "election_type": "general",
+      "dem_votes": 153,
+      "rep_votes": 148,
+      "other_votes": 12,
+      "total_votes": 314,
+      "dem_candidate": "Tammy Baldwin",
+      "rep_candidate": "Eric Hovde",
+      "margin": -5,
+      "margin_pct": -1.4869888475836404,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#c6dbef"
+      }
+    },
+    {
       "county": "CHIPPEWA FALLS - C 0011",
       "precinct_key": "CHIPPEWA FALLS - C 0011",
       "geoids": [
@@ -18984,46 +19024,6 @@
       "winner": "TIE",
       "competitiveness": {
         "color": "#9ca3af"
-      }
-    },
-    {
-      "county": "CHIPPEWA FALLS - C 001A",
-      "precinct_key": "CHIPPEWA FALLS - C 001A",
-      "geoids": [
-        "5501714575001A"
-      ],
-      "election_type": "general",
-      "dem_votes": 153,
-      "rep_votes": 148,
-      "other_votes": 12,
-      "total_votes": 314,
-      "dem_candidate": "Tammy Baldwin",
-      "rep_candidate": "Eric Hovde",
-      "margin": -5,
-      "margin_pct": -1.4869888475836404,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#c6dbef"
-      }
-    },
-    {
-      "county": "CHIPPEWA FALLS - C 010A",
-      "precinct_key": "CHIPPEWA FALLS - C 010A",
-      "geoids": [
-        "5501714575010A"
-      ],
-      "election_type": "general",
-      "dem_votes": 153,
-      "rep_votes": 148,
-      "other_votes": 12,
-      "total_votes": 314,
-      "dem_candidate": "Tammy Baldwin",
-      "rep_candidate": "Eric Hovde",
-      "margin": -5,
-      "margin_pct": -1.4869888475836404,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#c6dbef"
       }
     },
     {
@@ -33901,7 +33901,7 @@
       "county": "FOND DU LAC - C 0020",
       "precinct_key": "FOND DU LAC - C 0020",
       "geoids": [
-        "55039262750020"
+        "550392627500020"
       ],
       "election_type": "general",
       "dem_votes": 598,
@@ -33921,7 +33921,7 @@
       "county": "FOND DU LAC - C 0021",
       "precinct_key": "FOND DU LAC - C 0021",
       "geoids": [
-        "55039262750021"
+        "550392627500021"
       ],
       "election_type": "general",
       "dem_votes": 568,
@@ -33941,7 +33941,7 @@
       "county": "FOND DU LAC - C 0022",
       "precinct_key": "FOND DU LAC - C 0022",
       "geoids": [
-        "55039262750022"
+        "550392627500022"
       ],
       "election_type": "general",
       "dem_votes": 412,
@@ -40366,6 +40366,26 @@
       }
     },
     {
+      "county": "GREEN BAY - C 0011A",
+      "precinct_key": "GREEN BAY - C 0011A",
+      "geoids": [
+        "5500931000011A"
+      ],
+      "election_type": "general",
+      "dem_votes": 324,
+      "rep_votes": 318,
+      "other_votes": 14,
+      "total_votes": 656,
+      "dem_candidate": "Tammy Baldwin",
+      "rep_candidate": "Eric Hovde",
+      "margin": -6,
+      "margin_pct": -0.9153318077803204,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#c6dbef"
+      }
+    },
+    {
       "county": "GREEN BAY - C 0012",
       "precinct_key": "GREEN BAY - C 0012",
       "geoids": [
@@ -40383,6 +40403,26 @@
       "winner": "DEM",
       "competitiveness": {
         "color": "#2171b5"
+      }
+    },
+    {
+      "county": "GREEN BAY - C 0012A",
+      "precinct_key": "GREEN BAY - C 0012A",
+      "geoids": [
+        "5500931000012A"
+      ],
+      "election_type": "general",
+      "dem_votes": 176,
+      "rep_votes": 114,
+      "other_votes": 10,
+      "total_votes": 300,
+      "dem_candidate": "Tammy Baldwin",
+      "rep_candidate": "Eric Hovde",
+      "margin": -62,
+      "margin_pct": -20.833333333333336,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
       }
     },
     {
@@ -40886,6 +40926,26 @@
       }
     },
     {
+      "county": "GREEN BAY - C 0037A",
+      "precinct_key": "GREEN BAY - C 0037A",
+      "geoids": [
+        "5500931000037A"
+      ],
+      "election_type": "general",
+      "dem_votes": 344,
+      "rep_votes": 258,
+      "other_votes": 22,
+      "total_votes": 624,
+      "dem_candidate": "Tammy Baldwin",
+      "rep_candidate": "Eric Hovde",
+      "margin": -85,
+      "margin_pct": -13.62179487179487,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      }
+    },
+    {
       "county": "GREEN BAY - C 0038",
       "precinct_key": "GREEN BAY - C 0038",
       "geoids": [
@@ -41046,6 +41106,26 @@
       }
     },
     {
+      "county": "GREEN BAY - C 0045A",
+      "precinct_key": "GREEN BAY - C 0045A",
+      "geoids": [
+        "5500931000045A"
+      ],
+      "election_type": "general",
+      "dem_votes": 421,
+      "rep_votes": 464,
+      "other_votes": 22,
+      "total_votes": 908,
+      "dem_candidate": "Tammy Baldwin",
+      "rep_candidate": "Eric Hovde",
+      "margin": 43,
+      "margin_pct": 4.738292011019284,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#fcbba1"
+      }
+    },
+    {
       "county": "GREEN BAY - C 0046",
       "precinct_key": "GREEN BAY - C 0046",
       "geoids": [
@@ -41083,86 +41163,6 @@
       "winner": "REP",
       "competitiveness": {
         "color": "#fb6a4a"
-      }
-    },
-    {
-      "county": "GREEN BAY - C 011A",
-      "precinct_key": "GREEN BAY - C 011A",
-      "geoids": [
-        "5500931000011A"
-      ],
-      "election_type": "general",
-      "dem_votes": 324,
-      "rep_votes": 318,
-      "other_votes": 14,
-      "total_votes": 656,
-      "dem_candidate": "Tammy Baldwin",
-      "rep_candidate": "Eric Hovde",
-      "margin": -6,
-      "margin_pct": -0.9153318077803204,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#c6dbef"
-      }
-    },
-    {
-      "county": "GREEN BAY - C 012A",
-      "precinct_key": "GREEN BAY - C 012A",
-      "geoids": [
-        "5500931000012A"
-      ],
-      "election_type": "general",
-      "dem_votes": 176,
-      "rep_votes": 114,
-      "other_votes": 10,
-      "total_votes": 300,
-      "dem_candidate": "Tammy Baldwin",
-      "rep_candidate": "Eric Hovde",
-      "margin": -62,
-      "margin_pct": -20.833333333333336,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      }
-    },
-    {
-      "county": "GREEN BAY - C 037A",
-      "precinct_key": "GREEN BAY - C 037A",
-      "geoids": [
-        "5500931000037A"
-      ],
-      "election_type": "general",
-      "dem_votes": 344,
-      "rep_votes": 258,
-      "other_votes": 22,
-      "total_votes": 624,
-      "dem_candidate": "Tammy Baldwin",
-      "rep_candidate": "Eric Hovde",
-      "margin": -85,
-      "margin_pct": -13.62179487179487,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#2171b5"
-      }
-    },
-    {
-      "county": "GREEN BAY - C 045A",
-      "precinct_key": "GREEN BAY - C 045A",
-      "geoids": [
-        "5500931000045A"
-      ],
-      "election_type": "general",
-      "dem_votes": 421,
-      "rep_votes": 464,
-      "other_votes": 22,
-      "total_votes": 908,
-      "dem_candidate": "Tammy Baldwin",
-      "rep_candidate": "Eric Hovde",
-      "margin": 43,
-      "margin_pct": 4.738292011019284,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#fcbba1"
       }
     },
     {
@@ -46293,8 +46293,7 @@
       "county": "HOLLAND - T 0004",
       "precinct_key": "HOLLAND - T 0004",
       "geoids": [
-        "55063353500004",
-        "55117353750004"
+        "55063353500004"
       ],
       "election_type": "general",
       "dem_votes": 261,
@@ -56227,10 +56226,10 @@
       }
     },
     {
-      "county": "LAC LA BELLE - V 0002",
-      "precinct_key": "LAC LA BELLE - V 0002",
+      "county": "LAC LA BELLE - V 0012",
+      "precinct_key": "LAC LA BELLE - V 0012",
       "geoids": [
-        "55055407500002"
+        "55055407500012"
       ],
       "election_type": "general",
       "dem_votes": 0,
@@ -69862,6 +69861,26 @@
       }
     },
     {
+      "county": "MEQUON - C 0007A",
+      "precinct_key": "MEQUON - C 0007A",
+      "geoids": [
+        "5508951150007A"
+      ],
+      "election_type": "general",
+      "dem_votes": 325,
+      "rep_votes": 369,
+      "other_votes": 9,
+      "total_votes": 704,
+      "dem_candidate": "Tammy Baldwin",
+      "rep_candidate": "Eric Hovde",
+      "margin": 44,
+      "margin_pct": 6.28997867803838,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#fb6a4a"
+      }
+    },
+    {
       "county": "MEQUON - C 0008",
       "precinct_key": "MEQUON - C 0008",
       "geoids": [
@@ -69888,14 +69907,14 @@
         "55089511500009"
       ],
       "election_type": "general",
-      "dem_votes": 298,
-      "rep_votes": 266,
-      "other_votes": 10,
-      "total_votes": 573,
+      "dem_votes": 223,
+      "rep_votes": 199,
+      "other_votes": 8,
+      "total_votes": 430,
       "dem_candidate": "Tammy Baldwin",
       "rep_candidate": "Eric Hovde",
-      "margin": -32,
-      "margin_pct": -5.58139534883721,
+      "margin": -24,
+      "margin_pct": -5.5813953488372094,
       "winner": "DEM",
       "competitiveness": {
         "color": "#6baed6"
@@ -69908,17 +69927,17 @@
         "55089511500010"
       ],
       "election_type": "general",
-      "dem_votes": 100,
-      "rep_votes": 105,
-      "other_votes": 5,
-      "total_votes": 210,
+      "dem_votes": 324,
+      "rep_votes": 305,
+      "other_votes": 12,
+      "total_votes": 640,
       "dem_candidate": "Tammy Baldwin",
       "rep_candidate": "Eric Hovde",
-      "margin": 5,
-      "margin_pct": 2.3771790808240887,
-      "winner": "REP",
+      "margin": -19,
+      "margin_pct": -2.9672045809474237,
+      "winner": "DEM",
       "competitiveness": {
-        "color": "#fcbba1"
+        "color": "#c6dbef"
       }
     },
     {
@@ -69928,14 +69947,34 @@
         "55089511500011"
       ],
       "election_type": "general",
-      "dem_votes": 398,
-      "rep_votes": 371,
-      "other_votes": 15,
-      "total_votes": 784,
+      "dem_votes": 324,
+      "rep_votes": 305,
+      "other_votes": 12,
+      "total_votes": 640,
       "dem_candidate": "Tammy Baldwin",
       "rep_candidate": "Eric Hovde",
-      "margin": -27,
-      "margin_pct": -3.4453424074861765,
+      "margin": -19,
+      "margin_pct": -2.9672045809474237,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#c6dbef"
+      }
+    },
+    {
+      "county": "MEQUON - C 0011A",
+      "precinct_key": "MEQUON - C 0011A",
+      "geoids": [
+        "5508951150011A"
+      ],
+      "election_type": "general",
+      "dem_votes": 324,
+      "rep_votes": 305,
+      "other_votes": 12,
+      "total_votes": 640,
+      "dem_candidate": "Tammy Baldwin",
+      "rep_candidate": "Eric Hovde",
+      "margin": -19,
+      "margin_pct": -2.9672045809474237,
       "winner": "DEM",
       "competitiveness": {
         "color": "#c6dbef"
@@ -70116,46 +70155,6 @@
       "rep_candidate": "Eric Hovde",
       "margin": -22,
       "margin_pct": -1.9745502413339184,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#c6dbef"
-      }
-    },
-    {
-      "county": "MEQUON - C 007A",
-      "precinct_key": "MEQUON - C 007A",
-      "geoids": [
-        "5508951150007A"
-      ],
-      "election_type": "general",
-      "dem_votes": 325,
-      "rep_votes": 369,
-      "other_votes": 9,
-      "total_votes": 704,
-      "dem_candidate": "Tammy Baldwin",
-      "rep_candidate": "Eric Hovde",
-      "margin": 44,
-      "margin_pct": 6.28997867803838,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#fb6a4a"
-      }
-    },
-    {
-      "county": "MEQUON - C 011A",
-      "precinct_key": "MEQUON - C 011A",
-      "geoids": [
-        "5508951150011A"
-      ],
-      "election_type": "general",
-      "dem_votes": 398,
-      "rep_votes": 371,
-      "other_votes": 15,
-      "total_votes": 784,
-      "dem_candidate": "Tammy Baldwin",
-      "rep_candidate": "Eric Hovde",
-      "margin": -27,
-      "margin_pct": -3.4453424074861765,
       "winner": "DEM",
       "competitiveness": {
         "color": "#c6dbef"
@@ -71742,6 +71741,26 @@
       }
     },
     {
+      "county": "MIDDLETON - T 0004A",
+      "precinct_key": "MIDDLETON - T 0004A",
+      "geoids": [
+        "5502551600004A"
+      ],
+      "election_type": "general",
+      "dem_votes": 412,
+      "rep_votes": 206,
+      "other_votes": 5,
+      "total_votes": 622,
+      "dem_candidate": "Tammy Baldwin",
+      "rep_candidate": "Eric Hovde",
+      "margin": -206,
+      "margin_pct": -33.12793034159411,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
       "county": "MIDDLETON - T 0005",
       "precinct_key": "MIDDLETON - T 0005",
       "geoids": [
@@ -71822,28 +71841,8 @@
       }
     },
     {
-      "county": "MIDDLETON - T 004A",
-      "precinct_key": "MIDDLETON - T 004A",
-      "geoids": [
-        "5502551600004A"
-      ],
-      "election_type": "general",
-      "dem_votes": 412,
-      "rep_votes": 206,
-      "other_votes": 5,
-      "total_votes": 622,
-      "dem_candidate": "Tammy Baldwin",
-      "rep_candidate": "Eric Hovde",
-      "margin": -206,
-      "margin_pct": -33.12793034159411,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      }
-    },
-    {
-      "county": "MIDDLETON - T 008A",
-      "precinct_key": "MIDDLETON - T 008A",
+      "county": "MIDDLETON - T 0008A",
+      "precinct_key": "MIDDLETON - T 0008A",
       "geoids": [
         "5502551600008A"
       ],
@@ -88421,14 +88420,14 @@
         "55133592500001"
       ],
       "election_type": "general",
-      "dem_votes": 318,
-      "rep_votes": 507,
-      "other_votes": 12,
-      "total_votes": 838,
+      "dem_votes": 492,
+      "rep_votes": 934,
+      "other_votes": 20,
+      "total_votes": 1447,
       "dem_candidate": "Tammy Baldwin",
       "rep_candidate": "Eric Hovde",
-      "margin": 188,
-      "margin_pct": 22.47761194029851,
+      "margin": 442,
+      "margin_pct": 30.557954741751598,
       "winner": "REP",
       "competitiveness": {
         "color": "#67000d"
@@ -88441,14 +88440,14 @@
         "55133592500002"
       ],
       "election_type": "general",
-      "dem_votes": 318,
-      "rep_votes": 507,
-      "other_votes": 12,
-      "total_votes": 838,
+      "dem_votes": 492,
+      "rep_votes": 934,
+      "other_votes": 20,
+      "total_votes": 1447,
       "dem_candidate": "Tammy Baldwin",
       "rep_candidate": "Eric Hovde",
-      "margin": 188,
-      "margin_pct": 22.47761194029851,
+      "margin": 442,
+      "margin_pct": 30.557954741751598,
       "winner": "REP",
       "competitiveness": {
         "color": "#67000d"
@@ -88481,17 +88480,17 @@
         "55133592500004"
       ],
       "election_type": "general",
-      "dem_votes": 403,
-      "rep_votes": 606,
-      "other_votes": 15,
-      "total_votes": 1023,
+      "dem_votes": 576,
+      "rep_votes": 1033,
+      "other_votes": 23,
+      "total_votes": 1633,
       "dem_candidate": "Tammy Baldwin",
       "rep_candidate": "Eric Hovde",
-      "margin": 203,
-      "margin_pct": 19.843597262952102,
+      "margin": 457,
+      "margin_pct": 27.98958811820548,
       "winner": "REP",
       "competitiveness": {
-        "color": "#cb181d"
+        "color": "#67000d"
       }
     },
     {
@@ -88501,17 +88500,17 @@
         "55133592500005"
       ],
       "election_type": "general",
-      "dem_votes": 403,
-      "rep_votes": 606,
-      "other_votes": 15,
-      "total_votes": 1023,
+      "dem_votes": 604,
+      "rep_votes": 1070,
+      "other_votes": 24,
+      "total_votes": 1698,
       "dem_candidate": "Tammy Baldwin",
       "rep_candidate": "Eric Hovde",
-      "margin": 203,
-      "margin_pct": 19.843597262952102,
+      "margin": 466,
+      "margin_pct": 27.42980561555075,
       "winner": "REP",
       "competitiveness": {
-        "color": "#cb181d"
+        "color": "#67000d"
       }
     },
     {
@@ -88561,14 +88560,14 @@
         "55133592500008"
       ],
       "election_type": "general",
-      "dem_votes": 427,
-      "rep_votes": 683,
-      "other_votes": 18,
-      "total_votes": 1128,
+      "dem_votes": 629,
+      "rep_votes": 1147,
+      "other_votes": 27,
+      "total_votes": 1803,
       "dem_candidate": "Tammy Baldwin",
       "rep_candidate": "Eric Hovde",
-      "margin": 256,
-      "margin_pct": 22.658788774002957,
+      "margin": 518,
+      "margin_pct": 28.748382325753376,
       "winner": "REP",
       "competitiveness": {
         "color": "#67000d"
@@ -88581,14 +88580,14 @@
         "55133592500009"
       ],
       "election_type": "general",
-      "dem_votes": 427,
-      "rep_votes": 683,
-      "other_votes": 18,
-      "total_votes": 1128,
+      "dem_votes": 629,
+      "rep_votes": 1147,
+      "other_votes": 27,
+      "total_votes": 1803,
       "dem_candidate": "Tammy Baldwin",
       "rep_candidate": "Eric Hovde",
-      "margin": 256,
-      "margin_pct": 22.658788774002957,
+      "margin": 518,
+      "margin_pct": 28.748382325753376,
       "winner": "REP",
       "competitiveness": {
         "color": "#67000d"
@@ -88601,14 +88600,14 @@
         "55133592500010"
       ],
       "election_type": "general",
-      "dem_votes": 392,
-      "rep_votes": 628,
-      "other_votes": 14,
-      "total_votes": 1035,
+      "dem_votes": 566,
+      "rep_votes": 1056,
+      "other_votes": 23,
+      "total_votes": 1645,
       "dem_candidate": "Tammy Baldwin",
       "rep_candidate": "Eric Hovde",
-      "margin": 236,
-      "margin_pct": 22.801932367149753,
+      "margin": 490,
+      "margin_pct": 29.791761665906673,
       "winner": "REP",
       "competitiveness": {
         "color": "#67000d"
@@ -88675,200 +88674,20 @@
       }
     },
     {
-      "county": "OCONOMOWOC - T 0001",
-      "precinct_key": "OCONOMOWOC - T 0001",
-      "geoids": [
-        "55133592750001"
-      ],
-      "election_type": "general",
-      "dem_votes": 174,
-      "rep_votes": 428,
-      "other_votes": 8,
-      "total_votes": 610,
-      "dem_candidate": "Tammy Baldwin",
-      "rep_candidate": "Eric Hovde",
-      "margin": 254,
-      "margin_pct": 41.656416564165646,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#67000d"
-      }
-    },
-    {
-      "county": "OCONOMOWOC - T 0002",
-      "precinct_key": "OCONOMOWOC - T 0002",
-      "geoids": [
-        "55133592750002"
-      ],
-      "election_type": "general",
-      "dem_votes": 174,
-      "rep_votes": 428,
-      "other_votes": 8,
-      "total_votes": 610,
-      "dem_candidate": "Tammy Baldwin",
-      "rep_candidate": "Eric Hovde",
-      "margin": 254,
-      "margin_pct": 41.656416564165646,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#67000d"
-      }
-    },
-    {
-      "county": "OCONOMOWOC - T 0003",
-      "precinct_key": "OCONOMOWOC - T 0003",
-      "geoids": [
-        "55133592750003"
-      ],
-      "election_type": "general",
-      "dem_votes": 160,
-      "rep_votes": 300,
-      "other_votes": 6,
-      "total_votes": 467,
-      "dem_candidate": "Tammy Baldwin",
-      "rep_candidate": "Eric Hovde",
-      "margin": 141,
-      "margin_pct": 30.15532940546331,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#67000d"
-      }
-    },
-    {
-      "county": "OCONOMOWOC - T 0004",
-      "precinct_key": "OCONOMOWOC - T 0004",
-      "geoids": [
-        "55133592750004"
-      ],
-      "election_type": "general",
-      "dem_votes": 174,
-      "rep_votes": 428,
-      "other_votes": 8,
-      "total_votes": 610,
-      "dem_candidate": "Tammy Baldwin",
-      "rep_candidate": "Eric Hovde",
-      "margin": 254,
-      "margin_pct": 41.656416564165646,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#67000d"
-      }
-    },
-    {
-      "county": "OCONOMOWOC - T 0005",
-      "precinct_key": "OCONOMOWOC - T 0005",
-      "geoids": [
-        "55133592750005"
-      ],
-      "election_type": "general",
-      "dem_votes": 201,
-      "rep_votes": 464,
-      "other_votes": 9,
-      "total_votes": 675,
-      "dem_candidate": "Tammy Baldwin",
-      "rep_candidate": "Eric Hovde",
-      "margin": 263,
-      "margin_pct": 38.93280632411067,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#67000d"
-      }
-    },
-    {
       "county": "OCONOMOWOC - T 0006",
       "precinct_key": "OCONOMOWOC - T 0006",
       "geoids": [
         "55133592750006"
       ],
       "election_type": "general",
-      "dem_votes": 160,
-      "rep_votes": 300,
-      "other_votes": 6,
-      "total_votes": 467,
+      "dem_votes": 320,
+      "rep_votes": 601,
+      "other_votes": 13,
+      "total_votes": 934,
       "dem_candidate": "Tammy Baldwin",
       "rep_candidate": "Eric Hovde",
-      "margin": 141,
+      "margin": 282,
       "margin_pct": 30.15532940546331,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#67000d"
-      }
-    },
-    {
-      "county": "OCONOMOWOC - T 0007",
-      "precinct_key": "OCONOMOWOC - T 0007",
-      "geoids": [
-        "55133592750007"
-      ],
-      "election_type": "general",
-      "dem_votes": 160,
-      "rep_votes": 300,
-      "other_votes": 6,
-      "total_votes": 467,
-      "dem_candidate": "Tammy Baldwin",
-      "rep_candidate": "Eric Hovde",
-      "margin": 141,
-      "margin_pct": 30.15532940546331,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#67000d"
-      }
-    },
-    {
-      "county": "OCONOMOWOC - T 0008",
-      "precinct_key": "OCONOMOWOC - T 0008",
-      "geoids": [
-        "55133592750008"
-      ],
-      "election_type": "general",
-      "dem_votes": 201,
-      "rep_votes": 464,
-      "other_votes": 9,
-      "total_votes": 675,
-      "dem_candidate": "Tammy Baldwin",
-      "rep_candidate": "Eric Hovde",
-      "margin": 263,
-      "margin_pct": 38.93280632411067,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#67000d"
-      }
-    },
-    {
-      "county": "OCONOMOWOC - T 0009",
-      "precinct_key": "OCONOMOWOC - T 0009",
-      "geoids": [
-        "55133592750009"
-      ],
-      "election_type": "general",
-      "dem_votes": 201,
-      "rep_votes": 464,
-      "other_votes": 9,
-      "total_votes": 675,
-      "dem_candidate": "Tammy Baldwin",
-      "rep_candidate": "Eric Hovde",
-      "margin": 263,
-      "margin_pct": 38.93280632411067,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#67000d"
-      }
-    },
-    {
-      "county": "OCONOMOWOC - T 0010",
-      "precinct_key": "OCONOMOWOC - T 0010",
-      "geoids": [
-        "55133592750010"
-      ],
-      "election_type": "general",
-      "dem_votes": 174,
-      "rep_votes": 428,
-      "other_votes": 8,
-      "total_votes": 610,
-      "dem_candidate": "Tammy Baldwin",
-      "rep_candidate": "Eric Hovde",
-      "margin": 254,
-      "margin_pct": 41.656416564165646,
       "winner": "REP",
       "competitiveness": {
         "color": "#67000d"
@@ -88881,13 +88700,13 @@
         "55133592750011"
       ],
       "election_type": "general",
-      "dem_votes": 160,
-      "rep_votes": 300,
-      "other_votes": 6,
-      "total_votes": 467,
+      "dem_votes": 320,
+      "rep_votes": 601,
+      "other_votes": 13,
+      "total_votes": 934,
       "dem_candidate": "Tammy Baldwin",
       "rep_candidate": "Eric Hovde",
-      "margin": 141,
+      "margin": 282,
       "margin_pct": 30.15532940546331,
       "winner": "REP",
       "competitiveness": {
@@ -127324,6 +127143,46 @@
       }
     },
     {
+      "county": "WAUWATOSA - C 0002A",
+      "precinct_key": "WAUWATOSA - C 0002A",
+      "geoids": [
+        "5507984675002A"
+      ],
+      "election_type": "general",
+      "dem_votes": 978,
+      "rep_votes": 366,
+      "other_votes": 14,
+      "total_votes": 1358,
+      "dem_candidate": "Tammy Baldwin",
+      "rep_candidate": "Eric Hovde",
+      "margin": -612,
+      "margin_pct": -45.06627393225332,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "WAUWATOSA - C 0002B",
+      "precinct_key": "WAUWATOSA - C 0002B",
+      "geoids": [
+        "5507984675002B"
+      ],
+      "election_type": "general",
+      "dem_votes": 53,
+      "rep_votes": 30,
+      "other_votes": 2,
+      "total_votes": 85,
+      "dem_candidate": "Tammy Baldwin",
+      "rep_candidate": "Eric Hovde",
+      "margin": -23,
+      "margin_pct": -27.058823529411764,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
       "county": "WAUWATOSA - C 0003",
       "precinct_key": "WAUWATOSA - C 0003",
       "geoids": [
@@ -127338,6 +127197,46 @@
       "rep_candidate": "Eric Hovde",
       "margin": -501,
       "margin_pct": -42.60204081632653,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "WAUWATOSA - C 0004A",
+      "precinct_key": "WAUWATOSA - C 0004A",
+      "geoids": [
+        "5507984675004A"
+      ],
+      "election_type": "general",
+      "dem_votes": 559,
+      "rep_votes": 182,
+      "other_votes": 12,
+      "total_votes": 753,
+      "dem_candidate": "Tammy Baldwin",
+      "rep_candidate": "Eric Hovde",
+      "margin": -377,
+      "margin_pct": -50.066401062417,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "WAUWATOSA - C 0004B",
+      "precinct_key": "WAUWATOSA - C 0004B",
+      "geoids": [
+        "5507984675004B"
+      ],
+      "election_type": "general",
+      "dem_votes": 386,
+      "rep_votes": 133,
+      "other_votes": 16,
+      "total_votes": 535,
+      "dem_candidate": "Tammy Baldwin",
+      "rep_candidate": "Eric Hovde",
+      "margin": -253,
+      "margin_pct": -47.28971962616823,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -127361,6 +127260,126 @@
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
+      }
+    },
+    {
+      "county": "WAUWATOSA - C 0006A",
+      "precinct_key": "WAUWATOSA - C 0006A",
+      "geoids": [
+        "5507984675006A"
+      ],
+      "election_type": "general",
+      "dem_votes": 415,
+      "rep_votes": 143,
+      "other_votes": 13,
+      "total_votes": 571,
+      "dem_candidate": "Tammy Baldwin",
+      "rep_candidate": "Eric Hovde",
+      "margin": -272,
+      "margin_pct": -47.635726795096325,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "WAUWATOSA - C 0006B",
+      "precinct_key": "WAUWATOSA - C 0006B",
+      "geoids": [
+        "5507984675006B"
+      ],
+      "election_type": "general",
+      "dem_votes": 552,
+      "rep_votes": 232,
+      "other_votes": 9,
+      "total_votes": 793,
+      "dem_candidate": "Tammy Baldwin",
+      "rep_candidate": "Eric Hovde",
+      "margin": -320,
+      "margin_pct": -40.3530895334174,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "WAUWATOSA - C 0007A",
+      "precinct_key": "WAUWATOSA - C 0007A",
+      "geoids": [
+        "5507984675007A"
+      ],
+      "election_type": "general",
+      "dem_votes": 601,
+      "rep_votes": 401,
+      "other_votes": 17,
+      "total_votes": 1019,
+      "dem_candidate": "Tammy Baldwin",
+      "rep_candidate": "Eric Hovde",
+      "margin": -200,
+      "margin_pct": -19.627085377821395,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      }
+    },
+    {
+      "county": "WAUWATOSA - C 0007B",
+      "precinct_key": "WAUWATOSA - C 0007B",
+      "geoids": [
+        "5507984675007B"
+      ],
+      "election_type": "general",
+      "dem_votes": 317,
+      "rep_votes": 219,
+      "other_votes": 3,
+      "total_votes": 539,
+      "dem_candidate": "Tammy Baldwin",
+      "rep_candidate": "Eric Hovde",
+      "margin": -98,
+      "margin_pct": -18.181818181818183,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      }
+    },
+    {
+      "county": "WAUWATOSA - C 0008A",
+      "precinct_key": "WAUWATOSA - C 0008A",
+      "geoids": [
+        "5507984675008A"
+      ],
+      "election_type": "general",
+      "dem_votes": 211,
+      "rep_votes": 127,
+      "other_votes": 3,
+      "total_votes": 341,
+      "dem_candidate": "Tammy Baldwin",
+      "rep_candidate": "Eric Hovde",
+      "margin": -84,
+      "margin_pct": -24.633431085043988,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "WAUWATOSA - C 0008B",
+      "precinct_key": "WAUWATOSA - C 0008B",
+      "geoids": [
+        "5507984675008B"
+      ],
+      "election_type": "general",
+      "dem_votes": 495,
+      "rep_votes": 382,
+      "other_votes": 21,
+      "total_votes": 898,
+      "dem_candidate": "Tammy Baldwin",
+      "rep_candidate": "Eric Hovde",
+      "margin": -113,
+      "margin_pct": -12.583518930957686,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
       }
     },
     {
@@ -127418,6 +127437,46 @@
       "rep_candidate": "Eric Hovde",
       "margin": -492,
       "margin_pct": -35.01779359430605,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "WAUWATOSA - C 0012A",
+      "precinct_key": "WAUWATOSA - C 0012A",
+      "geoids": [
+        "5507984675012A"
+      ],
+      "election_type": "general",
+      "dem_votes": 0,
+      "rep_votes": 0,
+      "other_votes": 0,
+      "total_votes": 0,
+      "dem_candidate": "Tammy Baldwin",
+      "rep_candidate": "Eric Hovde",
+      "margin": 0,
+      "margin_pct": 0.0,
+      "winner": "TIE",
+      "competitiveness": {
+        "color": "#9ca3af"
+      }
+    },
+    {
+      "county": "WAUWATOSA - C 0012B",
+      "precinct_key": "WAUWATOSA - C 0012B",
+      "geoids": [
+        "5507984675012B"
+      ],
+      "election_type": "general",
+      "dem_votes": 893,
+      "rep_votes": 393,
+      "other_votes": 13,
+      "total_votes": 1299,
+      "dem_candidate": "Tammy Baldwin",
+      "rep_candidate": "Eric Hovde",
+      "margin": -500,
+      "margin_pct": -38.49114703618168,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -127644,248 +127703,8 @@
       }
     },
     {
-      "county": "WAUWATOSA - C 002A",
-      "precinct_key": "WAUWATOSA - C 002A",
-      "geoids": [
-        "5507984675002A"
-      ],
-      "election_type": "general",
-      "dem_votes": 978,
-      "rep_votes": 366,
-      "other_votes": 14,
-      "total_votes": 1358,
-      "dem_candidate": "Tammy Baldwin",
-      "rep_candidate": "Eric Hovde",
-      "margin": -612,
-      "margin_pct": -45.06627393225332,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      }
-    },
-    {
-      "county": "WAUWATOSA - C 002B",
-      "precinct_key": "WAUWATOSA - C 002B",
-      "geoids": [
-        "5507984675002B"
-      ],
-      "election_type": "general",
-      "dem_votes": 53,
-      "rep_votes": 30,
-      "other_votes": 2,
-      "total_votes": 85,
-      "dem_candidate": "Tammy Baldwin",
-      "rep_candidate": "Eric Hovde",
-      "margin": -23,
-      "margin_pct": -27.058823529411764,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      }
-    },
-    {
-      "county": "WAUWATOSA - C 004A",
-      "precinct_key": "WAUWATOSA - C 004A",
-      "geoids": [
-        "5507984675004A"
-      ],
-      "election_type": "general",
-      "dem_votes": 559,
-      "rep_votes": 182,
-      "other_votes": 12,
-      "total_votes": 753,
-      "dem_candidate": "Tammy Baldwin",
-      "rep_candidate": "Eric Hovde",
-      "margin": -377,
-      "margin_pct": -50.066401062417,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      }
-    },
-    {
-      "county": "WAUWATOSA - C 004B",
-      "precinct_key": "WAUWATOSA - C 004B",
-      "geoids": [
-        "5507984675004B"
-      ],
-      "election_type": "general",
-      "dem_votes": 386,
-      "rep_votes": 133,
-      "other_votes": 16,
-      "total_votes": 535,
-      "dem_candidate": "Tammy Baldwin",
-      "rep_candidate": "Eric Hovde",
-      "margin": -253,
-      "margin_pct": -47.28971962616823,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      }
-    },
-    {
-      "county": "WAUWATOSA - C 006A",
-      "precinct_key": "WAUWATOSA - C 006A",
-      "geoids": [
-        "5507984675006A"
-      ],
-      "election_type": "general",
-      "dem_votes": 415,
-      "rep_votes": 143,
-      "other_votes": 13,
-      "total_votes": 571,
-      "dem_candidate": "Tammy Baldwin",
-      "rep_candidate": "Eric Hovde",
-      "margin": -272,
-      "margin_pct": -47.635726795096325,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      }
-    },
-    {
-      "county": "WAUWATOSA - C 006B",
-      "precinct_key": "WAUWATOSA - C 006B",
-      "geoids": [
-        "5507984675006B"
-      ],
-      "election_type": "general",
-      "dem_votes": 552,
-      "rep_votes": 232,
-      "other_votes": 9,
-      "total_votes": 793,
-      "dem_candidate": "Tammy Baldwin",
-      "rep_candidate": "Eric Hovde",
-      "margin": -320,
-      "margin_pct": -40.3530895334174,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      }
-    },
-    {
-      "county": "WAUWATOSA - C 007A",
-      "precinct_key": "WAUWATOSA - C 007A",
-      "geoids": [
-        "5507984675007A"
-      ],
-      "election_type": "general",
-      "dem_votes": 601,
-      "rep_votes": 401,
-      "other_votes": 17,
-      "total_votes": 1019,
-      "dem_candidate": "Tammy Baldwin",
-      "rep_candidate": "Eric Hovde",
-      "margin": -200,
-      "margin_pct": -19.627085377821395,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#2171b5"
-      }
-    },
-    {
-      "county": "WAUWATOSA - C 007B",
-      "precinct_key": "WAUWATOSA - C 007B",
-      "geoids": [
-        "5507984675007B"
-      ],
-      "election_type": "general",
-      "dem_votes": 317,
-      "rep_votes": 219,
-      "other_votes": 3,
-      "total_votes": 539,
-      "dem_candidate": "Tammy Baldwin",
-      "rep_candidate": "Eric Hovde",
-      "margin": -98,
-      "margin_pct": -18.181818181818183,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#2171b5"
-      }
-    },
-    {
-      "county": "WAUWATOSA - C 008A",
-      "precinct_key": "WAUWATOSA - C 008A",
-      "geoids": [
-        "5507984675008A"
-      ],
-      "election_type": "general",
-      "dem_votes": 211,
-      "rep_votes": 127,
-      "other_votes": 3,
-      "total_votes": 341,
-      "dem_candidate": "Tammy Baldwin",
-      "rep_candidate": "Eric Hovde",
-      "margin": -84,
-      "margin_pct": -24.633431085043988,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      }
-    },
-    {
-      "county": "WAUWATOSA - C 008B",
-      "precinct_key": "WAUWATOSA - C 008B",
-      "geoids": [
-        "5507984675008B"
-      ],
-      "election_type": "general",
-      "dem_votes": 495,
-      "rep_votes": 382,
-      "other_votes": 21,
-      "total_votes": 898,
-      "dem_candidate": "Tammy Baldwin",
-      "rep_candidate": "Eric Hovde",
-      "margin": -113,
-      "margin_pct": -12.583518930957686,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#2171b5"
-      }
-    },
-    {
-      "county": "WAUWATOSA - C 012A",
-      "precinct_key": "WAUWATOSA - C 012A",
-      "geoids": [
-        "5507984675012A"
-      ],
-      "election_type": "general",
-      "dem_votes": 0,
-      "rep_votes": 0,
-      "other_votes": 0,
-      "total_votes": 0,
-      "dem_candidate": "Tammy Baldwin",
-      "rep_candidate": "Eric Hovde",
-      "margin": 0,
-      "margin_pct": 0.0,
-      "winner": "TIE",
-      "competitiveness": {
-        "color": "#9ca3af"
-      }
-    },
-    {
-      "county": "WAUWATOSA - C 012B",
-      "precinct_key": "WAUWATOSA - C 012B",
-      "geoids": [
-        "5507984675012B"
-      ],
-      "election_type": "general",
-      "dem_votes": 893,
-      "rep_votes": 393,
-      "other_votes": 13,
-      "total_votes": 1299,
-      "dem_candidate": "Tammy Baldwin",
-      "rep_candidate": "Eric Hovde",
-      "margin": -500,
-      "margin_pct": -38.49114703618168,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      }
-    },
-    {
-      "county": "WAUWATOSA - C 024A",
-      "precinct_key": "WAUWATOSA - C 024A",
+      "county": "WAUWATOSA - C 0024A",
+      "precinct_key": "WAUWATOSA - C 0024A",
       "geoids": [
         "5507984675024A"
       ],
@@ -127904,8 +127723,8 @@
       }
     },
     {
-      "county": "WAUWATOSA - C 024B",
-      "precinct_key": "WAUWATOSA - C 024B",
+      "county": "WAUWATOSA - C 0024B",
+      "precinct_key": "WAUWATOSA - C 0024B",
       "geoids": [
         "5507984675024B"
       ],
@@ -129751,14 +129570,14 @@
         "55063862750001"
       ],
       "election_type": "general",
-      "dem_votes": 213,
-      "rep_votes": 221,
-      "other_votes": 13,
-      "total_votes": 447,
+      "dem_votes": 187,
+      "rep_votes": 194,
+      "other_votes": 11,
+      "total_votes": 392,
       "dem_candidate": "Tammy Baldwin",
       "rep_candidate": "Eric Hovde",
-      "margin": 8,
-      "margin_pct": 1.819923371647509,
+      "margin": 7,
+      "margin_pct": 1.8199233716475096,
       "winner": "REP",
       "competitiveness": {
         "color": "#fcbba1"
@@ -129771,14 +129590,14 @@
         "55063862750002"
       ],
       "election_type": "general",
-      "dem_votes": 213,
-      "rep_votes": 221,
-      "other_votes": 13,
-      "total_votes": 447,
+      "dem_votes": 187,
+      "rep_votes": 194,
+      "other_votes": 11,
+      "total_votes": 392,
       "dem_candidate": "Tammy Baldwin",
       "rep_candidate": "Eric Hovde",
-      "margin": 8,
-      "margin_pct": 1.819923371647509,
+      "margin": 7,
+      "margin_pct": 1.8199233716475096,
       "winner": "REP",
       "competitiveness": {
         "color": "#fcbba1"
@@ -129791,14 +129610,14 @@
         "55063862750003"
       ],
       "election_type": "general",
-      "dem_votes": 213,
-      "rep_votes": 221,
-      "other_votes": 13,
-      "total_votes": 447,
+      "dem_votes": 187,
+      "rep_votes": 194,
+      "other_votes": 11,
+      "total_votes": 392,
       "dem_candidate": "Tammy Baldwin",
       "rep_candidate": "Eric Hovde",
-      "margin": 8,
-      "margin_pct": 1.819923371647509,
+      "margin": 7,
+      "margin_pct": 1.8199233716475096,
       "winner": "REP",
       "competitiveness": {
         "color": "#fcbba1"
@@ -129811,14 +129630,14 @@
         "55063862750004"
       ],
       "election_type": "general",
-      "dem_votes": 213,
-      "rep_votes": 221,
-      "other_votes": 13,
-      "total_votes": 447,
+      "dem_votes": 187,
+      "rep_votes": 194,
+      "other_votes": 11,
+      "total_votes": 392,
       "dem_candidate": "Tammy Baldwin",
       "rep_candidate": "Eric Hovde",
-      "margin": 8,
-      "margin_pct": 1.819923371647509,
+      "margin": 7,
+      "margin_pct": 1.8199233716475096,
       "winner": "REP",
       "competitiveness": {
         "color": "#fcbba1"
@@ -129831,14 +129650,14 @@
         "55063862750005"
       ],
       "election_type": "general",
-      "dem_votes": 213,
-      "rep_votes": 221,
-      "other_votes": 13,
-      "total_votes": 447,
+      "dem_votes": 187,
+      "rep_votes": 194,
+      "other_votes": 11,
+      "total_votes": 392,
       "dem_candidate": "Tammy Baldwin",
       "rep_candidate": "Eric Hovde",
-      "margin": 8,
-      "margin_pct": 1.819923371647509,
+      "margin": 7,
+      "margin_pct": 1.8199233716475096,
       "winner": "REP",
       "competitiveness": {
         "color": "#fcbba1"
@@ -129851,14 +129670,14 @@
         "55063862750006"
       ],
       "election_type": "general",
-      "dem_votes": 213,
-      "rep_votes": 221,
-      "other_votes": 13,
-      "total_votes": 447,
+      "dem_votes": 187,
+      "rep_votes": 194,
+      "other_votes": 11,
+      "total_votes": 392,
       "dem_candidate": "Tammy Baldwin",
       "rep_candidate": "Eric Hovde",
-      "margin": 8,
-      "margin_pct": 1.819923371647509,
+      "margin": 7,
+      "margin_pct": 1.8199233716475096,
       "winner": "REP",
       "competitiveness": {
         "color": "#fcbba1"
@@ -129871,14 +129690,34 @@
         "55063862750007"
       ],
       "election_type": "general",
-      "dem_votes": 213,
-      "rep_votes": 221,
-      "other_votes": 13,
-      "total_votes": 447,
+      "dem_votes": 187,
+      "rep_votes": 194,
+      "other_votes": 11,
+      "total_votes": 392,
       "dem_candidate": "Tammy Baldwin",
       "rep_candidate": "Eric Hovde",
-      "margin": 8,
-      "margin_pct": 1.819923371647509,
+      "margin": 7,
+      "margin_pct": 1.8199233716475096,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#fcbba1"
+      }
+    },
+    {
+      "county": "WEST SALEM - V 0008",
+      "precinct_key": "WEST SALEM - V 0008",
+      "geoids": [
+        "55063862750008"
+      ],
+      "election_type": "general",
+      "dem_votes": 187,
+      "rep_votes": 194,
+      "other_votes": 11,
+      "total_votes": 392,
+      "dem_candidate": "Tammy Baldwin",
+      "rep_candidate": "Eric Hovde",
+      "margin": 7,
+      "margin_pct": 1.8199233716475096,
       "winner": "REP",
       "competitiveness": {
         "color": "#fcbba1"
@@ -133636,8 +133475,8 @@
       }
     },
     {
-      "county": "WOLF RIVER - T 002A",
-      "precinct_key": "WOLF RIVER - T 002A",
+      "county": "WOLF RIVER - T 0002A",
+      "precinct_key": "WOLF RIVER - T 0002A",
       "geoids": [
         "5513988475002A"
       ],
@@ -133656,8 +133495,8 @@
       }
     },
     {
-      "county": "WOLF RIVER - T 002B",
-      "precinct_key": "WOLF RIVER - T 002B",
+      "county": "WOLF RIVER - T 0002B",
+      "precinct_key": "WOLF RIVER - T 0002B",
       "geoids": [
         "5513988475002B"
       ],

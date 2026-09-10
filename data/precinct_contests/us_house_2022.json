@@ -18266,6 +18266,26 @@
       }
     },
     {
+      "county": "CHIPPEWA FALLS - C 0001A",
+      "precinct_key": "CHIPPEWA FALLS - C 0001A",
+      "geoids": [
+        "5501714575001A"
+      ],
+      "election_type": "general",
+      "dem_votes": 121,
+      "rep_votes": 125,
+      "other_votes": 0,
+      "total_votes": 246,
+      "dem_candidate": "Brad Pfaff",
+      "rep_candidate": "Derrick Van Orden",
+      "margin": 4,
+      "margin_pct": 1.7639077340569915,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#fcbba1"
+      }
+    },
+    {
       "county": "CHIPPEWA FALLS - C 0002",
       "precinct_key": "CHIPPEWA FALLS - C 0002",
       "geoids": [
@@ -18446,6 +18466,26 @@
       }
     },
     {
+      "county": "CHIPPEWA FALLS - C 0010A",
+      "precinct_key": "CHIPPEWA FALLS - C 0010A",
+      "geoids": [
+        "5501714575010A"
+      ],
+      "election_type": "general",
+      "dem_votes": 109,
+      "rep_votes": 94,
+      "other_votes": 0,
+      "total_votes": 203,
+      "dem_candidate": "Brad Pfaff",
+      "rep_candidate": "Derrick Van Orden",
+      "margin": -15,
+      "margin_pct": -7.389162561576355,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#6baed6"
+      }
+    },
+    {
       "county": "CHIPPEWA FALLS - C 0011",
       "precinct_key": "CHIPPEWA FALLS - C 0011",
       "geoids": [
@@ -18543,46 +18583,6 @@
       "winner": "DEM",
       "competitiveness": {
         "color": "#c6dbef"
-      }
-    },
-    {
-      "county": "CHIPPEWA FALLS - C 001A",
-      "precinct_key": "CHIPPEWA FALLS - C 001A",
-      "geoids": [
-        "5501714575001A"
-      ],
-      "election_type": "general",
-      "dem_votes": 121,
-      "rep_votes": 125,
-      "other_votes": 0,
-      "total_votes": 246,
-      "dem_candidate": "Brad Pfaff",
-      "rep_candidate": "Derrick Van Orden",
-      "margin": 4,
-      "margin_pct": 1.7639077340569915,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#fcbba1"
-      }
-    },
-    {
-      "county": "CHIPPEWA FALLS - C 010A",
-      "precinct_key": "CHIPPEWA FALLS - C 010A",
-      "geoids": [
-        "5501714575010A"
-      ],
-      "election_type": "general",
-      "dem_votes": 109,
-      "rep_votes": 94,
-      "other_votes": 0,
-      "total_votes": 203,
-      "dem_candidate": "Brad Pfaff",
-      "rep_candidate": "Derrick Van Orden",
-      "margin": -15,
-      "margin_pct": -7.389162561576355,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#6baed6"
       }
     },
     {
@@ -33080,7 +33080,7 @@
       "county": "FOND DU LAC - C 0020",
       "precinct_key": "FOND DU LAC - C 0020",
       "geoids": [
-        "55039262750020"
+        "550392627500020"
       ],
       "election_type": "general",
       "dem_votes": 0,
@@ -33100,7 +33100,7 @@
       "county": "FOND DU LAC - C 0021",
       "precinct_key": "FOND DU LAC - C 0021",
       "geoids": [
-        "55039262750021"
+        "550392627500021"
       ],
       "election_type": "general",
       "dem_votes": 0,
@@ -33120,7 +33120,7 @@
       "county": "FOND DU LAC - C 0022",
       "precinct_key": "FOND DU LAC - C 0022",
       "geoids": [
-        "55039262750022"
+        "550392627500022"
       ],
       "election_type": "general",
       "dem_votes": 0,
@@ -39365,10 +39365,50 @@
       }
     },
     {
+      "county": "GREEN BAY - C 0011A",
+      "precinct_key": "GREEN BAY - C 0011A",
+      "geoids": [
+        "5500931000011A"
+      ],
+      "election_type": "general",
+      "dem_votes": 6,
+      "rep_votes": 190,
+      "other_votes": 118,
+      "total_votes": 314,
+      "dem_candidate": "Robbie Hoffman (write-in)",
+      "rep_candidate": "Mike Gallagher",
+      "margin": 185,
+      "margin_pct": 58.82352941176471,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
       "county": "GREEN BAY - C 0012",
       "precinct_key": "GREEN BAY - C 0012",
       "geoids": [
         "55009310000012"
+      ],
+      "election_type": "general",
+      "dem_votes": 4,
+      "rep_votes": 90,
+      "other_votes": 58,
+      "total_votes": 152,
+      "dem_candidate": "Robbie Hoffman (write-in)",
+      "rep_candidate": "Mike Gallagher",
+      "margin": 85,
+      "margin_pct": 55.92105263157895,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "GREEN BAY - C 0012A",
+      "precinct_key": "GREEN BAY - C 0012A",
+      "geoids": [
+        "5500931000012A"
       ],
       "election_type": "general",
       "dem_votes": 4,
@@ -39885,6 +39925,26 @@
       }
     },
     {
+      "county": "GREEN BAY - C 0037A",
+      "precinct_key": "GREEN BAY - C 0037A",
+      "geoids": [
+        "5500931000037A"
+      ],
+      "election_type": "general",
+      "dem_votes": 8,
+      "rep_votes": 242,
+      "other_votes": 150,
+      "total_votes": 400,
+      "dem_candidate": "Robbie Hoffman (write-in)",
+      "rep_candidate": "Mike Gallagher",
+      "margin": 234,
+      "margin_pct": 58.62500000000001,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
       "county": "GREEN BAY - C 0038",
       "precinct_key": "GREEN BAY - C 0038",
       "geoids": [
@@ -40045,6 +40105,26 @@
       }
     },
     {
+      "county": "GREEN BAY - C 0045A",
+      "precinct_key": "GREEN BAY - C 0045A",
+      "geoids": [
+        "5500931000045A"
+      ],
+      "election_type": "general",
+      "dem_votes": 12,
+      "rep_votes": 468,
+      "other_votes": 185,
+      "total_votes": 665,
+      "dem_candidate": "Robbie Hoffman (write-in)",
+      "rep_candidate": "Mike Gallagher",
+      "margin": 455,
+      "margin_pct": 68.42105263157895,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
       "county": "GREEN BAY - C 0046",
       "precinct_key": "GREEN BAY - C 0046",
       "geoids": [
@@ -40079,86 +40159,6 @@
       "rep_candidate": "Mike Gallagher",
       "margin": 1059,
       "margin_pct": 69.94715984147952,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#67000d"
-      }
-    },
-    {
-      "county": "GREEN BAY - C 011A",
-      "precinct_key": "GREEN BAY - C 011A",
-      "geoids": [
-        "5500931000011A"
-      ],
-      "election_type": "general",
-      "dem_votes": 6,
-      "rep_votes": 190,
-      "other_votes": 118,
-      "total_votes": 314,
-      "dem_candidate": "Robbie Hoffman (write-in)",
-      "rep_candidate": "Mike Gallagher",
-      "margin": 185,
-      "margin_pct": 58.82352941176471,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#67000d"
-      }
-    },
-    {
-      "county": "GREEN BAY - C 012A",
-      "precinct_key": "GREEN BAY - C 012A",
-      "geoids": [
-        "5500931000012A"
-      ],
-      "election_type": "general",
-      "dem_votes": 4,
-      "rep_votes": 90,
-      "other_votes": 58,
-      "total_votes": 152,
-      "dem_candidate": "Robbie Hoffman (write-in)",
-      "rep_candidate": "Mike Gallagher",
-      "margin": 85,
-      "margin_pct": 55.92105263157895,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#67000d"
-      }
-    },
-    {
-      "county": "GREEN BAY - C 037A",
-      "precinct_key": "GREEN BAY - C 037A",
-      "geoids": [
-        "5500931000037A"
-      ],
-      "election_type": "general",
-      "dem_votes": 8,
-      "rep_votes": 242,
-      "other_votes": 150,
-      "total_votes": 400,
-      "dem_candidate": "Robbie Hoffman (write-in)",
-      "rep_candidate": "Mike Gallagher",
-      "margin": 234,
-      "margin_pct": 58.62500000000001,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#67000d"
-      }
-    },
-    {
-      "county": "GREEN BAY - C 045A",
-      "precinct_key": "GREEN BAY - C 045A",
-      "geoids": [
-        "5500931000045A"
-      ],
-      "election_type": "general",
-      "dem_votes": 12,
-      "rep_votes": 468,
-      "other_votes": 185,
-      "total_votes": 665,
-      "dem_candidate": "Robbie Hoffman (write-in)",
-      "rep_candidate": "Mike Gallagher",
-      "margin": 455,
-      "margin_pct": 68.42105263157895,
       "winner": "REP",
       "competitiveness": {
         "color": "#67000d"
@@ -54505,10 +54505,10 @@
       }
     },
     {
-      "county": "LAC LA BELLE - V 0002",
-      "precinct_key": "LAC LA BELLE - V 0002",
+      "county": "LAC LA BELLE - V 0012",
+      "precinct_key": "LAC LA BELLE - V 0012",
       "geoids": [
-        "55055407500002"
+        "55055407500012"
       ],
       "election_type": "general",
       "dem_votes": 0,
@@ -60198,14 +60198,14 @@
         "55025480000001"
       ],
       "election_type": "general",
-      "dem_votes": 740,
+      "dem_votes": 742,
       "rep_votes": 222,
       "other_votes": 16,
-      "total_votes": 978,
+      "total_votes": 981,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -518,
-      "margin_pct": -52.94608514389273,
+      "margin": -520,
+      "margin_pct": -52.99458414218703,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60218,14 +60218,14 @@
         "55025480000002"
       ],
       "election_type": "general",
-      "dem_votes": 496,
+      "dem_votes": 499,
       "rep_votes": 163,
       "other_votes": 13,
-      "total_votes": 672,
+      "total_votes": 676,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -333,
-      "margin_pct": -49.55513558488778,
+      "margin": -336,
+      "margin_pct": -49.68425899532966,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60245,7 +60245,7 @@
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
       "margin": -580,
-      "margin_pct": -60.53685608988152,
+      "margin_pct": -60.53262584697256,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60261,11 +60261,11 @@
       "dem_votes": 973,
       "rep_votes": 262,
       "other_votes": 18,
-      "total_votes": 1253,
+      "total_votes": 1254,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -710,
-      "margin_pct": -56.683936665395606,
+      "margin": -711,
+      "margin_pct": -56.68974971047719,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60278,14 +60278,14 @@
         "55025480000005"
       ],
       "election_type": "general",
-      "dem_votes": 689,
+      "dem_votes": 692,
       "rep_votes": 169,
       "other_votes": 13,
-      "total_votes": 871,
+      "total_votes": 875,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -520,
-      "margin_pct": -59.710506189661395,
+      "margin": -523,
+      "margin_pct": -59.759991192337324,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60298,14 +60298,14 @@
         "55025480000006"
       ],
       "election_type": "general",
-      "dem_votes": 1238,
-      "rep_votes": 264,
+      "dem_votes": 1235,
+      "rep_votes": 263,
       "other_votes": 15,
-      "total_votes": 1517,
+      "total_votes": 1514,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -974,
-      "margin_pct": -64.21246537335654,
+      "margin": -972,
+      "margin_pct": -64.1951806757233,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60318,14 +60318,14 @@
         "55025480000007"
       ],
       "election_type": "general",
-      "dem_votes": 1280,
-      "rep_votes": 334,
+      "dem_votes": 1276,
+      "rep_votes": 333,
       "other_votes": 41,
-      "total_votes": 1655,
+      "total_votes": 1651,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -946,
-      "margin_pct": -57.1522721974047,
+      "margin": -943,
+      "margin_pct": -57.110290389025266,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60338,14 +60338,14 @@
         "55025480000008"
       ],
       "election_type": "general",
-      "dem_votes": 1375,
-      "rep_votes": 280,
+      "dem_votes": 1372,
+      "rep_votes": 279,
       "other_votes": 25,
-      "total_votes": 1680,
+      "total_votes": 1677,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -1095,
-      "margin_pct": -65.1836309630168,
+      "margin": -1093,
+      "margin_pct": -65.17104117977107,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60358,14 +60358,14 @@
         "55025480000009"
       ],
       "election_type": "general",
-      "dem_votes": 802,
+      "dem_votes": 801,
       "rep_votes": 188,
       "other_votes": 26,
-      "total_votes": 1017,
+      "total_votes": 1016,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
       "margin": -613,
-      "margin_pct": -60.33748362580179,
+      "margin_pct": -60.32498504893737,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60385,7 +60385,7 @@
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
       "margin": -761,
-      "margin_pct": -57.51225429727307,
+      "margin_pct": -57.51264287994445,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60398,14 +60398,14 @@
         "55025480000011"
       ],
       "election_type": "general",
-      "dem_votes": 1272,
-      "rep_votes": 240,
+      "dem_votes": 1269,
+      "rep_votes": 239,
       "other_votes": 26,
-      "total_votes": 1538,
+      "total_votes": 1535,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -1032,
-      "margin_pct": -67.10843291590595,
+      "margin": -1030,
+      "margin_pct": -67.09608599327154,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60418,14 +60418,14 @@
         "55025480000012"
       ],
       "election_type": "general",
-      "dem_votes": 936,
-      "rep_votes": 151,
-      "other_votes": 23,
-      "total_votes": 1110,
+      "dem_votes": 930,
+      "rep_votes": 150,
+      "other_votes": 22,
+      "total_votes": 1103,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -785,
-      "margin_pct": -70.71993478371378,
+      "margin": -780,
+      "margin_pct": -70.71053816027248,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60438,14 +60438,14 @@
         "55025480000013"
       ],
       "election_type": "general",
-      "dem_votes": 386,
+      "dem_votes": 389,
       "rep_votes": 51,
       "other_votes": 9,
-      "total_votes": 446,
+      "total_votes": 450,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -335,
-      "margin_pct": -75.12607461924617,
+      "margin": -338,
+      "margin_pct": -75.10048761201897,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60458,14 +60458,14 @@
         "55025480000014"
       ],
       "election_type": "general",
-      "dem_votes": 1129,
-      "rep_votes": 207,
+      "dem_votes": 1127,
+      "rep_votes": 206,
       "other_votes": 17,
-      "total_votes": 1353,
+      "total_votes": 1351,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -922,
-      "margin_pct": -68.17305071201652,
+      "margin": -921,
+      "margin_pct": -68.16643724052453,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60478,14 +60478,14 @@
         "55025480000015"
       ],
       "election_type": "general",
-      "dem_votes": 1287,
+      "dem_votes": 1286,
       "rep_votes": 132,
       "other_votes": 27,
       "total_votes": 1446,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
       "margin": -1154,
-      "margin_pct": -79.7997533920343,
+      "margin_pct": -79.80416470250663,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60498,14 +60498,14 @@
         "55025480000016"
       ],
       "election_type": "general",
-      "dem_votes": 725,
+      "dem_votes": 730,
       "rep_votes": 71,
       "other_votes": 10,
-      "total_votes": 806,
+      "total_votes": 812,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -655,
-      "margin_pct": -81.216606163106,
+      "margin": -659,
+      "margin_pct": -81.15428842608648,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60518,14 +60518,14 @@
         "55025480000017"
       ],
       "election_type": "general",
-      "dem_votes": 1475,
-      "rep_votes": 185,
+      "dem_votes": 1473,
+      "rep_votes": 184,
       "other_votes": 29,
-      "total_votes": 1689,
+      "total_votes": 1687,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -1290,
-      "margin_pct": -76.39933556984225,
+      "margin": -1289,
+      "margin_pct": -76.40525430502552,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60538,14 +60538,14 @@
         "55025480000018"
       ],
       "election_type": "general",
-      "dem_votes": 1436,
-      "rep_votes": 81,
+      "dem_votes": 1434,
+      "rep_votes": 80,
       "other_votes": 24,
-      "total_votes": 1541,
+      "total_votes": 1539,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -1355,
-      "margin_pct": -87.9579713915565,
+      "margin": -1354,
+      "margin_pct": -87.97895233464442,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60558,14 +60558,14 @@
         "55025480000019"
       ],
       "election_type": "general",
-      "dem_votes": 2120,
-      "rep_votes": 69,
-      "other_votes": 29,
-      "total_votes": 2217,
+      "dem_votes": 2114,
+      "rep_votes": 68,
+      "other_votes": 28,
+      "total_votes": 2211,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -2051,
-      "margin_pct": -92.47630969006948,
+      "margin": -2046,
+      "margin_pct": -92.5378385532722,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60578,14 +60578,14 @@
         "55025480000020"
       ],
       "election_type": "general",
-      "dem_votes": 1262,
-      "rep_votes": 256,
-      "other_votes": 27,
-      "total_votes": 1545,
+      "dem_votes": 1255,
+      "rep_votes": 255,
+      "other_votes": 26,
+      "total_votes": 1537,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -1006,
-      "margin_pct": -65.09506225272888,
+      "margin": -1000,
+      "margin_pct": -65.05647171111937,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60598,14 +60598,14 @@
         "55025480000021"
       ],
       "election_type": "general",
-      "dem_votes": 389,
+      "dem_votes": 393,
       "rep_votes": 70,
       "other_votes": 14,
-      "total_votes": 472,
+      "total_votes": 478,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -319,
-      "margin_pct": -67.50606325787932,
+      "margin": -323,
+      "margin_pct": -67.55784380621547,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60618,14 +60618,14 @@
         "55025480000022"
       ],
       "election_type": "general",
-      "dem_votes": 860,
+      "dem_votes": 861,
       "rep_votes": 215,
       "other_votes": 26,
-      "total_votes": 1102,
+      "total_votes": 1103,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -645,
-      "margin_pct": -58.5445636058313,
+      "margin": -646,
+      "margin_pct": -58.558098603376365,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60638,14 +60638,14 @@
         "55025480000023"
       ],
       "election_type": "general",
-      "dem_votes": 847,
+      "dem_votes": 846,
       "rep_votes": 239,
       "other_votes": 27,
-      "total_votes": 1114,
+      "total_votes": 1113,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
       "margin": -607,
-      "margin_pct": -54.54076633985208,
+      "margin_pct": -54.52669280802084,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60658,14 +60658,14 @@
         "55025480000024"
       ],
       "election_type": "general",
-      "dem_votes": 665,
+      "dem_votes": 664,
       "rep_votes": 89,
       "other_votes": 11,
-      "total_votes": 766,
+      "total_votes": 765,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -576,
-      "margin_pct": -75.15193809217618,
+      "margin": -575,
+      "margin_pct": -75.15717482490385,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60678,14 +60678,14 @@
         "55025480000025"
       ],
       "election_type": "general",
-      "dem_votes": 1199,
-      "rep_votes": 285,
-      "other_votes": 27,
-      "total_votes": 1510,
+      "dem_votes": 1193,
+      "rep_votes": 284,
+      "other_votes": 26,
+      "total_votes": 1504,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -913,
-      "margin_pct": -60.48315185509898,
+      "margin": -909,
+      "margin_pct": -60.43232804910491,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60698,14 +60698,14 @@
         "55025480000026"
       ],
       "election_type": "general",
-      "dem_votes": 225,
-      "rep_votes": 25,
+      "dem_votes": 232,
+      "rep_votes": 26,
       "other_votes": 5,
-      "total_votes": 256,
+      "total_votes": 264,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -200,
-      "margin_pct": -78.20066540013829,
+      "margin": -206,
+      "margin_pct": -78.01595774568749,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60718,14 +60718,14 @@
         "55025480000027"
       ],
       "election_type": "general",
-      "dem_votes": 375,
+      "dem_votes": 379,
       "rep_votes": 56,
       "other_votes": 9,
-      "total_votes": 440,
+      "total_votes": 445,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -320,
-      "margin_pct": -72.57510841124899,
+      "margin": -323,
+      "margin_pct": -72.57159039797429,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60738,14 +60738,14 @@
         "55025480000028"
       ],
       "election_type": "general",
-      "dem_votes": 1333,
-      "rep_votes": 96,
+      "dem_votes": 1331,
+      "rep_votes": 95,
       "other_votes": 32,
-      "total_votes": 1461,
+      "total_votes": 1459,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -1237,
-      "margin_pct": -84.69679733161101,
+      "margin": -1236,
+      "margin_pct": -84.71452729294788,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60765,7 +60765,7 @@
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
       "margin": -1248,
-      "margin_pct": -91.36349550310362,
+      "margin_pct": -91.36219652426723,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60778,14 +60778,14 @@
         "55025480000030"
       ],
       "election_type": "general",
-      "dem_votes": 841,
-      "rep_votes": 51,
+      "dem_votes": 840,
+      "rep_votes": 50,
       "other_votes": 18,
-      "total_votes": 910,
+      "total_votes": 909,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -791,
-      "margin_pct": -86.88312883403454,
+      "margin": -790,
+      "margin_pct": -86.90785773096707,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60798,14 +60798,14 @@
         "55025480000031"
       ],
       "election_type": "general",
-      "dem_votes": 729,
+      "dem_votes": 732,
       "rep_votes": 94,
       "other_votes": 14,
-      "total_votes": 838,
+      "total_votes": 841,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -635,
-      "margin_pct": -75.87018346908981,
+      "margin": -638,
+      "margin_pct": -75.85669095683282,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60818,14 +60818,14 @@
         "55025480000032"
       ],
       "election_type": "general",
-      "dem_votes": 1293,
-      "rep_votes": 170,
+      "dem_votes": 1289,
+      "rep_votes": 169,
       "other_votes": 24,
-      "total_votes": 1488,
+      "total_votes": 1483,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -1123,
-      "margin_pct": -75.5079844519216,
+      "margin": -1120,
+      "margin_pct": -75.51946202768801,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60838,14 +60838,14 @@
         "55025480000033"
       ],
       "election_type": "general",
-      "dem_votes": 669,
-      "rep_votes": 106,
+      "dem_votes": 666,
+      "rep_votes": 105,
       "other_votes": 26,
-      "total_votes": 801,
+      "total_votes": 798,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -563,
-      "margin_pct": -70.30082831389095,
+      "margin": -561,
+      "margin_pct": -70.29270829463987,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60858,14 +60858,14 @@
         "55025480000034"
       ],
       "election_type": "general",
-      "dem_votes": 887,
+      "dem_votes": 888,
       "rep_votes": 164,
       "other_votes": 14,
-      "total_votes": 1066,
+      "total_votes": 1067,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -723,
-      "margin_pct": -67.84278920644961,
+      "margin": -724,
+      "margin_pct": -67.84699893749264,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60878,14 +60878,14 @@
         "55025480000035"
       ],
       "election_type": "general",
-      "dem_votes": 978,
+      "dem_votes": 980,
       "rep_votes": 284,
       "other_votes": 10,
-      "total_votes": 1272,
+      "total_votes": 1275,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -694,
-      "margin_pct": -54.542969326948054,
+      "margin": -696,
+      "margin_pct": -54.57900150512266,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60898,14 +60898,14 @@
         "55025480000036"
       ],
       "election_type": "general",
-      "dem_votes": 643,
+      "dem_votes": 645,
       "rep_votes": 81,
       "other_votes": 13,
-      "total_votes": 737,
+      "total_votes": 740,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -562,
-      "margin_pct": -76.2262934870892,
+      "margin": -564,
+      "margin_pct": -76.2102669898051,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60925,7 +60925,7 @@
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
       "margin": -904,
-      "margin_pct": -70.51047522404903,
+      "margin_pct": -70.50987146291845,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60938,14 +60938,14 @@
         "55025480000038"
       ],
       "election_type": "general",
-      "dem_votes": 706,
-      "rep_votes": 105,
+      "dem_votes": 704,
+      "rep_votes": 104,
       "other_votes": 18,
-      "total_votes": 829,
+      "total_votes": 827,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -601,
-      "margin_pct": -72.54364969723885,
+      "margin": -600,
+      "margin_pct": -72.54455685086783,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60965,7 +60965,7 @@
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
       "margin": -693,
-      "margin_pct": -67.86956670428484,
+      "margin_pct": -67.86753659580953,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60978,14 +60978,14 @@
         "55025480000040"
       ],
       "election_type": "general",
-      "dem_votes": 2045,
-      "rep_votes": 64,
+      "dem_votes": 2042,
+      "rep_votes": 63,
       "other_votes": 25,
-      "total_votes": 2135,
+      "total_votes": 2131,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -1982,
-      "margin_pct": -92.82981184801926,
+      "margin": -1979,
+      "margin_pct": -92.86779609162875,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60998,14 +60998,14 @@
         "55025480000041"
       ],
       "election_type": "general",
-      "dem_votes": 1783,
-      "rep_votes": 80,
+      "dem_votes": 1780,
+      "rep_votes": 79,
       "other_votes": 16,
-      "total_votes": 1879,
+      "total_votes": 1876,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -1703,
-      "margin_pct": -90.63778477279757,
+      "margin": -1701,
+      "margin_pct": -90.67192177367762,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61018,14 +61018,14 @@
         "55025480000042"
       ],
       "election_type": "general",
-      "dem_votes": 1493,
-      "rep_votes": 54,
+      "dem_votes": 1492,
+      "rep_votes": 53,
       "other_votes": 16,
-      "total_votes": 1563,
+      "total_votes": 1562,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -1440,
-      "margin_pct": -92.10569191143605,
+      "margin": -1439,
+      "margin_pct": -92.12613364702314,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61038,14 +61038,14 @@
         "55025480000043"
       ],
       "election_type": "general",
-      "dem_votes": 1690,
-      "rep_votes": 122,
-      "other_votes": 33,
-      "total_votes": 1844,
+      "dem_votes": 1684,
+      "rep_votes": 121,
+      "other_votes": 32,
+      "total_votes": 1838,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -1568,
-      "margin_pct": -84.99089251088878,
+      "margin": -1563,
+      "margin_pct": -85.03732606697734,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61058,14 +61058,14 @@
         "55025480000044"
       ],
       "election_type": "general",
-      "dem_votes": 1199,
+      "dem_votes": 1200,
       "rep_votes": 46,
       "other_votes": 16,
-      "total_votes": 1262,
+      "total_votes": 1263,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -1153,
-      "margin_pct": -91.381945612977,
+      "margin": -1154,
+      "margin_pct": -91.37035885462195,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61078,14 +61078,14 @@
         "55025480000045"
       ],
       "election_type": "general",
-      "dem_votes": 312,
-      "rep_votes": 20,
+      "dem_votes": 318,
+      "rep_votes": 21,
       "other_votes": 6,
-      "total_votes": 338,
+      "total_votes": 346,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -291,
-      "margin_pct": -86.14271872148038,
+      "margin": -297,
+      "margin_pct": -85.8349048517058,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61098,14 +61098,14 @@
         "55025480000046"
       ],
       "election_type": "general",
-      "dem_votes": 1460,
-      "rep_votes": 114,
+      "dem_votes": 1456,
+      "rep_votes": 113,
       "other_votes": 49,
-      "total_votes": 1624,
+      "total_votes": 1619,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -1346,
-      "margin_pct": -82.91857857252738,
+      "margin": -1343,
+      "margin_pct": -82.95113926020164,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61118,14 +61118,14 @@
         "55025480000047"
       ],
       "election_type": "general",
-      "dem_votes": 1110,
-      "rep_votes": 188,
-      "other_votes": 26,
-      "total_votes": 1324,
+      "dem_votes": 1105,
+      "rep_votes": 187,
+      "other_votes": 25,
+      "total_votes": 1318,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -922,
-      "margin_pct": -69.65835939302355,
+      "margin": -918,
+      "margin_pct": -69.64594904544535,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61138,14 +61138,14 @@
         "55025480000048"
       ],
       "election_type": "general",
-      "dem_votes": 1134,
-      "rep_votes": 250,
+      "dem_votes": 1129,
+      "rep_votes": 249,
       "other_votes": 46,
-      "total_votes": 1430,
+      "total_votes": 1425,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -884,
-      "margin_pct": -61.78823410806618,
+      "margin": -880,
+      "margin_pct": -61.74783833951199,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61158,14 +61158,14 @@
         "55025480000049"
       ],
       "election_type": "general",
-      "dem_votes": 771,
-      "rep_votes": 177,
+      "dem_votes": 768,
+      "rep_votes": 176,
       "other_votes": 19,
-      "total_votes": 967,
+      "total_votes": 964,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -594,
-      "margin_pct": -61.44374123357449,
+      "margin": -592,
+      "margin_pct": -61.4009869786462,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61178,14 +61178,14 @@
         "55025480000050"
       ],
       "election_type": "general",
-      "dem_votes": 636,
+      "dem_votes": 635,
       "rep_votes": 112,
       "other_votes": 15,
       "total_votes": 763,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
       "margin": -523,
-      "margin_pct": -68.5390709576634,
+      "margin_pct": -68.53601919210558,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61198,14 +61198,14 @@
         "55025480000051"
       ],
       "election_type": "general",
-      "dem_votes": 687,
+      "dem_votes": 689,
       "rep_votes": 64,
       "other_votes": 14,
-      "total_votes": 766,
+      "total_votes": 768,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -623,
-      "margin_pct": -81.4001481902307,
+      "margin": -625,
+      "margin_pct": -81.3767682420827,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61218,14 +61218,14 @@
         "55025480000052"
       ],
       "election_type": "general",
-      "dem_votes": 993,
+      "dem_votes": 992,
       "rep_votes": 126,
       "other_votes": 16,
-      "total_votes": 1136,
+      "total_votes": 1135,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -867,
-      "margin_pct": -76.29143623395173,
+      "margin": -866,
+      "margin_pct": -76.29570633050224,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61238,14 +61238,14 @@
         "55025480000053"
       ],
       "election_type": "general",
-      "dem_votes": 1066,
-      "rep_votes": 120,
+      "dem_votes": 1065,
+      "rep_votes": 119,
       "other_votes": 20,
-      "total_votes": 1206,
+      "total_votes": 1205,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -947,
-      "margin_pct": -78.49495082714151,
+      "margin": -946,
+      "margin_pct": -78.50321898308421,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61258,14 +61258,14 @@
         "55025480000054"
       ],
       "election_type": "general",
-      "dem_votes": 1075,
-      "rep_votes": 260,
-      "other_votes": 34,
-      "total_votes": 1368,
+      "dem_votes": 1069,
+      "rep_votes": 259,
+      "other_votes": 33,
+      "total_votes": 1362,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -815,
-      "margin_pct": -59.52669535084607,
+      "margin": -810,
+      "margin_pct": -59.46394377230395,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61278,14 +61278,14 @@
         "55025480000055"
       ],
       "election_type": "general",
-      "dem_votes": 1208,
-      "rep_votes": 97,
+      "dem_votes": 1206,
+      "rep_votes": 96,
       "other_votes": 33,
-      "total_votes": 1338,
+      "total_votes": 1336,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -1111,
-      "margin_pct": -83.0668585938031,
+      "margin": -1110,
+      "margin_pct": -83.0822897833779,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61298,14 +61298,14 @@
         "55025480000056"
       ],
       "election_type": "general",
-      "dem_votes": 480,
+      "dem_votes": 483,
       "rep_votes": 91,
       "other_votes": 7,
-      "total_votes": 578,
+      "total_votes": 582,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -389,
-      "margin_pct": -67.3139660606782,
+      "margin": -392,
+      "margin_pct": -67.34119504864753,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61318,14 +61318,14 @@
         "55025480000057"
       ],
       "election_type": "general",
-      "dem_votes": 1107,
-      "rep_votes": 239,
-      "other_votes": 38,
-      "total_votes": 1383,
+      "dem_votes": 1101,
+      "rep_votes": 238,
+      "other_votes": 37,
+      "total_votes": 1377,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -867,
-      "margin_pct": -62.71095999689933,
+      "margin": -863,
+      "margin_pct": -62.665927715510996,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61338,14 +61338,14 @@
         "55025480000058"
       ],
       "election_type": "general",
-      "dem_votes": 1010,
-      "rep_votes": 234,
+      "dem_votes": 1007,
+      "rep_votes": 233,
       "other_votes": 41,
-      "total_votes": 1285,
+      "total_votes": 1282,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -776,
-      "margin_pct": -60.40044211502025,
+      "margin": -774,
+      "margin_pct": -60.36676992787129,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61358,14 +61358,14 @@
         "55025480000059"
       ],
       "election_type": "general",
-      "dem_votes": 837,
-      "rep_votes": 163,
-      "other_votes": 35,
-      "total_votes": 1035,
+      "dem_votes": 831,
+      "rep_votes": 162,
+      "other_votes": 34,
+      "total_votes": 1028,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -674,
-      "margin_pct": -65.11880295999039,
+      "margin": -669,
+      "margin_pct": -65.0698458921389,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61378,14 +61378,14 @@
         "55025480000060"
       ],
       "election_type": "general",
-      "dem_votes": 649,
-      "rep_votes": 77,
-      "other_votes": 31,
-      "total_votes": 756,
+      "dem_votes": 644,
+      "rep_votes": 76,
+      "other_votes": 30,
+      "total_votes": 751,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -572,
-      "margin_pct": -75.60035788588134,
+      "margin": -568,
+      "margin_pct": -75.62636299943752,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61398,14 +61398,14 @@
         "55025480000061"
       ],
       "election_type": "general",
-      "dem_votes": 922,
+      "dem_votes": 925,
       "rep_votes": 176,
       "other_votes": 34,
-      "total_votes": 1132,
+      "total_votes": 1136,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -746,
-      "margin_pct": -65.9079494795118,
+      "margin": -749,
+      "margin_pct": -65.92613851311688,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61418,14 +61418,14 @@
         "55025480000062"
       ],
       "election_type": "general",
-      "dem_votes": 336,
-      "rep_votes": 31,
+      "dem_votes": 334,
+      "rep_votes": 30,
       "other_votes": 12,
-      "total_votes": 379,
+      "total_votes": 377,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -305,
-      "margin_pct": -80.58460625553157,
+      "margin": -304,
+      "margin_pct": -80.628920922732,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61438,14 +61438,14 @@
         "55025480000063"
       ],
       "election_type": "general",
-      "dem_votes": 1334,
-      "rep_votes": 218,
-      "other_votes": 43,
-      "total_votes": 1595,
+      "dem_votes": 1327,
+      "rep_votes": 217,
+      "other_votes": 42,
+      "total_votes": 1587,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -1116,
-      "margin_pct": -69.95149010557185,
+      "margin": -1110,
+      "margin_pct": -69.9391687169408,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61458,14 +61458,14 @@
         "55025480000064"
       ],
       "election_type": "general",
-      "dem_votes": 771,
+      "dem_votes": 775,
       "rep_votes": 62,
       "other_votes": 9,
-      "total_votes": 842,
+      "total_votes": 847,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -709,
-      "margin_pct": -84.24611287540718,
+      "margin": -713,
+      "margin_pct": -84.17746436976701,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61478,14 +61478,14 @@
         "55025480000065"
       ],
       "election_type": "general",
-      "dem_votes": 1415,
-      "rep_votes": 103,
+      "dem_votes": 1412,
+      "rep_votes": 102,
       "other_votes": 25,
-      "total_votes": 1543,
+      "total_votes": 1540,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -1312,
-      "margin_pct": -85.03669886265484,
+      "margin": -1310,
+      "margin_pct": -85.06403533249302,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61505,7 +61505,7 @@
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
       "margin": -1086,
-      "margin_pct": -83.21665585019265,
+      "margin_pct": -83.21684674301225,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61518,14 +61518,14 @@
         "55025480000067"
       ],
       "election_type": "general",
-      "dem_votes": 1167,
+      "dem_votes": 1168,
       "rep_votes": 80,
       "other_votes": 14,
-      "total_votes": 1261,
+      "total_votes": 1263,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -1087,
-      "margin_pct": -86.15664400030093,
+      "margin": -1088,
+      "margin_pct": -86.14329545521213,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61538,14 +61538,14 @@
         "55025480000068"
       ],
       "election_type": "general",
-      "dem_votes": 668,
+      "dem_votes": 670,
       "rep_votes": 58,
       "other_votes": 24,
-      "total_votes": 750,
+      "total_votes": 753,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -610,
-      "margin_pct": -81.30062824767995,
+      "margin": -612,
+      "margin_pct": -81.27134407385171,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61565,7 +61565,7 @@
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
       "margin": -732,
-      "margin_pct": -68.2143787194423,
+      "margin_pct": -68.21330165942726,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61578,14 +61578,14 @@
         "55025480000070"
       ],
       "election_type": "general",
-      "dem_votes": 1467,
-      "rep_votes": 161,
+      "dem_votes": 1464,
+      "rep_votes": 160,
       "other_votes": 24,
-      "total_votes": 1652,
+      "total_votes": 1649,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -1306,
-      "margin_pct": -79.06278914786284,
+      "margin": -1304,
+      "margin_pct": -79.07615166532628,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61605,7 +61605,7 @@
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
       "margin": -1328,
-      "margin_pct": -87.70939232119453,
+      "margin_pct": -87.71434443878951,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61618,14 +61618,14 @@
         "55025480000072"
       ],
       "election_type": "general",
-      "dem_votes": 868,
+      "dem_votes": 870,
       "rep_votes": 73,
       "other_votes": 23,
-      "total_votes": 965,
+      "total_votes": 967,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -795,
-      "margin_pct": -82.43776325520913,
+      "margin": -797,
+      "margin_pct": -82.41748978919378,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61638,14 +61638,14 @@
         "55025480000073"
       ],
       "election_type": "general",
-      "dem_votes": 1504,
-      "rep_votes": 104,
+      "dem_votes": 1502,
+      "rep_votes": 103,
       "other_votes": 36,
-      "total_votes": 1644,
+      "total_votes": 1642,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -1400,
-      "margin_pct": -85.18511460075796,
+      "margin": -1399,
+      "margin_pct": -85.20015882756383,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61658,14 +61658,14 @@
         "55025480000074"
       ],
       "election_type": "general",
-      "dem_votes": 854,
-      "rep_votes": 157,
+      "dem_votes": 853,
+      "rep_votes": 156,
       "other_votes": 23,
-      "total_votes": 1034,
+      "total_votes": 1033,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -698,
-      "margin_pct": -67.47338661101057,
+      "margin": -697,
+      "margin_pct": -67.46623245271108,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61685,7 +61685,7 @@
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
       "margin": -869,
-      "margin_pct": -71.16644390335676,
+      "margin_pct": -71.1661579352991,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61698,14 +61698,14 @@
         "55025480000076"
       ],
       "election_type": "general",
-      "dem_votes": 423,
-      "rep_votes": 38,
+      "dem_votes": 420,
+      "rep_votes": 37,
       "other_votes": 11,
-      "total_votes": 472,
+      "total_votes": 469,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -385,
-      "margin_pct": -81.59875813009006,
+      "margin": -383,
+      "margin_pct": -81.65768385781345,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61718,14 +61718,14 @@
         "55025480000077"
       ],
       "election_type": "general",
-      "dem_votes": 441,
-      "rep_votes": 49,
-      "other_votes": 12,
-      "total_votes": 502,
+      "dem_votes": 435,
+      "rep_votes": 48,
+      "other_votes": 11,
+      "total_votes": 495,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -392,
-      "margin_pct": -78.09209262530925,
+      "margin": -387,
+      "margin_pct": -78.17427634435974,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61738,14 +61738,14 @@
         "55025480000078"
       ],
       "election_type": "general",
-      "dem_votes": 303,
+      "dem_votes": 307,
       "rep_votes": 36,
       "other_votes": 7,
-      "total_votes": 346,
+      "total_votes": 351,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -267,
-      "margin_pct": -77.26691956643785,
+      "margin": -271,
+      "margin_pct": -77.19639198124166,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61758,14 +61758,14 @@
         "55025480000079"
       ],
       "election_type": "general",
-      "dem_votes": 792,
-      "rep_votes": 109,
+      "dem_votes": 789,
+      "rep_votes": 108,
       "other_votes": 12,
-      "total_votes": 913,
+      "total_votes": 910,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -683,
-      "margin_pct": -74.81954813081707,
+      "margin": -681,
+      "margin_pct": -74.8298101039054,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61778,14 +61778,14 @@
         "55025480000080"
       ],
       "election_type": "general",
-      "dem_votes": 2006,
-      "rep_votes": 226,
-      "other_votes": 40,
-      "total_votes": 2272,
+      "dem_votes": 2000,
+      "rep_votes": 225,
+      "other_votes": 39,
+      "total_votes": 2265,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -1780,
-      "margin_pct": -78.3460302926492,
+      "margin": -1775,
+      "margin_pct": -78.36482636583379,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61798,14 +61798,14 @@
         "55025480000081"
       ],
       "election_type": "general",
-      "dem_votes": 505,
-      "rep_votes": 41,
+      "dem_votes": 503,
+      "rep_votes": 40,
       "other_votes": 13,
-      "total_votes": 559,
+      "total_votes": 557,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -464,
-      "margin_pct": -83.0770035023244,
+      "margin": -463,
+      "margin_pct": -83.1202012002821,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61818,14 +61818,14 @@
         "55025480000082"
       ],
       "election_type": "general",
-      "dem_votes": 1160,
+      "dem_votes": 1159,
       "rep_votes": 250,
       "other_votes": 27,
-      "total_votes": 1438,
+      "total_votes": 1437,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
       "margin": -909,
-      "margin_pct": -63.25688644563158,
+      "margin_pct": -63.25064836632311,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61838,14 +61838,14 @@
         "55025480000083"
       ],
       "election_type": "general",
-      "dem_votes": 829,
+      "dem_votes": 830,
       "rep_votes": 152,
       "other_votes": 19,
-      "total_votes": 1001,
+      "total_votes": 1002,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -677,
-      "margin_pct": -67.65316632159201,
+      "margin": -678,
+      "margin_pct": -67.65736851446488,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61858,14 +61858,14 @@
         "55025480000084"
       ],
       "election_type": "general",
-      "dem_votes": 646,
+      "dem_votes": 648,
       "rep_votes": 114,
       "other_votes": 12,
-      "total_votes": 772,
+      "total_votes": 775,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -532,
-      "margin_pct": -68.88201229966164,
+      "margin": -534,
+      "margin_pct": -68.8943286893162,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61878,14 +61878,14 @@
         "55025480000085"
       ],
       "election_type": "general",
-      "dem_votes": 1610,
-      "rep_votes": 131,
+      "dem_votes": 1607,
+      "rep_votes": 130,
       "other_votes": 18,
-      "total_votes": 1759,
+      "total_votes": 1756,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -1479,
-      "margin_pct": -84.09031688679093,
+      "margin": -1477,
+      "margin_pct": -84.11064325314118,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61898,14 +61898,14 @@
         "55025480000086"
       ],
       "election_type": "general",
-      "dem_votes": 1058,
+      "dem_votes": 1059,
       "rep_votes": 105,
       "other_votes": 22,
-      "total_votes": 1185,
+      "total_votes": 1187,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -953,
-      "margin_pct": -80.3779313254076,
+      "margin": -954,
+      "margin_pct": -80.36816709217912,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61921,11 +61921,11 @@
       "dem_votes": 1207,
       "rep_votes": 122,
       "other_votes": 15,
-      "total_votes": 1344,
+      "total_votes": 1345,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -1084,
-      "margin_pct": -80.66910031562978,
+      "margin": -1085,
+      "margin_pct": -80.6670008648756,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61938,14 +61938,14 @@
         "55025480000088"
       ],
       "election_type": "general",
-      "dem_votes": 1304,
+      "dem_votes": 1303,
       "rep_votes": 124,
       "other_votes": 24,
       "total_votes": 1452,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
       "margin": -1179,
-      "margin_pct": -81.19193558012971,
+      "margin_pct": -81.19648524804313,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61958,14 +61958,14 @@
         "55025480000089"
       ],
       "election_type": "general",
-      "dem_votes": 1285,
-      "rep_votes": 198,
-      "other_votes": 25,
-      "total_votes": 1508,
+      "dem_votes": 1278,
+      "rep_votes": 197,
+      "other_votes": 24,
+      "total_votes": 1500,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -1087,
-      "margin_pct": -72.0636078815694,
+      "margin": -1081,
+      "margin_pct": -72.06278957195217,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61978,14 +61978,14 @@
         "55025480000090"
       ],
       "election_type": "general",
-      "dem_votes": 842,
+      "dem_votes": 845,
       "rep_votes": 94,
       "other_votes": 20,
-      "total_votes": 956,
+      "total_votes": 960,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -748,
-      "margin_pct": -78.24910424912194,
+      "margin": -751,
+      "margin_pct": -78.22529601556107,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61998,14 +61998,14 @@
         "55025480000091"
       ],
       "election_type": "general",
-      "dem_votes": 1702,
-      "rep_votes": 193,
+      "dem_votes": 1698,
+      "rep_votes": 192,
       "other_votes": 29,
-      "total_votes": 1924,
+      "total_votes": 1920,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -1509,
-      "margin_pct": -78.42075637014112,
+      "margin": -1506,
+      "margin_pct": -78.43560199726805,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62018,14 +62018,14 @@
         "55025480000092"
       ],
       "election_type": "general",
-      "dem_votes": 1040,
+      "dem_votes": 1041,
       "rep_votes": 198,
       "other_votes": 14,
-      "total_votes": 1252,
+      "total_votes": 1254,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -841,
-      "margin_pct": -67.2119497530078,
+      "margin": -843,
+      "margin_pct": -67.21892652029024,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62038,14 +62038,14 @@
         "55025480000093"
       ],
       "election_type": "general",
-      "dem_votes": 590,
+      "dem_votes": 591,
       "rep_votes": 107,
       "other_votes": 9,
-      "total_votes": 706,
+      "total_votes": 708,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -483,
-      "margin_pct": -68.34513955323439,
+      "margin": -484,
+      "margin_pct": -68.35158163585739,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62058,14 +62058,14 @@
         "55025480000094"
       ],
       "election_type": "general",
-      "dem_votes": 1571,
-      "rep_votes": 234,
+      "dem_votes": 1567,
+      "rep_votes": 233,
       "other_votes": 32,
-      "total_votes": 1838,
+      "total_votes": 1833,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -1337,
-      "margin_pct": -72.77232094683276,
+      "margin": -1334,
+      "margin_pct": -72.77382795290391,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62078,14 +62078,14 @@
         "55025480000095"
       ],
       "election_type": "general",
-      "dem_votes": 461,
+      "dem_votes": 465,
       "rep_votes": 77,
       "other_votes": 7,
-      "total_votes": 545,
+      "total_votes": 550,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -385,
-      "margin_pct": -70.52057247395187,
+      "margin": -388,
+      "margin_pct": -70.53393348067488,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62098,14 +62098,14 @@
         "55025480000096"
       ],
       "election_type": "general",
-      "dem_votes": 1343,
-      "rep_votes": 348,
+      "dem_votes": 1340,
+      "rep_votes": 347,
       "other_votes": 30,
-      "total_votes": 1721,
+      "total_votes": 1718,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -995,
-      "margin_pct": -57.82521104968197,
+      "margin": -993,
+      "margin_pct": -57.793551948388,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62118,14 +62118,14 @@
         "55025480000097"
       ],
       "election_type": "general",
-      "dem_votes": 993,
+      "dem_votes": 992,
       "rep_votes": 186,
       "other_votes": 16,
-      "total_votes": 1196,
+      "total_votes": 1195,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -807,
-      "margin_pct": -67.44698251529594,
+      "margin": -806,
+      "margin_pct": -67.4415143943105,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62138,14 +62138,14 @@
         "55025480000098"
       ],
       "election_type": "general",
-      "dem_votes": 1541,
-      "rep_votes": 301,
-      "other_votes": 49,
-      "total_votes": 1891,
+      "dem_votes": 1534,
+      "rep_votes": 300,
+      "other_votes": 48,
+      "total_votes": 1883,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -1240,
-      "margin_pct": -65.55861887387199,
+      "margin": -1234,
+      "margin_pct": -65.52945203593026,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62158,14 +62158,14 @@
         "55025480000099"
       ],
       "election_type": "general",
-      "dem_votes": 558,
+      "dem_votes": 559,
       "rep_votes": 79,
       "other_votes": 17,
-      "total_votes": 654,
+      "total_votes": 656,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -479,
-      "margin_pct": -73.16476261529077,
+      "margin": -480,
+      "margin_pct": -73.16243758049573,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62178,14 +62178,14 @@
         "55025480000100"
       ],
       "election_type": "general",
-      "dem_votes": 287,
+      "dem_votes": 291,
       "rep_votes": 37,
       "other_votes": 13,
-      "total_votes": 336,
+      "total_votes": 342,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -250,
-      "margin_pct": -74.28668447868966,
+      "margin": -254,
+      "margin_pct": -74.25418437256091,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62198,14 +62198,14 @@
         "55025480000101"
       ],
       "election_type": "general",
-      "dem_votes": 805,
-      "rep_votes": 171,
+      "dem_votes": 803,
+      "rep_votes": 170,
       "other_votes": 27,
-      "total_votes": 1002,
+      "total_votes": 1001,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -634,
-      "margin_pct": -63.24422786030941,
+      "margin": -633,
+      "margin_pct": -63.22794602077148,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62221,11 +62221,11 @@
       "dem_votes": 824,
       "rep_votes": 184,
       "other_votes": 20,
-      "total_votes": 1028,
+      "total_votes": 1029,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -639,
-      "margin_pct": -62.184698688041486,
+      "margin": -640,
+      "margin_pct": -62.18738523356543,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62238,14 +62238,14 @@
         "55025480000103"
       ],
       "election_type": "general",
-      "dem_votes": 1376,
-      "rep_votes": 300,
-      "other_votes": 36,
-      "total_votes": 1712,
+      "dem_votes": 1371,
+      "rep_votes": 299,
+      "other_votes": 35,
+      "total_votes": 1706,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -1076,
-      "margin_pct": -62.86639751601535,
+      "margin": -1072,
+      "margin_pct": -62.831793072299625,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62258,14 +62258,14 @@
         "55025480000104"
       ],
       "election_type": "general",
-      "dem_votes": 1424,
-      "rep_votes": 330,
-      "other_votes": 39,
-      "total_votes": 1793,
+      "dem_votes": 1419,
+      "rep_votes": 329,
+      "other_votes": 38,
+      "total_votes": 1787,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -1094,
-      "margin_pct": -61.02920549399402,
+      "margin": -1090,
+      "margin_pct": -60.990717208611976,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62278,14 +62278,14 @@
         "55025480000105"
       ],
       "election_type": "general",
-      "dem_votes": 1049,
+      "dem_votes": 1050,
       "rep_votes": 214,
       "other_votes": 34,
-      "total_votes": 1298,
+      "total_votes": 1299,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -835,
-      "margin_pct": -64.34668505232607,
+      "margin": -836,
+      "margin_pct": -64.3506978707385,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62298,14 +62298,14 @@
         "55025480000106"
       ],
       "election_type": "general",
-      "dem_votes": 1253,
-      "rep_votes": 265,
+      "dem_votes": 1250,
+      "rep_votes": 264,
       "other_votes": 25,
-      "total_votes": 1543,
+      "total_votes": 1540,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -988,
-      "margin_pct": -64.03902922981565,
+      "margin": -986,
+      "margin_pct": -64.02041817814428,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62318,14 +62318,14 @@
         "55025480000107"
       ],
       "election_type": "general",
-      "dem_votes": 1394,
-      "rep_votes": 255,
+      "dem_votes": 1390,
+      "rep_votes": 254,
       "other_votes": 43,
-      "total_votes": 1692,
+      "total_votes": 1688,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -1139,
-      "margin_pct": -67.30738967263773,
+      "margin": -1136,
+      "margin_pct": -67.29417031698519,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62338,14 +62338,14 @@
         "55025480000108"
       ],
       "election_type": "general",
-      "dem_votes": 381,
+      "dem_votes": 385,
       "rep_votes": 55,
       "other_votes": 17,
-      "total_votes": 453,
+      "total_votes": 458,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -326,
-      "margin_pct": -72.03786109975047,
+      "margin": -330,
+      "margin_pct": -72.03968665026542,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62358,14 +62358,14 @@
         "55025480000109"
       ],
       "election_type": "general",
-      "dem_votes": 631,
+      "dem_votes": 634,
       "rep_votes": 227,
       "other_votes": 14,
-      "total_votes": 873,
+      "total_votes": 876,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -405,
-      "margin_pct": -46.35498576136065,
+      "margin": -407,
+      "margin_pct": -46.444583551863566,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62378,14 +62378,14 @@
         "55025480000110"
       ],
       "election_type": "general",
-      "dem_votes": 993,
+      "dem_votes": 992,
       "rep_votes": 194,
       "other_votes": 38,
-      "total_votes": 1226,
+      "total_votes": 1225,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -799,
-      "margin_pct": -65.14425077881762,
+      "margin": -798,
+      "margin_pct": -65.13618300479651,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62398,14 +62398,14 @@
         "55025480000111"
       ],
       "election_type": "general",
-      "dem_votes": 559,
+      "dem_votes": 563,
       "rep_votes": 122,
       "other_votes": 11,
-      "total_votes": 692,
+      "total_votes": 697,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -438,
-      "margin_pct": -63.20211428776267,
+      "margin": -441,
+      "margin_pct": -63.25851417877914,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62418,14 +62418,14 @@
         "55025480000112"
       ],
       "election_type": "general",
-      "dem_votes": 366,
+      "dem_votes": 371,
       "rep_votes": 112,
       "other_votes": 6,
-      "total_votes": 483,
+      "total_votes": 490,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -254,
-      "margin_pct": -52.572720433082054,
+      "margin": -259,
+      "margin_pct": -52.831901246520616,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62438,14 +62438,14 @@
         "55025480000113"
       ],
       "election_type": "general",
-      "dem_votes": 1539,
-      "rep_votes": 638,
-      "other_votes": 57,
-      "total_votes": 2234,
+      "dem_votes": 1532,
+      "rep_votes": 637,
+      "other_votes": 56,
+      "total_votes": 2226,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -900,
-      "margin_pct": -40.31269798239753,
+      "margin": -895,
+      "margin_pct": -40.19915863464508,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62458,14 +62458,14 @@
         "55025480000114"
       ],
       "election_type": "general",
-      "dem_votes": 1701,
-      "rep_votes": 441,
+      "dem_votes": 1698,
+      "rep_votes": 440,
       "other_votes": 43,
-      "total_votes": 2185,
+      "total_votes": 2182,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -1260,
-      "margin_pct": -57.66986622749801,
+      "margin": -1258,
+      "margin_pct": -57.64861267672583,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62478,14 +62478,14 @@
         "55025480000115"
       ],
       "election_type": "general",
-      "dem_votes": 1361,
-      "rep_votes": 197,
-      "other_votes": 30,
-      "total_votes": 1588,
+      "dem_votes": 1355,
+      "rep_votes": 196,
+      "other_votes": 29,
+      "total_votes": 1581,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -1164,
-      "margin_pct": -73.29956763420631,
+      "margin": -1159,
+      "margin_pct": -73.30462207517728,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62498,14 +62498,14 @@
         "55025480000116"
       ],
       "election_type": "general",
-      "dem_votes": 1314,
-      "rep_votes": 255,
+      "dem_votes": 1310,
+      "rep_votes": 254,
       "other_votes": 38,
-      "total_votes": 1607,
+      "total_votes": 1603,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -1059,
-      "margin_pct": -65.88819376141797,
+      "margin": -1056,
+      "margin_pct": -65.8715375833684,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62518,14 +62518,14 @@
         "55025480000117"
       ],
       "election_type": "general",
-      "dem_votes": 1110,
+      "dem_votes": 1109,
       "rep_votes": 295,
       "other_votes": 29,
-      "total_votes": 1435,
+      "total_votes": 1434,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
       "margin": -814,
-      "margin_pct": -56.7676142286475,
+      "margin_pct": -56.756603149671406,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62538,14 +62538,14 @@
         "55025480000118"
       ],
       "election_type": "general",
-      "dem_votes": 600,
+      "dem_votes": 601,
       "rep_votes": 184,
       "other_votes": 12,
-      "total_votes": 796,
+      "total_votes": 798,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -416,
-      "margin_pct": -52.20172138442665,
+      "margin": -417,
+      "margin_pct": -52.239887077003075,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62558,14 +62558,14 @@
         "55025480000119"
       ],
       "election_type": "general",
-      "dem_votes": 1121,
-      "rep_votes": 413,
+      "dem_votes": 1117,
+      "rep_votes": 412,
       "other_votes": 23,
-      "total_votes": 1558,
+      "total_votes": 1553,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -708,
-      "margin_pct": -45.47153959754719,
+      "margin": -705,
+      "margin_pct": -45.386409934687926,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62578,17 +62578,17 @@
         "55025480000120"
       ],
       "election_type": "general",
-      "dem_votes": 0,
-      "rep_votes": 2,
+      "dem_votes": 9,
+      "rep_votes": 3,
       "other_votes": 0,
-      "total_votes": 2,
+      "total_votes": 13,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": 2,
-      "margin_pct": 92.66221561861497,
-      "winner": "REP",
+      "margin": -6,
+      "margin_pct": -44.99707431246344,
+      "winner": "DEM",
       "competitiveness": {
-        "color": "#67000d"
+        "color": "#08306b"
       }
     },
     {
@@ -62598,14 +62598,14 @@
         "55025480000121"
       ],
       "election_type": "general",
-      "dem_votes": 6,
-      "rep_votes": 0,
+      "dem_votes": 15,
+      "rep_votes": 1,
       "other_votes": 0,
-      "total_votes": 6,
+      "total_votes": 17,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -6,
-      "margin_pct": -99.75951306204803,
+      "margin": -14,
+      "margin_pct": -82.21431747443309,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62618,14 +62618,14 @@
         "55025480000122"
       ],
       "election_type": "general",
-      "dem_votes": 4,
-      "rep_votes": 2,
+      "dem_votes": 13,
+      "rep_votes": 3,
       "other_votes": 0,
-      "total_votes": 6,
+      "total_votes": 17,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -2,
-      "margin_pct": -33.93447830313278,
+      "margin": -10,
+      "margin_pct": -58.20364606491775,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62638,14 +62638,14 @@
         "55025480000123"
       ],
       "election_type": "general",
-      "dem_votes": 37,
-      "rep_votes": 7,
+      "dem_votes": 46,
+      "rep_votes": 8,
       "other_votes": 2,
-      "total_votes": 46,
+      "total_votes": 57,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -30,
-      "margin_pct": -65.28900967239775,
+      "margin": -38,
+      "margin_pct": -66.53157275460845,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62658,14 +62658,14 @@
         "55025480000124"
       ],
       "election_type": "general",
-      "dem_votes": 78,
-      "rep_votes": 12,
+      "dem_votes": 87,
+      "rep_votes": 13,
       "other_votes": 0,
-      "total_votes": 90,
+      "total_votes": 101,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -66,
-      "margin_pct": -73.3308396749229,
+      "margin": -74,
+      "margin_pct": -73.213628670248,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62678,14 +62678,14 @@
         "55025480000125"
       ],
       "election_type": "general",
-      "dem_votes": 0,
-      "rep_votes": 0,
+      "dem_votes": 9,
+      "rep_votes": 1,
       "other_votes": 0,
-      "total_votes": 0,
+      "total_votes": 11,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": 0,
-      "margin_pct": -72.20291869353719,
+      "margin": -8,
+      "margin_pct": -72.20291869353717,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62698,17 +62698,17 @@
         "55025480000126"
       ],
       "election_type": "general",
-      "dem_votes": 0,
-      "rep_votes": 0,
+      "dem_votes": 9,
+      "rep_votes": 1,
       "other_votes": 0,
-      "total_votes": 0,
+      "total_votes": 11,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": 0,
-      "margin_pct": 0.0,
-      "winner": "TIE",
+      "margin": -8,
+      "margin_pct": -72.20291869353717,
+      "winner": "DEM",
       "competitiveness": {
-        "color": "#9ca3af"
+        "color": "#08306b"
       }
     },
     {
@@ -62718,14 +62718,14 @@
         "55025480000127"
       ],
       "election_type": "general",
-      "dem_votes": 143,
-      "rep_votes": 13,
+      "dem_votes": 149,
+      "rep_votes": 14,
       "other_votes": 5,
-      "total_votes": 161,
+      "total_votes": 169,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -129,
-      "margin_pct": -80.22162873514553,
+      "margin": -135,
+      "margin_pct": -79.86297158417149,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62738,14 +62738,14 @@
         "55025480000128"
       ],
       "election_type": "general",
-      "dem_votes": 295,
+      "dem_votes": 298,
       "rep_votes": 25,
       "other_votes": 8,
-      "total_votes": 328,
+      "total_votes": 332,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -270,
-      "margin_pct": -82.33276513425596,
+      "margin": -273,
+      "margin_pct": -82.22182516639118,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62758,14 +62758,14 @@
         "55025480000129"
       ],
       "election_type": "general",
-      "dem_votes": 1,
-      "rep_votes": 0,
+      "dem_votes": 10,
+      "rep_votes": 1,
       "other_votes": 0,
-      "total_votes": 1,
+      "total_votes": 12,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -1,
-      "margin_pct": -94.41680309634796,
+      "margin": -9,
+      "margin_pct": -74.58703939008896,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62778,14 +62778,14 @@
         "55025480000130"
       ],
       "election_type": "general",
-      "dem_votes": 297,
-      "rep_votes": 23,
+      "dem_votes": 306,
+      "rep_votes": 24,
       "other_votes": 3,
-      "total_votes": 323,
+      "total_votes": 334,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -274,
-      "margin_pct": -84.82972136222911,
+      "margin": -282,
+      "margin_pct": -84.42633869105761,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62798,17 +62798,17 @@
         "55025480000131"
       ],
       "election_type": "general",
-      "dem_votes": 0,
-      "rep_votes": 0,
+      "dem_votes": 9,
+      "rep_votes": 1,
       "other_votes": 0,
-      "total_votes": 0,
+      "total_votes": 11,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": 0,
-      "margin_pct": 0.0,
-      "winner": "TIE",
+      "margin": -8,
+      "margin_pct": -72.20291869353717,
+      "winner": "DEM",
       "competitiveness": {
-        "color": "#9ca3af"
+        "color": "#08306b"
       }
     },
     {
@@ -62821,11 +62821,11 @@
       "dem_votes": 105,
       "rep_votes": 13,
       "other_votes": 3,
-      "total_votes": 121,
+      "total_votes": 122,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -91,
-      "margin_pct": -75.37943045176868,
+      "margin": -92,
+      "margin_pct": -75.37140769605456,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62838,14 +62838,14 @@
         "55025480000133"
       ],
       "election_type": "general",
-      "dem_votes": 183,
-      "rep_votes": 32,
+      "dem_votes": 192,
+      "rep_votes": 33,
       "other_votes": 8,
-      "total_votes": 223,
+      "total_votes": 234,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -151,
-      "margin_pct": -67.71300448430493,
+      "margin": -159,
+      "margin_pct": -67.91782906416437,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62858,14 +62858,14 @@
         "55025480000134"
       ],
       "election_type": "general",
-      "dem_votes": 66,
-      "rep_votes": 12,
+      "dem_votes": 75,
+      "rep_votes": 13,
       "other_votes": 4,
-      "total_votes": 82,
+      "total_votes": 93,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -54,
-      "margin_pct": -65.85406395058172,
+      "margin": -62,
+      "margin_pct": -66.58405947717644,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62878,14 +62878,14 @@
         "55025480000135"
       ],
       "election_type": "general",
-      "dem_votes": 582,
-      "rep_votes": 44,
+      "dem_votes": 591,
+      "rep_votes": 45,
       "other_votes": 5,
-      "total_votes": 631,
+      "total_votes": 642,
       "dem_candidate": "Mark Pocan",
       "rep_candidate": "Erik Olsen",
-      "margin": -538,
-      "margin_pct": -85.26138133617225,
+      "margin": -546,
+      "margin_pct": -85.04456039896563,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -68020,6 +68020,26 @@
       }
     },
     {
+      "county": "MEQUON - C 0007A",
+      "precinct_key": "MEQUON - C 0007A",
+      "geoids": [
+        "5508951150007A"
+      ],
+      "election_type": "general",
+      "dem_votes": 0,
+      "rep_votes": 280,
+      "other_votes": 24,
+      "total_votes": 305,
+      "dem_candidate": "",
+      "rep_candidate": "Glenn Grothman",
+      "margin": 280,
+      "margin_pct": 92.01312910284464,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
       "county": "MEQUON - C 0008",
       "precinct_key": "MEQUON - C 0008",
       "geoids": [
@@ -68084,6 +68104,26 @@
       "precinct_key": "MEQUON - C 0011",
       "geoids": [
         "55089511500011"
+      ],
+      "election_type": "general",
+      "dem_votes": 0,
+      "rep_votes": 400,
+      "other_votes": 39,
+      "total_votes": 439,
+      "dem_candidate": "",
+      "rep_candidate": "Glenn Grothman",
+      "margin": 400,
+      "margin_pct": 91.04704097116844,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
+      "county": "MEQUON - C 0011A",
+      "precinct_key": "MEQUON - C 0011A",
+      "geoids": [
+        "5508951150011A"
       ],
       "election_type": "general",
       "dem_votes": 0,
@@ -68274,46 +68314,6 @@
       "rep_candidate": "Glenn Grothman",
       "margin": 608,
       "margin_pct": 88.62973760932945,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#67000d"
-      }
-    },
-    {
-      "county": "MEQUON - C 007A",
-      "precinct_key": "MEQUON - C 007A",
-      "geoids": [
-        "5508951150007A"
-      ],
-      "election_type": "general",
-      "dem_votes": 0,
-      "rep_votes": 280,
-      "other_votes": 24,
-      "total_votes": 305,
-      "dem_candidate": "",
-      "rep_candidate": "Glenn Grothman",
-      "margin": 280,
-      "margin_pct": 92.01312910284464,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#67000d"
-      }
-    },
-    {
-      "county": "MEQUON - C 011A",
-      "precinct_key": "MEQUON - C 011A",
-      "geoids": [
-        "5508951150011A"
-      ],
-      "election_type": "general",
-      "dem_votes": 0,
-      "rep_votes": 400,
-      "other_votes": 39,
-      "total_votes": 439,
-      "dem_candidate": "",
-      "rep_candidate": "Glenn Grothman",
-      "margin": 400,
-      "margin_pct": 91.04704097116844,
       "winner": "REP",
       "competitiveness": {
         "color": "#67000d"
@@ -69860,6 +69860,26 @@
       }
     },
     {
+      "county": "MIDDLETON - T 0004A",
+      "precinct_key": "MIDDLETON - T 0004A",
+      "geoids": [
+        "5502551600004A"
+      ],
+      "election_type": "general",
+      "dem_votes": 248,
+      "rep_votes": 125,
+      "other_votes": 6,
+      "total_votes": 378,
+      "dem_candidate": "Mark Pocan",
+      "rep_candidate": "Erik Olsen",
+      "margin": -122,
+      "margin_pct": -32.32029598308668,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
       "county": "MIDDLETON - T 0005",
       "precinct_key": "MIDDLETON - T 0005",
       "geoids": [
@@ -69940,28 +69960,8 @@
       }
     },
     {
-      "county": "MIDDLETON - T 004A",
-      "precinct_key": "MIDDLETON - T 004A",
-      "geoids": [
-        "5502551600004A"
-      ],
-      "election_type": "general",
-      "dem_votes": 248,
-      "rep_votes": 125,
-      "other_votes": 6,
-      "total_votes": 378,
-      "dem_candidate": "Mark Pocan",
-      "rep_candidate": "Erik Olsen",
-      "margin": -122,
-      "margin_pct": -32.32029598308668,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      }
-    },
-    {
-      "county": "MIDDLETON - T 008A",
-      "precinct_key": "MIDDLETON - T 008A",
+      "county": "MIDDLETON - T 0008A",
+      "precinct_key": "MIDDLETON - T 0008A",
       "geoids": [
         "5502551600008A"
       ],
@@ -86319,14 +86319,14 @@
         "55133592500001"
       ],
       "election_type": "general",
-      "dem_votes": 328,
-      "rep_votes": 545,
+      "dem_votes": 461,
+      "rep_votes": 912,
       "other_votes": 1,
-      "total_votes": 874,
+      "total_votes": 1374,
       "dem_candidate": "Mike Van Someren",
       "rep_candidate": "Scott Fitzgerald",
-      "margin": 218,
-      "margin_pct": 24.914154902708887,
+      "margin": 451,
+      "margin_pct": 32.81979741614606,
       "winner": "REP",
       "competitiveness": {
         "color": "#67000d"
@@ -86339,14 +86339,14 @@
         "55133592500002"
       ],
       "election_type": "general",
-      "dem_votes": 328,
-      "rep_votes": 545,
+      "dem_votes": 461,
+      "rep_votes": 912,
       "other_votes": 1,
-      "total_votes": 874,
+      "total_votes": 1374,
       "dem_candidate": "Mike Van Someren",
       "rep_candidate": "Scott Fitzgerald",
-      "margin": 218,
-      "margin_pct": 24.914154902708887,
+      "margin": 451,
+      "margin_pct": 32.81979741614606,
       "winner": "REP",
       "competitiveness": {
         "color": "#67000d"
@@ -86379,14 +86379,14 @@
         "55133592500004"
       ],
       "election_type": "general",
-      "dem_votes": 318,
-      "rep_votes": 498,
+      "dem_votes": 452,
+      "rep_votes": 865,
       "other_votes": 0,
-      "total_votes": 817,
+      "total_votes": 1317,
       "dem_candidate": "Mike Van Someren",
       "rep_candidate": "Scott Fitzgerald",
-      "margin": 180,
-      "margin_pct": 22.000000000000004,
+      "margin": 413,
+      "margin_pct": 31.354806049484278,
       "winner": "REP",
       "competitiveness": {
         "color": "#67000d"
@@ -86399,14 +86399,14 @@
         "55133592500005"
       ],
       "election_type": "general",
-      "dem_votes": 318,
-      "rep_votes": 498,
-      "other_votes": 0,
-      "total_votes": 817,
+      "dem_votes": 476,
+      "rep_votes": 907,
+      "other_votes": 1,
+      "total_votes": 1385,
       "dem_candidate": "Mike Van Someren",
       "rep_candidate": "Scott Fitzgerald",
-      "margin": 180,
-      "margin_pct": 22.000000000000004,
+      "margin": 431,
+      "margin_pct": 31.150698122291764,
       "winner": "REP",
       "competitiveness": {
         "color": "#67000d"
@@ -86459,14 +86459,14 @@
         "55133592500008"
       ],
       "election_type": "general",
-      "dem_votes": 289,
-      "rep_votes": 530,
-      "other_votes": 0,
-      "total_votes": 819,
+      "dem_votes": 447,
+      "rep_votes": 940,
+      "other_votes": 1,
+      "total_votes": 1387,
       "dem_candidate": "Mike Van Someren",
       "rep_candidate": "Scott Fitzgerald",
-      "margin": 241,
-      "margin_pct": 29.45484133441822,
+      "margin": 493,
+      "margin_pct": 35.535800096107636,
       "winner": "REP",
       "competitiveness": {
         "color": "#67000d"
@@ -86479,14 +86479,14 @@
         "55133592500009"
       ],
       "election_type": "general",
-      "dem_votes": 289,
-      "rep_votes": 530,
-      "other_votes": 0,
-      "total_votes": 819,
+      "dem_votes": 447,
+      "rep_votes": 940,
+      "other_votes": 1,
+      "total_votes": 1387,
       "dem_candidate": "Mike Van Someren",
       "rep_candidate": "Scott Fitzgerald",
-      "margin": 241,
-      "margin_pct": 29.45484133441822,
+      "margin": 493,
+      "margin_pct": 35.535800096107636,
       "winner": "REP",
       "competitiveness": {
         "color": "#67000d"
@@ -86499,14 +86499,14 @@
         "55133592500010"
       ],
       "election_type": "general",
-      "dem_votes": 277,
-      "rep_votes": 495,
+      "dem_votes": 410,
+      "rep_votes": 861,
       "other_votes": 0,
-      "total_votes": 772,
+      "total_votes": 1272,
       "dem_candidate": "Mike Van Someren",
       "rep_candidate": "Scott Fitzgerald",
-      "margin": 218,
-      "margin_pct": 28.195164075993084,
+      "margin": 451,
+      "margin_pct": 35.44245758826226,
       "winner": "REP",
       "competitiveness": {
         "color": "#67000d"
@@ -86553,200 +86553,20 @@
       }
     },
     {
-      "county": "OCONOMOWOC - T 0001",
-      "precinct_key": "OCONOMOWOC - T 0001",
-      "geoids": [
-        "55133592750001"
-      ],
-      "election_type": "general",
-      "dem_votes": 134,
-      "rep_votes": 367,
-      "other_votes": 0,
-      "total_votes": 500,
-      "dem_candidate": "Mike Van Someren",
-      "rep_candidate": "Scott Fitzgerald",
-      "margin": 233,
-      "margin_pct": 46.62668665667166,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#67000d"
-      }
-    },
-    {
-      "county": "OCONOMOWOC - T 0002",
-      "precinct_key": "OCONOMOWOC - T 0002",
-      "geoids": [
-        "55133592750002"
-      ],
-      "election_type": "general",
-      "dem_votes": 134,
-      "rep_votes": 367,
-      "other_votes": 0,
-      "total_votes": 500,
-      "dem_candidate": "Mike Van Someren",
-      "rep_candidate": "Scott Fitzgerald",
-      "margin": 233,
-      "margin_pct": 46.62668665667166,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#67000d"
-      }
-    },
-    {
-      "county": "OCONOMOWOC - T 0003",
-      "precinct_key": "OCONOMOWOC - T 0003",
-      "geoids": [
-        "55133592750003"
-      ],
-      "election_type": "general",
-      "dem_votes": 116,
-      "rep_votes": 267,
-      "other_votes": 0,
-      "total_votes": 384,
-      "dem_candidate": "Mike Van Someren",
-      "rep_candidate": "Scott Fitzgerald",
-      "margin": 151,
-      "margin_pct": 39.3485342019544,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#67000d"
-      }
-    },
-    {
-      "county": "OCONOMOWOC - T 0004",
-      "precinct_key": "OCONOMOWOC - T 0004",
-      "geoids": [
-        "55133592750004"
-      ],
-      "election_type": "general",
-      "dem_votes": 134,
-      "rep_votes": 367,
-      "other_votes": 0,
-      "total_votes": 500,
-      "dem_candidate": "Mike Van Someren",
-      "rep_candidate": "Scott Fitzgerald",
-      "margin": 233,
-      "margin_pct": 46.62668665667166,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#67000d"
-      }
-    },
-    {
-      "county": "OCONOMOWOC - T 0005",
-      "precinct_key": "OCONOMOWOC - T 0005",
-      "geoids": [
-        "55133592750005"
-      ],
-      "election_type": "general",
-      "dem_votes": 158,
-      "rep_votes": 409,
-      "other_votes": 1,
-      "total_votes": 568,
-      "dem_candidate": "Mike Van Someren",
-      "rep_candidate": "Scott Fitzgerald",
-      "margin": 252,
-      "margin_pct": 44.3075117370892,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#67000d"
-      }
-    },
-    {
       "county": "OCONOMOWOC - T 0006",
       "precinct_key": "OCONOMOWOC - T 0006",
       "geoids": [
         "55133592750006"
       ],
       "election_type": "general",
-      "dem_votes": 116,
-      "rep_votes": 267,
+      "dem_votes": 232,
+      "rep_votes": 534,
       "other_votes": 0,
-      "total_votes": 384,
+      "total_votes": 768,
       "dem_candidate": "Mike Van Someren",
       "rep_candidate": "Scott Fitzgerald",
-      "margin": 151,
+      "margin": 302,
       "margin_pct": 39.3485342019544,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#67000d"
-      }
-    },
-    {
-      "county": "OCONOMOWOC - T 0007",
-      "precinct_key": "OCONOMOWOC - T 0007",
-      "geoids": [
-        "55133592750007"
-      ],
-      "election_type": "general",
-      "dem_votes": 116,
-      "rep_votes": 267,
-      "other_votes": 0,
-      "total_votes": 384,
-      "dem_candidate": "Mike Van Someren",
-      "rep_candidate": "Scott Fitzgerald",
-      "margin": 151,
-      "margin_pct": 39.3485342019544,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#67000d"
-      }
-    },
-    {
-      "county": "OCONOMOWOC - T 0008",
-      "precinct_key": "OCONOMOWOC - T 0008",
-      "geoids": [
-        "55133592750008"
-      ],
-      "election_type": "general",
-      "dem_votes": 158,
-      "rep_votes": 409,
-      "other_votes": 1,
-      "total_votes": 568,
-      "dem_candidate": "Mike Van Someren",
-      "rep_candidate": "Scott Fitzgerald",
-      "margin": 252,
-      "margin_pct": 44.3075117370892,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#67000d"
-      }
-    },
-    {
-      "county": "OCONOMOWOC - T 0009",
-      "precinct_key": "OCONOMOWOC - T 0009",
-      "geoids": [
-        "55133592750009"
-      ],
-      "election_type": "general",
-      "dem_votes": 158,
-      "rep_votes": 409,
-      "other_votes": 1,
-      "total_votes": 568,
-      "dem_candidate": "Mike Van Someren",
-      "rep_candidate": "Scott Fitzgerald",
-      "margin": 252,
-      "margin_pct": 44.3075117370892,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#67000d"
-      }
-    },
-    {
-      "county": "OCONOMOWOC - T 0010",
-      "precinct_key": "OCONOMOWOC - T 0010",
-      "geoids": [
-        "55133592750010"
-      ],
-      "election_type": "general",
-      "dem_votes": 134,
-      "rep_votes": 367,
-      "other_votes": 0,
-      "total_votes": 500,
-      "dem_candidate": "Mike Van Someren",
-      "rep_candidate": "Scott Fitzgerald",
-      "margin": 233,
-      "margin_pct": 46.62668665667166,
       "winner": "REP",
       "competitiveness": {
         "color": "#67000d"
@@ -86759,13 +86579,13 @@
         "55133592750011"
       ],
       "election_type": "general",
-      "dem_votes": 116,
-      "rep_votes": 267,
+      "dem_votes": 232,
+      "rep_votes": 534,
       "other_votes": 0,
-      "total_votes": 384,
+      "total_votes": 768,
       "dem_candidate": "Mike Van Someren",
       "rep_candidate": "Scott Fitzgerald",
-      "margin": 151,
+      "margin": 302,
       "margin_pct": 39.3485342019544,
       "winner": "REP",
       "competitiveness": {
@@ -124262,6 +124082,46 @@
       }
     },
     {
+      "county": "WAUWATOSA - C 0002A",
+      "precinct_key": "WAUWATOSA - C 0002A",
+      "geoids": [
+        "5507984675002A"
+      ],
+      "election_type": "general",
+      "dem_votes": 772,
+      "rep_votes": 330,
+      "other_votes": 27,
+      "total_votes": 1129,
+      "dem_candidate": "Gwen Moore",
+      "rep_candidate": "Tim Rogers",
+      "margin": -442,
+      "margin_pct": -39.14968999114261,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "WAUWATOSA - C 0002B",
+      "precinct_key": "WAUWATOSA - C 0002B",
+      "geoids": [
+        "5507984675002B"
+      ],
+      "election_type": "general",
+      "dem_votes": 53,
+      "rep_votes": 23,
+      "other_votes": 3,
+      "total_votes": 79,
+      "dem_candidate": "Gwen Moore",
+      "rep_candidate": "Tim Rogers",
+      "margin": -30,
+      "margin_pct": -37.9746835443038,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
       "county": "WAUWATOSA - C 0003",
       "precinct_key": "WAUWATOSA - C 0003",
       "geoids": [
@@ -124276,6 +124136,46 @@
       "rep_candidate": "Tim Rogers",
       "margin": -469,
       "margin_pct": -49.00731452455591,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "WAUWATOSA - C 0004A",
+      "precinct_key": "WAUWATOSA - C 0004A",
+      "geoids": [
+        "5507984675004A"
+      ],
+      "election_type": "general",
+      "dem_votes": 444,
+      "rep_votes": 148,
+      "other_votes": 17,
+      "total_votes": 609,
+      "dem_candidate": "Gwen Moore",
+      "rep_candidate": "Tim Rogers",
+      "margin": -296,
+      "margin_pct": -48.60426929392447,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "WAUWATOSA - C 0004B",
+      "precinct_key": "WAUWATOSA - C 0004B",
+      "geoids": [
+        "5507984675004B"
+      ],
+      "election_type": "general",
+      "dem_votes": 323,
+      "rep_votes": 122,
+      "other_votes": 7,
+      "total_votes": 452,
+      "dem_candidate": "Gwen Moore",
+      "rep_candidate": "Tim Rogers",
+      "margin": -201,
+      "margin_pct": -44.469026548672566,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -124299,6 +124199,126 @@
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
+      }
+    },
+    {
+      "county": "WAUWATOSA - C 0006A",
+      "precinct_key": "WAUWATOSA - C 0006A",
+      "geoids": [
+        "5507984675006A"
+      ],
+      "election_type": "general",
+      "dem_votes": 280,
+      "rep_votes": 119,
+      "other_votes": 3,
+      "total_votes": 402,
+      "dem_candidate": "Gwen Moore",
+      "rep_candidate": "Tim Rogers",
+      "margin": -161,
+      "margin_pct": -40.049751243781095,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "WAUWATOSA - C 0006B",
+      "precinct_key": "WAUWATOSA - C 0006B",
+      "geoids": [
+        "5507984675006B"
+      ],
+      "election_type": "general",
+      "dem_votes": 477,
+      "rep_votes": 215,
+      "other_votes": 11,
+      "total_votes": 703,
+      "dem_candidate": "Gwen Moore",
+      "rep_candidate": "Tim Rogers",
+      "margin": -262,
+      "margin_pct": -37.26884779516359,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "WAUWATOSA - C 0007A",
+      "precinct_key": "WAUWATOSA - C 0007A",
+      "geoids": [
+        "5507984675007A"
+      ],
+      "election_type": "general",
+      "dem_votes": 331,
+      "rep_votes": 228,
+      "other_votes": 9,
+      "total_votes": 568,
+      "dem_candidate": "Gwen Moore",
+      "rep_candidate": "Tim Rogers",
+      "margin": -103,
+      "margin_pct": -18.133802816901408,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      }
+    },
+    {
+      "county": "WAUWATOSA - C 0007B",
+      "precinct_key": "WAUWATOSA - C 0007B",
+      "geoids": [
+        "5507984675007B"
+      ],
+      "election_type": "general",
+      "dem_votes": 331,
+      "rep_votes": 228,
+      "other_votes": 9,
+      "total_votes": 568,
+      "dem_candidate": "Gwen Moore",
+      "rep_candidate": "Tim Rogers",
+      "margin": -103,
+      "margin_pct": -18.133802816901408,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      }
+    },
+    {
+      "county": "WAUWATOSA - C 0008A",
+      "precinct_key": "WAUWATOSA - C 0008A",
+      "geoids": [
+        "5507984675008A"
+      ],
+      "election_type": "general",
+      "dem_votes": 252,
+      "rep_votes": 224,
+      "other_votes": 10,
+      "total_votes": 486,
+      "dem_candidate": "Gwen Moore",
+      "rep_candidate": "Tim Rogers",
+      "margin": -28,
+      "margin_pct": -5.755395683453238,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#6baed6"
+      }
+    },
+    {
+      "county": "WAUWATOSA - C 0008B",
+      "precinct_key": "WAUWATOSA - C 0008B",
+      "geoids": [
+        "5507984675008B"
+      ],
+      "election_type": "general",
+      "dem_votes": 252,
+      "rep_votes": 224,
+      "other_votes": 10,
+      "total_votes": 486,
+      "dem_candidate": "Gwen Moore",
+      "rep_candidate": "Tim Rogers",
+      "margin": -28,
+      "margin_pct": -5.755395683453238,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#6baed6"
       }
     },
     {
@@ -124356,6 +124376,46 @@
       "rep_candidate": "Tim Rogers",
       "margin": -312,
       "margin_pct": -25.345247766043865,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "WAUWATOSA - C 0012A",
+      "precinct_key": "WAUWATOSA - C 0012A",
+      "geoids": [
+        "5507984675012A"
+      ],
+      "election_type": "general",
+      "dem_votes": 0,
+      "rep_votes": 0,
+      "other_votes": 0,
+      "total_votes": 0,
+      "dem_candidate": "Gwen Moore",
+      "rep_candidate": "Tim Rogers",
+      "margin": 0,
+      "margin_pct": 0.0,
+      "winner": "TIE",
+      "competitiveness": {
+        "color": "#9ca3af"
+      }
+    },
+    {
+      "county": "WAUWATOSA - C 0012B",
+      "precinct_key": "WAUWATOSA - C 0012B",
+      "geoids": [
+        "5507984675012B"
+      ],
+      "election_type": "general",
+      "dem_votes": 728,
+      "rep_votes": 394,
+      "other_votes": 24,
+      "total_votes": 1146,
+      "dem_candidate": "Gwen Moore",
+      "rep_candidate": "Tim Rogers",
+      "margin": -334,
+      "margin_pct": -29.144851657940663,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -124582,248 +124642,8 @@
       }
     },
     {
-      "county": "WAUWATOSA - C 002A",
-      "precinct_key": "WAUWATOSA - C 002A",
-      "geoids": [
-        "5507984675002A"
-      ],
-      "election_type": "general",
-      "dem_votes": 772,
-      "rep_votes": 330,
-      "other_votes": 27,
-      "total_votes": 1129,
-      "dem_candidate": "Gwen Moore",
-      "rep_candidate": "Tim Rogers",
-      "margin": -442,
-      "margin_pct": -39.14968999114261,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      }
-    },
-    {
-      "county": "WAUWATOSA - C 002B",
-      "precinct_key": "WAUWATOSA - C 002B",
-      "geoids": [
-        "5507984675002B"
-      ],
-      "election_type": "general",
-      "dem_votes": 53,
-      "rep_votes": 23,
-      "other_votes": 3,
-      "total_votes": 79,
-      "dem_candidate": "Gwen Moore",
-      "rep_candidate": "Tim Rogers",
-      "margin": -30,
-      "margin_pct": -37.9746835443038,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      }
-    },
-    {
-      "county": "WAUWATOSA - C 004A",
-      "precinct_key": "WAUWATOSA - C 004A",
-      "geoids": [
-        "5507984675004A"
-      ],
-      "election_type": "general",
-      "dem_votes": 444,
-      "rep_votes": 148,
-      "other_votes": 17,
-      "total_votes": 609,
-      "dem_candidate": "Gwen Moore",
-      "rep_candidate": "Tim Rogers",
-      "margin": -296,
-      "margin_pct": -48.60426929392447,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      }
-    },
-    {
-      "county": "WAUWATOSA - C 004B",
-      "precinct_key": "WAUWATOSA - C 004B",
-      "geoids": [
-        "5507984675004B"
-      ],
-      "election_type": "general",
-      "dem_votes": 323,
-      "rep_votes": 122,
-      "other_votes": 7,
-      "total_votes": 452,
-      "dem_candidate": "Gwen Moore",
-      "rep_candidate": "Tim Rogers",
-      "margin": -201,
-      "margin_pct": -44.469026548672566,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      }
-    },
-    {
-      "county": "WAUWATOSA - C 006A",
-      "precinct_key": "WAUWATOSA - C 006A",
-      "geoids": [
-        "5507984675006A"
-      ],
-      "election_type": "general",
-      "dem_votes": 280,
-      "rep_votes": 119,
-      "other_votes": 3,
-      "total_votes": 402,
-      "dem_candidate": "Gwen Moore",
-      "rep_candidate": "Tim Rogers",
-      "margin": -161,
-      "margin_pct": -40.049751243781095,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      }
-    },
-    {
-      "county": "WAUWATOSA - C 006B",
-      "precinct_key": "WAUWATOSA - C 006B",
-      "geoids": [
-        "5507984675006B"
-      ],
-      "election_type": "general",
-      "dem_votes": 477,
-      "rep_votes": 215,
-      "other_votes": 11,
-      "total_votes": 703,
-      "dem_candidate": "Gwen Moore",
-      "rep_candidate": "Tim Rogers",
-      "margin": -262,
-      "margin_pct": -37.26884779516359,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      }
-    },
-    {
-      "county": "WAUWATOSA - C 007A",
-      "precinct_key": "WAUWATOSA - C 007A",
-      "geoids": [
-        "5507984675007A"
-      ],
-      "election_type": "general",
-      "dem_votes": 331,
-      "rep_votes": 228,
-      "other_votes": 9,
-      "total_votes": 568,
-      "dem_candidate": "Gwen Moore",
-      "rep_candidate": "Tim Rogers",
-      "margin": -103,
-      "margin_pct": -18.133802816901408,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#2171b5"
-      }
-    },
-    {
-      "county": "WAUWATOSA - C 007B",
-      "precinct_key": "WAUWATOSA - C 007B",
-      "geoids": [
-        "5507984675007B"
-      ],
-      "election_type": "general",
-      "dem_votes": 331,
-      "rep_votes": 228,
-      "other_votes": 9,
-      "total_votes": 568,
-      "dem_candidate": "Gwen Moore",
-      "rep_candidate": "Tim Rogers",
-      "margin": -103,
-      "margin_pct": -18.133802816901408,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#2171b5"
-      }
-    },
-    {
-      "county": "WAUWATOSA - C 008A",
-      "precinct_key": "WAUWATOSA - C 008A",
-      "geoids": [
-        "5507984675008A"
-      ],
-      "election_type": "general",
-      "dem_votes": 252,
-      "rep_votes": 224,
-      "other_votes": 10,
-      "total_votes": 486,
-      "dem_candidate": "Gwen Moore",
-      "rep_candidate": "Tim Rogers",
-      "margin": -28,
-      "margin_pct": -5.755395683453238,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#6baed6"
-      }
-    },
-    {
-      "county": "WAUWATOSA - C 008B",
-      "precinct_key": "WAUWATOSA - C 008B",
-      "geoids": [
-        "5507984675008B"
-      ],
-      "election_type": "general",
-      "dem_votes": 252,
-      "rep_votes": 224,
-      "other_votes": 10,
-      "total_votes": 486,
-      "dem_candidate": "Gwen Moore",
-      "rep_candidate": "Tim Rogers",
-      "margin": -28,
-      "margin_pct": -5.755395683453238,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#6baed6"
-      }
-    },
-    {
-      "county": "WAUWATOSA - C 012A",
-      "precinct_key": "WAUWATOSA - C 012A",
-      "geoids": [
-        "5507984675012A"
-      ],
-      "election_type": "general",
-      "dem_votes": 0,
-      "rep_votes": 0,
-      "other_votes": 0,
-      "total_votes": 0,
-      "dem_candidate": "Gwen Moore",
-      "rep_candidate": "Tim Rogers",
-      "margin": 0,
-      "margin_pct": 0.0,
-      "winner": "TIE",
-      "competitiveness": {
-        "color": "#9ca3af"
-      }
-    },
-    {
-      "county": "WAUWATOSA - C 012B",
-      "precinct_key": "WAUWATOSA - C 012B",
-      "geoids": [
-        "5507984675012B"
-      ],
-      "election_type": "general",
-      "dem_votes": 728,
-      "rep_votes": 394,
-      "other_votes": 24,
-      "total_votes": 1146,
-      "dem_candidate": "Gwen Moore",
-      "rep_candidate": "Tim Rogers",
-      "margin": -334,
-      "margin_pct": -29.144851657940663,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      }
-    },
-    {
-      "county": "WAUWATOSA - C 024A",
-      "precinct_key": "WAUWATOSA - C 024A",
+      "county": "WAUWATOSA - C 0024A",
+      "precinct_key": "WAUWATOSA - C 0024A",
       "geoids": [
         "5507984675024A"
       ],
@@ -124842,8 +124662,8 @@
       }
     },
     {
-      "county": "WAUWATOSA - C 024B",
-      "precinct_key": "WAUWATOSA - C 024B",
+      "county": "WAUWATOSA - C 0024B",
+      "precinct_key": "WAUWATOSA - C 0024B",
       "geoids": [
         "5507984675024B"
       ],
@@ -130474,8 +130294,8 @@
       }
     },
     {
-      "county": "WOLF RIVER - T 002A",
-      "precinct_key": "WOLF RIVER - T 002A",
+      "county": "WOLF RIVER - T 0002A",
+      "precinct_key": "WOLF RIVER - T 0002A",
       "geoids": [
         "5513988475002A"
       ],
@@ -130494,8 +130314,8 @@
       }
     },
     {
-      "county": "WOLF RIVER - T 002B",
-      "precinct_key": "WOLF RIVER - T 002B",
+      "county": "WOLF RIVER - T 0002B",
+      "precinct_key": "WOLF RIVER - T 0002B",
       "geoids": [
         "5513988475002B"
       ],

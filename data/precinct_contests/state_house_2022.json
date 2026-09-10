@@ -18266,6 +18266,26 @@
       }
     },
     {
+      "county": "CHIPPEWA FALLS - C 0001A",
+      "precinct_key": "CHIPPEWA FALLS - C 0001A",
+      "geoids": [
+        "5501714575001A"
+      ],
+      "election_type": "general",
+      "dem_votes": 108,
+      "rep_votes": 134,
+      "other_votes": 0,
+      "total_votes": 242,
+      "dem_candidate": "Jason D. Bennett",
+      "rep_candidate": "Rob Summerfield",
+      "margin": 26,
+      "margin_pct": 10.881542699724523,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#cb181d"
+      }
+    },
+    {
       "county": "CHIPPEWA FALLS - C 0002",
       "precinct_key": "CHIPPEWA FALLS - C 0002",
       "geoids": [
@@ -18446,6 +18466,26 @@
       }
     },
     {
+      "county": "CHIPPEWA FALLS - C 0010A",
+      "precinct_key": "CHIPPEWA FALLS - C 0010A",
+      "geoids": [
+        "5501714575010A"
+      ],
+      "election_type": "general",
+      "dem_votes": 100,
+      "rep_votes": 97,
+      "other_votes": 0,
+      "total_votes": 197,
+      "dem_candidate": "Jason D. Bennett",
+      "rep_candidate": "Rob Summerfield",
+      "margin": -3,
+      "margin_pct": -1.5202702702702704,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#c6dbef"
+      }
+    },
+    {
       "county": "CHIPPEWA FALLS - C 0011",
       "precinct_key": "CHIPPEWA FALLS - C 0011",
       "geoids": [
@@ -18543,46 +18583,6 @@
       "winner": "REP",
       "competitiveness": {
         "color": "#fb6a4a"
-      }
-    },
-    {
-      "county": "CHIPPEWA FALLS - C 001A",
-      "precinct_key": "CHIPPEWA FALLS - C 001A",
-      "geoids": [
-        "5501714575001A"
-      ],
-      "election_type": "general",
-      "dem_votes": 108,
-      "rep_votes": 134,
-      "other_votes": 0,
-      "total_votes": 242,
-      "dem_candidate": "Jason D. Bennett",
-      "rep_candidate": "Rob Summerfield",
-      "margin": 26,
-      "margin_pct": 10.881542699724523,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#cb181d"
-      }
-    },
-    {
-      "county": "CHIPPEWA FALLS - C 010A",
-      "precinct_key": "CHIPPEWA FALLS - C 010A",
-      "geoids": [
-        "5501714575010A"
-      ],
-      "election_type": "general",
-      "dem_votes": 100,
-      "rep_votes": 97,
-      "other_votes": 0,
-      "total_votes": 197,
-      "dem_candidate": "Jason D. Bennett",
-      "rep_candidate": "Rob Summerfield",
-      "margin": -3,
-      "margin_pct": -1.5202702702702704,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#c6dbef"
       }
     },
     {
@@ -33080,7 +33080,7 @@
       "county": "FOND DU LAC - C 0020",
       "precinct_key": "FOND DU LAC - C 0020",
       "geoids": [
-        "55039262750020"
+        "550392627500020"
       ],
       "election_type": "general",
       "dem_votes": 458,
@@ -33100,7 +33100,7 @@
       "county": "FOND DU LAC - C 0021",
       "precinct_key": "FOND DU LAC - C 0021",
       "geoids": [
-        "55039262750021"
+        "550392627500021"
       ],
       "election_type": "general",
       "dem_votes": 416,
@@ -33120,7 +33120,7 @@
       "county": "FOND DU LAC - C 0022",
       "precinct_key": "FOND DU LAC - C 0022",
       "geoids": [
-        "55039262750022"
+        "550392627500022"
       ],
       "election_type": "general",
       "dem_votes": 312,
@@ -39365,10 +39365,50 @@
       }
     },
     {
+      "county": "GREEN BAY - C 0011A",
+      "precinct_key": "GREEN BAY - C 0011A",
+      "geoids": [
+        "5500931000011A"
+      ],
+      "election_type": "general",
+      "dem_votes": 172,
+      "rep_votes": 168,
+      "other_votes": 0,
+      "total_votes": 340,
+      "dem_candidate": "Hannah Beauchamp-Pope",
+      "rep_candidate": "John Macco",
+      "margin": -5,
+      "margin_pct": -1.4705882352941175,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#c6dbef"
+      }
+    },
+    {
       "county": "GREEN BAY - C 0012",
       "precinct_key": "GREEN BAY - C 0012",
       "geoids": [
         "55009310000012"
+      ],
+      "election_type": "general",
+      "dem_votes": 90,
+      "rep_votes": 78,
+      "other_votes": 0,
+      "total_votes": 167,
+      "dem_candidate": "Hannah Beauchamp-Pope",
+      "rep_candidate": "John Macco",
+      "margin": -12,
+      "margin_pct": -7.18562874251497,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#6baed6"
+      }
+    },
+    {
+      "county": "GREEN BAY - C 0012A",
+      "precinct_key": "GREEN BAY - C 0012A",
+      "geoids": [
+        "5500931000012A"
       ],
       "election_type": "general",
       "dem_votes": 90,
@@ -39885,6 +39925,26 @@
       }
     },
     {
+      "county": "GREEN BAY - C 0037A",
+      "precinct_key": "GREEN BAY - C 0037A",
+      "geoids": [
+        "5500931000037A"
+      ],
+      "election_type": "general",
+      "dem_votes": 240,
+      "rep_votes": 192,
+      "other_votes": 1,
+      "total_votes": 432,
+      "dem_candidate": "Kristina Shelton",
+      "rep_candidate": "Micah J. Behnke",
+      "margin": -48,
+      "margin_pct": -11.11111111111111,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      }
+    },
+    {
       "county": "GREEN BAY - C 0038",
       "precinct_key": "GREEN BAY - C 0038",
       "geoids": [
@@ -40045,6 +40105,26 @@
       }
     },
     {
+      "county": "GREEN BAY - C 0045A",
+      "precinct_key": "GREEN BAY - C 0045A",
+      "geoids": [
+        "5500931000045A"
+      ],
+      "election_type": "general",
+      "dem_votes": 293,
+      "rep_votes": 406,
+      "other_votes": 0,
+      "total_votes": 700,
+      "dem_candidate": "Derek Teague",
+      "rep_candidate": "David Steffen",
+      "margin": 113,
+      "margin_pct": 16.154395997140814,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#cb181d"
+      }
+    },
+    {
       "county": "GREEN BAY - C 0046",
       "precinct_key": "GREEN BAY - C 0046",
       "geoids": [
@@ -40079,86 +40159,6 @@
       "rep_candidate": "David Steffen",
       "margin": 250,
       "margin_pct": 15.822784810126583,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#cb181d"
-      }
-    },
-    {
-      "county": "GREEN BAY - C 011A",
-      "precinct_key": "GREEN BAY - C 011A",
-      "geoids": [
-        "5500931000011A"
-      ],
-      "election_type": "general",
-      "dem_votes": 172,
-      "rep_votes": 168,
-      "other_votes": 0,
-      "total_votes": 340,
-      "dem_candidate": "Hannah Beauchamp-Pope",
-      "rep_candidate": "John Macco",
-      "margin": -5,
-      "margin_pct": -1.4705882352941175,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#c6dbef"
-      }
-    },
-    {
-      "county": "GREEN BAY - C 012A",
-      "precinct_key": "GREEN BAY - C 012A",
-      "geoids": [
-        "5500931000012A"
-      ],
-      "election_type": "general",
-      "dem_votes": 90,
-      "rep_votes": 78,
-      "other_votes": 0,
-      "total_votes": 167,
-      "dem_candidate": "Hannah Beauchamp-Pope",
-      "rep_candidate": "John Macco",
-      "margin": -12,
-      "margin_pct": -7.18562874251497,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#6baed6"
-      }
-    },
-    {
-      "county": "GREEN BAY - C 037A",
-      "precinct_key": "GREEN BAY - C 037A",
-      "geoids": [
-        "5500931000037A"
-      ],
-      "election_type": "general",
-      "dem_votes": 240,
-      "rep_votes": 192,
-      "other_votes": 1,
-      "total_votes": 432,
-      "dem_candidate": "Kristina Shelton",
-      "rep_candidate": "Micah J. Behnke",
-      "margin": -48,
-      "margin_pct": -11.11111111111111,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#2171b5"
-      }
-    },
-    {
-      "county": "GREEN BAY - C 045A",
-      "precinct_key": "GREEN BAY - C 045A",
-      "geoids": [
-        "5500931000045A"
-      ],
-      "election_type": "general",
-      "dem_votes": 293,
-      "rep_votes": 406,
-      "other_votes": 0,
-      "total_votes": 700,
-      "dem_candidate": "Derek Teague",
-      "rep_candidate": "David Steffen",
-      "margin": 113,
-      "margin_pct": 16.154395997140814,
       "winner": "REP",
       "competitiveness": {
         "color": "#cb181d"
@@ -54505,10 +54505,10 @@
       }
     },
     {
-      "county": "LAC LA BELLE - V 0002",
-      "precinct_key": "LAC LA BELLE - V 0002",
+      "county": "LAC LA BELLE - V 0012",
+      "precinct_key": "LAC LA BELLE - V 0012",
       "geoids": [
-        "55055407500002"
+        "55055407500012"
       ],
       "election_type": "general",
       "dem_votes": 0,
@@ -60198,14 +60198,14 @@
         "55025480000001"
       ],
       "election_type": "general",
-      "dem_votes": 743,
+      "dem_votes": 745,
       "rep_votes": 223,
       "other_votes": 0,
-      "total_votes": 966,
+      "total_votes": 969,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -520,
-      "margin_pct": -53.82154277389972,
+      "margin": -522,
+      "margin_pct": -53.87168564589276,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60218,14 +60218,14 @@
         "55025480000002"
       ],
       "election_type": "general",
-      "dem_votes": 499,
+      "dem_votes": 502,
       "rep_votes": 170,
       "other_votes": 0,
-      "total_votes": 669,
+      "total_votes": 673,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -329,
-      "margin_pct": -49.192002910112585,
+      "margin": -332,
+      "margin_pct": -49.33092503056268,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60245,7 +60245,7 @@
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
       "margin": -582,
-      "margin_pct": -61.208307273124916,
+      "margin_pct": -61.203799668035565,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60261,11 +60261,11 @@
       "dem_votes": 960,
       "rep_votes": 271,
       "other_votes": 3,
-      "total_votes": 1234,
+      "total_votes": 1235,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -688,
-      "margin_pct": -55.78474932917435,
+      "margin": -689,
+      "margin_pct": -55.791488417023174,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60278,14 +60278,14 @@
         "55025480000005"
       ],
       "election_type": "general",
-      "dem_votes": 724,
+      "dem_votes": 727,
       "rep_votes": 1,
       "other_votes": 15,
-      "total_votes": 740,
+      "total_votes": 744,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -723,
-      "margin_pct": -97.71934933891043,
+      "margin": -726,
+      "margin_pct": -97.60813691697714,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60298,14 +60298,14 @@
         "55025480000006"
       ],
       "election_type": "general",
-      "dem_votes": 1280,
-      "rep_votes": 2,
+      "dem_votes": 1277,
+      "rep_votes": 1,
       "other_votes": 20,
-      "total_votes": 1302,
+      "total_votes": 1299,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -1278,
-      "margin_pct": -98.18402057819836,
+      "margin": -1276,
+      "margin_pct": -98.24536384742194,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60318,14 +60318,14 @@
         "55025480000007"
       ],
       "election_type": "general",
-      "dem_votes": 1292,
-      "rep_votes": 358,
+      "dem_votes": 1288,
+      "rep_votes": 357,
       "other_votes": 2,
-      "total_votes": 1652,
+      "total_votes": 1648,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -934,
-      "margin_pct": -56.541826122204895,
+      "margin": -931,
+      "margin_pct": -56.494411524039876,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60338,14 +60338,14 @@
         "55025480000008"
       ],
       "election_type": "general",
-      "dem_votes": 1454,
-      "rep_votes": 2,
+      "dem_votes": 1451,
+      "rep_votes": 1,
       "other_votes": 36,
-      "total_votes": 1492,
+      "total_votes": 1489,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -1452,
-      "margin_pct": -97.34699536815445,
+      "margin": -1450,
+      "margin_pct": -97.394467473141,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60358,14 +60358,14 @@
         "55025480000009"
       ],
       "election_type": "general",
-      "dem_votes": 874,
-      "rep_votes": 2,
+      "dem_votes": 873,
+      "rep_votes": 1,
       "other_votes": 26,
-      "total_votes": 902,
+      "total_votes": 901,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -873,
-      "margin_pct": -96.77642843285722,
+      "margin": -872,
+      "margin_pct": -96.80367174712323,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60385,7 +60385,7 @@
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
       "margin": -1081,
-      "margin_pct": -98.38184193055257,
+      "margin_pct": -98.38106090744198,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60398,14 +60398,14 @@
         "55025480000011"
       ],
       "election_type": "general",
-      "dem_votes": 1308,
-      "rep_votes": 2,
+      "dem_votes": 1305,
+      "rep_votes": 1,
       "other_votes": 21,
-      "total_votes": 1331,
+      "total_votes": 1328,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -1307,
-      "margin_pct": -98.14032911528501,
+      "margin": -1304,
+      "margin_pct": -98.20836727633882,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60418,14 +60418,14 @@
         "55025480000012"
       ],
       "election_type": "general",
-      "dem_votes": 988,
-      "rep_votes": 2,
+      "dem_votes": 982,
+      "rep_votes": 1,
       "other_votes": 19,
-      "total_votes": 1009,
+      "total_votes": 1003,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -986,
-      "margin_pct": -97.66113882874762,
+      "margin": -981,
+      "margin_pct": -97.82706672478888,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60438,14 +60438,14 @@
         "55025480000013"
       ],
       "election_type": "general",
-      "dem_votes": 398,
+      "dem_votes": 401,
       "rep_votes": 1,
       "other_votes": 5,
-      "total_votes": 404,
+      "total_votes": 408,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -397,
-      "margin_pct": -98.3261590924319,
+      "margin": -400,
+      "margin_pct": -98.08985496710405,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60458,14 +60458,14 @@
         "55025480000014"
       ],
       "election_type": "general",
-      "dem_votes": 1136,
-      "rep_votes": 206,
+      "dem_votes": 1134,
+      "rep_votes": 205,
       "other_votes": 0,
-      "total_votes": 1342,
+      "total_votes": 1340,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -930,
-      "margin_pct": -69.34162851190536,
+      "margin": -929,
+      "margin_pct": -69.33455723780979,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60478,14 +60478,14 @@
         "55025480000015"
       ],
       "election_type": "general",
-      "dem_votes": 1312,
+      "dem_votes": 1311,
       "rep_votes": 1,
       "other_votes": 13,
       "total_votes": 1326,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
       "margin": -1310,
-      "margin_pct": -98.79338841075268,
+      "margin_pct": -98.80917788010191,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60498,14 +60498,14 @@
         "55025480000016"
       ],
       "election_type": "general",
-      "dem_votes": 746,
+      "dem_votes": 751,
       "rep_votes": 1,
       "other_votes": 8,
-      "total_votes": 755,
+      "total_votes": 761,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -746,
-      "margin_pct": -98.7657140006174,
+      "margin": -750,
+      "margin_pct": -98.58196090653215,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60518,14 +60518,14 @@
         "55025480000017"
       ],
       "election_type": "general",
-      "dem_votes": 1505,
-      "rep_votes": 2,
+      "dem_votes": 1503,
+      "rep_votes": 1,
       "other_votes": 14,
-      "total_votes": 1521,
+      "total_votes": 1519,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -1504,
-      "margin_pct": -98.8555171802095,
+      "margin": -1502,
+      "margin_pct": -98.89467188925255,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60538,14 +60538,14 @@
         "55025480000018"
       ],
       "election_type": "general",
-      "dem_votes": 1401,
-      "rep_votes": 2,
+      "dem_votes": 1399,
+      "rep_votes": 1,
       "other_votes": 13,
-      "total_votes": 1416,
+      "total_votes": 1414,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -1399,
-      "margin_pct": -98.84709282470074,
+      "margin": -1398,
+      "margin_pct": -98.88331097509851,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60558,14 +60558,14 @@
         "55025480000019"
       ],
       "election_type": "general",
-      "dem_votes": 2040,
-      "rep_votes": 2,
+      "dem_votes": 2034,
+      "rep_votes": 1,
       "other_votes": 14,
-      "total_votes": 2056,
+      "total_votes": 2050,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -2038,
-      "margin_pct": -99.0984315636554,
+      "margin": -2033,
+      "margin_pct": -99.18103884463592,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60578,14 +60578,14 @@
         "55025480000020"
       ],
       "election_type": "general",
-      "dem_votes": 1347,
-      "rep_votes": 2,
+      "dem_votes": 1340,
+      "rep_votes": 1,
       "other_votes": 30,
-      "total_votes": 1380,
+      "total_votes": 1372,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -1345,
-      "margin_pct": -97.46600752543773,
+      "margin": -1339,
+      "margin_pct": -97.60966072952333,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60598,14 +60598,14 @@
         "55025480000021"
       ],
       "election_type": "general",
-      "dem_votes": 416,
+      "dem_votes": 420,
       "rep_votes": 1,
       "other_votes": 13,
-      "total_votes": 429,
+      "total_votes": 435,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -415,
-      "margin_pct": -96.64393036496696,
+      "margin": -419,
+      "margin_pct": -96.36763427480524,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60618,14 +60618,14 @@
         "55025480000022"
       ],
       "election_type": "general",
-      "dem_votes": 854,
+      "dem_votes": 855,
       "rep_votes": 229,
       "other_votes": 0,
-      "total_votes": 1083,
+      "total_votes": 1085,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -625,
-      "margin_pct": -57.68294747484498,
+      "margin": -626,
+      "margin_pct": -57.69890108389054,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60638,14 +60638,14 @@
         "55025480000023"
       ],
       "election_type": "general",
-      "dem_votes": 849,
-      "rep_votes": 255,
+      "dem_votes": 848,
+      "rep_votes": 254,
       "other_votes": 0,
       "total_votes": 1103,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
       "margin": -594,
-      "margin_pct": -53.87040239471824,
+      "margin_pct": -53.85462925016965,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60658,14 +60658,14 @@
         "55025480000024"
       ],
       "election_type": "general",
-      "dem_votes": 684,
-      "rep_votes": 2,
+      "dem_votes": 683,
+      "rep_votes": 1,
       "other_votes": 8,
-      "total_votes": 694,
+      "total_votes": 693,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -683,
-      "margin_pct": -98.39462325776034,
+      "margin": -682,
+      "margin_pct": -98.44273078280588,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60678,14 +60678,14 @@
         "55025480000025"
       ],
       "election_type": "general",
-      "dem_votes": 1272,
-      "rep_votes": 2,
+      "dem_votes": 1266,
+      "rep_votes": 1,
       "other_votes": 33,
-      "total_votes": 1307,
+      "total_votes": 1301,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -1270,
-      "margin_pct": -97.13175553718779,
+      "margin": -1265,
+      "margin_pct": -97.24850065783103,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60698,14 +60698,14 @@
         "55025480000026"
       ],
       "election_type": "general",
-      "dem_votes": 224,
-      "rep_votes": 0,
+      "dem_votes": 231,
+      "rep_votes": 1,
       "other_votes": 0,
-      "total_votes": 225,
+      "total_votes": 233,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -224,
-      "margin_pct": -99.70444787951483,
+      "margin": -230,
+      "margin_pct": -98.80243335350511,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60718,14 +60718,14 @@
         "55025480000027"
       ],
       "election_type": "general",
-      "dem_votes": 397,
+      "dem_votes": 400,
       "rep_votes": 1,
       "other_votes": 5,
-      "total_votes": 402,
+      "total_votes": 407,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -396,
-      "margin_pct": -98.33823811316446,
+      "margin": -399,
+      "margin_pct": -98.0851567766502,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60738,14 +60738,14 @@
         "55025480000028"
       ],
       "election_type": "general",
-      "dem_votes": 1336,
-      "rep_votes": 2,
+      "dem_votes": 1334,
+      "rep_votes": 1,
       "other_votes": 15,
-      "total_votes": 1353,
+      "total_votes": 1351,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -1334,
-      "margin_pct": -98.64514707703007,
+      "margin": -1333,
+      "margin_pct": -98.68313524601402,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60761,11 +60761,11 @@
       "dem_votes": 1282,
       "rep_votes": 1,
       "other_votes": 8,
-      "total_votes": 1291,
+      "total_votes": 1292,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
       "margin": -1281,
-      "margin_pct": -99.16676946675203,
+      "margin_pct": -99.16495566694576,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60778,14 +60778,14 @@
         "55025480000030"
       ],
       "election_type": "general",
-      "dem_votes": 821,
-      "rep_votes": 2,
+      "dem_votes": 820,
+      "rep_votes": 1,
       "other_votes": 17,
-      "total_votes": 840,
+      "total_votes": 839,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -820,
-      "margin_pct": -97.59726070194178,
+      "margin": -819,
+      "margin_pct": -97.64060526292543,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60798,14 +60798,14 @@
         "55025480000031"
       ],
       "election_type": "general",
-      "dem_votes": 751,
+      "dem_votes": 753,
       "rep_votes": 1,
       "other_votes": 12,
-      "total_votes": 764,
+      "total_votes": 767,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -750,
-      "margin_pct": -98.16935617658424,
+      "margin": -752,
+      "margin_pct": -98.07125532675602,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60818,14 +60818,14 @@
         "55025480000032"
       ],
       "election_type": "general",
-      "dem_votes": 1313,
-      "rep_votes": 2,
+      "dem_votes": 1308,
+      "rep_votes": 1,
       "other_votes": 12,
-      "total_votes": 1327,
+      "total_votes": 1322,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -1311,
-      "margin_pct": -98.78413859611206,
+      "margin": -1307,
+      "margin_pct": -98.88124117211845,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60838,14 +60838,14 @@
         "55025480000033"
       ],
       "election_type": "general",
-      "dem_votes": 705,
-      "rep_votes": 2,
+      "dem_votes": 702,
+      "rep_votes": 1,
       "other_votes": 11,
-      "total_votes": 718,
+      "total_votes": 715,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -703,
-      "margin_pct": -97.95598611260417,
+      "margin": -701,
+      "margin_pct": -98.07084287891198,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60858,14 +60858,14 @@
         "55025480000034"
       ],
       "election_type": "general",
-      "dem_votes": 897,
+      "dem_votes": 898,
       "rep_votes": 1,
       "other_votes": 12,
-      "total_votes": 911,
+      "total_votes": 912,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -896,
-      "margin_pct": -98.40578734248217,
+      "margin": -897,
+      "margin_pct": -98.37805333896735,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60878,14 +60878,14 @@
         "55025480000035"
       ],
       "election_type": "general",
-      "dem_votes": 1024,
+      "dem_votes": 1026,
       "rep_votes": 1,
       "other_votes": 20,
-      "total_votes": 1045,
+      "total_votes": 1048,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -1023,
-      "margin_pct": -97.8846107788422,
+      "margin": -1025,
+      "margin_pct": -97.8249494420953,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60898,14 +60898,14 @@
         "55025480000036"
       ],
       "election_type": "general",
-      "dem_votes": 650,
+      "dem_votes": 652,
       "rep_votes": 1,
       "other_votes": 8,
-      "total_votes": 659,
+      "total_votes": 662,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -649,
-      "margin_pct": -98.47941170370754,
+      "margin": -651,
+      "margin_pct": -98.36975994267289,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60918,14 +60918,14 @@
         "55025480000037"
       ],
       "election_type": "general",
-      "dem_votes": 1107,
+      "dem_votes": 1106,
       "rep_votes": 1,
       "other_votes": 21,
       "total_votes": 1129,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
       "margin": -1105,
-      "margin_pct": -97.88271483502761,
+      "margin_pct": -97.89244996947957,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60938,14 +60938,14 @@
         "55025480000038"
       ],
       "election_type": "general",
-      "dem_votes": 726,
-      "rep_votes": 2,
+      "dem_votes": 724,
+      "rep_votes": 1,
       "other_votes": 11,
-      "total_votes": 739,
+      "total_votes": 737,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -724,
-      "margin_pct": -98.05614867451659,
+      "margin": -723,
+      "margin_pct": -98.12846324808675,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60958,14 +60958,14 @@
         "55025480000039"
       ],
       "election_type": "general",
-      "dem_votes": 853,
+      "dem_votes": 852,
       "rep_votes": 150,
       "other_votes": 1,
       "total_votes": 1004,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
       "margin": -702,
-      "margin_pct": -69.93060448882214,
+      "margin_pct": -69.92884663645354,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60978,14 +60978,14 @@
         "55025480000040"
       ],
       "election_type": "general",
-      "dem_votes": 2005,
-      "rep_votes": 2,
+      "dem_votes": 2001,
+      "rep_votes": 1,
       "other_votes": 16,
-      "total_votes": 2022,
+      "total_votes": 2019,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -2003,
-      "margin_pct": -99.0204810959729,
+      "margin": -2000,
+      "margin_pct": -99.06938170395621,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -60998,14 +60998,14 @@
         "55025480000041"
       ],
       "election_type": "general",
-      "dem_votes": 1753,
-      "rep_votes": 2,
+      "dem_votes": 1750,
+      "rep_votes": 1,
       "other_votes": 17,
-      "total_votes": 1772,
+      "total_votes": 1769,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -1751,
-      "margin_pct": -98.83224859043884,
+      "margin": -1749,
+      "margin_pct": -98.88128934439618,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61018,14 +61018,14 @@
         "55025480000042"
       ],
       "election_type": "general",
-      "dem_votes": 1473,
-      "rep_votes": 2,
+      "dem_votes": 1471,
+      "rep_votes": 1,
       "other_votes": 10,
-      "total_votes": 1484,
+      "total_votes": 1483,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -1471,
-      "margin_pct": -99.11031986851152,
+      "margin": -1470,
+      "margin_pct": -99.13763383912823,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61038,14 +61038,14 @@
         "55025480000043"
       ],
       "election_type": "general",
-      "dem_votes": 1698,
-      "rep_votes": 2,
+      "dem_votes": 1692,
+      "rep_votes": 1,
       "other_votes": 31,
-      "total_votes": 1731,
+      "total_votes": 1725,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -1696,
-      "margin_pct": -97.94772721695044,
+      "margin": -1691,
+      "margin_pct": -98.04095061786724,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61061,11 +61061,11 @@
       "dem_votes": 1178,
       "rep_votes": 1,
       "other_votes": 15,
-      "total_votes": 1194,
+      "total_votes": 1195,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -1176,
-      "margin_pct": -98.52691729871862,
+      "margin": -1177,
+      "margin_pct": -98.51116471441769,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61078,14 +61078,14 @@
         "55025480000045"
       ],
       "election_type": "general",
-      "dem_votes": 317,
-      "rep_votes": 0,
+      "dem_votes": 323,
+      "rep_votes": 1,
       "other_votes": 5,
-      "total_votes": 322,
+      "total_votes": 330,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -316,
-      "margin_pct": -98.20161905171629,
+      "margin": -322,
+      "margin_pct": -97.63777757799154,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61098,14 +61098,14 @@
         "55025480000046"
       ],
       "election_type": "general",
-      "dem_votes": 1522,
-      "rep_votes": 2,
+      "dem_votes": 1518,
+      "rep_votes": 1,
       "other_votes": 21,
-      "total_votes": 1545,
+      "total_votes": 1541,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -1520,
-      "margin_pct": -98.37779415240566,
+      "margin": -1517,
+      "margin_pct": -98.45607927799708,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61118,14 +61118,14 @@
         "55025480000047"
       ],
       "election_type": "general",
-      "dem_votes": 1224,
-      "rep_votes": 2,
+      "dem_votes": 1218,
+      "rep_votes": 1,
       "other_votes": 25,
-      "total_votes": 1251,
+      "total_votes": 1245,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -1221,
-      "margin_pct": -97.64462687830508,
+      "margin": -1217,
+      "margin_pct": -97.76748781373313,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61138,14 +61138,14 @@
         "55025480000048"
       ],
       "election_type": "general",
-      "dem_votes": 1300,
-      "rep_votes": 2,
+      "dem_votes": 1295,
+      "rep_votes": 1,
       "other_votes": 35,
-      "total_votes": 1337,
+      "total_votes": 1332,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -1298,
-      "margin_pct": -97.06599981079029,
+      "margin": -1294,
+      "margin_pct": -97.16235911927993,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61158,14 +61158,14 @@
         "55025480000049"
       ],
       "election_type": "general",
-      "dem_votes": 885,
-      "rep_votes": 2,
+      "dem_votes": 882,
+      "rep_votes": 1,
       "other_votes": 18,
-      "total_votes": 905,
+      "total_votes": 902,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -884,
-      "margin_pct": -97.59371125464278,
+      "margin": -881,
+      "margin_pct": -97.69455764427502,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61178,14 +61178,14 @@
         "55025480000050"
       ],
       "election_type": "general",
-      "dem_votes": 710,
+      "dem_votes": 709,
       "rep_votes": 1,
       "other_votes": 13,
       "total_votes": 724,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
       "margin": -708,
-      "margin_pct": -97.79740899725134,
+      "margin_pct": -97.81843123605168,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61198,14 +61198,14 @@
         "55025480000051"
       ],
       "election_type": "general",
-      "dem_votes": 692,
+      "dem_votes": 694,
       "rep_votes": 1,
       "other_votes": 11,
-      "total_votes": 705,
+      "total_votes": 707,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -691,
-      "margin_pct": -98.11600547893303,
+      "margin": -693,
+      "margin_pct": -98.04900038789354,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61218,14 +61218,14 @@
         "55025480000052"
       ],
       "election_type": "general",
-      "dem_votes": 1005,
-      "rep_votes": 2,
+      "dem_votes": 1004,
+      "rep_votes": 1,
       "other_votes": 28,
-      "total_votes": 1035,
+      "total_votes": 1034,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -1004,
-      "margin_pct": -96.9949297500456,
+      "margin": -1003,
+      "margin_pct": -97.02147177708342,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61238,14 +61238,14 @@
         "55025480000053"
       ],
       "election_type": "general",
-      "dem_votes": 1107,
-      "rep_votes": 2,
+      "dem_votes": 1105,
+      "rep_votes": 1,
       "other_votes": 16,
-      "total_votes": 1124,
+      "total_votes": 1123,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -1105,
-      "margin_pct": -98.29213360069245,
+      "margin": -1104,
+      "margin_pct": -98.32659175041405,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61258,14 +61258,14 @@
         "55025480000054"
       ],
       "election_type": "general",
-      "dem_votes": 1251,
-      "rep_votes": 2,
+      "dem_votes": 1245,
+      "rep_votes": 1,
       "other_votes": 31,
-      "total_votes": 1284,
+      "total_votes": 1278,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -1249,
-      "margin_pct": -97.23213244952201,
+      "margin": -1244,
+      "margin_pct": -97.35551277888584,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61278,14 +61278,14 @@
         "55025480000055"
       ],
       "election_type": "general",
-      "dem_votes": 1239,
-      "rep_votes": 2,
+      "dem_votes": 1237,
+      "rep_votes": 1,
       "other_votes": 21,
-      "total_votes": 1261,
+      "total_votes": 1260,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -1237,
-      "margin_pct": -98.07516191143583,
+      "margin": -1236,
+      "margin_pct": -98.11164300584561,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61298,14 +61298,14 @@
         "55025480000056"
       ],
       "election_type": "general",
-      "dem_votes": 522,
+      "dem_votes": 525,
       "rep_votes": 1,
       "other_votes": 15,
-      "total_votes": 538,
+      "total_votes": 542,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -521,
-      "margin_pct": -96.85363258745603,
+      "margin": -524,
+      "margin_pct": -96.71599737389212,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61318,14 +61318,14 @@
         "55025480000057"
       ],
       "election_type": "general",
-      "dem_votes": 1294,
-      "rep_votes": 2,
+      "dem_votes": 1288,
+      "rep_votes": 1,
       "other_votes": 30,
-      "total_votes": 1326,
+      "total_votes": 1320,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -1292,
-      "margin_pct": -97.39890501268299,
+      "margin": -1287,
+      "margin_pct": -97.51546519069056,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61338,14 +61338,14 @@
         "55025480000058"
       ],
       "election_type": "general",
-      "dem_votes": 1196,
-      "rep_votes": 2,
+      "dem_votes": 1193,
+      "rep_votes": 1,
       "other_votes": 25,
-      "total_votes": 1223,
+      "total_votes": 1220,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -1194,
-      "margin_pct": -97.65036813906394,
+      "margin": -1192,
+      "margin_pct": -97.72172349704206,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61358,14 +61358,14 @@
         "55025480000059"
       ],
       "election_type": "general",
-      "dem_votes": 954,
-      "rep_votes": 2,
+      "dem_votes": 948,
+      "rep_votes": 1,
       "other_votes": 12,
-      "total_votes": 969,
+      "total_votes": 962,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -952,
-      "margin_pct": -98.28198925967358,
+      "margin": -947,
+      "margin_pct": -98.46239176655472,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61378,14 +61378,14 @@
         "55025480000060"
       ],
       "election_type": "general",
-      "dem_votes": 712,
-      "rep_votes": 2,
+      "dem_votes": 707,
+      "rep_votes": 1,
       "other_votes": 16,
-      "total_votes": 730,
+      "total_votes": 725,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -710,
-      "margin_pct": -97.22204573399817,
+      "margin": -706,
+      "margin_pct": -97.40740362104748,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61398,14 +61398,14 @@
         "55025480000061"
       ],
       "election_type": "general",
-      "dem_votes": 1053,
+      "dem_votes": 1056,
       "rep_votes": 1,
       "other_votes": 20,
-      "total_votes": 1074,
+      "total_votes": 1078,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -1052,
-      "margin_pct": -97.9589092931061,
+      "margin": -1055,
+      "margin_pct": -97.88550373955124,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61418,14 +61418,14 @@
         "55025480000062"
       ],
       "election_type": "general",
-      "dem_votes": 321,
-      "rep_votes": 2,
+      "dem_votes": 319,
+      "rep_votes": 1,
       "other_votes": 7,
-      "total_votes": 330,
+      "total_votes": 328,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -319,
-      "margin_pct": -96.87280201835105,
+      "margin": -318,
+      "margin_pct": -97.01279905929174,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61438,14 +61438,14 @@
         "55025480000063"
       ],
       "election_type": "general",
-      "dem_votes": 1443,
-      "rep_votes": 3,
+      "dem_votes": 1435,
+      "rep_votes": 1,
       "other_votes": 29,
-      "total_votes": 1474,
+      "total_votes": 1466,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -1440,
-      "margin_pct": -97.68996734043986,
+      "margin": -1434,
+      "margin_pct": -97.83120716495158,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61458,14 +61458,14 @@
         "55025480000064"
       ],
       "election_type": "general",
-      "dem_votes": 774,
+      "dem_votes": 778,
       "rep_votes": 1,
       "other_votes": 4,
-      "total_votes": 779,
+      "total_votes": 784,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -773,
-      "margin_pct": -99.29066948572526,
+      "margin": -777,
+      "margin_pct": -99.13406817795088,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61478,14 +61478,14 @@
         "55025480000065"
       ],
       "election_type": "general",
-      "dem_votes": 1404,
-      "rep_votes": 2,
+      "dem_votes": 1401,
+      "rep_votes": 1,
       "other_votes": 18,
-      "total_votes": 1424,
+      "total_votes": 1421,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -1402,
-      "margin_pct": -98.47999994602476,
+      "margin": -1400,
+      "margin_pct": -98.53684226992809,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61505,7 +61505,7 @@
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
       "margin": -1184,
-      "margin_pct": -98.84843214043832,
+      "margin_pct": -98.84890395368399,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61518,14 +61518,14 @@
         "55025480000067"
       ],
       "election_type": "general",
-      "dem_votes": 1153,
+      "dem_votes": 1154,
       "rep_votes": 1,
       "other_votes": 13,
-      "total_votes": 1167,
+      "total_votes": 1169,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -1152,
-      "margin_pct": -98.67483857561108,
+      "margin": -1153,
+      "margin_pct": -98.64918830860118,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61538,14 +61538,14 @@
         "55025480000068"
       ],
       "election_type": "general",
-      "dem_votes": 685,
+      "dem_votes": 687,
       "rep_votes": 1,
       "other_votes": 7,
-      "total_votes": 693,
+      "total_votes": 696,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -684,
-      "margin_pct": -98.67966296695175,
+      "margin": -686,
+      "margin_pct": -98.59321420204043,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61565,7 +61565,7 @@
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
       "margin": -947,
-      "margin_pct": -97.84463429916761,
+      "margin_pct": -97.85181669244079,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61578,14 +61578,14 @@
         "55025480000070"
       ],
       "election_type": "general",
-      "dem_votes": 1484,
-      "rep_votes": 2,
+      "dem_votes": 1481,
+      "rep_votes": 1,
       "other_votes": 15,
-      "total_votes": 1501,
+      "total_votes": 1498,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -1482,
-      "margin_pct": -98.7590035290144,
+      "margin": -1480,
+      "margin_pct": -98.81239736462021,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61598,14 +61598,14 @@
         "55025480000071"
       ],
       "election_type": "general",
-      "dem_votes": 1406,
+      "dem_votes": 1405,
       "rep_votes": 1,
       "other_votes": 9,
       "total_votes": 1416,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
       "margin": -1404,
-      "margin_pct": -99.15882235587226,
+      "margin_pct": -99.16746030915427,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61618,14 +61618,14 @@
         "55025480000072"
       ],
       "election_type": "general",
-      "dem_votes": 870,
+      "dem_votes": 871,
       "rep_votes": 1,
       "other_votes": 11,
-      "total_votes": 882,
+      "total_votes": 884,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -868,
-      "margin_pct": -98.49321826323266,
+      "margin": -870,
+      "margin_pct": -98.43983165942892,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61638,14 +61638,14 @@
         "55025480000073"
       ],
       "election_type": "general",
-      "dem_votes": 1517,
-      "rep_votes": 2,
+      "dem_votes": 1515,
+      "rep_votes": 1,
       "other_votes": 14,
-      "total_votes": 1532,
+      "total_votes": 1531,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -1515,
-      "margin_pct": -98.87225074549286,
+      "margin": -1514,
+      "margin_pct": -98.90333789872571,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61658,14 +61658,14 @@
         "55025480000074"
       ],
       "election_type": "general",
-      "dem_votes": 894,
-      "rep_votes": 2,
+      "dem_votes": 892,
+      "rep_votes": 1,
       "other_votes": 18,
-      "total_votes": 913,
+      "total_votes": 912,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -892,
-      "margin_pct": -97.67901771707174,
+      "margin": -891,
+      "margin_pct": -97.71984853163447,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61685,7 +61685,7 @@
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
       "margin": -1062,
-      "margin_pct": -97.80153889599893,
+      "margin_pct": -97.8089688301763,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61698,14 +61698,14 @@
         "55025480000076"
       ],
       "election_type": "general",
-      "dem_votes": 438,
-      "rep_votes": 2,
+      "dem_votes": 435,
+      "rep_votes": 1,
       "other_votes": 3,
-      "total_votes": 442,
+      "total_votes": 440,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -436,
-      "margin_pct": -98.51900717232483,
+      "margin": -434,
+      "margin_pct": -98.68390010447911,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61718,14 +61718,14 @@
         "55025480000077"
       ],
       "election_type": "general",
-      "dem_votes": 456,
-      "rep_votes": 2,
+      "dem_votes": 450,
+      "rep_votes": 1,
       "other_votes": 12,
-      "total_votes": 470,
+      "total_votes": 464,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -454,
-      "margin_pct": -96.47356946538086,
+      "margin": -449,
+      "margin_pct": -96.81058451311878,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61738,14 +61738,14 @@
         "55025480000078"
       ],
       "election_type": "general",
-      "dem_votes": 307,
+      "dem_votes": 311,
       "rep_votes": 1,
       "other_votes": 6,
-      "total_votes": 314,
+      "total_votes": 319,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -306,
-      "margin_pct": -97.60648685059341,
+      "margin": -310,
+      "margin_pct": -97.24230939149439,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61758,14 +61758,14 @@
         "55025480000079"
       ],
       "election_type": "general",
-      "dem_votes": 814,
-      "rep_votes": 2,
+      "dem_votes": 811,
+      "rep_votes": 1,
       "other_votes": 16,
-      "total_votes": 832,
+      "total_votes": 829,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -812,
-      "margin_pct": -97.63043376399158,
+      "margin": -810,
+      "margin_pct": -97.73281958214507,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61778,14 +61778,14 @@
         "55025480000080"
       ],
       "election_type": "general",
-      "dem_votes": 2034,
-      "rep_votes": 2,
+      "dem_votes": 2028,
+      "rep_votes": 1,
       "other_votes": 19,
-      "total_votes": 2055,
+      "total_votes": 2049,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -2032,
-      "margin_pct": -98.85203620153263,
+      "margin": -2027,
+      "margin_pct": -98.9365664221119,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61798,14 +61798,14 @@
         "55025480000081"
       ],
       "election_type": "general",
-      "dem_votes": 500,
-      "rep_votes": 47,
+      "dem_votes": 498,
+      "rep_votes": 46,
       "other_votes": 0,
-      "total_votes": 547,
+      "total_votes": 545,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -453,
-      "margin_pct": -82.92442124457418,
+      "margin": -452,
+      "margin_pct": -82.96176394575402,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61818,14 +61818,14 @@
         "55025480000082"
       ],
       "election_type": "general",
-      "dem_votes": 1160,
-      "rep_votes": 259,
+      "dem_votes": 1159,
+      "rep_votes": 258,
       "other_votes": 2,
-      "total_votes": 1421,
+      "total_votes": 1420,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -902,
-      "margin_pct": -63.461905496032855,
+      "margin": -901,
+      "margin_pct": -63.454775049310676,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61838,14 +61838,14 @@
         "55025480000083"
       ],
       "election_type": "general",
-      "dem_votes": 847,
+      "dem_votes": 848,
       "rep_votes": 151,
       "other_votes": 0,
-      "total_votes": 999,
+      "total_votes": 1000,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -696,
-      "margin_pct": -69.70484546283988,
+      "margin": -697,
+      "margin_pct": -69.70846734152451,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61858,14 +61858,14 @@
         "55025480000084"
       ],
       "election_type": "general",
-      "dem_votes": 645,
+      "dem_votes": 647,
       "rep_votes": 111,
       "other_votes": 0,
-      "total_votes": 756,
+      "total_votes": 759,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -534,
-      "margin_pct": -70.61952817839838,
+      "margin": -536,
+      "margin_pct": -70.63091390236997,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61878,14 +61878,14 @@
         "55025480000085"
       ],
       "election_type": "general",
-      "dem_votes": 1610,
-      "rep_votes": 2,
+      "dem_votes": 1607,
+      "rep_votes": 1,
       "other_votes": 18,
-      "total_votes": 1630,
+      "total_votes": 1627,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -1608,
-      "margin_pct": -98.67634469773243,
+      "margin": -1606,
+      "margin_pct": -98.72214657516155,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61898,14 +61898,14 @@
         "55025480000086"
       ],
       "election_type": "general",
-      "dem_votes": 1076,
+      "dem_votes": 1077,
       "rep_votes": 1,
       "other_votes": 12,
-      "total_votes": 1089,
+      "total_votes": 1091,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -1075,
-      "margin_pct": -98.67652326382762,
+      "margin": -1076,
+      "margin_pct": -98.64427041235642,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61921,11 +61921,11 @@
       "dem_votes": 1203,
       "rep_votes": 1,
       "other_votes": 11,
-      "total_votes": 1215,
+      "total_votes": 1216,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
       "margin": -1202,
-      "margin_pct": -98.87281025811866,
+      "margin_pct": -98.86594922670045,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61938,14 +61938,14 @@
         "55025480000088"
       ],
       "election_type": "general",
-      "dem_votes": 1320,
+      "dem_votes": 1319,
       "rep_votes": 1,
       "other_votes": 17,
       "total_votes": 1338,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
       "margin": -1318,
-      "margin_pct": -98.50727177480029,
+      "margin_pct": -98.52081164300111,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61958,14 +61958,14 @@
         "55025480000089"
       ],
       "election_type": "general",
-      "dem_votes": 1321,
-      "rep_votes": 3,
+      "dem_votes": 1313,
+      "rep_votes": 1,
       "other_votes": 20,
-      "total_votes": 1343,
+      "total_votes": 1335,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -1318,
-      "margin_pct": -98.13245029718473,
+      "margin": -1312,
+      "margin_pct": -98.29269511064733,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61978,14 +61978,14 @@
         "55025480000090"
       ],
       "election_type": "general",
-      "dem_votes": 843,
+      "dem_votes": 846,
       "rep_votes": 103,
       "other_votes": 2,
-      "total_votes": 948,
+      "total_votes": 952,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -740,
-      "margin_pct": -78.07630840047355,
+      "margin": -743,
+      "margin_pct": -78.05888122557644,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -61998,14 +61998,14 @@
         "55025480000091"
       ],
       "election_type": "general",
-      "dem_votes": 1689,
-      "rep_votes": 202,
+      "dem_votes": 1685,
+      "rep_votes": 201,
       "other_votes": 0,
-      "total_votes": 1891,
+      "total_votes": 1887,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -1487,
-      "margin_pct": -78.63785787942491,
+      "margin": -1484,
+      "margin_pct": -78.64987219606812,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62018,14 +62018,14 @@
         "55025480000092"
       ],
       "election_type": "general",
-      "dem_votes": 1034,
+      "dem_votes": 1035,
       "rep_votes": 206,
       "other_votes": 0,
-      "total_votes": 1240,
+      "total_votes": 1242,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -828,
-      "margin_pct": -66.74330826691562,
+      "margin": -829,
+      "margin_pct": -66.75297711381047,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62038,14 +62038,14 @@
         "55025480000093"
       ],
       "election_type": "general",
-      "dem_votes": 585,
+      "dem_votes": 586,
       "rep_votes": 108,
       "other_votes": 0,
-      "total_votes": 693,
+      "total_votes": 695,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -477,
-      "margin_pct": -68.78037538005944,
+      "margin": -478,
+      "margin_pct": -68.78859300180234,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62058,14 +62058,14 @@
         "55025480000094"
       ],
       "election_type": "general",
-      "dem_votes": 1579,
-      "rep_votes": 240,
+      "dem_votes": 1575,
+      "rep_votes": 239,
       "other_votes": 3,
-      "total_votes": 1822,
+      "total_votes": 1818,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -1339,
-      "margin_pct": -73.49331790224738,
+      "margin": -1336,
+      "margin_pct": -73.49290057545277,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62078,14 +62078,14 @@
         "55025480000095"
       ],
       "election_type": "general",
-      "dem_votes": 463,
+      "dem_votes": 467,
       "rep_votes": 77,
       "other_votes": 1,
-      "total_votes": 541,
+      "total_votes": 546,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -387,
-      "margin_pct": -71.42780567489895,
+      "margin": -390,
+      "margin_pct": -71.44544615217508,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62098,14 +62098,14 @@
         "55025480000096"
       ],
       "election_type": "general",
-      "dem_votes": 1327,
-      "rep_votes": 369,
+      "dem_votes": 1324,
+      "rep_votes": 368,
       "other_votes": 3,
-      "total_votes": 1699,
+      "total_votes": 1696,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -959,
-      "margin_pct": -56.40768103179686,
+      "margin": -956,
+      "margin_pct": -56.36953805558711,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62118,14 +62118,14 @@
         "55025480000097"
       ],
       "election_type": "general",
-      "dem_votes": 996,
-      "rep_votes": 194,
+      "dem_votes": 995,
+      "rep_votes": 193,
       "other_votes": 0,
-      "total_votes": 1190,
+      "total_votes": 1189,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -803,
-      "margin_pct": -67.46503736394239,
+      "margin": -802,
+      "margin_pct": -67.45794823535279,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62138,14 +62138,14 @@
         "55025480000098"
       ],
       "election_type": "general",
-      "dem_votes": 1564,
-      "rep_votes": 316,
+      "dem_votes": 1557,
+      "rep_votes": 315,
       "other_votes": 0,
-      "total_votes": 1881,
+      "total_votes": 1873,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -1248,
-      "margin_pct": -66.34644286592012,
+      "margin": -1242,
+      "margin_pct": -66.31447366859574,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62158,14 +62158,14 @@
         "55025480000099"
       ],
       "election_type": "general",
-      "dem_votes": 574,
+      "dem_votes": 575,
       "rep_votes": 82,
       "other_votes": 1,
-      "total_votes": 657,
+      "total_votes": 659,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -492,
-      "margin_pct": -74.82931612962511,
+      "margin": -493,
+      "margin_pct": -74.82650409978969,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62178,14 +62178,14 @@
         "55025480000100"
       ],
       "election_type": "general",
-      "dem_votes": 295,
+      "dem_votes": 299,
       "rep_votes": 37,
       "other_votes": 1,
-      "total_votes": 332,
+      "total_votes": 338,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -258,
-      "margin_pct": -77.61181398882114,
+      "margin": -262,
+      "margin_pct": -77.54981128763274,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62198,14 +62198,14 @@
         "55025480000101"
       ],
       "election_type": "general",
-      "dem_votes": 813,
-      "rep_votes": 175,
+      "dem_votes": 811,
+      "rep_votes": 174,
       "other_votes": 2,
-      "total_votes": 989,
+      "total_votes": 988,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -638,
-      "margin_pct": -64.49669810323219,
+      "margin": -637,
+      "margin_pct": -64.47998079836788,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62221,11 +62221,11 @@
       "dem_votes": 840,
       "rep_votes": 184,
       "other_votes": 0,
-      "total_votes": 1024,
+      "total_votes": 1025,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
       "margin": -656,
-      "margin_pct": -64.00329471821867,
+      "margin_pct": -64.00587057267005,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62238,14 +62238,14 @@
         "55025480000103"
       ],
       "election_type": "general",
-      "dem_votes": 1383,
-      "rep_votes": 315,
+      "dem_votes": 1377,
+      "rep_votes": 314,
       "other_votes": 0,
-      "total_votes": 1698,
+      "total_votes": 1692,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -1067,
-      "margin_pct": -62.86827789448589,
+      "margin": -1063,
+      "margin_pct": -62.828316444942665,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62258,14 +62258,14 @@
         "55025480000104"
       ],
       "election_type": "general",
-      "dem_votes": 1428,
-      "rep_votes": 346,
+      "dem_votes": 1423,
+      "rep_votes": 345,
       "other_votes": 3,
-      "total_votes": 1778,
+      "total_votes": 1772,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -1082,
-      "margin_pct": -60.881830792847815,
+      "margin": -1078,
+      "margin_pct": -60.83784213211128,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62281,11 +62281,11 @@
       "dem_votes": 1061,
       "rep_votes": 225,
       "other_votes": 3,
-      "total_votes": 1289,
+      "total_votes": 1290,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -835,
-      "margin_pct": -64.80662288900932,
+      "margin": -836,
+      "margin_pct": -64.81113434276128,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62298,14 +62298,14 @@
         "55025480000106"
       ],
       "election_type": "general",
-      "dem_votes": 1247,
-      "rep_votes": 281,
+      "dem_votes": 1244,
+      "rep_votes": 280,
       "other_votes": 2,
-      "total_votes": 1530,
+      "total_votes": 1527,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -966,
-      "margin_pct": -63.157940974282056,
+      "margin": -964,
+      "margin_pct": -63.13401621645226,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62318,14 +62318,14 @@
         "55025480000107"
       ],
       "election_type": "general",
-      "dem_votes": 1413,
-      "rep_votes": 258,
+      "dem_votes": 1409,
+      "rep_votes": 257,
       "other_votes": 6,
-      "total_votes": 1677,
+      "total_votes": 1673,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -1155,
-      "margin_pct": -68.87608395182365,
+      "margin": -1152,
+      "margin_pct": -68.86318241606398,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62338,14 +62338,14 @@
         "55025480000108"
       ],
       "election_type": "general",
-      "dem_votes": 395,
+      "dem_votes": 399,
       "rep_votes": 56,
       "other_votes": 1,
-      "total_votes": 452,
+      "total_votes": 457,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -339,
-      "margin_pct": -75.09414669196526,
+      "margin": -343,
+      "margin_pct": -75.07828090270453,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62358,14 +62358,14 @@
         "55025480000109"
       ],
       "election_type": "general",
-      "dem_votes": 638,
+      "dem_votes": 640,
       "rep_votes": 225,
       "other_votes": 0,
-      "total_votes": 863,
+      "total_votes": 866,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -413,
-      "margin_pct": -47.83065601540613,
+      "margin": -415,
+      "margin_pct": -47.92044637661316,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62378,14 +62378,14 @@
         "55025480000110"
       ],
       "election_type": "general",
-      "dem_votes": 1023,
-      "rep_votes": 194,
+      "dem_votes": 1022,
+      "rep_votes": 193,
       "other_votes": 0,
-      "total_votes": 1217,
+      "total_votes": 1216,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -830,
-      "margin_pct": -68.18700499358233,
+      "margin": -829,
+      "margin_pct": -68.18076562138185,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62398,14 +62398,14 @@
         "55025480000111"
       ],
       "election_type": "general",
-      "dem_votes": 564,
+      "dem_votes": 568,
       "rep_votes": 121,
       "other_votes": 0,
-      "total_votes": 685,
+      "total_votes": 690,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -444,
-      "margin_pct": -64.73585194145777,
+      "margin": -447,
+      "margin_pct": -64.79181884587291,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62418,14 +62418,14 @@
         "55025480000112"
       ],
       "election_type": "general",
-      "dem_votes": 360,
+      "dem_votes": 365,
       "rep_votes": 119,
       "other_votes": 1,
-      "total_votes": 479,
+      "total_votes": 486,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -241,
-      "margin_pct": -50.309646558091515,
+      "margin": -246,
+      "margin_pct": -50.6178301195997,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62438,14 +62438,14 @@
         "55025480000113"
       ],
       "election_type": "general",
-      "dem_votes": 1559,
-      "rep_votes": 658,
+      "dem_votes": 1552,
+      "rep_votes": 657,
       "other_votes": 3,
-      "total_votes": 2220,
+      "total_votes": 2213,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -901,
-      "margin_pct": -40.55851052301694,
+      "margin": -895,
+      "margin_pct": -40.44098199848006,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62458,14 +62458,14 @@
         "55025480000114"
       ],
       "election_type": "general",
-      "dem_votes": 1721,
-      "rep_votes": 449,
+      "dem_votes": 1718,
+      "rep_votes": 448,
       "other_votes": 0,
-      "total_votes": 2170,
+      "total_votes": 2167,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -1272,
-      "margin_pct": -58.63001056180217,
+      "margin": -1270,
+      "margin_pct": -58.60807488879848,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62478,14 +62478,14 @@
         "55025480000115"
       ],
       "election_type": "general",
-      "dem_votes": 1360,
-      "rep_votes": 204,
+      "dem_votes": 1354,
+      "rep_votes": 203,
       "other_votes": 1,
-      "total_votes": 1566,
+      "total_votes": 1559,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -1156,
-      "margin_pct": -73.83509326462458,
+      "margin": -1151,
+      "margin_pct": -73.83594652269174,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62498,14 +62498,14 @@
         "55025480000116"
       ],
       "election_type": "general",
-      "dem_votes": 1329,
-      "rep_votes": 259,
+      "dem_votes": 1325,
+      "rep_votes": 258,
       "other_votes": 2,
-      "total_votes": 1590,
+      "total_votes": 1586,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -1070,
-      "margin_pct": -67.29764511890369,
+      "margin": -1067,
+      "margin_pct": -67.28084764449758,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62518,14 +62518,14 @@
         "55025480000117"
       ],
       "election_type": "general",
-      "dem_votes": 1118,
-      "rep_votes": 304,
+      "dem_votes": 1117,
+      "rep_votes": 303,
       "other_votes": 0,
-      "total_votes": 1422,
+      "total_votes": 1421,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -815,
-      "margin_pct": -57.297481334686964,
+      "margin": -814,
+      "margin_pct": -57.28580590998919,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62538,14 +62538,14 @@
         "55025480000118"
       ],
       "election_type": "general",
-      "dem_votes": 602,
+      "dem_votes": 603,
       "rep_votes": 189,
       "other_votes": 0,
-      "total_votes": 791,
+      "total_votes": 793,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -413,
-      "margin_pct": -52.167091682480304,
+      "margin": -414,
+      "margin_pct": -52.20800583193921,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62558,14 +62558,14 @@
         "55025480000119"
       ],
       "election_type": "general",
-      "dem_votes": 1145,
-      "rep_votes": 397,
+      "dem_votes": 1141,
+      "rep_votes": 396,
       "other_votes": 2,
-      "total_votes": 1544,
+      "total_votes": 1540,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -748,
-      "margin_pct": -48.4564133047521,
+      "margin": -745,
+      "margin_pct": -48.37617036017745,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62578,17 +62578,17 @@
         "55025480000120"
       ],
       "election_type": "general",
-      "dem_votes": 0,
-      "rep_votes": 2,
+      "dem_votes": 9,
+      "rep_votes": 3,
       "other_votes": 0,
-      "total_votes": 2,
+      "total_votes": 13,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": 2,
-      "margin_pct": 92.65960727870876,
-      "winner": "REP",
+      "margin": -6,
+      "margin_pct": -46.02239245727756,
+      "winner": "DEM",
       "competitiveness": {
-        "color": "#67000d"
+        "color": "#08306b"
       }
     },
     {
@@ -62598,14 +62598,14 @@
         "55025480000121"
       ],
       "election_type": "general",
-      "dem_votes": 5,
-      "rep_votes": 0,
+      "dem_votes": 14,
+      "rep_votes": 1,
       "other_votes": 0,
-      "total_votes": 5,
+      "total_votes": 16,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -5,
-      "margin_pct": -99.72917589521413,
+      "margin": -13,
+      "margin_pct": -82.11227402473835,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62618,14 +62618,14 @@
         "55025480000122"
       ],
       "election_type": "general",
-      "dem_votes": 4,
-      "rep_votes": 2,
+      "dem_votes": 13,
+      "rep_votes": 3,
       "other_votes": 0,
-      "total_votes": 6,
+      "total_votes": 17,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -2,
-      "margin_pct": -33.951754103098786,
+      "margin": -10,
+      "margin_pct": -59.05230219043362,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62638,14 +62638,14 @@
         "55025480000123"
       ],
       "election_type": "general",
-      "dem_votes": 37,
-      "rep_votes": 8,
+      "dem_votes": 46,
+      "rep_votes": 9,
       "other_votes": 0,
-      "total_votes": 45,
+      "total_votes": 56,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -29,
-      "margin_pct": -64.54011332022364,
+      "margin": -37,
+      "margin_pct": -66.19568115169288,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62658,14 +62658,14 @@
         "55025480000124"
       ],
       "election_type": "general",
-      "dem_votes": 77,
-      "rep_votes": 13,
+      "dem_votes": 86,
+      "rep_votes": 14,
       "other_votes": 0,
-      "total_votes": 90,
+      "total_votes": 101,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -64,
-      "margin_pct": -71.11666743855316,
+      "margin": -72,
+      "margin_pct": -71.37806584665245,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62678,14 +62678,14 @@
         "55025480000125"
       ],
       "election_type": "general",
-      "dem_votes": 0,
-      "rep_votes": 0,
+      "dem_votes": 9,
+      "rep_votes": 1,
       "other_votes": 0,
-      "total_votes": 0,
+      "total_votes": 11,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": 0,
-      "margin_pct": -73.6510161177295,
+      "margin": -8,
+      "margin_pct": -73.65101611772951,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62698,17 +62698,17 @@
         "55025480000126"
       ],
       "election_type": "general",
-      "dem_votes": 0,
-      "rep_votes": 0,
+      "dem_votes": 9,
+      "rep_votes": 1,
       "other_votes": 0,
-      "total_votes": 0,
+      "total_votes": 11,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": 0,
-      "margin_pct": 0.0,
-      "winner": "TIE",
+      "margin": -8,
+      "margin_pct": -73.65101611772951,
+      "winner": "DEM",
       "competitiveness": {
-        "color": "#9ca3af"
+        "color": "#08306b"
       }
     },
     {
@@ -62718,14 +62718,14 @@
         "55025480000127"
       ],
       "election_type": "general",
-      "dem_votes": 150,
-      "rep_votes": 0,
+      "dem_votes": 156,
+      "rep_votes": 1,
       "other_votes": 0,
-      "total_votes": 150,
+      "total_votes": 158,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -149,
-      "margin_pct": -99.45761119479633,
+      "margin": -155,
+      "margin_pct": -98.23241820233169,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62738,14 +62738,14 @@
         "55025480000128"
       ],
       "election_type": "general",
-      "dem_votes": 301,
+      "dem_votes": 304,
       "rep_votes": 1,
       "other_votes": 6,
-      "total_votes": 308,
+      "total_votes": 312,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -300,
-      "margin_pct": -97.45555001266557,
+      "margin": -303,
+      "margin_pct": -97.18035281251484,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62758,14 +62758,14 @@
         "55025480000129"
       ],
       "election_type": "general",
-      "dem_votes": 1,
-      "rep_votes": 0,
+      "dem_votes": 10,
+      "rep_votes": 1,
       "other_votes": 0,
-      "total_votes": 1,
+      "total_votes": 12,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -1,
-      "margin_pct": -94.74298963336663,
+      "margin": -9,
+      "margin_pct": -75.92829705505763,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62778,14 +62778,14 @@
         "55025480000130"
       ],
       "election_type": "general",
-      "dem_votes": 297,
-      "rep_votes": 25,
+      "dem_votes": 306,
+      "rep_votes": 26,
       "other_votes": 0,
-      "total_votes": 322,
+      "total_votes": 333,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -272,
-      "margin_pct": -84.472049689441,
+      "margin": -280,
+      "margin_pct": -84.12811546428492,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62798,17 +62798,17 @@
         "55025480000131"
       ],
       "election_type": "general",
-      "dem_votes": 0,
-      "rep_votes": 0,
+      "dem_votes": 9,
+      "rep_votes": 1,
       "other_votes": 0,
-      "total_votes": 0,
+      "total_votes": 11,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": 0,
-      "margin_pct": 0.0,
-      "winner": "TIE",
+      "margin": -8,
+      "margin_pct": -73.65101611772951,
+      "winner": "DEM",
       "competitiveness": {
-        "color": "#9ca3af"
+        "color": "#08306b"
       }
     },
     {
@@ -62821,11 +62821,11 @@
       "dem_votes": 109,
       "rep_votes": 10,
       "other_votes": 0,
-      "total_votes": 119,
+      "total_votes": 120,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
       "margin": -99,
-      "margin_pct": -82.63968231613687,
+      "margin_pct": -82.61677611200597,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62838,14 +62838,14 @@
         "55025480000133"
       ],
       "election_type": "general",
-      "dem_votes": 188,
-      "rep_votes": 33,
+      "dem_votes": 197,
+      "rep_votes": 34,
       "other_votes": 0,
-      "total_votes": 221,
+      "total_votes": 232,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -155,
-      "margin_pct": -70.13574660633483,
+      "margin": -163,
+      "margin_pct": -70.29620625679738,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62858,14 +62858,14 @@
         "55025480000134"
       ],
       "election_type": "general",
-      "dem_votes": 77,
-      "rep_votes": 0,
+      "dem_votes": 86,
+      "rep_votes": 1,
       "other_votes": 4,
-      "total_votes": 81,
+      "total_votes": 92,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -77,
-      "margin_pct": -95.06035593841305,
+      "margin": -85,
+      "margin_pct": -92.5901957612037,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -62878,14 +62878,14 @@
         "55025480000135"
       ],
       "election_type": "general",
-      "dem_votes": 583,
-      "rep_votes": 41,
+      "dem_votes": 592,
+      "rep_votes": 42,
       "other_votes": 1,
-      "total_votes": 625,
+      "total_votes": 636,
       "dem_candidate": "Melissa Ratcliff",
       "rep_candidate": "Andrew McKinney",
-      "margin": -542,
-      "margin_pct": -86.71989142281554,
+      "margin": -550,
+      "margin_pct": -86.5026456259761,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -68020,6 +68020,26 @@
       }
     },
     {
+      "county": "MEQUON - C 0007A",
+      "precinct_key": "MEQUON - C 0007A",
+      "geoids": [
+        "5508951150007A"
+      ],
+      "election_type": "general",
+      "dem_votes": 185,
+      "rep_votes": 221,
+      "other_votes": 0,
+      "total_votes": 407,
+      "dem_candidate": "Deb Andraca",
+      "rep_candidate": "Purnima Nath",
+      "margin": 36,
+      "margin_pct": 8.770491803278695,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#fb6a4a"
+      }
+    },
+    {
       "county": "MEQUON - C 0008",
       "precinct_key": "MEQUON - C 0008",
       "geoids": [
@@ -68084,6 +68104,26 @@
       "precinct_key": "MEQUON - C 0011",
       "geoids": [
         "55089511500011"
+      ],
+      "election_type": "general",
+      "dem_votes": 321,
+      "rep_votes": 306,
+      "other_votes": 0,
+      "total_votes": 627,
+      "dem_candidate": "Deb Andraca",
+      "rep_candidate": "Purnima Nath",
+      "margin": -15,
+      "margin_pct": -2.337938363443149,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#c6dbef"
+      }
+    },
+    {
+      "county": "MEQUON - C 0011A",
+      "precinct_key": "MEQUON - C 0011A",
+      "geoids": [
+        "5508951150011A"
       ],
       "election_type": "general",
       "dem_votes": 321,
@@ -68277,46 +68317,6 @@
       "winner": "REP",
       "competitiveness": {
         "color": "#fcbba1"
-      }
-    },
-    {
-      "county": "MEQUON - C 007A",
-      "precinct_key": "MEQUON - C 007A",
-      "geoids": [
-        "5508951150007A"
-      ],
-      "election_type": "general",
-      "dem_votes": 185,
-      "rep_votes": 221,
-      "other_votes": 0,
-      "total_votes": 407,
-      "dem_candidate": "Deb Andraca",
-      "rep_candidate": "Purnima Nath",
-      "margin": 36,
-      "margin_pct": 8.770491803278695,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#fb6a4a"
-      }
-    },
-    {
-      "county": "MEQUON - C 011A",
-      "precinct_key": "MEQUON - C 011A",
-      "geoids": [
-        "5508951150011A"
-      ],
-      "election_type": "general",
-      "dem_votes": 321,
-      "rep_votes": 306,
-      "other_votes": 0,
-      "total_votes": 627,
-      "dem_candidate": "Deb Andraca",
-      "rep_candidate": "Purnima Nath",
-      "margin": -15,
-      "margin_pct": -2.337938363443149,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#c6dbef"
       }
     },
     {
@@ -69860,6 +69860,26 @@
       }
     },
     {
+      "county": "MIDDLETON - T 0004A",
+      "precinct_key": "MIDDLETON - T 0004A",
+      "geoids": [
+        "5502551600004A"
+      ],
+      "election_type": "general",
+      "dem_votes": 247,
+      "rep_votes": 127,
+      "other_votes": 0,
+      "total_votes": 374,
+      "dem_candidate": "Mike Bare",
+      "rep_candidate": "Jacob D. Luginbuhl",
+      "margin": -120,
+      "margin_pct": -32.05780037463206,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
       "county": "MIDDLETON - T 0005",
       "precinct_key": "MIDDLETON - T 0005",
       "geoids": [
@@ -69940,28 +69960,8 @@
       }
     },
     {
-      "county": "MIDDLETON - T 004A",
-      "precinct_key": "MIDDLETON - T 004A",
-      "geoids": [
-        "5502551600004A"
-      ],
-      "election_type": "general",
-      "dem_votes": 247,
-      "rep_votes": 127,
-      "other_votes": 0,
-      "total_votes": 374,
-      "dem_candidate": "Mike Bare",
-      "rep_candidate": "Jacob D. Luginbuhl",
-      "margin": -120,
-      "margin_pct": -32.05780037463206,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      }
-    },
-    {
-      "county": "MIDDLETON - T 008A",
-      "precinct_key": "MIDDLETON - T 008A",
+      "county": "MIDDLETON - T 0008A",
+      "precinct_key": "MIDDLETON - T 0008A",
       "geoids": [
         "5502551600008A"
       ],
@@ -86319,14 +86319,14 @@
         "55133592500001"
       ],
       "election_type": "general",
-      "dem_votes": 0,
-      "rep_votes": 628,
+      "dem_votes": 130,
+      "rep_votes": 984,
       "other_votes": 33,
-      "total_votes": 661,
-      "dem_candidate": "",
+      "total_votes": 1148,
+      "dem_candidate": "Alec Thomas Dahms",
       "rep_candidate": "Barbara Dittrich",
-      "margin": 628,
-      "margin_pct": 95.05549949545915,
+      "margin": 854,
+      "margin_pct": 74.39564428312161,
       "winner": "REP",
       "competitiveness": {
         "color": "#67000d"
@@ -86339,14 +86339,14 @@
         "55133592500002"
       ],
       "election_type": "general",
-      "dem_votes": 0,
-      "rep_votes": 628,
+      "dem_votes": 130,
+      "rep_votes": 984,
       "other_votes": 33,
-      "total_votes": 661,
-      "dem_candidate": "",
+      "total_votes": 1148,
+      "dem_candidate": "Alec Thomas Dahms",
       "rep_candidate": "Barbara Dittrich",
-      "margin": 628,
-      "margin_pct": 95.05549949545915,
+      "margin": 854,
+      "margin_pct": 74.39564428312161,
       "winner": "REP",
       "competitiveness": {
         "color": "#67000d"
@@ -86379,14 +86379,14 @@
         "55133592500004"
       ],
       "election_type": "general",
-      "dem_votes": 0,
-      "rep_votes": 563,
-      "other_votes": 32,
-      "total_votes": 595,
-      "dem_candidate": "",
+      "dem_votes": 130,
+      "rep_votes": 920,
+      "other_votes": 33,
+      "total_votes": 1083,
+      "dem_candidate": "Alec Thomas Dahms",
       "rep_candidate": "Barbara Dittrich",
-      "margin": 563,
-      "margin_pct": 94.62486002239642,
+      "margin": 789,
+      "margin_pct": 72.91201601108459,
       "winner": "REP",
       "competitiveness": {
         "color": "#67000d"
@@ -86399,14 +86399,14 @@
         "55133592500005"
       ],
       "election_type": "general",
-      "dem_votes": 0,
-      "rep_votes": 563,
-      "other_votes": 32,
-      "total_votes": 595,
-      "dem_candidate": "",
+      "dem_votes": 158,
+      "rep_votes": 964,
+      "other_votes": 33,
+      "total_votes": 1154,
+      "dem_candidate": "Alec Thomas Dahms",
       "rep_candidate": "Barbara Dittrich",
-      "margin": 563,
-      "margin_pct": 94.62486002239642,
+      "margin": 806,
+      "margin_pct": 69.84402079722702,
       "winner": "REP",
       "competitiveness": {
         "color": "#67000d"
@@ -86459,14 +86459,14 @@
         "55133592500008"
       ],
       "election_type": "general",
-      "dem_votes": 0,
-      "rep_votes": 599,
-      "other_votes": 24,
-      "total_votes": 623,
-      "dem_candidate": "",
+      "dem_votes": 158,
+      "rep_votes": 999,
+      "other_votes": 25,
+      "total_votes": 1181,
+      "dem_candidate": "Alec Thomas Dahms",
       "rep_candidate": "Barbara Dittrich",
-      "margin": 599,
-      "margin_pct": 96.1456102783726,
+      "margin": 841,
+      "margin_pct": 71.21896162528218,
       "winner": "REP",
       "competitiveness": {
         "color": "#67000d"
@@ -86479,14 +86479,14 @@
         "55133592500009"
       ],
       "election_type": "general",
-      "dem_votes": 0,
-      "rep_votes": 599,
-      "other_votes": 24,
-      "total_votes": 623,
-      "dem_candidate": "",
+      "dem_votes": 158,
+      "rep_votes": 999,
+      "other_votes": 25,
+      "total_votes": 1181,
+      "dem_candidate": "Alec Thomas Dahms",
       "rep_candidate": "Barbara Dittrich",
-      "margin": 599,
-      "margin_pct": 96.1456102783726,
+      "margin": 841,
+      "margin_pct": 71.21896162528218,
       "winner": "REP",
       "competitiveness": {
         "color": "#67000d"
@@ -86499,14 +86499,14 @@
         "55133592500010"
       ],
       "election_type": "general",
-      "dem_votes": 0,
-      "rep_votes": 562,
+      "dem_votes": 130,
+      "rep_votes": 918,
       "other_votes": 30,
-      "total_votes": 591,
-      "dem_candidate": "",
+      "total_votes": 1079,
+      "dem_candidate": "Alec Thomas Dahms",
       "rep_candidate": "Barbara Dittrich",
-      "margin": 562,
-      "margin_pct": 94.98308906426156,
+      "margin": 788,
+      "margin_pct": 73.02789152437612,
       "winner": "REP",
       "competitiveness": {
         "color": "#67000d"
@@ -86553,200 +86553,20 @@
       }
     },
     {
-      "county": "OCONOMOWOC - T 0001",
-      "precinct_key": "OCONOMOWOC - T 0001",
-      "geoids": [
-        "55133592750001"
-      ],
-      "election_type": "general",
-      "dem_votes": 130,
-      "rep_votes": 356,
-      "other_votes": 1,
-      "total_votes": 487,
-      "dem_candidate": "Alec Thomas Dahms",
-      "rep_candidate": "Cindi Duchow",
-      "margin": 226,
-      "margin_pct": 46.38276038994356,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#67000d"
-      }
-    },
-    {
-      "county": "OCONOMOWOC - T 0002",
-      "precinct_key": "OCONOMOWOC - T 0002",
-      "geoids": [
-        "55133592750002"
-      ],
-      "election_type": "general",
-      "dem_votes": 130,
-      "rep_votes": 356,
-      "other_votes": 1,
-      "total_votes": 487,
-      "dem_candidate": "Alec Thomas Dahms",
-      "rep_candidate": "Cindi Duchow",
-      "margin": 226,
-      "margin_pct": 46.38276038994356,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#67000d"
-      }
-    },
-    {
-      "county": "OCONOMOWOC - T 0003",
-      "precinct_key": "OCONOMOWOC - T 0003",
-      "geoids": [
-        "55133592750003"
-      ],
-      "election_type": "general",
-      "dem_votes": 122,
-      "rep_votes": 257,
-      "other_votes": 0,
-      "total_votes": 378,
-      "dem_candidate": "Alec Thomas Dahms",
-      "rep_candidate": "Cindi Duchow",
-      "margin": 136,
-      "margin_pct": 35.79920739762219,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#67000d"
-      }
-    },
-    {
-      "county": "OCONOMOWOC - T 0004",
-      "precinct_key": "OCONOMOWOC - T 0004",
-      "geoids": [
-        "55133592750004"
-      ],
-      "election_type": "general",
-      "dem_votes": 130,
-      "rep_votes": 356,
-      "other_votes": 1,
-      "total_votes": 487,
-      "dem_candidate": "Alec Thomas Dahms",
-      "rep_candidate": "Cindi Duchow",
-      "margin": 226,
-      "margin_pct": 46.38276038994356,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#67000d"
-      }
-    },
-    {
-      "county": "OCONOMOWOC - T 0005",
-      "precinct_key": "OCONOMOWOC - T 0005",
-      "geoids": [
-        "55133592750005"
-      ],
-      "election_type": "general",
-      "dem_votes": 158,
-      "rep_votes": 400,
-      "other_votes": 1,
-      "total_votes": 559,
-      "dem_candidate": "Alec Thomas Dahms",
-      "rep_candidate": "Cindi Duchow",
-      "margin": 243,
-      "margin_pct": 43.43675417661098,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#67000d"
-      }
-    },
-    {
       "county": "OCONOMOWOC - T 0006",
       "precinct_key": "OCONOMOWOC - T 0006",
       "geoids": [
         "55133592750006"
       ],
       "election_type": "general",
-      "dem_votes": 122,
-      "rep_votes": 257,
+      "dem_votes": 243,
+      "rep_votes": 514,
       "other_votes": 0,
-      "total_votes": 378,
+      "total_votes": 757,
       "dem_candidate": "Alec Thomas Dahms",
       "rep_candidate": "Cindi Duchow",
-      "margin": 136,
+      "margin": 271,
       "margin_pct": 35.79920739762219,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#67000d"
-      }
-    },
-    {
-      "county": "OCONOMOWOC - T 0007",
-      "precinct_key": "OCONOMOWOC - T 0007",
-      "geoids": [
-        "55133592750007"
-      ],
-      "election_type": "general",
-      "dem_votes": 122,
-      "rep_votes": 257,
-      "other_votes": 0,
-      "total_votes": 378,
-      "dem_candidate": "Alec Thomas Dahms",
-      "rep_candidate": "Cindi Duchow",
-      "margin": 136,
-      "margin_pct": 35.79920739762219,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#67000d"
-      }
-    },
-    {
-      "county": "OCONOMOWOC - T 0008",
-      "precinct_key": "OCONOMOWOC - T 0008",
-      "geoids": [
-        "55133592750008"
-      ],
-      "election_type": "general",
-      "dem_votes": 158,
-      "rep_votes": 400,
-      "other_votes": 1,
-      "total_votes": 559,
-      "dem_candidate": "Alec Thomas Dahms",
-      "rep_candidate": "Cindi Duchow",
-      "margin": 243,
-      "margin_pct": 43.43675417661098,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#67000d"
-      }
-    },
-    {
-      "county": "OCONOMOWOC - T 0009",
-      "precinct_key": "OCONOMOWOC - T 0009",
-      "geoids": [
-        "55133592750009"
-      ],
-      "election_type": "general",
-      "dem_votes": 158,
-      "rep_votes": 400,
-      "other_votes": 1,
-      "total_votes": 559,
-      "dem_candidate": "Alec Thomas Dahms",
-      "rep_candidate": "Cindi Duchow",
-      "margin": 243,
-      "margin_pct": 43.43675417661098,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#67000d"
-      }
-    },
-    {
-      "county": "OCONOMOWOC - T 0010",
-      "precinct_key": "OCONOMOWOC - T 0010",
-      "geoids": [
-        "55133592750010"
-      ],
-      "election_type": "general",
-      "dem_votes": 130,
-      "rep_votes": 356,
-      "other_votes": 1,
-      "total_votes": 487,
-      "dem_candidate": "Alec Thomas Dahms",
-      "rep_candidate": "Cindi Duchow",
-      "margin": 226,
-      "margin_pct": 46.38276038994356,
       "winner": "REP",
       "competitiveness": {
         "color": "#67000d"
@@ -86759,13 +86579,13 @@
         "55133592750011"
       ],
       "election_type": "general",
-      "dem_votes": 122,
-      "rep_votes": 257,
+      "dem_votes": 243,
+      "rep_votes": 514,
       "other_votes": 0,
-      "total_votes": 378,
+      "total_votes": 757,
       "dem_candidate": "Alec Thomas Dahms",
       "rep_candidate": "Cindi Duchow",
-      "margin": 136,
+      "margin": 271,
       "margin_pct": 35.79920739762219,
       "winner": "REP",
       "competitiveness": {
@@ -124262,6 +124082,46 @@
       }
     },
     {
+      "county": "WAUWATOSA - C 0002A",
+      "precinct_key": "WAUWATOSA - C 0002A",
+      "geoids": [
+        "5507984675002A"
+      ],
+      "election_type": "general",
+      "dem_votes": 815,
+      "rep_votes": 313,
+      "other_votes": 1,
+      "total_votes": 1129,
+      "dem_candidate": "Robyn Vining",
+      "rep_candidate": "Keva Turner",
+      "margin": -502,
+      "margin_pct": -44.46412754650133,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "WAUWATOSA - C 0002B",
+      "precinct_key": "WAUWATOSA - C 0002B",
+      "geoids": [
+        "5507984675002B"
+      ],
+      "election_type": "general",
+      "dem_votes": 61,
+      "rep_votes": 0,
+      "other_votes": 2,
+      "total_votes": 63,
+      "dem_candidate": "Evan Goyke",
+      "rep_candidate": "",
+      "margin": -61,
+      "margin_pct": -96.82539682539682,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
       "county": "WAUWATOSA - C 0003",
       "precinct_key": "WAUWATOSA - C 0003",
       "geoids": [
@@ -124276,6 +124136,46 @@
       "rep_candidate": "",
       "margin": -807,
       "margin_pct": -98.17518248175182,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "WAUWATOSA - C 0004A",
+      "precinct_key": "WAUWATOSA - C 0004A",
+      "geoids": [
+        "5507984675004A"
+      ],
+      "election_type": "general",
+      "dem_votes": 497,
+      "rep_votes": 0,
+      "other_votes": 11,
+      "total_votes": 508,
+      "dem_candidate": "Evan Goyke",
+      "rep_candidate": "",
+      "margin": -497,
+      "margin_pct": -97.83464566929135,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "WAUWATOSA - C 0004B",
+      "precinct_key": "WAUWATOSA - C 0004B",
+      "geoids": [
+        "5507984675004B"
+      ],
+      "election_type": "general",
+      "dem_votes": 332,
+      "rep_votes": 114,
+      "other_votes": 0,
+      "total_votes": 446,
+      "dem_candidate": "Robyn Vining",
+      "rep_candidate": "Keva Turner",
+      "margin": -218,
+      "margin_pct": -48.87892376681614,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -124299,6 +124199,126 @@
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
+      }
+    },
+    {
+      "county": "WAUWATOSA - C 0006A",
+      "precinct_key": "WAUWATOSA - C 0006A",
+      "geoids": [
+        "5507984675006A"
+      ],
+      "election_type": "general",
+      "dem_votes": 284,
+      "rep_votes": 112,
+      "other_votes": 0,
+      "total_votes": 396,
+      "dem_candidate": "Robyn Vining",
+      "rep_candidate": "Keva Turner",
+      "margin": -172,
+      "margin_pct": -43.43434343434344,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "WAUWATOSA - C 0006B",
+      "precinct_key": "WAUWATOSA - C 0006B",
+      "geoids": [
+        "5507984675006B"
+      ],
+      "election_type": "general",
+      "dem_votes": 530,
+      "rep_votes": 0,
+      "other_votes": 13,
+      "total_votes": 543,
+      "dem_candidate": "Evan Goyke",
+      "rep_candidate": "",
+      "margin": -530,
+      "margin_pct": -97.60589318600368,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "WAUWATOSA - C 0007A",
+      "precinct_key": "WAUWATOSA - C 0007A",
+      "geoids": [
+        "5507984675007A"
+      ],
+      "election_type": "general",
+      "dem_votes": 344,
+      "rep_votes": 220,
+      "other_votes": 0,
+      "total_votes": 565,
+      "dem_candidate": "Robyn Vining",
+      "rep_candidate": "Keva Turner",
+      "margin": -124,
+      "margin_pct": -21.946902654867255,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "WAUWATOSA - C 0007B",
+      "precinct_key": "WAUWATOSA - C 0007B",
+      "geoids": [
+        "5507984675007B"
+      ],
+      "election_type": "general",
+      "dem_votes": 344,
+      "rep_votes": 220,
+      "other_votes": 0,
+      "total_votes": 565,
+      "dem_candidate": "Robyn Vining",
+      "rep_candidate": "Keva Turner",
+      "margin": -124,
+      "margin_pct": -21.946902654867255,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "WAUWATOSA - C 0008A",
+      "precinct_key": "WAUWATOSA - C 0008A",
+      "geoids": [
+        "5507984675008A"
+      ],
+      "election_type": "general",
+      "dem_votes": 265,
+      "rep_votes": 219,
+      "other_votes": 0,
+      "total_votes": 484,
+      "dem_candidate": "Robyn Vining",
+      "rep_candidate": "Keva Turner",
+      "margin": -46,
+      "margin_pct": -9.50413223140496,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#6baed6"
+      }
+    },
+    {
+      "county": "WAUWATOSA - C 0008B",
+      "precinct_key": "WAUWATOSA - C 0008B",
+      "geoids": [
+        "5507984675008B"
+      ],
+      "election_type": "general",
+      "dem_votes": 265,
+      "rep_votes": 219,
+      "other_votes": 0,
+      "total_votes": 484,
+      "dem_candidate": "Robyn Vining",
+      "rep_candidate": "Keva Turner",
+      "margin": -46,
+      "margin_pct": -9.50413223140496,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#6baed6"
       }
     },
     {
@@ -124356,6 +124376,46 @@
       "rep_candidate": "",
       "margin": -912,
       "margin_pct": -96.5079365079365,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "WAUWATOSA - C 0012A",
+      "precinct_key": "WAUWATOSA - C 0012A",
+      "geoids": [
+        "5507984675012A"
+      ],
+      "election_type": "general",
+      "dem_votes": 0,
+      "rep_votes": 0,
+      "other_votes": 0,
+      "total_votes": 0,
+      "dem_candidate": "Robyn Vining",
+      "rep_candidate": "Keva Turner",
+      "margin": 0,
+      "margin_pct": 0.0,
+      "winner": "TIE",
+      "competitiveness": {
+        "color": "#9ca3af"
+      }
+    },
+    {
+      "county": "WAUWATOSA - C 0012B",
+      "precinct_key": "WAUWATOSA - C 0012B",
+      "geoids": [
+        "5507984675012B"
+      ],
+      "election_type": "general",
+      "dem_votes": 866,
+      "rep_votes": 0,
+      "other_votes": 22,
+      "total_votes": 888,
+      "dem_candidate": "Evan Goyke",
+      "rep_candidate": "",
+      "margin": -866,
+      "margin_pct": -97.52252252252252,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -124582,248 +124642,8 @@
       }
     },
     {
-      "county": "WAUWATOSA - C 002A",
-      "precinct_key": "WAUWATOSA - C 002A",
-      "geoids": [
-        "5507984675002A"
-      ],
-      "election_type": "general",
-      "dem_votes": 815,
-      "rep_votes": 313,
-      "other_votes": 1,
-      "total_votes": 1129,
-      "dem_candidate": "Robyn Vining",
-      "rep_candidate": "Keva Turner",
-      "margin": -502,
-      "margin_pct": -44.46412754650133,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      }
-    },
-    {
-      "county": "WAUWATOSA - C 002B",
-      "precinct_key": "WAUWATOSA - C 002B",
-      "geoids": [
-        "5507984675002B"
-      ],
-      "election_type": "general",
-      "dem_votes": 61,
-      "rep_votes": 0,
-      "other_votes": 2,
-      "total_votes": 63,
-      "dem_candidate": "Evan Goyke",
-      "rep_candidate": "",
-      "margin": -61,
-      "margin_pct": -96.82539682539682,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      }
-    },
-    {
-      "county": "WAUWATOSA - C 004A",
-      "precinct_key": "WAUWATOSA - C 004A",
-      "geoids": [
-        "5507984675004A"
-      ],
-      "election_type": "general",
-      "dem_votes": 497,
-      "rep_votes": 0,
-      "other_votes": 11,
-      "total_votes": 508,
-      "dem_candidate": "Evan Goyke",
-      "rep_candidate": "",
-      "margin": -497,
-      "margin_pct": -97.83464566929135,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      }
-    },
-    {
-      "county": "WAUWATOSA - C 004B",
-      "precinct_key": "WAUWATOSA - C 004B",
-      "geoids": [
-        "5507984675004B"
-      ],
-      "election_type": "general",
-      "dem_votes": 332,
-      "rep_votes": 114,
-      "other_votes": 0,
-      "total_votes": 446,
-      "dem_candidate": "Robyn Vining",
-      "rep_candidate": "Keva Turner",
-      "margin": -218,
-      "margin_pct": -48.87892376681614,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      }
-    },
-    {
-      "county": "WAUWATOSA - C 006A",
-      "precinct_key": "WAUWATOSA - C 006A",
-      "geoids": [
-        "5507984675006A"
-      ],
-      "election_type": "general",
-      "dem_votes": 284,
-      "rep_votes": 112,
-      "other_votes": 0,
-      "total_votes": 396,
-      "dem_candidate": "Robyn Vining",
-      "rep_candidate": "Keva Turner",
-      "margin": -172,
-      "margin_pct": -43.43434343434344,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      }
-    },
-    {
-      "county": "WAUWATOSA - C 006B",
-      "precinct_key": "WAUWATOSA - C 006B",
-      "geoids": [
-        "5507984675006B"
-      ],
-      "election_type": "general",
-      "dem_votes": 530,
-      "rep_votes": 0,
-      "other_votes": 13,
-      "total_votes": 543,
-      "dem_candidate": "Evan Goyke",
-      "rep_candidate": "",
-      "margin": -530,
-      "margin_pct": -97.60589318600368,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      }
-    },
-    {
-      "county": "WAUWATOSA - C 007A",
-      "precinct_key": "WAUWATOSA - C 007A",
-      "geoids": [
-        "5507984675007A"
-      ],
-      "election_type": "general",
-      "dem_votes": 344,
-      "rep_votes": 220,
-      "other_votes": 0,
-      "total_votes": 565,
-      "dem_candidate": "Robyn Vining",
-      "rep_candidate": "Keva Turner",
-      "margin": -124,
-      "margin_pct": -21.946902654867255,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      }
-    },
-    {
-      "county": "WAUWATOSA - C 007B",
-      "precinct_key": "WAUWATOSA - C 007B",
-      "geoids": [
-        "5507984675007B"
-      ],
-      "election_type": "general",
-      "dem_votes": 344,
-      "rep_votes": 220,
-      "other_votes": 0,
-      "total_votes": 565,
-      "dem_candidate": "Robyn Vining",
-      "rep_candidate": "Keva Turner",
-      "margin": -124,
-      "margin_pct": -21.946902654867255,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      }
-    },
-    {
-      "county": "WAUWATOSA - C 008A",
-      "precinct_key": "WAUWATOSA - C 008A",
-      "geoids": [
-        "5507984675008A"
-      ],
-      "election_type": "general",
-      "dem_votes": 265,
-      "rep_votes": 219,
-      "other_votes": 0,
-      "total_votes": 484,
-      "dem_candidate": "Robyn Vining",
-      "rep_candidate": "Keva Turner",
-      "margin": -46,
-      "margin_pct": -9.50413223140496,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#6baed6"
-      }
-    },
-    {
-      "county": "WAUWATOSA - C 008B",
-      "precinct_key": "WAUWATOSA - C 008B",
-      "geoids": [
-        "5507984675008B"
-      ],
-      "election_type": "general",
-      "dem_votes": 265,
-      "rep_votes": 219,
-      "other_votes": 0,
-      "total_votes": 484,
-      "dem_candidate": "Robyn Vining",
-      "rep_candidate": "Keva Turner",
-      "margin": -46,
-      "margin_pct": -9.50413223140496,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#6baed6"
-      }
-    },
-    {
-      "county": "WAUWATOSA - C 012A",
-      "precinct_key": "WAUWATOSA - C 012A",
-      "geoids": [
-        "5507984675012A"
-      ],
-      "election_type": "general",
-      "dem_votes": 0,
-      "rep_votes": 0,
-      "other_votes": 0,
-      "total_votes": 0,
-      "dem_candidate": "Robyn Vining",
-      "rep_candidate": "Keva Turner",
-      "margin": 0,
-      "margin_pct": 0.0,
-      "winner": "TIE",
-      "competitiveness": {
-        "color": "#9ca3af"
-      }
-    },
-    {
-      "county": "WAUWATOSA - C 012B",
-      "precinct_key": "WAUWATOSA - C 012B",
-      "geoids": [
-        "5507984675012B"
-      ],
-      "election_type": "general",
-      "dem_votes": 866,
-      "rep_votes": 0,
-      "other_votes": 22,
-      "total_votes": 888,
-      "dem_candidate": "Evan Goyke",
-      "rep_candidate": "",
-      "margin": -866,
-      "margin_pct": -97.52252252252252,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      }
-    },
-    {
-      "county": "WAUWATOSA - C 024A",
-      "precinct_key": "WAUWATOSA - C 024A",
+      "county": "WAUWATOSA - C 0024A",
+      "precinct_key": "WAUWATOSA - C 0024A",
       "geoids": [
         "5507984675024A"
       ],
@@ -124842,8 +124662,8 @@
       }
     },
     {
-      "county": "WAUWATOSA - C 024B",
-      "precinct_key": "WAUWATOSA - C 024B",
+      "county": "WAUWATOSA - C 0024B",
+      "precinct_key": "WAUWATOSA - C 0024B",
       "geoids": [
         "5507984675024B"
       ],
@@ -130474,8 +130294,8 @@
       }
     },
     {
-      "county": "WOLF RIVER - T 002A",
-      "precinct_key": "WOLF RIVER - T 002A",
+      "county": "WOLF RIVER - T 0002A",
+      "precinct_key": "WOLF RIVER - T 0002A",
       "geoids": [
         "5513988475002A"
       ],
@@ -130494,8 +130314,8 @@
       }
     },
     {
-      "county": "WOLF RIVER - T 002B",
-      "precinct_key": "WOLF RIVER - T 002B",
+      "county": "WOLF RIVER - T 0002B",
+      "precinct_key": "WOLF RIVER - T 0002B",
       "geoids": [
         "5513988475002B"
       ],
