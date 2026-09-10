@@ -10474,8 +10474,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Cache destroyer token for static data requests.
     // Bump this value when you want browsers/CDNs to fetch fresh files immediately.
-    const DATA_CACHE_BUSTER = '2026-09-10-wi-precinct-alignment-v4';
-    const APP_BUILD_ID = '2026-09-10-wi-precinct-alignment-v4';
+    const DATA_CACHE_BUSTER = '2026-09-10-wi-precinct-alignment-v5';
+    const APP_BUILD_ID = '2026-09-10-wi-precinct-alignment-v5';
 
     function withCacheBuster(path) {
       const p = (path || '').toString().trim();
@@ -11285,6 +11285,8 @@ document.addEventListener('DOMContentLoaded', function() {
         county: r[rowNameField] || r.county || '',
         precinct_key: r.precinct_key || r[rowNameField] || r.county || '',
         geoids: Array.isArray(r.geoids) ? r.geoids : [],
+        reporting_units: Array.isArray(r.reporting_units) ? r.reporting_units : [],
+        shared_reporting_unit: !!r.shared_reporting_unit,
         [`${contestType}_dem`]: Number(r.dem_votes) || 0,
         [`${contestType}_rep`]: Number(r.rep_votes) || 0,
         [`${contestType}_other`]: Number(r.other_votes) || 0,
@@ -27248,7 +27250,7 @@ document.addEventListener('DOMContentLoaded', function() {
           shiftClass = Math.abs(shiftDelta) < 0.01 ? 'tie' : (shiftDelta > 0 ? 'rep' : 'dem');
         }
       }
-      const inner = buildVotehubResultsTooltip({
+      let inner = buildVotehubResultsTooltip({
         title,
         subtitle: 'Precinct',
         demName: demCandidate,
@@ -27272,6 +27274,9 @@ document.addEventListener('DOMContentLoaded', function() {
         shiftYearLabel: (vizShiftCache?.prevYear && vizShiftCache?.year) ? `${vizShiftCache.prevYear}→${vizShiftCache.year}` : '',
         showShiftLine: currentVizMode === 'shift' && Number.isFinite(shiftDelta) && !!vizShiftCache?.prevYear
       });
+      if (row.shared_reporting_unit) {
+        inner += '<div style="margin-top:8px;color:#64748b;font-size:11px;line-height:1.35;">Shared reporting-unit result: WEC reported this ward together with one or more neighboring wards, so their displayed vote shares are identical.</div>';
+      }
       const pinnedShell = !!tooltipPinned;
       const copyText = (precinctNorm || title || '').toString().trim();
       showHoverTooltip(
@@ -30062,7 +30067,7 @@ document.addEventListener('DOMContentLoaded', function() {
       if (!code) return '';
       const friendly = getPrecinctFriendlyName(countyNameOrNorm, code);
       if (!friendly) return `Precinct ${code}`;
-      return `${friendly} (${code})`;
+      return friendly;
     }
 
     function isNoisyPrecinctFullName(fullRaw, codeRaw = '') {
@@ -30084,7 +30089,7 @@ document.addEventListener('DOMContentLoaded', function() {
       const rawCode = String(code || '').trim().toUpperCase();
       const canonicalCode = rawCode ? resolvePrecinctCanonicalCode(countyName, rawCode) : '';
       const friendly = rawCode ? getPrecinctFriendlyName(countyName, rawCode) : '';
-      const friendlyLabel = (canonicalCode && friendly) ? `${friendly} (${canonicalCode})` : '';
+      const friendlyLabel = (canonicalCode && friendly) ? friendly : '';
 
       const full = String(fullName || '').replace(/\s+/g, ' ').trim();
       const fallbackFull = String(fallbackFullName || '').replace(/\s+/g, ' ').trim();
