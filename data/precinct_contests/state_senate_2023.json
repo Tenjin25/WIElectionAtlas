@@ -2401,6 +2401,26 @@
       }
     },
     {
+      "county": "MEQUON - C 0007A",
+      "precinct_key": "MEQUON - C 0007A",
+      "geoids": [
+        "5508951150007A"
+      ],
+      "election_type": "spring",
+      "dem_votes": 175,
+      "rep_votes": 185,
+      "other_votes": 0,
+      "total_votes": 360,
+      "dem_candidate": "Jodi Habush Sinykin",
+      "rep_candidate": "Dan Knodl",
+      "margin": 10,
+      "margin_pct": 2.63705759888966,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#fcbba1"
+      }
+    },
+    {
       "county": "MEQUON - C 0008",
       "precinct_key": "MEQUON - C 0008",
       "geoids": [
@@ -2507,6 +2527,26 @@
         "City of MEQUON Wards 9-11"
       ],
       "shared_reporting_unit": true,
+      "dem_votes": 194,
+      "rep_votes": 170,
+      "other_votes": 0,
+      "total_votes": 364,
+      "dem_candidate": "Jodi Habush Sinykin",
+      "rep_candidate": "Dan Knodl",
+      "margin": -24,
+      "margin_pct": -6.602475928473177,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#6baed6"
+      }
+    },
+    {
+      "county": "MEQUON - C 0011A",
+      "precinct_key": "MEQUON - C 0011A",
+      "geoids": [
+        "5508951150011A"
+      ],
+      "election_type": "spring",
       "dem_votes": 194,
       "rep_votes": 170,
       "other_votes": 0,
