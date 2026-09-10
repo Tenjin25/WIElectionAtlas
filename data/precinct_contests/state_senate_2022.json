@@ -12200,6 +12200,26 @@
       }
     },
     {
+      "county": "CHIPPEWA FALLS - C 0001A",
+      "precinct_key": "CHIPPEWA FALLS - C 0001A",
+      "geoids": [
+        "5501714575001A"
+      ],
+      "election_type": "general",
+      "dem_votes": 0,
+      "rep_votes": 170,
+      "other_votes": 17,
+      "total_votes": 187,
+      "dem_candidate": "",
+      "rep_candidate": "Jesse James",
+      "margin": 170,
+      "margin_pct": 91.08734402852049,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
       "county": "CHIPPEWA FALLS - C 0002",
       "precinct_key": "CHIPPEWA FALLS - C 0002",
       "geoids": [
@@ -12380,6 +12400,26 @@
       }
     },
     {
+      "county": "CHIPPEWA FALLS - C 0010A",
+      "precinct_key": "CHIPPEWA FALLS - C 0010A",
+      "geoids": [
+        "5501714575010A"
+      ],
+      "election_type": "general",
+      "dem_votes": 0,
+      "rep_votes": 135,
+      "other_votes": 13,
+      "total_votes": 149,
+      "dem_candidate": "",
+      "rep_candidate": "Jesse James",
+      "margin": 135,
+      "margin_pct": 91.03139013452915,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      }
+    },
+    {
       "county": "CHIPPEWA FALLS - C 0011",
       "precinct_key": "CHIPPEWA FALLS - C 0011",
       "geoids": [
@@ -12474,46 +12514,6 @@
       "rep_candidate": "Jesse James",
       "margin": 209,
       "margin_pct": 87.83216783216783,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#67000d"
-      }
-    },
-    {
-      "county": "CHIPPEWA FALLS - C 001A",
-      "precinct_key": "CHIPPEWA FALLS - C 001A",
-      "geoids": [
-        "5501714575001A"
-      ],
-      "election_type": "general",
-      "dem_votes": 0,
-      "rep_votes": 170,
-      "other_votes": 17,
-      "total_votes": 187,
-      "dem_candidate": "",
-      "rep_candidate": "Jesse James",
-      "margin": 170,
-      "margin_pct": 91.08734402852049,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#67000d"
-      }
-    },
-    {
-      "county": "CHIPPEWA FALLS - C 010A",
-      "precinct_key": "CHIPPEWA FALLS - C 010A",
-      "geoids": [
-        "5501714575010A"
-      ],
-      "election_type": "general",
-      "dem_votes": 0,
-      "rep_votes": 135,
-      "other_votes": 13,
-      "total_votes": 149,
-      "dem_candidate": "",
-      "rep_candidate": "Jesse James",
-      "margin": 135,
-      "margin_pct": 91.03139013452915,
       "winner": "REP",
       "competitiveness": {
         "color": "#67000d"
@@ -32833,10 +32833,10 @@
       }
     },
     {
-      "county": "LAC LA BELLE - V 0002",
-      "precinct_key": "LAC LA BELLE - V 0002",
+      "county": "LAC LA BELLE - V 0012",
+      "precinct_key": "LAC LA BELLE - V 0012",
       "geoids": [
-        "55055407500002"
+        "55055407500012"
       ],
       "election_type": "general",
       "dem_votes": 0,
@@ -36323,7 +36323,7 @@
       "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 1,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
       "margin": -1,
@@ -36343,11 +36343,11 @@
       "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 1,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
       "margin": -1,
-      "margin_pct": -78.84615384615385,
+      "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -36383,11 +36383,11 @@
       "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 1,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
       "margin": -1,
-      "margin_pct": -78.84615384615385,
+      "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -36403,11 +36403,11 @@
       "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 1,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
       "margin": -1,
-      "margin_pct": -78.84615384615385,
+      "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -36420,13 +36420,13 @@
         "55025480000006"
       ],
       "election_type": "general",
-      "dem_votes": 2,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
       "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
-      "margin": -2,
+      "margin": -1,
       "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
@@ -36440,13 +36440,13 @@
         "55025480000007"
       ],
       "election_type": "general",
-      "dem_votes": 2,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
       "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
-      "margin": -2,
+      "margin": -1,
       "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
@@ -36460,14 +36460,14 @@
         "55025480000008"
       ],
       "election_type": "general",
-      "dem_votes": 2,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
       "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
-      "margin": -2,
-      "margin_pct": -78.84615384615385,
+      "margin": -1,
+      "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -36480,7 +36480,7 @@
         "55025480000009"
       ],
       "election_type": "general",
-      "dem_votes": 2,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
       "total_votes": 2,
@@ -36507,7 +36507,7 @@
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
       "margin": -1,
-      "margin_pct": -78.84615384615385,
+      "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -36520,14 +36520,14 @@
         "55025480000011"
       ],
       "election_type": "general",
-      "dem_votes": 2,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
       "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
-      "margin": -2,
-      "margin_pct": -78.84615384615385,
+      "margin": -1,
+      "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -36540,13 +36540,13 @@
         "55025480000012"
       ],
       "election_type": "general",
-      "dem_votes": 2,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 3,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
-      "margin": -2,
+      "margin": -1,
       "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
@@ -36563,7 +36563,7 @@
       "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 1,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
       "margin": -1,
@@ -36580,14 +36580,14 @@
         "55025480000014"
       ],
       "election_type": "general",
-      "dem_votes": 2,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
       "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
       "margin": -1,
-      "margin_pct": -78.84615384615385,
+      "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -36623,11 +36623,11 @@
       "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 1,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
       "margin": -1,
-      "margin_pct": -78.84615384615385,
+      "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -36640,7 +36640,7 @@
         "55025480000017"
       ],
       "election_type": "general",
-      "dem_votes": 2,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
       "total_votes": 2,
@@ -36660,7 +36660,7 @@
         "55025480000018"
       ],
       "election_type": "general",
-      "dem_votes": 2,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
       "total_votes": 2,
@@ -36680,14 +36680,14 @@
         "55025480000019"
       ],
       "election_type": "general",
-      "dem_votes": 2,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 3,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
-      "margin": -2,
-      "margin_pct": -78.84615384615387,
+      "margin": -1,
+      "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -36700,13 +36700,13 @@
         "55025480000020"
       ],
       "election_type": "general",
-      "dem_votes": 2,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 3,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
-      "margin": -2,
+      "margin": -1,
       "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
@@ -36723,7 +36723,7 @@
       "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 1,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
       "margin": -1,
@@ -36743,7 +36743,7 @@
       "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 1,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
       "margin": -1,
@@ -36767,7 +36767,7 @@
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
       "margin": -1,
-      "margin_pct": -78.84615384615385,
+      "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -36780,7 +36780,7 @@
         "55025480000024"
       ],
       "election_type": "general",
-      "dem_votes": 2,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
       "total_votes": 2,
@@ -36800,13 +36800,13 @@
         "55025480000025"
       ],
       "election_type": "general",
-      "dem_votes": 2,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
       "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
-      "margin": -2,
+      "margin": -1,
       "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
@@ -36820,13 +36820,13 @@
         "55025480000026"
       ],
       "election_type": "general",
-      "dem_votes": 0,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 0,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
-      "margin": 0,
+      "margin": -1,
       "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
@@ -36843,7 +36843,7 @@
       "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 1,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
       "margin": -1,
@@ -36860,7 +36860,7 @@
         "55025480000028"
       ],
       "election_type": "general",
-      "dem_votes": 2,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
       "total_votes": 2,
@@ -36900,7 +36900,7 @@
         "55025480000030"
       ],
       "election_type": "general",
-      "dem_votes": 2,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
       "total_votes": 2,
@@ -36923,11 +36923,11 @@
       "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 1,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
       "margin": -1,
-      "margin_pct": -78.84615384615385,
+      "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -36940,13 +36940,13 @@
         "55025480000032"
       ],
       "election_type": "general",
-      "dem_votes": 2,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
       "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
-      "margin": -2,
+      "margin": -1,
       "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
@@ -36960,14 +36960,14 @@
         "55025480000033"
       ],
       "election_type": "general",
-      "dem_votes": 2,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
       "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
-      "margin": -2,
-      "margin_pct": -78.84615384615385,
+      "margin": -1,
+      "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -36983,7 +36983,7 @@
       "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 1,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
       "margin": -1,
@@ -37003,7 +37003,7 @@
       "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 1,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
       "margin": -1,
@@ -37023,11 +37023,11 @@
       "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 1,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
       "margin": -1,
-      "margin_pct": -78.84615384615385,
+      "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -37060,14 +37060,14 @@
         "55025480000038"
       ],
       "election_type": "general",
-      "dem_votes": 2,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
       "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
       "margin": -1,
-      "margin_pct": -78.84615384615385,
+      "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -37087,7 +37087,7 @@
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
       "margin": -705,
-      "margin_pct": -70.76684074036808,
+      "margin_pct": -70.76628039217142,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -37100,14 +37100,14 @@
         "55025480000040"
       ],
       "election_type": "general",
-      "dem_votes": 2,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
       "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
-      "margin": -2,
-      "margin_pct": -78.84615384615387,
+      "margin": -1,
+      "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -37120,13 +37120,13 @@
         "55025480000041"
       ],
       "election_type": "general",
-      "dem_votes": 2,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
       "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
-      "margin": -2,
+      "margin": -1,
       "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
@@ -37140,7 +37140,7 @@
         "55025480000042"
       ],
       "election_type": "general",
-      "dem_votes": 2,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
       "total_votes": 2,
@@ -37160,13 +37160,13 @@
         "55025480000043"
       ],
       "election_type": "general",
-      "dem_votes": 2,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 3,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
-      "margin": -2,
+      "margin": -1,
       "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
@@ -37183,7 +37183,7 @@
       "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 1,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
       "margin": -1,
@@ -37200,13 +37200,13 @@
         "55025480000045"
       ],
       "election_type": "general",
-      "dem_votes": 0,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 0,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
-      "margin": 0,
+      "margin": -1,
       "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
@@ -37220,14 +37220,14 @@
         "55025480000046"
       ],
       "election_type": "general",
-      "dem_votes": 2,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
       "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
-      "margin": -2,
-      "margin_pct": -78.84615384615385,
+      "margin": -1,
+      "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -37240,14 +37240,14 @@
         "55025480000047"
       ],
       "election_type": "general",
-      "dem_votes": 2,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
       "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
-      "margin": -2,
-      "margin_pct": -78.84615384615385,
+      "margin": -1,
+      "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -37260,13 +37260,13 @@
         "55025480000048"
       ],
       "election_type": "general",
-      "dem_votes": 2,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
       "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
-      "margin": -2,
+      "margin": -1,
       "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
@@ -37280,13 +37280,13 @@
         "55025480000049"
       ],
       "election_type": "general",
-      "dem_votes": 2,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
       "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
-      "margin": -2,
+      "margin": -1,
       "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
@@ -37323,7 +37323,7 @@
       "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 1,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
       "margin": -1,
@@ -37340,7 +37340,7 @@
         "55025480000052"
       ],
       "election_type": "general",
-      "dem_votes": 2,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
       "total_votes": 2,
@@ -37360,7 +37360,7 @@
         "55025480000053"
       ],
       "election_type": "general",
-      "dem_votes": 2,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
       "total_votes": 2,
@@ -37380,13 +37380,13 @@
         "55025480000054"
       ],
       "election_type": "general",
-      "dem_votes": 2,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 3,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
-      "margin": -2,
+      "margin": -1,
       "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
@@ -37400,14 +37400,14 @@
         "55025480000055"
       ],
       "election_type": "general",
-      "dem_votes": 2,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
       "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
       "margin": -1,
-      "margin_pct": -78.84615384615385,
+      "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -37423,7 +37423,7 @@
       "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 1,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
       "margin": -1,
@@ -37440,14 +37440,14 @@
         "55025480000057"
       ],
       "election_type": "general",
-      "dem_votes": 2,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
       "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
-      "margin": -2,
-      "margin_pct": -78.84615384615385,
+      "margin": -1,
+      "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -37460,14 +37460,14 @@
         "55025480000058"
       ],
       "election_type": "general",
-      "dem_votes": 2,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
       "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
-      "margin": -2,
-      "margin_pct": -78.84615384615385,
+      "margin": -1,
+      "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -37480,13 +37480,13 @@
         "55025480000059"
       ],
       "election_type": "general",
-      "dem_votes": 2,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 3,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
-      "margin": -2,
+      "margin": -1,
       "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
@@ -37500,14 +37500,14 @@
         "55025480000060"
       ],
       "election_type": "general",
-      "dem_votes": 2,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
       "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
-      "margin": -2,
-      "margin_pct": -78.84615384615385,
+      "margin": -1,
+      "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -37523,11 +37523,11 @@
       "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 1,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
       "margin": -1,
-      "margin_pct": -78.84615384615387,
+      "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -37540,7 +37540,7 @@
         "55025480000062"
       ],
       "election_type": "general",
-      "dem_votes": 2,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
       "total_votes": 2,
@@ -37560,13 +37560,13 @@
         "55025480000063"
       ],
       "election_type": "general",
-      "dem_votes": 3,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 3,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
-      "margin": -2,
+      "margin": -1,
       "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
@@ -37583,7 +37583,7 @@
       "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 1,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
       "margin": -1,
@@ -37600,13 +37600,13 @@
         "55025480000065"
       ],
       "election_type": "general",
-      "dem_votes": 2,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
       "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
-      "margin": -2,
+      "margin": -1,
       "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
@@ -37643,7 +37643,7 @@
       "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 1,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
       "margin": -1,
@@ -37663,11 +37663,11 @@
       "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 1,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
       "margin": -1,
-      "margin_pct": -78.84615384615385,
+      "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -37700,14 +37700,14 @@
         "55025480000070"
       ],
       "election_type": "general",
-      "dem_votes": 2,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
       "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
-      "margin": -2,
-      "margin_pct": -78.84615384615385,
+      "margin": -1,
+      "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -37727,7 +37727,7 @@
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
       "margin": -1,
-      "margin_pct": -78.84615384615387,
+      "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -37743,11 +37743,11 @@
       "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 1,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
       "margin": -1,
-      "margin_pct": -78.84615384615385,
+      "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -37760,7 +37760,7 @@
         "55025480000073"
       ],
       "election_type": "general",
-      "dem_votes": 2,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
       "total_votes": 2,
@@ -37780,7 +37780,7 @@
         "55025480000074"
       ],
       "election_type": "general",
-      "dem_votes": 2,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
       "total_votes": 2,
@@ -37807,7 +37807,7 @@
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
       "margin": -1,
-      "margin_pct": -78.84615384615385,
+      "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -37820,13 +37820,13 @@
         "55025480000076"
       ],
       "election_type": "general",
-      "dem_votes": 2,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
       "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
-      "margin": -2,
+      "margin": -1,
       "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
@@ -37840,13 +37840,13 @@
         "55025480000077"
       ],
       "election_type": "general",
-      "dem_votes": 2,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 3,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
-      "margin": -2,
+      "margin": -1,
       "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
@@ -37863,7 +37863,7 @@
       "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 1,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
       "margin": -1,
@@ -37880,13 +37880,13 @@
         "55025480000079"
       ],
       "election_type": "general",
-      "dem_votes": 2,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
       "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
-      "margin": -2,
+      "margin": -1,
       "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
@@ -37900,13 +37900,13 @@
         "55025480000080"
       ],
       "election_type": "general",
-      "dem_votes": 2,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 3,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
-      "margin": -2,
+      "margin": -1,
       "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
@@ -37920,7 +37920,7 @@
         "55025480000081"
       ],
       "election_type": "general",
-      "dem_votes": 2,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
       "total_votes": 2,
@@ -37940,7 +37940,7 @@
         "55025480000082"
       ],
       "election_type": "general",
-      "dem_votes": 2,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
       "total_votes": 2,
@@ -37963,7 +37963,7 @@
       "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 1,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
       "margin": -1,
@@ -37983,11 +37983,11 @@
       "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 1,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
       "margin": -1,
-      "margin_pct": -78.84615384615385,
+      "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -38000,14 +38000,14 @@
         "55025480000085"
       ],
       "election_type": "general",
-      "dem_votes": 2,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
       "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
-      "margin": -2,
-      "margin_pct": -78.84615384615385,
+      "margin": -1,
+      "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -38023,7 +38023,7 @@
       "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 1,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
       "margin": -1,
@@ -38043,7 +38043,7 @@
       "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 1,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
       "margin": -1,
@@ -38080,13 +38080,13 @@
         "55025480000089"
       ],
       "election_type": "general",
-      "dem_votes": 3,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 3,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
-      "margin": -2,
+      "margin": -1,
       "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
@@ -38103,7 +38103,7 @@
       "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 1,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
       "margin": -1,
@@ -38120,14 +38120,14 @@
         "55025480000091"
       ],
       "election_type": "general",
-      "dem_votes": 1694,
+      "dem_votes": 1693,
       "rep_votes": 191,
       "other_votes": 0,
       "total_votes": 1885,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
-      "margin": -1503,
-      "margin_pct": -79.71221023330729,
+      "margin": -1502,
+      "margin_pct": -79.71251469068012,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -38143,11 +38143,11 @@
       "dem_votes": 1034,
       "rep_votes": 201,
       "other_votes": 0,
-      "total_votes": 1235,
+      "total_votes": 1236,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
       "margin": -833,
-      "margin_pct": -67.43491991848921,
+      "margin_pct": -67.43725943956163,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -38163,11 +38163,11 @@
       "dem_votes": 583,
       "rep_votes": 106,
       "other_votes": 0,
-      "total_votes": 689,
+      "total_votes": 690,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
       "margin": -477,
-      "margin_pct": -69.2052432714694,
+      "margin_pct": -69.207631488484,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -38180,13 +38180,13 @@
         "55025480000094"
       ],
       "election_type": "general",
-      "dem_votes": 2,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
       "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
-      "margin": -2,
+      "margin": -1,
       "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
@@ -38203,7 +38203,7 @@
       "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 1,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
       "margin": -1,
@@ -38220,14 +38220,14 @@
         "55025480000096"
       ],
       "election_type": "general",
-      "dem_votes": 1350,
+      "dem_votes": 1349,
       "rep_votes": 355,
       "other_votes": 1,
       "total_votes": 1706,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
-      "margin": -995,
-      "margin_pct": -58.29981763156188,
+      "margin": -994,
+      "margin_pct": -58.29323164587748,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -38240,7 +38240,7 @@
         "55025480000097"
       ],
       "election_type": "general",
-      "dem_votes": 2,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
       "total_votes": 2,
@@ -38260,13 +38260,13 @@
         "55025480000098"
       ],
       "election_type": "general",
-      "dem_votes": 2,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 3,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
-      "margin": -2,
+      "margin": -1,
       "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
@@ -38283,11 +38283,11 @@
       "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 1,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
       "margin": -1,
-      "margin_pct": -78.84615384615385,
+      "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -38303,11 +38303,11 @@
       "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 1,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
       "margin": -1,
-      "margin_pct": -78.84615384615385,
+      "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -38320,14 +38320,14 @@
         "55025480000101"
       ],
       "election_type": "general",
-      "dem_votes": 2,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
       "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
       "margin": -1,
-      "margin_pct": -78.84615384615385,
+      "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -38360,13 +38360,13 @@
         "55025480000103"
       ],
       "election_type": "general",
-      "dem_votes": 2,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
       "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
-      "margin": -2,
+      "margin": -1,
       "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
@@ -38380,14 +38380,14 @@
         "55025480000104"
       ],
       "election_type": "general",
-      "dem_votes": 2,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
       "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
-      "margin": -2,
-      "margin_pct": -78.84615384615383,
+      "margin": -1,
+      "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -38403,7 +38403,7 @@
       "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 1,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
       "margin": -1,
@@ -38420,14 +38420,14 @@
         "55025480000106"
       ],
       "election_type": "general",
-      "dem_votes": 2,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
       "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
-      "margin": -2,
-      "margin_pct": -78.84615384615385,
+      "margin": -1,
+      "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -38440,13 +38440,13 @@
         "55025480000107"
       ],
       "election_type": "general",
-      "dem_votes": 2,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
       "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
-      "margin": -2,
+      "margin": -1,
       "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
@@ -38463,11 +38463,11 @@
       "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 1,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
       "margin": -1,
-      "margin_pct": -78.84615384615385,
+      "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -38483,7 +38483,7 @@
       "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 1,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
       "margin": -1,
@@ -38500,7 +38500,7 @@
         "55025480000110"
       ],
       "election_type": "general",
-      "dem_votes": 2,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
       "total_votes": 2,
@@ -38523,7 +38523,7 @@
       "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 1,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
       "margin": -1,
@@ -38543,10 +38543,10 @@
       "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 1,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
-      "margin": 0,
+      "margin": -1,
       "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
@@ -38560,13 +38560,13 @@
         "55025480000113"
       ],
       "election_type": "general",
-      "dem_votes": 2,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 3,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
-      "margin": -2,
+      "margin": -1,
       "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
@@ -38580,14 +38580,14 @@
         "55025480000114"
       ],
       "election_type": "general",
-      "dem_votes": 2,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
       "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
-      "margin": -2,
-      "margin_pct": -78.84615384615387,
+      "margin": -1,
+      "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -38600,14 +38600,14 @@
         "55025480000115"
       ],
       "election_type": "general",
-      "dem_votes": 1365,
+      "dem_votes": 1364,
       "rep_votes": 193,
       "other_votes": 1,
-      "total_votes": 1560,
+      "total_votes": 1559,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
-      "margin": -1172,
-      "margin_pct": -75.15066493311168,
+      "margin": -1171,
+      "margin_pct": -75.14816803942911,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -38620,13 +38620,13 @@
         "55025480000116"
       ],
       "election_type": "general",
-      "dem_votes": 2,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
       "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
-      "margin": -2,
+      "margin": -1,
       "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
@@ -38640,7 +38640,7 @@
         "55025480000117"
       ],
       "election_type": "general",
-      "dem_votes": 2,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
       "total_votes": 2,
@@ -38663,11 +38663,11 @@
       "dem_votes": 601,
       "rep_votes": 185,
       "other_votes": 0,
-      "total_votes": 786,
+      "total_votes": 787,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
       "margin": -416,
-      "margin_pct": -52.909878860528046,
+      "margin_pct": -52.91713362779351,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -38680,14 +38680,14 @@
         "55025480000119"
       ],
       "election_type": "general",
-      "dem_votes": 1122,
+      "dem_votes": 1121,
       "rep_votes": 412,
       "other_votes": 1,
       "total_votes": 1535,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
-      "margin": -710,
-      "margin_pct": -46.23193751377485,
+      "margin": -709,
+      "margin_pct": -46.21674719906547,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -38700,14 +38700,14 @@
         "55025480000120"
       ],
       "election_type": "general",
-      "dem_votes": 0,
+      "dem_votes": 1,
       "rep_votes": 2,
       "other_votes": 0,
-      "total_votes": 2,
+      "total_votes": 4,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
-      "margin": 2,
-      "margin_pct": 98.85677097456481,
+      "margin": 1,
+      "margin_pct": 22.17573221757322,
       "winner": "REP",
       "competitiveness": {
         "color": "#67000d"
@@ -38720,13 +38720,13 @@
         "55025480000121"
       ],
       "election_type": "general",
-      "dem_votes": 0,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 0,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
-      "margin": 0,
+      "margin": -1,
       "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
@@ -38740,14 +38740,14 @@
         "55025480000122"
       ],
       "election_type": "general",
-      "dem_votes": 0,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 0,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
-      "margin": 0,
-      "margin_pct": -78.84615384615385,
+      "margin": -1,
+      "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -38760,13 +38760,13 @@
         "55025480000123"
       ],
       "election_type": "general",
-      "dem_votes": 0,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 0,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
-      "margin": 0,
+      "margin": -1,
       "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
@@ -38780,13 +38780,13 @@
         "55025480000124"
       ],
       "election_type": "general",
-      "dem_votes": 0,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 0,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
-      "margin": 0,
+      "margin": -1,
       "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
@@ -38800,14 +38800,14 @@
         "55025480000125"
       ],
       "election_type": "general",
-      "dem_votes": 0,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 0,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
-      "margin": 0,
-      "margin_pct": -78.84615384615385,
+      "margin": -1,
+      "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -38820,17 +38820,17 @@
         "55025480000126"
       ],
       "election_type": "general",
-      "dem_votes": 0,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 0,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
-      "margin": 0,
-      "margin_pct": 0.0,
-      "winner": "TIE",
+      "margin": -1,
+      "margin_pct": -78.84615384615384,
+      "winner": "DEM",
       "competitiveness": {
-        "color": "#9ca3af"
+        "color": "#08306b"
       }
     },
     {
@@ -38840,13 +38840,13 @@
         "55025480000127"
       ],
       "election_type": "general",
-      "dem_votes": 0,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 0,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
-      "margin": 0,
+      "margin": -1,
       "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
@@ -38863,11 +38863,11 @@
       "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 1,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
       "margin": -1,
-      "margin_pct": -78.84615384615387,
+      "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -38880,14 +38880,14 @@
         "55025480000129"
       ],
       "election_type": "general",
-      "dem_votes": 1,
+      "dem_votes": 2,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 1,
+      "total_votes": 3,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
-      "margin": -1,
-      "margin_pct": -99.25842957012091,
+      "margin": -2,
+      "margin_pct": -87.17201166180757,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -38900,17 +38900,17 @@
         "55025480000130"
       ],
       "election_type": "general",
-      "dem_votes": 0,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 0,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
-      "margin": 0,
-      "margin_pct": 0.0,
-      "winner": "TIE",
+      "margin": -1,
+      "margin_pct": -78.84615384615384,
+      "winner": "DEM",
       "competitiveness": {
-        "color": "#9ca3af"
+        "color": "#08306b"
       }
     },
     {
@@ -38920,17 +38920,17 @@
         "55025480000131"
       ],
       "election_type": "general",
-      "dem_votes": 0,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 0,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
-      "margin": 0,
-      "margin_pct": 0.0,
-      "winner": "TIE",
+      "margin": -1,
+      "margin_pct": -78.84615384615384,
+      "winner": "DEM",
       "competitiveness": {
-        "color": "#9ca3af"
+        "color": "#08306b"
       }
     },
     {
@@ -38943,7 +38943,7 @@
       "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 1,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
       "margin": -1,
@@ -38960,17 +38960,17 @@
         "55025480000133"
       ],
       "election_type": "general",
-      "dem_votes": 0,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 0,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
-      "margin": 0,
-      "margin_pct": 0.0,
-      "winner": "TIE",
+      "margin": -1,
+      "margin_pct": -78.84615384615384,
+      "winner": "DEM",
       "competitiveness": {
-        "color": "#9ca3af"
+        "color": "#08306b"
       }
     },
     {
@@ -38980,13 +38980,13 @@
         "55025480000134"
       ],
       "election_type": "general",
-      "dem_votes": 0,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 0,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
-      "margin": 0,
+      "margin": -1,
       "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
@@ -39000,13 +39000,13 @@
         "55025480000135"
       ],
       "election_type": "general",
-      "dem_votes": 0,
+      "dem_votes": 1,
       "rep_votes": 0,
       "other_votes": 0,
-      "total_votes": 0,
+      "total_votes": 2,
       "dem_candidate": "Dianne H. Hesselbein",
       "rep_candidate": "Robert Relph",
-      "margin": 0,
+      "margin": -1,
       "margin_pct": -78.84615384615384,
       "winner": "DEM",
       "competitiveness": {
@@ -43077,6 +43077,26 @@
       }
     },
     {
+      "county": "MIDDLETON - T 0004A",
+      "precinct_key": "MIDDLETON - T 0004A",
+      "geoids": [
+        "5502551600004A"
+      ],
+      "election_type": "general",
+      "dem_votes": 250,
+      "rep_votes": 127,
+      "other_votes": 0,
+      "total_votes": 378,
+      "dem_candidate": "Dianne H. Hesselbein",
+      "rep_candidate": "Robert Relph",
+      "margin": -123,
+      "margin_pct": -32.66278454208575,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
       "county": "MIDDLETON - T 0005",
       "precinct_key": "MIDDLETON - T 0005",
       "geoids": [
@@ -43157,28 +43177,8 @@
       }
     },
     {
-      "county": "MIDDLETON - T 004A",
-      "precinct_key": "MIDDLETON - T 004A",
-      "geoids": [
-        "5502551600004A"
-      ],
-      "election_type": "general",
-      "dem_votes": 250,
-      "rep_votes": 127,
-      "other_votes": 0,
-      "total_votes": 378,
-      "dem_candidate": "Dianne H. Hesselbein",
-      "rep_candidate": "Robert Relph",
-      "margin": -123,
-      "margin_pct": -32.66278454208575,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      }
-    },
-    {
-      "county": "MIDDLETON - T 008A",
-      "precinct_key": "MIDDLETON - T 008A",
+      "county": "MIDDLETON - T 0008A",
+      "precinct_key": "MIDDLETON - T 0008A",
       "geoids": [
         "5502551600008A"
       ],
@@ -51473,13 +51473,13 @@
       ],
       "election_type": "general",
       "dem_votes": 0,
-      "rep_votes": 632,
-      "other_votes": 29,
-      "total_votes": 660,
+      "rep_votes": 1023,
+      "other_votes": 36,
+      "total_votes": 1059,
       "dem_candidate": "",
       "rep_candidate": "John Jagler",
-      "margin": 632,
-      "margin_pct": 95.65875820292781,
+      "margin": 1023,
+      "margin_pct": 96.63071715342832,
       "winner": "REP",
       "competitiveness": {
         "color": "#67000d"
@@ -51493,13 +51493,13 @@
       ],
       "election_type": "general",
       "dem_votes": 0,
-      "rep_votes": 632,
-      "other_votes": 29,
-      "total_votes": 660,
+      "rep_votes": 1023,
+      "other_votes": 36,
+      "total_votes": 1059,
       "dem_candidate": "",
       "rep_candidate": "John Jagler",
-      "margin": 632,
-      "margin_pct": 95.65875820292781,
+      "margin": 1023,
+      "margin_pct": 96.63071715342832,
       "winner": "REP",
       "competitiveness": {
         "color": "#67000d"
@@ -51533,13 +51533,13 @@
       ],
       "election_type": "general",
       "dem_votes": 0,
-      "rep_votes": 561,
-      "other_votes": 27,
-      "total_votes": 588,
+      "rep_votes": 953,
+      "other_votes": 34,
+      "total_votes": 987,
       "dem_candidate": "",
       "rep_candidate": "John Jagler",
-      "margin": 561,
-      "margin_pct": 95.41076487252124,
+      "margin": 953,
+      "margin_pct": 96.55376298673875,
       "winner": "REP",
       "competitiveness": {
         "color": "#67000d"
@@ -51553,13 +51553,13 @@
       ],
       "election_type": "general",
       "dem_votes": 0,
-      "rep_votes": 561,
-      "other_votes": 27,
-      "total_votes": 588,
+      "rep_votes": 997,
+      "other_votes": 36,
+      "total_votes": 1033,
       "dem_candidate": "",
       "rep_candidate": "John Jagler",
-      "margin": 561,
-      "margin_pct": 95.41076487252124,
+      "margin": 997,
+      "margin_pct": 96.48387096774194,
       "winner": "REP",
       "competitiveness": {
         "color": "#67000d"
@@ -51613,13 +51613,13 @@
       ],
       "election_type": "general",
       "dem_votes": 0,
-      "rep_votes": 598,
-      "other_votes": 21,
-      "total_votes": 619,
+      "rep_votes": 1034,
+      "other_votes": 30,
+      "total_votes": 1064,
       "dem_candidate": "",
       "rep_candidate": "John Jagler",
-      "margin": 598,
-      "margin_pct": 96.66128163704899,
+      "margin": 1034,
+      "margin_pct": 97.18045112781954,
       "winner": "REP",
       "competitiveness": {
         "color": "#67000d"
@@ -51633,13 +51633,13 @@
       ],
       "election_type": "general",
       "dem_votes": 0,
-      "rep_votes": 598,
-      "other_votes": 21,
-      "total_votes": 619,
+      "rep_votes": 1034,
+      "other_votes": 30,
+      "total_votes": 1064,
       "dem_candidate": "",
       "rep_candidate": "John Jagler",
-      "margin": 598,
-      "margin_pct": 96.66128163704899,
+      "margin": 1034,
+      "margin_pct": 97.18045112781954,
       "winner": "REP",
       "competitiveness": {
         "color": "#67000d"
@@ -51653,13 +51653,13 @@
       ],
       "election_type": "general",
       "dem_votes": 0,
-      "rep_votes": 565,
-      "other_votes": 30,
-      "total_votes": 594,
+      "rep_votes": 956,
+      "other_votes": 37,
+      "total_votes": 993,
       "dem_candidate": "",
       "rep_candidate": "John Jagler",
-      "margin": 565,
-      "margin_pct": 95.00841278743691,
+      "margin": 956,
+      "margin_pct": 96.3059356896986,
       "winner": "REP",
       "competitiveness": {
         "color": "#67000d"
@@ -51706,106 +51706,6 @@
       }
     },
     {
-      "county": "OCONOMOWOC - T 0001",
-      "precinct_key": "OCONOMOWOC - T 0001",
-      "geoids": [
-        "55133592750001"
-      ],
-      "election_type": "general",
-      "dem_votes": 0,
-      "rep_votes": 391,
-      "other_votes": 7,
-      "total_votes": 398,
-      "dem_candidate": "",
-      "rep_candidate": "Chris Kapenga",
-      "margin": 391,
-      "margin_pct": 98.24231010671689,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#67000d"
-      }
-    },
-    {
-      "county": "OCONOMOWOC - T 0002",
-      "precinct_key": "OCONOMOWOC - T 0002",
-      "geoids": [
-        "55133592750002"
-      ],
-      "election_type": "general",
-      "dem_votes": 0,
-      "rep_votes": 391,
-      "other_votes": 7,
-      "total_votes": 398,
-      "dem_candidate": "",
-      "rep_candidate": "Chris Kapenga",
-      "margin": 391,
-      "margin_pct": 98.24231010671689,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#67000d"
-      }
-    },
-    {
-      "county": "OCONOMOWOC - T 0003",
-      "precinct_key": "OCONOMOWOC - T 0003",
-      "geoids": [
-        "55133592750003"
-      ],
-      "election_type": "general",
-      "dem_votes": 0,
-      "rep_votes": 285,
-      "other_votes": 9,
-      "total_votes": 294,
-      "dem_candidate": "",
-      "rep_candidate": "Chris Kapenga",
-      "margin": 285,
-      "margin_pct": 97.02380952380952,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#67000d"
-      }
-    },
-    {
-      "county": "OCONOMOWOC - T 0004",
-      "precinct_key": "OCONOMOWOC - T 0004",
-      "geoids": [
-        "55133592750004"
-      ],
-      "election_type": "general",
-      "dem_votes": 0,
-      "rep_votes": 391,
-      "other_votes": 7,
-      "total_votes": 398,
-      "dem_candidate": "",
-      "rep_candidate": "Chris Kapenga",
-      "margin": 391,
-      "margin_pct": 98.24231010671689,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#67000d"
-      }
-    },
-    {
-      "county": "OCONOMOWOC - T 0005",
-      "precinct_key": "OCONOMOWOC - T 0005",
-      "geoids": [
-        "55133592750005"
-      ],
-      "election_type": "general",
-      "dem_votes": 0,
-      "rep_votes": 436,
-      "other_votes": 9,
-      "total_votes": 445,
-      "dem_candidate": "",
-      "rep_candidate": "Chris Kapenga",
-      "margin": 436,
-      "margin_pct": 97.90262172284643,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#67000d"
-      }
-    },
-    {
       "county": "OCONOMOWOC - T 0006",
       "precinct_key": "OCONOMOWOC - T 0006",
       "geoids": [
@@ -51813,93 +51713,13 @@
       ],
       "election_type": "general",
       "dem_votes": 0,
-      "rep_votes": 285,
-      "other_votes": 9,
-      "total_votes": 294,
+      "rep_votes": 570,
+      "other_votes": 18,
+      "total_votes": 588,
       "dem_candidate": "",
       "rep_candidate": "Chris Kapenga",
-      "margin": 285,
+      "margin": 570,
       "margin_pct": 97.02380952380952,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#67000d"
-      }
-    },
-    {
-      "county": "OCONOMOWOC - T 0007",
-      "precinct_key": "OCONOMOWOC - T 0007",
-      "geoids": [
-        "55133592750007"
-      ],
-      "election_type": "general",
-      "dem_votes": 0,
-      "rep_votes": 285,
-      "other_votes": 9,
-      "total_votes": 294,
-      "dem_candidate": "",
-      "rep_candidate": "Chris Kapenga",
-      "margin": 285,
-      "margin_pct": 97.02380952380952,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#67000d"
-      }
-    },
-    {
-      "county": "OCONOMOWOC - T 0008",
-      "precinct_key": "OCONOMOWOC - T 0008",
-      "geoids": [
-        "55133592750008"
-      ],
-      "election_type": "general",
-      "dem_votes": 0,
-      "rep_votes": 436,
-      "other_votes": 9,
-      "total_votes": 445,
-      "dem_candidate": "",
-      "rep_candidate": "Chris Kapenga",
-      "margin": 436,
-      "margin_pct": 97.90262172284643,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#67000d"
-      }
-    },
-    {
-      "county": "OCONOMOWOC - T 0009",
-      "precinct_key": "OCONOMOWOC - T 0009",
-      "geoids": [
-        "55133592750009"
-      ],
-      "election_type": "general",
-      "dem_votes": 0,
-      "rep_votes": 436,
-      "other_votes": 9,
-      "total_votes": 445,
-      "dem_candidate": "",
-      "rep_candidate": "Chris Kapenga",
-      "margin": 436,
-      "margin_pct": 97.90262172284643,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#67000d"
-      }
-    },
-    {
-      "county": "OCONOMOWOC - T 0010",
-      "precinct_key": "OCONOMOWOC - T 0010",
-      "geoids": [
-        "55133592750010"
-      ],
-      "election_type": "general",
-      "dem_votes": 0,
-      "rep_votes": 391,
-      "other_votes": 7,
-      "total_votes": 398,
-      "dem_candidate": "",
-      "rep_candidate": "Chris Kapenga",
-      "margin": 391,
-      "margin_pct": 98.24231010671689,
       "winner": "REP",
       "competitiveness": {
         "color": "#67000d"
@@ -51913,12 +51733,12 @@
       ],
       "election_type": "general",
       "dem_votes": 0,
-      "rep_votes": 285,
-      "other_votes": 9,
-      "total_votes": 294,
+      "rep_votes": 570,
+      "other_votes": 18,
+      "total_votes": 588,
       "dem_candidate": "",
       "rep_candidate": "Chris Kapenga",
-      "margin": 285,
+      "margin": 570,
       "margin_pct": 97.02380952380952,
       "winner": "REP",
       "competitiveness": {
@@ -72865,6 +72685,46 @@
       }
     },
     {
+      "county": "WAUWATOSA - C 0002A",
+      "precinct_key": "WAUWATOSA - C 0002A",
+      "geoids": [
+        "5507984675002A"
+      ],
+      "election_type": "general",
+      "dem_votes": 782,
+      "rep_votes": 336,
+      "other_votes": 0,
+      "total_votes": 1118,
+      "dem_candidate": "Jessica Katzenmeyer",
+      "rep_candidate": "Rob Hutton",
+      "margin": -446,
+      "margin_pct": -39.89266547406082,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "WAUWATOSA - C 0004B",
+      "precinct_key": "WAUWATOSA - C 0004B",
+      "geoids": [
+        "5507984675004B"
+      ],
+      "election_type": "general",
+      "dem_votes": 328,
+      "rep_votes": 118,
+      "other_votes": 0,
+      "total_votes": 446,
+      "dem_candidate": "Jessica Katzenmeyer",
+      "rep_candidate": "Rob Hutton",
+      "margin": -210,
+      "margin_pct": -47.08520179372198,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
       "county": "WAUWATOSA - C 0005",
       "precinct_key": "WAUWATOSA - C 0005",
       "geoids": [
@@ -72885,6 +72745,106 @@
       }
     },
     {
+      "county": "WAUWATOSA - C 0006A",
+      "precinct_key": "WAUWATOSA - C 0006A",
+      "geoids": [
+        "5507984675006A"
+      ],
+      "election_type": "general",
+      "dem_votes": 272,
+      "rep_votes": 126,
+      "other_votes": 0,
+      "total_votes": 398,
+      "dem_candidate": "Jessica Katzenmeyer",
+      "rep_candidate": "Rob Hutton",
+      "margin": -146,
+      "margin_pct": -36.68341708542713,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      }
+    },
+    {
+      "county": "WAUWATOSA - C 0007A",
+      "precinct_key": "WAUWATOSA - C 0007A",
+      "geoids": [
+        "5507984675007A"
+      ],
+      "election_type": "general",
+      "dem_votes": 332,
+      "rep_votes": 238,
+      "other_votes": 0,
+      "total_votes": 570,
+      "dem_candidate": "Jessica Katzenmeyer",
+      "rep_candidate": "Rob Hutton",
+      "margin": -93,
+      "margin_pct": -16.315789473684212,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      }
+    },
+    {
+      "county": "WAUWATOSA - C 0007B",
+      "precinct_key": "WAUWATOSA - C 0007B",
+      "geoids": [
+        "5507984675007B"
+      ],
+      "election_type": "general",
+      "dem_votes": 332,
+      "rep_votes": 238,
+      "other_votes": 0,
+      "total_votes": 570,
+      "dem_candidate": "Jessica Katzenmeyer",
+      "rep_candidate": "Rob Hutton",
+      "margin": -93,
+      "margin_pct": -16.315789473684212,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      }
+    },
+    {
+      "county": "WAUWATOSA - C 0008A",
+      "precinct_key": "WAUWATOSA - C 0008A",
+      "geoids": [
+        "5507984675008A"
+      ],
+      "election_type": "general",
+      "dem_votes": 254,
+      "rep_votes": 234,
+      "other_votes": 0,
+      "total_votes": 488,
+      "dem_candidate": "Jessica Katzenmeyer",
+      "rep_candidate": "Rob Hutton",
+      "margin": -20,
+      "margin_pct": -4.205128205128205,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#c6dbef"
+      }
+    },
+    {
+      "county": "WAUWATOSA - C 0008B",
+      "precinct_key": "WAUWATOSA - C 0008B",
+      "geoids": [
+        "5507984675008B"
+      ],
+      "election_type": "general",
+      "dem_votes": 254,
+      "rep_votes": 234,
+      "other_votes": 0,
+      "total_votes": 488,
+      "dem_candidate": "Jessica Katzenmeyer",
+      "rep_candidate": "Rob Hutton",
+      "margin": -20,
+      "margin_pct": -4.205128205128205,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#c6dbef"
+      }
+    },
+    {
       "county": "WAUWATOSA - C 0009",
       "precinct_key": "WAUWATOSA - C 0009",
       "geoids": [
@@ -72902,6 +72862,26 @@
       "winner": "DEM",
       "competitiveness": {
         "color": "#2171b5"
+      }
+    },
+    {
+      "county": "WAUWATOSA - C 0012A",
+      "precinct_key": "WAUWATOSA - C 0012A",
+      "geoids": [
+        "5507984675012A"
+      ],
+      "election_type": "general",
+      "dem_votes": 0,
+      "rep_votes": 0,
+      "other_votes": 0,
+      "total_votes": 0,
+      "dem_candidate": "Jessica Katzenmeyer",
+      "rep_candidate": "Rob Hutton",
+      "margin": 0,
+      "margin_pct": 0.0,
+      "winner": "TIE",
+      "competitiveness": {
+        "color": "#9ca3af"
       }
     },
     {
@@ -73125,168 +73105,8 @@
       }
     },
     {
-      "county": "WAUWATOSA - C 002A",
-      "precinct_key": "WAUWATOSA - C 002A",
-      "geoids": [
-        "5507984675002A"
-      ],
-      "election_type": "general",
-      "dem_votes": 782,
-      "rep_votes": 336,
-      "other_votes": 0,
-      "total_votes": 1118,
-      "dem_candidate": "Jessica Katzenmeyer",
-      "rep_candidate": "Rob Hutton",
-      "margin": -446,
-      "margin_pct": -39.89266547406082,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      }
-    },
-    {
-      "county": "WAUWATOSA - C 004B",
-      "precinct_key": "WAUWATOSA - C 004B",
-      "geoids": [
-        "5507984675004B"
-      ],
-      "election_type": "general",
-      "dem_votes": 328,
-      "rep_votes": 118,
-      "other_votes": 0,
-      "total_votes": 446,
-      "dem_candidate": "Jessica Katzenmeyer",
-      "rep_candidate": "Rob Hutton",
-      "margin": -210,
-      "margin_pct": -47.08520179372198,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      }
-    },
-    {
-      "county": "WAUWATOSA - C 006A",
-      "precinct_key": "WAUWATOSA - C 006A",
-      "geoids": [
-        "5507984675006A"
-      ],
-      "election_type": "general",
-      "dem_votes": 272,
-      "rep_votes": 126,
-      "other_votes": 0,
-      "total_votes": 398,
-      "dem_candidate": "Jessica Katzenmeyer",
-      "rep_candidate": "Rob Hutton",
-      "margin": -146,
-      "margin_pct": -36.68341708542713,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      }
-    },
-    {
-      "county": "WAUWATOSA - C 007A",
-      "precinct_key": "WAUWATOSA - C 007A",
-      "geoids": [
-        "5507984675007A"
-      ],
-      "election_type": "general",
-      "dem_votes": 332,
-      "rep_votes": 238,
-      "other_votes": 0,
-      "total_votes": 570,
-      "dem_candidate": "Jessica Katzenmeyer",
-      "rep_candidate": "Rob Hutton",
-      "margin": -93,
-      "margin_pct": -16.315789473684212,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#2171b5"
-      }
-    },
-    {
-      "county": "WAUWATOSA - C 007B",
-      "precinct_key": "WAUWATOSA - C 007B",
-      "geoids": [
-        "5507984675007B"
-      ],
-      "election_type": "general",
-      "dem_votes": 332,
-      "rep_votes": 238,
-      "other_votes": 0,
-      "total_votes": 570,
-      "dem_candidate": "Jessica Katzenmeyer",
-      "rep_candidate": "Rob Hutton",
-      "margin": -93,
-      "margin_pct": -16.315789473684212,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#2171b5"
-      }
-    },
-    {
-      "county": "WAUWATOSA - C 008A",
-      "precinct_key": "WAUWATOSA - C 008A",
-      "geoids": [
-        "5507984675008A"
-      ],
-      "election_type": "general",
-      "dem_votes": 254,
-      "rep_votes": 234,
-      "other_votes": 0,
-      "total_votes": 488,
-      "dem_candidate": "Jessica Katzenmeyer",
-      "rep_candidate": "Rob Hutton",
-      "margin": -20,
-      "margin_pct": -4.205128205128205,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#c6dbef"
-      }
-    },
-    {
-      "county": "WAUWATOSA - C 008B",
-      "precinct_key": "WAUWATOSA - C 008B",
-      "geoids": [
-        "5507984675008B"
-      ],
-      "election_type": "general",
-      "dem_votes": 254,
-      "rep_votes": 234,
-      "other_votes": 0,
-      "total_votes": 488,
-      "dem_candidate": "Jessica Katzenmeyer",
-      "rep_candidate": "Rob Hutton",
-      "margin": -20,
-      "margin_pct": -4.205128205128205,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#c6dbef"
-      }
-    },
-    {
-      "county": "WAUWATOSA - C 012A",
-      "precinct_key": "WAUWATOSA - C 012A",
-      "geoids": [
-        "5507984675012A"
-      ],
-      "election_type": "general",
-      "dem_votes": 0,
-      "rep_votes": 0,
-      "other_votes": 0,
-      "total_votes": 0,
-      "dem_candidate": "Jessica Katzenmeyer",
-      "rep_candidate": "Rob Hutton",
-      "margin": 0,
-      "margin_pct": 0.0,
-      "winner": "TIE",
-      "competitiveness": {
-        "color": "#9ca3af"
-      }
-    },
-    {
-      "county": "WAUWATOSA - C 024B",
-      "precinct_key": "WAUWATOSA - C 024B",
+      "county": "WAUWATOSA - C 0024B",
+      "precinct_key": "WAUWATOSA - C 0024B",
       "geoids": [
         "5507984675024B"
       ],
@@ -76190,8 +76010,8 @@
       }
     },
     {
-      "county": "WOLF RIVER - T 002A",
-      "precinct_key": "WOLF RIVER - T 002A",
+      "county": "WOLF RIVER - T 0002A",
+      "precinct_key": "WOLF RIVER - T 0002A",
       "geoids": [
         "5513988475002A"
       ],
@@ -76210,8 +76030,8 @@
       }
     },
     {
-      "county": "WOLF RIVER - T 002B",
-      "precinct_key": "WOLF RIVER - T 002B",
+      "county": "WOLF RIVER - T 0002B",
+      "precinct_key": "WOLF RIVER - T 0002B",
       "geoids": [
         "5513988475002B"
       ],

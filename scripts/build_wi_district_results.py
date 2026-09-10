@@ -488,7 +488,7 @@ def parse_ward_list(ward_part: str) -> list[int]:
         token = part.strip()
         if not token:
             continue
-        range_match = re.match(r"^(\d+)\s*-\s*(\d+)$", token)
+        range_match = re.match(r"^(\d+)[A-Z]?\s*-\s*(\d+)[A-Z]?$", token, flags=re.IGNORECASE)
         if range_match:
             start = int(range_match.group(1))
             end = int(range_match.group(2))

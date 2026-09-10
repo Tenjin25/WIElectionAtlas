@@ -21506,6 +21506,29 @@
       "rep_label": "Conservative"
     },
     {
+      "county": "CHIPPEWA FALLS - C 0001A",
+      "precinct_key": "CHIPPEWA FALLS - C 0001A",
+      "geoids": [
+        "5501714575001A"
+      ],
+      "election_type": "spring",
+      "dem_votes": 94,
+      "rep_votes": 66,
+      "other_votes": 0,
+      "total_votes": 160,
+      "dem_candidate": "Susan Crawford",
+      "rep_candidate": "Brad Schimel",
+      "margin": -28,
+      "margin_pct": -17.5,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
       "county": "CHIPPEWA FALLS - C 0002",
       "precinct_key": "CHIPPEWA FALLS - C 0002",
       "geoids": [
@@ -21713,6 +21736,29 @@
       "rep_label": "Conservative"
     },
     {
+      "county": "CHIPPEWA FALLS - C 0010A",
+      "precinct_key": "CHIPPEWA FALLS - C 0010A",
+      "geoids": [
+        "5501714575010A"
+      ],
+      "election_type": "spring",
+      "dem_votes": 104,
+      "rep_votes": 74,
+      "other_votes": 0,
+      "total_votes": 178,
+      "dem_candidate": "Susan Crawford",
+      "rep_candidate": "Brad Schimel",
+      "margin": -30,
+      "margin_pct": -16.885553470919326,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
       "county": "CHIPPEWA FALLS - C 0011",
       "precinct_key": "CHIPPEWA FALLS - C 0011",
       "geoids": [
@@ -21865,52 +21911,6 @@
       "rep_candidate": "Brad Schimel",
       "margin": -28,
       "margin_pct": -17.5,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#2171b5"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "CHIPPEWA FALLS - C 001A",
-      "precinct_key": "CHIPPEWA FALLS - C 001A",
-      "geoids": [
-        "5501714575001A"
-      ],
-      "election_type": "spring",
-      "dem_votes": 94,
-      "rep_votes": 66,
-      "other_votes": 0,
-      "total_votes": 160,
-      "dem_candidate": "Susan Crawford",
-      "rep_candidate": "Brad Schimel",
-      "margin": -28,
-      "margin_pct": -17.5,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#2171b5"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "CHIPPEWA FALLS - C 010A",
-      "precinct_key": "CHIPPEWA FALLS - C 010A",
-      "geoids": [
-        "5501714575010A"
-      ],
-      "election_type": "spring",
-      "dem_votes": 104,
-      "rep_votes": 74,
-      "other_votes": 0,
-      "total_votes": 178,
-      "dem_candidate": "Susan Crawford",
-      "rep_candidate": "Brad Schimel",
-      "margin": -30,
-      "margin_pct": -16.885553470919326,
       "winner": "DEM",
       "competitiveness": {
         "color": "#2171b5"
@@ -39040,7 +39040,7 @@
       "county": "FOND DU LAC - C 0020",
       "precinct_key": "FOND DU LAC - C 0020",
       "geoids": [
-        "55039262750020"
+        "550392627500020"
       ],
       "election_type": "spring",
       "dem_votes": 479,
@@ -39063,7 +39063,7 @@
       "county": "FOND DU LAC - C 0021",
       "precinct_key": "FOND DU LAC - C 0021",
       "geoids": [
-        "55039262750021"
+        "550392627500021"
       ],
       "election_type": "spring",
       "dem_votes": 394,
@@ -39086,7 +39086,7 @@
       "county": "FOND DU LAC - C 0022",
       "precinct_key": "FOND DU LAC - C 0022",
       "geoids": [
-        "55039262750022"
+        "550392627500022"
       ],
       "election_type": "spring",
       "dem_votes": 312,
@@ -46471,6 +46471,29 @@
       "rep_label": "Conservative"
     },
     {
+      "county": "GREEN BAY - C 0011A",
+      "precinct_key": "GREEN BAY - C 0011A",
+      "geoids": [
+        "5500931000011A"
+      ],
+      "election_type": "spring",
+      "dem_votes": 213,
+      "rep_votes": 192,
+      "other_votes": 0,
+      "total_votes": 404,
+      "dem_candidate": "Susan Crawford",
+      "rep_candidate": "Brad Schimel",
+      "margin": -22,
+      "margin_pct": -5.315203955500618,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#6baed6"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
       "county": "GREEN BAY - C 0012",
       "precinct_key": "GREEN BAY - C 0012",
       "geoids": [
@@ -46485,6 +46508,29 @@
       "rep_candidate": "Brad Schimel",
       "margin": -30,
       "margin_pct": -25.10460251046025,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "GREEN BAY - C 0012A",
+      "precinct_key": "GREEN BAY - C 0012A",
+      "geoids": [
+        "5500931000012A"
+      ],
+      "election_type": "spring",
+      "dem_votes": 94,
+      "rep_votes": 56,
+      "other_votes": 0,
+      "total_votes": 150,
+      "dem_candidate": "Susan Crawford",
+      "rep_candidate": "Brad Schimel",
+      "margin": -37,
+      "margin_pct": -24.58471760797342,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -47069,6 +47115,29 @@
       "rep_label": "Conservative"
     },
     {
+      "county": "GREEN BAY - C 0037A",
+      "precinct_key": "GREEN BAY - C 0037A",
+      "geoids": [
+        "5500931000037A"
+      ],
+      "election_type": "spring",
+      "dem_votes": 250,
+      "rep_votes": 158,
+      "other_votes": 0,
+      "total_votes": 408,
+      "dem_candidate": "Susan Crawford",
+      "rep_candidate": "Brad Schimel",
+      "margin": -91,
+      "margin_pct": -22.276621787025704,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
       "county": "GREEN BAY - C 0038",
       "precinct_key": "GREEN BAY - C 0038",
       "geoids": [
@@ -47253,6 +47322,29 @@
       "rep_label": "Conservative"
     },
     {
+      "county": "GREEN BAY - C 0045A",
+      "precinct_key": "GREEN BAY - C 0045A",
+      "geoids": [
+        "5500931000045A"
+      ],
+      "election_type": "spring",
+      "dem_votes": 316,
+      "rep_votes": 316,
+      "other_votes": 0,
+      "total_votes": 631,
+      "dem_candidate": "Susan Crawford",
+      "rep_candidate": "Brad Schimel",
+      "margin": 0,
+      "margin_pct": 0.0,
+      "winner": "TIE",
+      "competitiveness": {
+        "color": "#9ca3af"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
       "county": "GREEN BAY - C 0046",
       "precinct_key": "GREEN BAY - C 0046",
       "geoids": [
@@ -47293,98 +47385,6 @@
       "winner": "DEM",
       "competitiveness": {
         "color": "#c6dbef"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "GREEN BAY - C 011A",
-      "precinct_key": "GREEN BAY - C 011A",
-      "geoids": [
-        "5500931000011A"
-      ],
-      "election_type": "spring",
-      "dem_votes": 213,
-      "rep_votes": 192,
-      "other_votes": 0,
-      "total_votes": 404,
-      "dem_candidate": "Susan Crawford",
-      "rep_candidate": "Brad Schimel",
-      "margin": -22,
-      "margin_pct": -5.315203955500618,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#6baed6"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "GREEN BAY - C 012A",
-      "precinct_key": "GREEN BAY - C 012A",
-      "geoids": [
-        "5500931000012A"
-      ],
-      "election_type": "spring",
-      "dem_votes": 94,
-      "rep_votes": 56,
-      "other_votes": 0,
-      "total_votes": 150,
-      "dem_candidate": "Susan Crawford",
-      "rep_candidate": "Brad Schimel",
-      "margin": -37,
-      "margin_pct": -24.58471760797342,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "GREEN BAY - C 037A",
-      "precinct_key": "GREEN BAY - C 037A",
-      "geoids": [
-        "5500931000037A"
-      ],
-      "election_type": "spring",
-      "dem_votes": 250,
-      "rep_votes": 158,
-      "other_votes": 0,
-      "total_votes": 408,
-      "dem_candidate": "Susan Crawford",
-      "rep_candidate": "Brad Schimel",
-      "margin": -91,
-      "margin_pct": -22.276621787025704,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "GREEN BAY - C 045A",
-      "precinct_key": "GREEN BAY - C 045A",
-      "geoids": [
-        "5500931000045A"
-      ],
-      "election_type": "spring",
-      "dem_votes": 316,
-      "rep_votes": 316,
-      "other_votes": 0,
-      "total_votes": 631,
-      "dem_candidate": "Susan Crawford",
-      "rep_candidate": "Brad Schimel",
-      "margin": 0,
-      "margin_pct": 0.0,
-      "winner": "TIE",
-      "competitiveness": {
-        "color": "#9ca3af"
       },
       "contest_partisan_style": "nonpartisan_ideology",
       "dem_label": "Liberal",
@@ -53329,8 +53329,7 @@
       "county": "HOLLAND - T 0004",
       "precinct_key": "HOLLAND - T 0004",
       "geoids": [
-        "55063353500004",
-        "55117353750004"
+        "55063353500004"
       ],
       "election_type": "spring",
       "dem_votes": 209,
@@ -63634,7 +63633,7 @@
       "dem_candidate": "Susan Crawford",
       "rep_candidate": "Brad Schimel",
       "margin": -184,
-      "margin_pct": -30.356200827707937,
+      "margin_pct": -30.35535388060581,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -63657,7 +63656,7 @@
       "dem_candidate": "Susan Crawford",
       "rep_candidate": "Brad Schimel",
       "margin": -136,
-      "margin_pct": -25.557633183039837,
+      "margin_pct": -25.55548096932268,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -63680,7 +63679,7 @@
       "dem_candidate": "Susan Crawford",
       "rep_candidate": "Brad Schimel",
       "margin": -244,
-      "margin_pct": -54.21133258370264,
+      "margin_pct": -54.20998333465599,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -63703,7 +63702,7 @@
       "dem_candidate": "Susan Crawford",
       "rep_candidate": "Brad Schimel",
       "margin": -278,
-      "margin_pct": -38.60271008314137,
+      "margin_pct": -38.604235900996976,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -63726,7 +63725,7 @@
       "dem_candidate": "Susan Crawford",
       "rep_candidate": "Brad Schimel",
       "margin": -252,
-      "margin_pct": -51.206689248825214,
+      "margin_pct": -51.20853596574,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -63749,7 +63748,7 @@
       "dem_candidate": "Susan Crawford",
       "rep_candidate": "Brad Schimel",
       "margin": -290,
-      "margin_pct": -44.882445030534676,
+      "margin_pct": -44.88363093592791,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -63772,7 +63771,7 @@
       "dem_candidate": "Susan Crawford",
       "rep_candidate": "Brad Schimel",
       "margin": -699,
-      "margin_pct": -59.789208530936136,
+      "margin_pct": -59.78981456022975,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -63795,7 +63794,7 @@
       "dem_candidate": "Susan Crawford",
       "rep_candidate": "Brad Schimel",
       "margin": -328,
-      "margin_pct": -42.48017293534678,
+      "margin_pct": -42.480455197298426,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -63818,7 +63817,7 @@
       "dem_candidate": "Susan Crawford",
       "rep_candidate": "Brad Schimel",
       "margin": -199,
-      "margin_pct": -40.02956084903439,
+      "margin_pct": -40.03017891787024,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -63841,7 +63840,7 @@
       "dem_candidate": "Susan Crawford",
       "rep_candidate": "Brad Schimel",
       "margin": -304,
-      "margin_pct": -54.27491533449379,
+      "margin_pct": -54.2758752630572,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -63864,7 +63863,7 @@
       "dem_candidate": "Susan Crawford",
       "rep_candidate": "Brad Schimel",
       "margin": -294,
-      "margin_pct": -48.18638716613643,
+      "margin_pct": -48.188045196417065,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -63887,7 +63886,7 @@
       "dem_candidate": "Susan Crawford",
       "rep_candidate": "Brad Schimel",
       "margin": -341,
-      "margin_pct": -53.8611608843648,
+      "margin_pct": -53.86177715091678,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -63910,7 +63909,7 @@
       "dem_candidate": "Susan Crawford",
       "rep_candidate": "Brad Schimel",
       "margin": -346,
-      "margin_pct": -52.73527082569627,
+      "margin_pct": -52.73558713049159,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -63933,7 +63932,7 @@
       "dem_candidate": "Susan Crawford",
       "rep_candidate": "Brad Schimel",
       "margin": -360,
-      "margin_pct": -61.422654381835194,
+      "margin_pct": -61.42360899506368,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -63956,7 +63955,7 @@
       "dem_candidate": "Susan Crawford",
       "rep_candidate": "Brad Schimel",
       "margin": -387,
-      "margin_pct": -66.37069164907659,
+      "margin_pct": -66.37059724349157,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -63979,7 +63978,7 @@
       "dem_candidate": "Susan Crawford",
       "rep_candidate": "Brad Schimel",
       "margin": -379,
-      "margin_pct": -54.99933536969631,
+      "margin_pct": -54.99922251593842,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -64002,7 +64001,7 @@
       "dem_candidate": "Susan Crawford",
       "rep_candidate": "Brad Schimel",
       "margin": -587,
-      "margin_pct": -55.52859910779377,
+      "margin_pct": -55.529276615873236,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -64025,7 +64024,7 @@
       "dem_candidate": "Susan Crawford",
       "rep_candidate": "Brad Schimel",
       "margin": -412,
-      "margin_pct": -40.38707264647502,
+      "margin_pct": -40.387241343090224,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -64048,7 +64047,7 @@
       "dem_candidate": "Susan Crawford",
       "rep_candidate": "Brad Schimel",
       "margin": -486,
-      "margin_pct": -48.789174628051654,
+      "margin_pct": -48.789845458783034,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -64071,7 +64070,7 @@
       "dem_candidate": "Susan Crawford",
       "rep_candidate": "Brad Schimel",
       "margin": -317,
-      "margin_pct": -49.291596425961636,
+      "margin_pct": -49.29186337128575,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -64094,7 +64093,7 @@
       "dem_candidate": "Susan Crawford",
       "rep_candidate": "Brad Schimel",
       "margin": -289,
-      "margin_pct": -39.96462039383834,
+      "margin_pct": -39.96542356137318,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -64117,7 +64116,7 @@
       "dem_candidate": "Susan Crawford",
       "rep_candidate": "Brad Schimel",
       "margin": -275,
-      "margin_pct": -37.81979732051003,
+      "margin_pct": -37.81991452571597,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -64140,7 +64139,7 @@
       "dem_candidate": "Susan Crawford",
       "rep_candidate": "Brad Schimel",
       "margin": -257,
-      "margin_pct": -28.267703123241667,
+      "margin_pct": -28.267787687109575,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -64163,7 +64162,7 @@
       "dem_candidate": "Susan Crawford",
       "rep_candidate": "Brad Schimel",
       "margin": -324,
-      "margin_pct": -42.400918587371784,
+      "margin_pct": -42.40172018884682,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -64186,7 +64185,7 @@
       "dem_candidate": "Susan Crawford",
       "rep_candidate": "Brad Schimel",
       "margin": -315,
-      "margin_pct": -38.45597710672946,
+      "margin_pct": -38.45550080669777,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -64209,7 +64208,7 @@
       "dem_candidate": "Susan Crawford",
       "rep_candidate": "Brad Schimel",
       "margin": -365,
-      "margin_pct": -35.53468969382166,
+      "margin_pct": -35.53569565670968,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -64232,7 +64231,7 @@
       "dem_candidate": "Susan Crawford",
       "rep_candidate": "Brad Schimel",
       "margin": -129,
-      "margin_pct": -49.41683276051984,
+      "margin_pct": -49.40484334382269,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -64255,7 +64254,7 @@
       "dem_candidate": "Susan Crawford",
       "rep_candidate": "Brad Schimel",
       "margin": -54,
-      "margin_pct": -61.35723197291472,
+      "margin_pct": -61.298174442190664,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -64757,14 +64756,14 @@
         "55133407500001"
       ],
       "election_type": "spring",
-      "dem_votes": 1598,
-      "rep_votes": 3176,
-      "other_votes": 3,
-      "total_votes": 4777,
+      "dem_votes": 138,
+      "rep_votes": 312,
+      "other_votes": 0,
+      "total_votes": 449,
       "dem_candidate": "Susan Crawford",
       "rep_candidate": "Brad Schimel",
-      "margin": 1578,
-      "margin_pct": 33.03328448817249,
+      "margin": 174,
+      "margin_pct": 38.75278396436526,
       "winner": "REP",
       "competitiveness": {
         "color": "#67000d"
@@ -64777,7 +64776,237 @@
       "county": "LAC LA BELLE - V 0002",
       "precinct_key": "LAC LA BELLE - V 0002",
       "geoids": [
-        "55055407500002"
+        "55133407500002"
+      ],
+      "election_type": "spring",
+      "dem_votes": 138,
+      "rep_votes": 312,
+      "other_votes": 0,
+      "total_votes": 449,
+      "dem_candidate": "Susan Crawford",
+      "rep_candidate": "Brad Schimel",
+      "margin": 174,
+      "margin_pct": 38.75278396436526,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "LAC LA BELLE - V 0003",
+      "precinct_key": "LAC LA BELLE - V 0003",
+      "geoids": [
+        "55133407500003"
+      ],
+      "election_type": "spring",
+      "dem_votes": 142,
+      "rep_votes": 241,
+      "other_votes": 0,
+      "total_votes": 383,
+      "dem_candidate": "Susan Crawford",
+      "rep_candidate": "Brad Schimel",
+      "margin": 99,
+      "margin_pct": 25.766470971950422,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "LAC LA BELLE - V 0004",
+      "precinct_key": "LAC LA BELLE - V 0004",
+      "geoids": [
+        "55133407500004"
+      ],
+      "election_type": "spring",
+      "dem_votes": 138,
+      "rep_votes": 312,
+      "other_votes": 0,
+      "total_votes": 449,
+      "dem_candidate": "Susan Crawford",
+      "rep_candidate": "Brad Schimel",
+      "margin": 174,
+      "margin_pct": 38.75278396436526,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "LAC LA BELLE - V 0005",
+      "precinct_key": "LAC LA BELLE - V 0005",
+      "geoids": [
+        "55133407500005"
+      ],
+      "election_type": "spring",
+      "dem_votes": 160,
+      "rep_votes": 322,
+      "other_votes": 1,
+      "total_votes": 483,
+      "dem_candidate": "Susan Crawford",
+      "rep_candidate": "Brad Schimel",
+      "margin": 162,
+      "margin_pct": 33.63259668508288,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "LAC LA BELLE - V 0006",
+      "precinct_key": "LAC LA BELLE - V 0006",
+      "geoids": [
+        "55133407500006"
+      ],
+      "election_type": "spring",
+      "dem_votes": 142,
+      "rep_votes": 241,
+      "other_votes": 0,
+      "total_votes": 383,
+      "dem_candidate": "Susan Crawford",
+      "rep_candidate": "Brad Schimel",
+      "margin": 99,
+      "margin_pct": 25.766470971950422,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "LAC LA BELLE - V 0007",
+      "precinct_key": "LAC LA BELLE - V 0007",
+      "geoids": [
+        "55133407500007"
+      ],
+      "election_type": "spring",
+      "dem_votes": 142,
+      "rep_votes": 241,
+      "other_votes": 0,
+      "total_votes": 383,
+      "dem_candidate": "Susan Crawford",
+      "rep_candidate": "Brad Schimel",
+      "margin": 99,
+      "margin_pct": 25.766470971950422,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "LAC LA BELLE - V 0008",
+      "precinct_key": "LAC LA BELLE - V 0008",
+      "geoids": [
+        "55133407500008"
+      ],
+      "election_type": "spring",
+      "dem_votes": 160,
+      "rep_votes": 322,
+      "other_votes": 1,
+      "total_votes": 483,
+      "dem_candidate": "Susan Crawford",
+      "rep_candidate": "Brad Schimel",
+      "margin": 162,
+      "margin_pct": 33.63259668508288,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "LAC LA BELLE - V 0009",
+      "precinct_key": "LAC LA BELLE - V 0009",
+      "geoids": [
+        "55133407500009"
+      ],
+      "election_type": "spring",
+      "dem_votes": 160,
+      "rep_votes": 322,
+      "other_votes": 1,
+      "total_votes": 483,
+      "dem_candidate": "Susan Crawford",
+      "rep_candidate": "Brad Schimel",
+      "margin": 162,
+      "margin_pct": 33.63259668508288,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "LAC LA BELLE - V 0010",
+      "precinct_key": "LAC LA BELLE - V 0010",
+      "geoids": [
+        "55133407500010"
+      ],
+      "election_type": "spring",
+      "dem_votes": 138,
+      "rep_votes": 312,
+      "other_votes": 0,
+      "total_votes": 449,
+      "dem_candidate": "Susan Crawford",
+      "rep_candidate": "Brad Schimel",
+      "margin": 174,
+      "margin_pct": 38.75278396436526,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "LAC LA BELLE - V 0011",
+      "precinct_key": "LAC LA BELLE - V 0011",
+      "geoids": [
+        "55133407500011"
+      ],
+      "election_type": "spring",
+      "dem_votes": 142,
+      "rep_votes": 241,
+      "other_votes": 0,
+      "total_votes": 383,
+      "dem_candidate": "Susan Crawford",
+      "rep_candidate": "Brad Schimel",
+      "margin": 99,
+      "margin_pct": 25.766470971950422,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "LAC LA BELLE - V 0012",
+      "precinct_key": "LAC LA BELLE - V 0012",
+      "geoids": [
+        "55055407500012"
       ],
       "election_type": "spring",
       "dem_votes": 0,
@@ -80492,6 +80721,29 @@
       "rep_label": "Conservative"
     },
     {
+      "county": "MEQUON - C 0007A",
+      "precinct_key": "MEQUON - C 0007A",
+      "geoids": [
+        "5508951150007A"
+      ],
+      "election_type": "spring",
+      "dem_votes": 215,
+      "rep_votes": 202,
+      "other_votes": 1,
+      "total_votes": 418,
+      "dem_candidate": "Susan Crawford",
+      "rep_candidate": "Brad Schimel",
+      "margin": -13,
+      "margin_pct": -3.1119090365050868,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#c6dbef"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
       "county": "MEQUON - C 0008",
       "precinct_key": "MEQUON - C 0008",
       "geoids": [
@@ -80565,6 +80817,29 @@
       "precinct_key": "MEQUON - C 0011",
       "geoids": [
         "55089511500011"
+      ],
+      "election_type": "spring",
+      "dem_votes": 250,
+      "rep_votes": 181,
+      "other_votes": 0,
+      "total_votes": 431,
+      "dem_candidate": "Susan Crawford",
+      "rep_candidate": "Brad Schimel",
+      "margin": -68,
+      "margin_pct": -15.835266821345709,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "MEQUON - C 0011A",
+      "precinct_key": "MEQUON - C 0011A",
+      "geoids": [
+        "5508951150011A"
       ],
       "election_type": "spring",
       "dem_votes": 250,
@@ -80785,52 +81060,6 @@
       "winner": "DEM",
       "competitiveness": {
         "color": "#6baed6"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "MEQUON - C 007A",
-      "precinct_key": "MEQUON - C 007A",
-      "geoids": [
-        "5508951150007A"
-      ],
-      "election_type": "spring",
-      "dem_votes": 215,
-      "rep_votes": 202,
-      "other_votes": 1,
-      "total_votes": 418,
-      "dem_candidate": "Susan Crawford",
-      "rep_candidate": "Brad Schimel",
-      "margin": -13,
-      "margin_pct": -3.1119090365050868,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#c6dbef"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "MEQUON - C 011A",
-      "precinct_key": "MEQUON - C 011A",
-      "geoids": [
-        "5508951150011A"
-      ],
-      "election_type": "spring",
-      "dem_votes": 250,
-      "rep_votes": 181,
-      "other_votes": 0,
-      "total_votes": 431,
-      "dem_candidate": "Susan Crawford",
-      "rep_candidate": "Brad Schimel",
-      "margin": -68,
-      "margin_pct": -15.835266821345709,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#2171b5"
       },
       "contest_partisan_style": "nonpartisan_ideology",
       "dem_label": "Liberal",
@@ -82654,6 +82883,29 @@
       "rep_label": "Conservative"
     },
     {
+      "county": "MIDDLETON - T 0004A",
+      "precinct_key": "MIDDLETON - T 0004A",
+      "geoids": [
+        "5502551600004A"
+      ],
+      "election_type": "spring",
+      "dem_votes": 274,
+      "rep_votes": 104,
+      "other_votes": 0,
+      "total_votes": 378,
+      "dem_candidate": "Susan Crawford",
+      "rep_candidate": "Brad Schimel",
+      "margin": -171,
+      "margin_pct": -45.15616728427739,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
       "county": "MIDDLETON - T 0005",
       "precinct_key": "MIDDLETON - T 0005",
       "geoids": [
@@ -82746,31 +82998,8 @@
       "rep_label": "Conservative"
     },
     {
-      "county": "MIDDLETON - T 004A",
-      "precinct_key": "MIDDLETON - T 004A",
-      "geoids": [
-        "5502551600004A"
-      ],
-      "election_type": "spring",
-      "dem_votes": 274,
-      "rep_votes": 104,
-      "other_votes": 0,
-      "total_votes": 378,
-      "dem_candidate": "Susan Crawford",
-      "rep_candidate": "Brad Schimel",
-      "margin": -171,
-      "margin_pct": -45.15616728427739,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "MIDDLETON - T 008A",
-      "precinct_key": "MIDDLETON - T 008A",
+      "county": "MIDDLETON - T 0008A",
+      "precinct_key": "MIDDLETON - T 0008A",
       "geoids": [
         "5502551600008A"
       ],
@@ -144698,14 +144927,14 @@
         "55025843500006"
       ],
       "election_type": "spring",
-      "dem_votes": 334,
-      "rep_votes": 147,
+      "dem_votes": 297,
+      "rep_votes": 131,
       "other_votes": 0,
-      "total_votes": 481,
+      "total_votes": 427,
       "dem_candidate": "Susan Crawford",
       "rep_candidate": "Brad Schimel",
-      "margin": -187,
-      "margin_pct": -38.88744476215233,
+      "margin": -166,
+      "margin_pct": -38.887444762152334,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -144721,14 +144950,14 @@
         "55025843500007"
       ],
       "election_type": "spring",
-      "dem_votes": 334,
-      "rep_votes": 147,
+      "dem_votes": 297,
+      "rep_votes": 131,
       "other_votes": 0,
-      "total_votes": 481,
+      "total_votes": 427,
       "dem_candidate": "Susan Crawford",
       "rep_candidate": "Brad Schimel",
-      "margin": -187,
-      "margin_pct": -38.88744476215233,
+      "margin": -166,
+      "margin_pct": -38.887444762152334,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -144744,14 +144973,14 @@
         "55025843500008"
       ],
       "election_type": "spring",
-      "dem_votes": 334,
-      "rep_votes": 147,
+      "dem_votes": 297,
+      "rep_votes": 131,
       "other_votes": 0,
-      "total_votes": 481,
+      "total_votes": 427,
       "dem_candidate": "Susan Crawford",
       "rep_candidate": "Brad Schimel",
-      "margin": -187,
-      "margin_pct": -38.88744476215233,
+      "margin": -166,
+      "margin_pct": -38.887444762152334,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -144767,14 +144996,14 @@
         "55025843500009"
       ],
       "election_type": "spring",
-      "dem_votes": 334,
-      "rep_votes": 147,
+      "dem_votes": 297,
+      "rep_votes": 131,
       "other_votes": 0,
-      "total_votes": 481,
+      "total_votes": 427,
       "dem_candidate": "Susan Crawford",
       "rep_candidate": "Brad Schimel",
-      "margin": -187,
-      "margin_pct": -38.88744476215233,
+      "margin": -166,
+      "margin_pct": -38.887444762152334,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -144790,14 +145019,14 @@
         "55025843500010"
       ],
       "election_type": "spring",
-      "dem_votes": 334,
-      "rep_votes": 147,
+      "dem_votes": 297,
+      "rep_votes": 131,
       "other_votes": 0,
-      "total_votes": 481,
+      "total_votes": 427,
       "dem_candidate": "Susan Crawford",
       "rep_candidate": "Brad Schimel",
-      "margin": -187,
-      "margin_pct": -38.88744476215233,
+      "margin": -166,
+      "margin_pct": -38.887444762152334,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -144813,14 +145042,14 @@
         "55025843500011"
       ],
       "election_type": "spring",
-      "dem_votes": 334,
-      "rep_votes": 147,
+      "dem_votes": 297,
+      "rep_votes": 131,
       "other_votes": 0,
-      "total_votes": 481,
+      "total_votes": 427,
       "dem_candidate": "Susan Crawford",
       "rep_candidate": "Brad Schimel",
-      "margin": -187,
-      "margin_pct": -38.88744476215233,
+      "margin": -166,
+      "margin_pct": -38.887444762152334,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -144836,14 +145065,14 @@
         "55025843500012"
       ],
       "election_type": "spring",
-      "dem_votes": 334,
-      "rep_votes": 147,
+      "dem_votes": 297,
+      "rep_votes": 131,
       "other_votes": 0,
-      "total_votes": 481,
+      "total_votes": 427,
       "dem_candidate": "Susan Crawford",
       "rep_candidate": "Brad Schimel",
-      "margin": -187,
-      "margin_pct": -38.88744476215233,
+      "margin": -166,
+      "margin_pct": -38.887444762152334,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -144859,14 +145088,37 @@
         "55025843500013"
       ],
       "election_type": "spring",
-      "dem_votes": 334,
-      "rep_votes": 147,
+      "dem_votes": 297,
+      "rep_votes": 131,
       "other_votes": 0,
-      "total_votes": 481,
+      "total_votes": 427,
       "dem_candidate": "Susan Crawford",
       "rep_candidate": "Brad Schimel",
-      "margin": -187,
-      "margin_pct": -38.88744476215233,
+      "margin": -166,
+      "margin_pct": -38.887444762152334,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "WAUNAKEE - V 0014",
+      "precinct_key": "WAUNAKEE - V 0014",
+      "geoids": [
+        "55025843500014"
+      ],
+      "election_type": "spring",
+      "dem_votes": 297,
+      "rep_votes": 131,
+      "other_votes": 0,
+      "total_votes": 427,
+      "dem_candidate": "Susan Crawford",
+      "rep_candidate": "Brad Schimel",
+      "margin": -166,
+      "margin_pct": -38.887444762152334,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -146262,13 +146514,13 @@
         "55137846250001"
       ],
       "election_type": "spring",
-      "dem_votes": 63,
-      "rep_votes": 81,
+      "dem_votes": 84,
+      "rep_votes": 108,
       "other_votes": 0,
-      "total_votes": 144,
+      "total_votes": 192,
       "dem_candidate": "Susan Crawford",
       "rep_candidate": "Brad Schimel",
-      "margin": 18,
+      "margin": 24,
       "margin_pct": 12.5,
       "winner": "REP",
       "competitiveness": {
@@ -146285,13 +146537,13 @@
         "55137846250002"
       ],
       "election_type": "spring",
-      "dem_votes": 63,
-      "rep_votes": 81,
+      "dem_votes": 84,
+      "rep_votes": 108,
       "other_votes": 0,
-      "total_votes": 144,
+      "total_votes": 192,
       "dem_candidate": "Susan Crawford",
       "rep_candidate": "Brad Schimel",
-      "margin": 18,
+      "margin": 24,
       "margin_pct": 12.5,
       "winner": "REP",
       "competitiveness": {
@@ -146308,36 +146560,13 @@
         "55137846250003"
       ],
       "election_type": "spring",
-      "dem_votes": 63,
-      "rep_votes": 81,
+      "dem_votes": 84,
+      "rep_votes": 108,
       "other_votes": 0,
-      "total_votes": 144,
+      "total_votes": 192,
       "dem_candidate": "Susan Crawford",
       "rep_candidate": "Brad Schimel",
-      "margin": 18,
-      "margin_pct": 12.5,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#cb181d"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "WAUTOMA - C 0004",
-      "precinct_key": "WAUTOMA - C 0004",
-      "geoids": [
-        "55137846250004"
-      ],
-      "election_type": "spring",
-      "dem_votes": 63,
-      "rep_votes": 81,
-      "other_votes": 0,
-      "total_votes": 144,
-      "dem_candidate": "Susan Crawford",
-      "rep_candidate": "Brad Schimel",
-      "margin": 18,
+      "margin": 24,
       "margin_pct": 12.5,
       "winner": "REP",
       "competitiveness": {
@@ -146440,6 +146669,52 @@
       "rep_label": "Conservative"
     },
     {
+      "county": "WAUWATOSA - C 0002A",
+      "precinct_key": "WAUWATOSA - C 0002A",
+      "geoids": [
+        "5507984675002A"
+      ],
+      "election_type": "spring",
+      "dem_votes": 843,
+      "rep_votes": 241,
+      "other_votes": 0,
+      "total_votes": 1084,
+      "dem_candidate": "Susan Crawford",
+      "rep_candidate": "Brad Schimel",
+      "margin": -602,
+      "margin_pct": -55.535055350553506,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "WAUWATOSA - C 0002B",
+      "precinct_key": "WAUWATOSA - C 0002B",
+      "geoids": [
+        "5507984675002B"
+      ],
+      "election_type": "spring",
+      "dem_votes": 51,
+      "rep_votes": 18,
+      "other_votes": 0,
+      "total_votes": 69,
+      "dem_candidate": "Susan Crawford",
+      "rep_candidate": "Brad Schimel",
+      "margin": -33,
+      "margin_pct": -47.82608695652174,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
       "county": "WAUWATOSA - C 0003",
       "precinct_key": "WAUWATOSA - C 0003",
       "geoids": [
@@ -146463,6 +146738,52 @@
       "rep_label": "Conservative"
     },
     {
+      "county": "WAUWATOSA - C 0004A",
+      "precinct_key": "WAUWATOSA - C 0004A",
+      "geoids": [
+        "5507984675004A"
+      ],
+      "election_type": "spring",
+      "dem_votes": 472,
+      "rep_votes": 105,
+      "other_votes": 0,
+      "total_votes": 577,
+      "dem_candidate": "Susan Crawford",
+      "rep_candidate": "Brad Schimel",
+      "margin": -367,
+      "margin_pct": -63.60485268630849,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "WAUWATOSA - C 0004B",
+      "precinct_key": "WAUWATOSA - C 0004B",
+      "geoids": [
+        "5507984675004B"
+      ],
+      "election_type": "spring",
+      "dem_votes": 331,
+      "rep_votes": 87,
+      "other_votes": 0,
+      "total_votes": 418,
+      "dem_candidate": "Susan Crawford",
+      "rep_candidate": "Brad Schimel",
+      "margin": -244,
+      "margin_pct": -58.3732057416268,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
       "county": "WAUWATOSA - C 0005",
       "precinct_key": "WAUWATOSA - C 0005",
       "geoids": [
@@ -146477,6 +146798,144 @@
       "rep_candidate": "Brad Schimel",
       "margin": -643,
       "margin_pct": -53.18444995864351,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "WAUWATOSA - C 0006A",
+      "precinct_key": "WAUWATOSA - C 0006A",
+      "geoids": [
+        "5507984675006A"
+      ],
+      "election_type": "spring",
+      "dem_votes": 353,
+      "rep_votes": 87,
+      "other_votes": 0,
+      "total_votes": 440,
+      "dem_candidate": "Susan Crawford",
+      "rep_candidate": "Brad Schimel",
+      "margin": -266,
+      "margin_pct": -60.45454545454545,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "WAUWATOSA - C 0006B",
+      "precinct_key": "WAUWATOSA - C 0006B",
+      "geoids": [
+        "5507984675006B"
+      ],
+      "election_type": "spring",
+      "dem_votes": 481,
+      "rep_votes": 163,
+      "other_votes": 0,
+      "total_votes": 644,
+      "dem_candidate": "Susan Crawford",
+      "rep_candidate": "Brad Schimel",
+      "margin": -318,
+      "margin_pct": -49.378881987577635,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "WAUWATOSA - C 0007A",
+      "precinct_key": "WAUWATOSA - C 0007A",
+      "geoids": [
+        "5507984675007A"
+      ],
+      "election_type": "spring",
+      "dem_votes": 494,
+      "rep_votes": 297,
+      "other_votes": 0,
+      "total_votes": 791,
+      "dem_candidate": "Susan Crawford",
+      "rep_candidate": "Brad Schimel",
+      "margin": -197,
+      "margin_pct": -24.905183312262956,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "WAUWATOSA - C 0007B",
+      "precinct_key": "WAUWATOSA - C 0007B",
+      "geoids": [
+        "5507984675007B"
+      ],
+      "election_type": "spring",
+      "dem_votes": 259,
+      "rep_votes": 134,
+      "other_votes": 0,
+      "total_votes": 393,
+      "dem_candidate": "Susan Crawford",
+      "rep_candidate": "Brad Schimel",
+      "margin": -125,
+      "margin_pct": -31.806615776081426,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "WAUWATOSA - C 0008A",
+      "precinct_key": "WAUWATOSA - C 0008A",
+      "geoids": [
+        "5507984675008A"
+      ],
+      "election_type": "spring",
+      "dem_votes": 182,
+      "rep_votes": 88,
+      "other_votes": 0,
+      "total_votes": 270,
+      "dem_candidate": "Susan Crawford",
+      "rep_candidate": "Brad Schimel",
+      "margin": -94,
+      "margin_pct": -34.81481481481482,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "WAUWATOSA - C 0008B",
+      "precinct_key": "WAUWATOSA - C 0008B",
+      "geoids": [
+        "5507984675008B"
+      ],
+      "election_type": "spring",
+      "dem_votes": 404,
+      "rep_votes": 266,
+      "other_votes": 0,
+      "total_votes": 670,
+      "dem_candidate": "Susan Crawford",
+      "rep_candidate": "Brad Schimel",
+      "margin": -138,
+      "margin_pct": -20.597014925373134,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -146546,6 +147005,52 @@
       "rep_candidate": "Brad Schimel",
       "margin": -506,
       "margin_pct": -43.06382978723404,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "WAUWATOSA - C 0012A",
+      "precinct_key": "WAUWATOSA - C 0012A",
+      "geoids": [
+        "5507984675012A"
+      ],
+      "election_type": "spring",
+      "dem_votes": 0,
+      "rep_votes": 0,
+      "other_votes": 0,
+      "total_votes": 0,
+      "dem_candidate": "Susan Crawford",
+      "rep_candidate": "Brad Schimel",
+      "margin": 0,
+      "margin_pct": 0.0,
+      "winner": "TIE",
+      "competitiveness": {
+        "color": "#9ca3af"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "WAUWATOSA - C 0012B",
+      "precinct_key": "WAUWATOSA - C 0012B",
+      "geoids": [
+        "5507984675012B"
+      ],
+      "election_type": "spring",
+      "dem_votes": 773,
+      "rep_votes": 276,
+      "other_votes": 1,
+      "total_votes": 1050,
+      "dem_candidate": "Susan Crawford",
+      "rep_candidate": "Brad Schimel",
+      "margin": -497,
+      "margin_pct": -47.333333333333336,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -146808,284 +147313,8 @@
       "rep_label": "Conservative"
     },
     {
-      "county": "WAUWATOSA - C 002A",
-      "precinct_key": "WAUWATOSA - C 002A",
-      "geoids": [
-        "5507984675002A"
-      ],
-      "election_type": "spring",
-      "dem_votes": 843,
-      "rep_votes": 241,
-      "other_votes": 0,
-      "total_votes": 1084,
-      "dem_candidate": "Susan Crawford",
-      "rep_candidate": "Brad Schimel",
-      "margin": -602,
-      "margin_pct": -55.535055350553506,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "WAUWATOSA - C 002B",
-      "precinct_key": "WAUWATOSA - C 002B",
-      "geoids": [
-        "5507984675002B"
-      ],
-      "election_type": "spring",
-      "dem_votes": 51,
-      "rep_votes": 18,
-      "other_votes": 0,
-      "total_votes": 69,
-      "dem_candidate": "Susan Crawford",
-      "rep_candidate": "Brad Schimel",
-      "margin": -33,
-      "margin_pct": -47.82608695652174,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "WAUWATOSA - C 004A",
-      "precinct_key": "WAUWATOSA - C 004A",
-      "geoids": [
-        "5507984675004A"
-      ],
-      "election_type": "spring",
-      "dem_votes": 472,
-      "rep_votes": 105,
-      "other_votes": 0,
-      "total_votes": 577,
-      "dem_candidate": "Susan Crawford",
-      "rep_candidate": "Brad Schimel",
-      "margin": -367,
-      "margin_pct": -63.60485268630849,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "WAUWATOSA - C 004B",
-      "precinct_key": "WAUWATOSA - C 004B",
-      "geoids": [
-        "5507984675004B"
-      ],
-      "election_type": "spring",
-      "dem_votes": 331,
-      "rep_votes": 87,
-      "other_votes": 0,
-      "total_votes": 418,
-      "dem_candidate": "Susan Crawford",
-      "rep_candidate": "Brad Schimel",
-      "margin": -244,
-      "margin_pct": -58.3732057416268,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "WAUWATOSA - C 006A",
-      "precinct_key": "WAUWATOSA - C 006A",
-      "geoids": [
-        "5507984675006A"
-      ],
-      "election_type": "spring",
-      "dem_votes": 353,
-      "rep_votes": 87,
-      "other_votes": 0,
-      "total_votes": 440,
-      "dem_candidate": "Susan Crawford",
-      "rep_candidate": "Brad Schimel",
-      "margin": -266,
-      "margin_pct": -60.45454545454545,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "WAUWATOSA - C 006B",
-      "precinct_key": "WAUWATOSA - C 006B",
-      "geoids": [
-        "5507984675006B"
-      ],
-      "election_type": "spring",
-      "dem_votes": 481,
-      "rep_votes": 163,
-      "other_votes": 0,
-      "total_votes": 644,
-      "dem_candidate": "Susan Crawford",
-      "rep_candidate": "Brad Schimel",
-      "margin": -318,
-      "margin_pct": -49.378881987577635,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "WAUWATOSA - C 007A",
-      "precinct_key": "WAUWATOSA - C 007A",
-      "geoids": [
-        "5507984675007A"
-      ],
-      "election_type": "spring",
-      "dem_votes": 494,
-      "rep_votes": 297,
-      "other_votes": 0,
-      "total_votes": 791,
-      "dem_candidate": "Susan Crawford",
-      "rep_candidate": "Brad Schimel",
-      "margin": -197,
-      "margin_pct": -24.905183312262956,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "WAUWATOSA - C 007B",
-      "precinct_key": "WAUWATOSA - C 007B",
-      "geoids": [
-        "5507984675007B"
-      ],
-      "election_type": "spring",
-      "dem_votes": 259,
-      "rep_votes": 134,
-      "other_votes": 0,
-      "total_votes": 393,
-      "dem_candidate": "Susan Crawford",
-      "rep_candidate": "Brad Schimel",
-      "margin": -125,
-      "margin_pct": -31.806615776081426,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "WAUWATOSA - C 008A",
-      "precinct_key": "WAUWATOSA - C 008A",
-      "geoids": [
-        "5507984675008A"
-      ],
-      "election_type": "spring",
-      "dem_votes": 182,
-      "rep_votes": 88,
-      "other_votes": 0,
-      "total_votes": 270,
-      "dem_candidate": "Susan Crawford",
-      "rep_candidate": "Brad Schimel",
-      "margin": -94,
-      "margin_pct": -34.81481481481482,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "WAUWATOSA - C 008B",
-      "precinct_key": "WAUWATOSA - C 008B",
-      "geoids": [
-        "5507984675008B"
-      ],
-      "election_type": "spring",
-      "dem_votes": 404,
-      "rep_votes": 266,
-      "other_votes": 0,
-      "total_votes": 670,
-      "dem_candidate": "Susan Crawford",
-      "rep_candidate": "Brad Schimel",
-      "margin": -138,
-      "margin_pct": -20.597014925373134,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "WAUWATOSA - C 012A",
-      "precinct_key": "WAUWATOSA - C 012A",
-      "geoids": [
-        "5507984675012A"
-      ],
-      "election_type": "spring",
-      "dem_votes": 0,
-      "rep_votes": 0,
-      "other_votes": 0,
-      "total_votes": 0,
-      "dem_candidate": "Susan Crawford",
-      "rep_candidate": "Brad Schimel",
-      "margin": 0,
-      "margin_pct": 0.0,
-      "winner": "TIE",
-      "competitiveness": {
-        "color": "#9ca3af"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "WAUWATOSA - C 012B",
-      "precinct_key": "WAUWATOSA - C 012B",
-      "geoids": [
-        "5507984675012B"
-      ],
-      "election_type": "spring",
-      "dem_votes": 773,
-      "rep_votes": 276,
-      "other_votes": 1,
-      "total_votes": 1050,
-      "dem_candidate": "Susan Crawford",
-      "rep_candidate": "Brad Schimel",
-      "margin": -497,
-      "margin_pct": -47.333333333333336,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "WAUWATOSA - C 024A",
-      "precinct_key": "WAUWATOSA - C 024A",
+      "county": "WAUWATOSA - C 0024A",
+      "precinct_key": "WAUWATOSA - C 0024A",
       "geoids": [
         "5507984675024A"
       ],
@@ -147107,8 +147336,8 @@
       "rep_label": "Conservative"
     },
     {
-      "county": "WAUWATOSA - C 024B",
-      "precinct_key": "WAUWATOSA - C 024B",
+      "county": "WAUWATOSA - C 0024B",
+      "precinct_key": "WAUWATOSA - C 0024B",
       "geoids": [
         "5507984675024B"
       ],
@@ -149253,14 +149482,14 @@
         "55063862750001"
       ],
       "election_type": "spring",
-      "dem_votes": 162,
-      "rep_votes": 130,
+      "dem_votes": 142,
+      "rep_votes": 114,
       "other_votes": 0,
-      "total_votes": 292,
+      "total_votes": 256,
       "dem_candidate": "Susan Crawford",
       "rep_candidate": "Brad Schimel",
-      "margin": -33,
-      "margin_pct": -11.198044009779954,
+      "margin": -29,
+      "margin_pct": -11.19804400977995,
       "winner": "DEM",
       "competitiveness": {
         "color": "#2171b5"
@@ -149276,14 +149505,14 @@
         "55063862750002"
       ],
       "election_type": "spring",
-      "dem_votes": 162,
-      "rep_votes": 130,
+      "dem_votes": 142,
+      "rep_votes": 114,
       "other_votes": 0,
-      "total_votes": 292,
+      "total_votes": 256,
       "dem_candidate": "Susan Crawford",
       "rep_candidate": "Brad Schimel",
-      "margin": -33,
-      "margin_pct": -11.198044009779954,
+      "margin": -29,
+      "margin_pct": -11.19804400977995,
       "winner": "DEM",
       "competitiveness": {
         "color": "#2171b5"
@@ -149299,14 +149528,14 @@
         "55063862750003"
       ],
       "election_type": "spring",
-      "dem_votes": 162,
-      "rep_votes": 130,
+      "dem_votes": 142,
+      "rep_votes": 114,
       "other_votes": 0,
-      "total_votes": 292,
+      "total_votes": 256,
       "dem_candidate": "Susan Crawford",
       "rep_candidate": "Brad Schimel",
-      "margin": -33,
-      "margin_pct": -11.198044009779954,
+      "margin": -29,
+      "margin_pct": -11.19804400977995,
       "winner": "DEM",
       "competitiveness": {
         "color": "#2171b5"
@@ -149322,14 +149551,14 @@
         "55063862750004"
       ],
       "election_type": "spring",
-      "dem_votes": 162,
-      "rep_votes": 130,
+      "dem_votes": 142,
+      "rep_votes": 114,
       "other_votes": 0,
-      "total_votes": 292,
+      "total_votes": 256,
       "dem_candidate": "Susan Crawford",
       "rep_candidate": "Brad Schimel",
-      "margin": -33,
-      "margin_pct": -11.198044009779954,
+      "margin": -29,
+      "margin_pct": -11.19804400977995,
       "winner": "DEM",
       "competitiveness": {
         "color": "#2171b5"
@@ -149345,14 +149574,14 @@
         "55063862750005"
       ],
       "election_type": "spring",
-      "dem_votes": 162,
-      "rep_votes": 130,
+      "dem_votes": 142,
+      "rep_votes": 114,
       "other_votes": 0,
-      "total_votes": 292,
+      "total_votes": 256,
       "dem_candidate": "Susan Crawford",
       "rep_candidate": "Brad Schimel",
-      "margin": -33,
-      "margin_pct": -11.198044009779954,
+      "margin": -29,
+      "margin_pct": -11.19804400977995,
       "winner": "DEM",
       "competitiveness": {
         "color": "#2171b5"
@@ -149368,14 +149597,14 @@
         "55063862750006"
       ],
       "election_type": "spring",
-      "dem_votes": 162,
-      "rep_votes": 130,
+      "dem_votes": 142,
+      "rep_votes": 114,
       "other_votes": 0,
-      "total_votes": 292,
+      "total_votes": 256,
       "dem_candidate": "Susan Crawford",
       "rep_candidate": "Brad Schimel",
-      "margin": -33,
-      "margin_pct": -11.198044009779954,
+      "margin": -29,
+      "margin_pct": -11.19804400977995,
       "winner": "DEM",
       "competitiveness": {
         "color": "#2171b5"
@@ -149391,14 +149620,37 @@
         "55063862750007"
       ],
       "election_type": "spring",
-      "dem_votes": 162,
-      "rep_votes": 130,
+      "dem_votes": 142,
+      "rep_votes": 114,
       "other_votes": 0,
-      "total_votes": 292,
+      "total_votes": 256,
       "dem_candidate": "Susan Crawford",
       "rep_candidate": "Brad Schimel",
-      "margin": -33,
-      "margin_pct": -11.198044009779954,
+      "margin": -29,
+      "margin_pct": -11.19804400977995,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "WEST SALEM - V 0008",
+      "precinct_key": "WEST SALEM - V 0008",
+      "geoids": [
+        "55063862750008"
+      ],
+      "election_type": "spring",
+      "dem_votes": 142,
+      "rep_votes": 114,
+      "other_votes": 0,
+      "total_votes": 256,
+      "dem_candidate": "Susan Crawford",
+      "rep_candidate": "Brad Schimel",
+      "margin": -29,
+      "margin_pct": -11.19804400977995,
       "winner": "DEM",
       "competitiveness": {
         "color": "#2171b5"
@@ -153720,8 +153972,8 @@
       "rep_label": "Conservative"
     },
     {
-      "county": "WOLF RIVER - T 002A",
-      "precinct_key": "WOLF RIVER - T 002A",
+      "county": "WOLF RIVER - T 0002A",
+      "precinct_key": "WOLF RIVER - T 0002A",
       "geoids": [
         "5513988475002A"
       ],
@@ -153743,8 +153995,8 @@
       "rep_label": "Conservative"
     },
     {
-      "county": "WOLF RIVER - T 002B",
-      "precinct_key": "WOLF RIVER - T 002B",
+      "county": "WOLF RIVER - T 0002B",
+      "precinct_key": "WOLF RIVER - T 0002B",
       "geoids": [
         "5513988475002B"
       ],

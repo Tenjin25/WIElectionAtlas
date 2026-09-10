@@ -21506,6 +21506,29 @@
       "rep_label": "Conservative"
     },
     {
+      "county": "CHIPPEWA FALLS - C 0001A",
+      "precinct_key": "CHIPPEWA FALLS - C 0001A",
+      "geoids": [
+        "5501714575001A"
+      ],
+      "election_type": "spring",
+      "dem_votes": 78,
+      "rep_votes": 60,
+      "other_votes": 2,
+      "total_votes": 139,
+      "dem_candidate": "Jill Underly",
+      "rep_candidate": "Brittany Kinser",
+      "margin": -19,
+      "margin_pct": -13.464991023339318,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
       "county": "CHIPPEWA FALLS - C 0002",
       "precinct_key": "CHIPPEWA FALLS - C 0002",
       "geoids": [
@@ -21713,6 +21736,29 @@
       "rep_label": "Conservative"
     },
     {
+      "county": "CHIPPEWA FALLS - C 0010A",
+      "precinct_key": "CHIPPEWA FALLS - C 0010A",
+      "geoids": [
+        "5501714575010A"
+      ],
+      "election_type": "spring",
+      "dem_votes": 84,
+      "rep_votes": 67,
+      "other_votes": 0,
+      "total_votes": 151,
+      "dem_candidate": "Jill Underly",
+      "rep_candidate": "Brittany Kinser",
+      "margin": -18,
+      "margin_pct": -11.699779249448126,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
       "county": "CHIPPEWA FALLS - C 0011",
       "precinct_key": "CHIPPEWA FALLS - C 0011",
       "geoids": [
@@ -21865,52 +21911,6 @@
       "rep_candidate": "Brittany Kinser",
       "margin": -19,
       "margin_pct": -13.464991023339318,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#2171b5"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "CHIPPEWA FALLS - C 001A",
-      "precinct_key": "CHIPPEWA FALLS - C 001A",
-      "geoids": [
-        "5501714575001A"
-      ],
-      "election_type": "spring",
-      "dem_votes": 78,
-      "rep_votes": 60,
-      "other_votes": 2,
-      "total_votes": 139,
-      "dem_candidate": "Jill Underly",
-      "rep_candidate": "Brittany Kinser",
-      "margin": -19,
-      "margin_pct": -13.464991023339318,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#2171b5"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "CHIPPEWA FALLS - C 010A",
-      "precinct_key": "CHIPPEWA FALLS - C 010A",
-      "geoids": [
-        "5501714575010A"
-      ],
-      "election_type": "spring",
-      "dem_votes": 84,
-      "rep_votes": 67,
-      "other_votes": 0,
-      "total_votes": 151,
-      "dem_candidate": "Jill Underly",
-      "rep_candidate": "Brittany Kinser",
-      "margin": -18,
-      "margin_pct": -11.699779249448126,
       "winner": "DEM",
       "competitiveness": {
         "color": "#2171b5"
@@ -39040,7 +39040,7 @@
       "county": "FOND DU LAC - C 0020",
       "precinct_key": "FOND DU LAC - C 0020",
       "geoids": [
-        "55039262750020"
+        "550392627500020"
       ],
       "election_type": "spring",
       "dem_votes": 420,
@@ -39063,7 +39063,7 @@
       "county": "FOND DU LAC - C 0021",
       "precinct_key": "FOND DU LAC - C 0021",
       "geoids": [
-        "55039262750021"
+        "550392627500021"
       ],
       "election_type": "spring",
       "dem_votes": 335,
@@ -39086,7 +39086,7 @@
       "county": "FOND DU LAC - C 0022",
       "precinct_key": "FOND DU LAC - C 0022",
       "geoids": [
-        "55039262750022"
+        "550392627500022"
       ],
       "election_type": "spring",
       "dem_votes": 280,
@@ -46471,6 +46471,29 @@
       "rep_label": "Conservative"
     },
     {
+      "county": "GREEN BAY - C 0011A",
+      "precinct_key": "GREEN BAY - C 0011A",
+      "geoids": [
+        "5500931000011A"
+      ],
+      "election_type": "spring",
+      "dem_votes": 195,
+      "rep_votes": 174,
+      "other_votes": 0,
+      "total_votes": 370,
+      "dem_candidate": "Jill Underly",
+      "rep_candidate": "Brittany Kinser",
+      "margin": -21,
+      "margin_pct": -5.683355886332882,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#6baed6"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
       "county": "GREEN BAY - C 0012",
       "precinct_key": "GREEN BAY - C 0012",
       "geoids": [
@@ -46488,6 +46511,29 @@
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "GREEN BAY - C 0012A",
+      "precinct_key": "GREEN BAY - C 0012A",
+      "geoids": [
+        "5500931000012A"
+      ],
+      "election_type": "spring",
+      "dem_votes": 84,
+      "rep_votes": 56,
+      "other_votes": 0,
+      "total_votes": 140,
+      "dem_candidate": "Jill Underly",
+      "rep_candidate": "Brittany Kinser",
+      "margin": -28,
+      "margin_pct": -19.71326164874552,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
       },
       "contest_partisan_style": "nonpartisan_ideology",
       "dem_label": "Liberal",
@@ -47069,6 +47115,29 @@
       "rep_label": "Conservative"
     },
     {
+      "county": "GREEN BAY - C 0037A",
+      "precinct_key": "GREEN BAY - C 0037A",
+      "geoids": [
+        "5500931000037A"
+      ],
+      "election_type": "spring",
+      "dem_votes": 222,
+      "rep_votes": 152,
+      "other_votes": 2,
+      "total_votes": 375,
+      "dem_candidate": "Jill Underly",
+      "rep_candidate": "Brittany Kinser",
+      "margin": -70,
+      "margin_pct": -18.8,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
       "county": "GREEN BAY - C 0038",
       "precinct_key": "GREEN BAY - C 0038",
       "geoids": [
@@ -47253,6 +47322,29 @@
       "rep_label": "Conservative"
     },
     {
+      "county": "GREEN BAY - C 0045A",
+      "precinct_key": "GREEN BAY - C 0045A",
+      "geoids": [
+        "5500931000045A"
+      ],
+      "election_type": "spring",
+      "dem_votes": 296,
+      "rep_votes": 294,
+      "other_votes": 0,
+      "total_votes": 590,
+      "dem_candidate": "Jill Underly",
+      "rep_candidate": "Brittany Kinser",
+      "margin": -2,
+      "margin_pct": -0.33927056827820185,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#c6dbef"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
       "county": "GREEN BAY - C 0046",
       "precinct_key": "GREEN BAY - C 0046",
       "geoids": [
@@ -47293,98 +47385,6 @@
       "winner": "REP",
       "competitiveness": {
         "color": "#fcbba1"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "GREEN BAY - C 011A",
-      "precinct_key": "GREEN BAY - C 011A",
-      "geoids": [
-        "5500931000011A"
-      ],
-      "election_type": "spring",
-      "dem_votes": 195,
-      "rep_votes": 174,
-      "other_votes": 0,
-      "total_votes": 370,
-      "dem_candidate": "Jill Underly",
-      "rep_candidate": "Brittany Kinser",
-      "margin": -21,
-      "margin_pct": -5.683355886332882,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#6baed6"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "GREEN BAY - C 012A",
-      "precinct_key": "GREEN BAY - C 012A",
-      "geoids": [
-        "5500931000012A"
-      ],
-      "election_type": "spring",
-      "dem_votes": 84,
-      "rep_votes": 56,
-      "other_votes": 0,
-      "total_votes": 140,
-      "dem_candidate": "Jill Underly",
-      "rep_candidate": "Brittany Kinser",
-      "margin": -28,
-      "margin_pct": -19.71326164874552,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#2171b5"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "GREEN BAY - C 037A",
-      "precinct_key": "GREEN BAY - C 037A",
-      "geoids": [
-        "5500931000037A"
-      ],
-      "election_type": "spring",
-      "dem_votes": 222,
-      "rep_votes": 152,
-      "other_votes": 2,
-      "total_votes": 375,
-      "dem_candidate": "Jill Underly",
-      "rep_candidate": "Brittany Kinser",
-      "margin": -70,
-      "margin_pct": -18.8,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#2171b5"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "GREEN BAY - C 045A",
-      "precinct_key": "GREEN BAY - C 045A",
-      "geoids": [
-        "5500931000045A"
-      ],
-      "election_type": "spring",
-      "dem_votes": 296,
-      "rep_votes": 294,
-      "other_votes": 0,
-      "total_votes": 590,
-      "dem_candidate": "Jill Underly",
-      "rep_candidate": "Brittany Kinser",
-      "margin": -2,
-      "margin_pct": -0.33927056827820185,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#c6dbef"
       },
       "contest_partisan_style": "nonpartisan_ideology",
       "dem_label": "Liberal",
@@ -53329,8 +53329,7 @@
       "county": "HOLLAND - T 0004",
       "precinct_key": "HOLLAND - T 0004",
       "geoids": [
-        "55063353500004",
-        "55117353750004"
+        "55063353500004"
       ],
       "election_type": "spring",
       "dem_votes": 185,
@@ -64757,14 +64756,14 @@
         "55133407500001"
       ],
       "election_type": "spring",
-      "dem_votes": 1439,
-      "rep_votes": 2910,
-      "other_votes": 7,
-      "total_votes": 4356,
+      "dem_votes": 126,
+      "rep_votes": 281,
+      "other_votes": 1,
+      "total_votes": 408,
       "dem_candidate": "Jill Underly",
       "rep_candidate": "Brittany Kinser",
-      "margin": 1471,
-      "margin_pct": 33.76951331496786,
+      "margin": 156,
+      "margin_pct": 38.11274509803921,
       "winner": "REP",
       "competitiveness": {
         "color": "#67000d"
@@ -64777,7 +64776,237 @@
       "county": "LAC LA BELLE - V 0002",
       "precinct_key": "LAC LA BELLE - V 0002",
       "geoids": [
-        "55055407500002"
+        "55133407500002"
+      ],
+      "election_type": "spring",
+      "dem_votes": 126,
+      "rep_votes": 281,
+      "other_votes": 1,
+      "total_votes": 408,
+      "dem_candidate": "Jill Underly",
+      "rep_candidate": "Brittany Kinser",
+      "margin": 156,
+      "margin_pct": 38.11274509803921,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "LAC LA BELLE - V 0003",
+      "precinct_key": "LAC LA BELLE - V 0003",
+      "geoids": [
+        "55133407500003"
+      ],
+      "election_type": "spring",
+      "dem_votes": 127,
+      "rep_votes": 224,
+      "other_votes": 0,
+      "total_votes": 351,
+      "dem_candidate": "Jill Underly",
+      "rep_candidate": "Brittany Kinser",
+      "margin": 97,
+      "margin_pct": 27.655024946543122,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "LAC LA BELLE - V 0004",
+      "precinct_key": "LAC LA BELLE - V 0004",
+      "geoids": [
+        "55133407500004"
+      ],
+      "election_type": "spring",
+      "dem_votes": 126,
+      "rep_votes": 281,
+      "other_votes": 1,
+      "total_votes": 408,
+      "dem_candidate": "Jill Underly",
+      "rep_candidate": "Brittany Kinser",
+      "margin": 156,
+      "margin_pct": 38.11274509803921,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "LAC LA BELLE - V 0005",
+      "precinct_key": "LAC LA BELLE - V 0005",
+      "geoids": [
+        "55133407500005"
+      ],
+      "election_type": "spring",
+      "dem_votes": 143,
+      "rep_votes": 297,
+      "other_votes": 1,
+      "total_votes": 440,
+      "dem_candidate": "Jill Underly",
+      "rep_candidate": "Brittany Kinser",
+      "margin": 154,
+      "margin_pct": 34.89780469341407,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "LAC LA BELLE - V 0006",
+      "precinct_key": "LAC LA BELLE - V 0006",
+      "geoids": [
+        "55133407500006"
+      ],
+      "election_type": "spring",
+      "dem_votes": 127,
+      "rep_votes": 224,
+      "other_votes": 0,
+      "total_votes": 351,
+      "dem_candidate": "Jill Underly",
+      "rep_candidate": "Brittany Kinser",
+      "margin": 97,
+      "margin_pct": 27.655024946543122,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "LAC LA BELLE - V 0007",
+      "precinct_key": "LAC LA BELLE - V 0007",
+      "geoids": [
+        "55133407500007"
+      ],
+      "election_type": "spring",
+      "dem_votes": 127,
+      "rep_votes": 224,
+      "other_votes": 0,
+      "total_votes": 351,
+      "dem_candidate": "Jill Underly",
+      "rep_candidate": "Brittany Kinser",
+      "margin": 97,
+      "margin_pct": 27.655024946543122,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "LAC LA BELLE - V 0008",
+      "precinct_key": "LAC LA BELLE - V 0008",
+      "geoids": [
+        "55133407500008"
+      ],
+      "election_type": "spring",
+      "dem_votes": 143,
+      "rep_votes": 297,
+      "other_votes": 1,
+      "total_votes": 440,
+      "dem_candidate": "Jill Underly",
+      "rep_candidate": "Brittany Kinser",
+      "margin": 154,
+      "margin_pct": 34.89780469341407,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "LAC LA BELLE - V 0009",
+      "precinct_key": "LAC LA BELLE - V 0009",
+      "geoids": [
+        "55133407500009"
+      ],
+      "election_type": "spring",
+      "dem_votes": 143,
+      "rep_votes": 297,
+      "other_votes": 1,
+      "total_votes": 440,
+      "dem_candidate": "Jill Underly",
+      "rep_candidate": "Brittany Kinser",
+      "margin": 154,
+      "margin_pct": 34.89780469341407,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "LAC LA BELLE - V 0010",
+      "precinct_key": "LAC LA BELLE - V 0010",
+      "geoids": [
+        "55133407500010"
+      ],
+      "election_type": "spring",
+      "dem_votes": 126,
+      "rep_votes": 281,
+      "other_votes": 1,
+      "total_votes": 408,
+      "dem_candidate": "Jill Underly",
+      "rep_candidate": "Brittany Kinser",
+      "margin": 156,
+      "margin_pct": 38.11274509803921,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "LAC LA BELLE - V 0011",
+      "precinct_key": "LAC LA BELLE - V 0011",
+      "geoids": [
+        "55133407500011"
+      ],
+      "election_type": "spring",
+      "dem_votes": 127,
+      "rep_votes": 224,
+      "other_votes": 0,
+      "total_votes": 351,
+      "dem_candidate": "Jill Underly",
+      "rep_candidate": "Brittany Kinser",
+      "margin": 97,
+      "margin_pct": 27.655024946543122,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#67000d"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "LAC LA BELLE - V 0012",
+      "precinct_key": "LAC LA BELLE - V 0012",
+      "geoids": [
+        "55055407500012"
       ],
       "election_type": "spring",
       "dem_votes": 0,
@@ -80492,6 +80721,29 @@
       "rep_label": "Conservative"
     },
     {
+      "county": "MEQUON - C 0007A",
+      "precinct_key": "MEQUON - C 0007A",
+      "geoids": [
+        "5508951150007A"
+      ],
+      "election_type": "spring",
+      "dem_votes": 182,
+      "rep_votes": 206,
+      "other_votes": 2,
+      "total_votes": 390,
+      "dem_candidate": "Jill Underly",
+      "rep_candidate": "Brittany Kinser",
+      "margin": 24,
+      "margin_pct": 6.0295060936497755,
+      "winner": "REP",
+      "competitiveness": {
+        "color": "#fb6a4a"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
       "county": "MEQUON - C 0008",
       "precinct_key": "MEQUON - C 0008",
       "geoids": [
@@ -80565,6 +80817,29 @@
       "precinct_key": "MEQUON - C 0011",
       "geoids": [
         "55089511500011"
+      ],
+      "election_type": "spring",
+      "dem_votes": 219,
+      "rep_votes": 188,
+      "other_votes": 2,
+      "total_votes": 409,
+      "dem_candidate": "Jill Underly",
+      "rep_candidate": "Brittany Kinser",
+      "margin": -30,
+      "margin_pct": -7.45721271393643,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#6baed6"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "MEQUON - C 0011A",
+      "precinct_key": "MEQUON - C 0011A",
+      "geoids": [
+        "5508951150011A"
       ],
       "election_type": "spring",
       "dem_votes": 219,
@@ -80785,52 +81060,6 @@
       "winner": "DEM",
       "competitiveness": {
         "color": "#c6dbef"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "MEQUON - C 007A",
-      "precinct_key": "MEQUON - C 007A",
-      "geoids": [
-        "5508951150007A"
-      ],
-      "election_type": "spring",
-      "dem_votes": 182,
-      "rep_votes": 206,
-      "other_votes": 2,
-      "total_votes": 390,
-      "dem_candidate": "Jill Underly",
-      "rep_candidate": "Brittany Kinser",
-      "margin": 24,
-      "margin_pct": 6.0295060936497755,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#fb6a4a"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "MEQUON - C 011A",
-      "precinct_key": "MEQUON - C 011A",
-      "geoids": [
-        "5508951150011A"
-      ],
-      "election_type": "spring",
-      "dem_votes": 219,
-      "rep_votes": 188,
-      "other_votes": 2,
-      "total_votes": 409,
-      "dem_candidate": "Jill Underly",
-      "rep_candidate": "Brittany Kinser",
-      "margin": -30,
-      "margin_pct": -7.45721271393643,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#6baed6"
       },
       "contest_partisan_style": "nonpartisan_ideology",
       "dem_label": "Liberal",
@@ -82654,6 +82883,29 @@
       "rep_label": "Conservative"
     },
     {
+      "county": "MIDDLETON - T 0004A",
+      "precinct_key": "MIDDLETON - T 0004A",
+      "geoids": [
+        "5502551600004A"
+      ],
+      "election_type": "spring",
+      "dem_votes": 246,
+      "rep_votes": 104,
+      "other_votes": 0,
+      "total_votes": 350,
+      "dem_candidate": "Jill Underly",
+      "rep_candidate": "Brittany Kinser",
+      "margin": -142,
+      "margin_pct": -40.53744997141224,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
       "county": "MIDDLETON - T 0005",
       "precinct_key": "MIDDLETON - T 0005",
       "geoids": [
@@ -82746,31 +82998,8 @@
       "rep_label": "Conservative"
     },
     {
-      "county": "MIDDLETON - T 004A",
-      "precinct_key": "MIDDLETON - T 004A",
-      "geoids": [
-        "5502551600004A"
-      ],
-      "election_type": "spring",
-      "dem_votes": 246,
-      "rep_votes": 104,
-      "other_votes": 0,
-      "total_votes": 350,
-      "dem_candidate": "Jill Underly",
-      "rep_candidate": "Brittany Kinser",
-      "margin": -142,
-      "margin_pct": -40.53744997141224,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "MIDDLETON - T 008A",
-      "precinct_key": "MIDDLETON - T 008A",
+      "county": "MIDDLETON - T 0008A",
+      "precinct_key": "MIDDLETON - T 0008A",
       "geoids": [
         "5502551600008A"
       ],
@@ -144698,13 +144927,13 @@
         "55025843500006"
       ],
       "election_type": "spring",
-      "dem_votes": 298,
-      "rep_votes": 146,
+      "dem_votes": 265,
+      "rep_votes": 130,
       "other_votes": 1,
-      "total_votes": 445,
+      "total_votes": 395,
       "dem_candidate": "Jill Underly",
       "rep_candidate": "Brittany Kinser",
-      "margin": -152,
+      "margin": -135,
       "margin_pct": -34.11070525428491,
       "winner": "DEM",
       "competitiveness": {
@@ -144721,13 +144950,13 @@
         "55025843500007"
       ],
       "election_type": "spring",
-      "dem_votes": 298,
-      "rep_votes": 146,
+      "dem_votes": 265,
+      "rep_votes": 130,
       "other_votes": 1,
-      "total_votes": 445,
+      "total_votes": 395,
       "dem_candidate": "Jill Underly",
       "rep_candidate": "Brittany Kinser",
-      "margin": -152,
+      "margin": -135,
       "margin_pct": -34.11070525428491,
       "winner": "DEM",
       "competitiveness": {
@@ -144744,13 +144973,13 @@
         "55025843500008"
       ],
       "election_type": "spring",
-      "dem_votes": 298,
-      "rep_votes": 146,
+      "dem_votes": 265,
+      "rep_votes": 130,
       "other_votes": 1,
-      "total_votes": 445,
+      "total_votes": 395,
       "dem_candidate": "Jill Underly",
       "rep_candidate": "Brittany Kinser",
-      "margin": -152,
+      "margin": -135,
       "margin_pct": -34.11070525428491,
       "winner": "DEM",
       "competitiveness": {
@@ -144767,13 +144996,13 @@
         "55025843500009"
       ],
       "election_type": "spring",
-      "dem_votes": 298,
-      "rep_votes": 146,
+      "dem_votes": 265,
+      "rep_votes": 130,
       "other_votes": 1,
-      "total_votes": 445,
+      "total_votes": 395,
       "dem_candidate": "Jill Underly",
       "rep_candidate": "Brittany Kinser",
-      "margin": -152,
+      "margin": -135,
       "margin_pct": -34.11070525428491,
       "winner": "DEM",
       "competitiveness": {
@@ -144790,13 +145019,13 @@
         "55025843500010"
       ],
       "election_type": "spring",
-      "dem_votes": 298,
-      "rep_votes": 146,
+      "dem_votes": 265,
+      "rep_votes": 130,
       "other_votes": 1,
-      "total_votes": 445,
+      "total_votes": 395,
       "dem_candidate": "Jill Underly",
       "rep_candidate": "Brittany Kinser",
-      "margin": -152,
+      "margin": -135,
       "margin_pct": -34.11070525428491,
       "winner": "DEM",
       "competitiveness": {
@@ -144813,13 +145042,13 @@
         "55025843500011"
       ],
       "election_type": "spring",
-      "dem_votes": 298,
-      "rep_votes": 146,
+      "dem_votes": 265,
+      "rep_votes": 130,
       "other_votes": 1,
-      "total_votes": 445,
+      "total_votes": 395,
       "dem_candidate": "Jill Underly",
       "rep_candidate": "Brittany Kinser",
-      "margin": -152,
+      "margin": -135,
       "margin_pct": -34.11070525428491,
       "winner": "DEM",
       "competitiveness": {
@@ -144836,13 +145065,13 @@
         "55025843500012"
       ],
       "election_type": "spring",
-      "dem_votes": 298,
-      "rep_votes": 146,
+      "dem_votes": 265,
+      "rep_votes": 130,
       "other_votes": 1,
-      "total_votes": 445,
+      "total_votes": 395,
       "dem_candidate": "Jill Underly",
       "rep_candidate": "Brittany Kinser",
-      "margin": -152,
+      "margin": -135,
       "margin_pct": -34.11070525428491,
       "winner": "DEM",
       "competitiveness": {
@@ -144859,13 +145088,36 @@
         "55025843500013"
       ],
       "election_type": "spring",
-      "dem_votes": 298,
-      "rep_votes": 146,
+      "dem_votes": 265,
+      "rep_votes": 130,
       "other_votes": 1,
-      "total_votes": 445,
+      "total_votes": 395,
       "dem_candidate": "Jill Underly",
       "rep_candidate": "Brittany Kinser",
-      "margin": -152,
+      "margin": -135,
+      "margin_pct": -34.11070525428491,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "WAUNAKEE - V 0014",
+      "precinct_key": "WAUNAKEE - V 0014",
+      "geoids": [
+        "55025843500014"
+      ],
+      "election_type": "spring",
+      "dem_votes": 265,
+      "rep_votes": 130,
+      "other_votes": 1,
+      "total_votes": 395,
+      "dem_candidate": "Jill Underly",
+      "rep_candidate": "Brittany Kinser",
+      "margin": -135,
       "margin_pct": -34.11070525428491,
       "winner": "DEM",
       "competitiveness": {
@@ -146262,14 +146514,14 @@
         "55137846250001"
       ],
       "election_type": "spring",
-      "dem_votes": 53,
-      "rep_votes": 75,
+      "dem_votes": 71,
+      "rep_votes": 100,
       "other_votes": 0,
-      "total_votes": 128,
+      "total_votes": 170,
       "dem_candidate": "Jill Underly",
       "rep_candidate": "Brittany Kinser",
-      "margin": 22,
-      "margin_pct": 17.025440313111545,
+      "margin": 29,
+      "margin_pct": 17.02544031311155,
       "winner": "REP",
       "competitiveness": {
         "color": "#cb181d"
@@ -146285,14 +146537,14 @@
         "55137846250002"
       ],
       "election_type": "spring",
-      "dem_votes": 53,
-      "rep_votes": 75,
+      "dem_votes": 71,
+      "rep_votes": 100,
       "other_votes": 0,
-      "total_votes": 128,
+      "total_votes": 170,
       "dem_candidate": "Jill Underly",
       "rep_candidate": "Brittany Kinser",
-      "margin": 22,
-      "margin_pct": 17.025440313111545,
+      "margin": 29,
+      "margin_pct": 17.02544031311155,
       "winner": "REP",
       "competitiveness": {
         "color": "#cb181d"
@@ -146308,37 +146560,14 @@
         "55137846250003"
       ],
       "election_type": "spring",
-      "dem_votes": 53,
-      "rep_votes": 75,
+      "dem_votes": 71,
+      "rep_votes": 100,
       "other_votes": 0,
-      "total_votes": 128,
+      "total_votes": 170,
       "dem_candidate": "Jill Underly",
       "rep_candidate": "Brittany Kinser",
-      "margin": 22,
-      "margin_pct": 17.025440313111545,
-      "winner": "REP",
-      "competitiveness": {
-        "color": "#cb181d"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "WAUTOMA - C 0004",
-      "precinct_key": "WAUTOMA - C 0004",
-      "geoids": [
-        "55137846250004"
-      ],
-      "election_type": "spring",
-      "dem_votes": 53,
-      "rep_votes": 75,
-      "other_votes": 0,
-      "total_votes": 128,
-      "dem_candidate": "Jill Underly",
-      "rep_candidate": "Brittany Kinser",
-      "margin": 22,
-      "margin_pct": 17.025440313111545,
+      "margin": 29,
+      "margin_pct": 17.02544031311155,
       "winner": "REP",
       "competitiveness": {
         "color": "#cb181d"
@@ -146440,6 +146669,52 @@
       "rep_label": "Conservative"
     },
     {
+      "county": "WAUWATOSA - C 0002A",
+      "precinct_key": "WAUWATOSA - C 0002A",
+      "geoids": [
+        "5507984675002A"
+      ],
+      "election_type": "spring",
+      "dem_votes": 719,
+      "rep_votes": 291,
+      "other_votes": 2,
+      "total_votes": 1012,
+      "dem_candidate": "Jill Underly",
+      "rep_candidate": "Brittany Kinser",
+      "margin": -428,
+      "margin_pct": -42.29249011857708,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "WAUWATOSA - C 0002B",
+      "precinct_key": "WAUWATOSA - C 0002B",
+      "geoids": [
+        "5507984675002B"
+      ],
+      "election_type": "spring",
+      "dem_votes": 41,
+      "rep_votes": 23,
+      "other_votes": 0,
+      "total_votes": 64,
+      "dem_candidate": "Jill Underly",
+      "rep_candidate": "Brittany Kinser",
+      "margin": -18,
+      "margin_pct": -28.125,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
       "county": "WAUWATOSA - C 0003",
       "precinct_key": "WAUWATOSA - C 0003",
       "geoids": [
@@ -146454,6 +146729,52 @@
       "rep_candidate": "Brittany Kinser",
       "margin": -356,
       "margin_pct": -44.44444444444444,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "WAUWATOSA - C 0004A",
+      "precinct_key": "WAUWATOSA - C 0004A",
+      "geoids": [
+        "5507984675004A"
+      ],
+      "election_type": "spring",
+      "dem_votes": 408,
+      "rep_votes": 132,
+      "other_votes": 1,
+      "total_votes": 541,
+      "dem_candidate": "Jill Underly",
+      "rep_candidate": "Brittany Kinser",
+      "margin": -276,
+      "margin_pct": -51.01663585951941,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "WAUWATOSA - C 0004B",
+      "precinct_key": "WAUWATOSA - C 0004B",
+      "geoids": [
+        "5507984675004B"
+      ],
+      "election_type": "spring",
+      "dem_votes": 299,
+      "rep_votes": 87,
+      "other_votes": 0,
+      "total_votes": 386,
+      "dem_candidate": "Jill Underly",
+      "rep_candidate": "Brittany Kinser",
+      "margin": -212,
+      "margin_pct": -54.92227979274611,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -146480,6 +146801,144 @@
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "WAUWATOSA - C 0006A",
+      "precinct_key": "WAUWATOSA - C 0006A",
+      "geoids": [
+        "5507984675006A"
+      ],
+      "election_type": "spring",
+      "dem_votes": 303,
+      "rep_votes": 104,
+      "other_votes": 0,
+      "total_votes": 407,
+      "dem_candidate": "Jill Underly",
+      "rep_candidate": "Brittany Kinser",
+      "margin": -199,
+      "margin_pct": -48.894348894348894,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "WAUWATOSA - C 0006B",
+      "precinct_key": "WAUWATOSA - C 0006B",
+      "geoids": [
+        "5507984675006B"
+      ],
+      "election_type": "spring",
+      "dem_votes": 436,
+      "rep_votes": 182,
+      "other_votes": 2,
+      "total_votes": 620,
+      "dem_candidate": "Jill Underly",
+      "rep_candidate": "Brittany Kinser",
+      "margin": -254,
+      "margin_pct": -40.96774193548387,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "WAUWATOSA - C 0007A",
+      "precinct_key": "WAUWATOSA - C 0007A",
+      "geoids": [
+        "5507984675007A"
+      ],
+      "election_type": "spring",
+      "dem_votes": 425,
+      "rep_votes": 293,
+      "other_votes": 0,
+      "total_votes": 718,
+      "dem_candidate": "Jill Underly",
+      "rep_candidate": "Brittany Kinser",
+      "margin": -132,
+      "margin_pct": -18.384401114206128,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "WAUWATOSA - C 0007B",
+      "precinct_key": "WAUWATOSA - C 0007B",
+      "geoids": [
+        "5507984675007B"
+      ],
+      "election_type": "spring",
+      "dem_votes": 231,
+      "rep_votes": 139,
+      "other_votes": 2,
+      "total_votes": 372,
+      "dem_candidate": "Jill Underly",
+      "rep_candidate": "Brittany Kinser",
+      "margin": -92,
+      "margin_pct": -24.731182795698924,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "WAUWATOSA - C 0008A",
+      "precinct_key": "WAUWATOSA - C 0008A",
+      "geoids": [
+        "5507984675008A"
+      ],
+      "election_type": "spring",
+      "dem_votes": 158,
+      "rep_votes": 93,
+      "other_votes": 0,
+      "total_votes": 251,
+      "dem_candidate": "Jill Underly",
+      "rep_candidate": "Brittany Kinser",
+      "margin": -65,
+      "margin_pct": -25.89641434262948,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "WAUWATOSA - C 0008B",
+      "precinct_key": "WAUWATOSA - C 0008B",
+      "geoids": [
+        "5507984675008B"
+      ],
+      "election_type": "spring",
+      "dem_votes": 352,
+      "rep_votes": 271,
+      "other_votes": 2,
+      "total_votes": 625,
+      "dem_candidate": "Jill Underly",
+      "rep_candidate": "Brittany Kinser",
+      "margin": -81,
+      "margin_pct": -12.959999999999999,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#2171b5"
       },
       "contest_partisan_style": "nonpartisan_ideology",
       "dem_label": "Liberal",
@@ -146546,6 +147005,52 @@
       "rep_candidate": "Brittany Kinser",
       "margin": -372,
       "margin_pct": -33.60433604336043,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#08306b"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "WAUWATOSA - C 0012A",
+      "precinct_key": "WAUWATOSA - C 0012A",
+      "geoids": [
+        "5507984675012A"
+      ],
+      "election_type": "spring",
+      "dem_votes": 0,
+      "rep_votes": 0,
+      "other_votes": 0,
+      "total_votes": 0,
+      "dem_candidate": "Jill Underly",
+      "rep_candidate": "Brittany Kinser",
+      "margin": 0,
+      "margin_pct": 0.0,
+      "winner": "TIE",
+      "competitiveness": {
+        "color": "#9ca3af"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "WAUWATOSA - C 0012B",
+      "precinct_key": "WAUWATOSA - C 0012B",
+      "geoids": [
+        "5507984675012B"
+      ],
+      "election_type": "spring",
+      "dem_votes": 665,
+      "rep_votes": 331,
+      "other_votes": 0,
+      "total_votes": 996,
+      "dem_candidate": "Jill Underly",
+      "rep_candidate": "Brittany Kinser",
+      "margin": -334,
+      "margin_pct": -33.53413654618474,
       "winner": "DEM",
       "competitiveness": {
         "color": "#08306b"
@@ -146808,284 +147313,8 @@
       "rep_label": "Conservative"
     },
     {
-      "county": "WAUWATOSA - C 002A",
-      "precinct_key": "WAUWATOSA - C 002A",
-      "geoids": [
-        "5507984675002A"
-      ],
-      "election_type": "spring",
-      "dem_votes": 719,
-      "rep_votes": 291,
-      "other_votes": 2,
-      "total_votes": 1012,
-      "dem_candidate": "Jill Underly",
-      "rep_candidate": "Brittany Kinser",
-      "margin": -428,
-      "margin_pct": -42.29249011857708,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "WAUWATOSA - C 002B",
-      "precinct_key": "WAUWATOSA - C 002B",
-      "geoids": [
-        "5507984675002B"
-      ],
-      "election_type": "spring",
-      "dem_votes": 41,
-      "rep_votes": 23,
-      "other_votes": 0,
-      "total_votes": 64,
-      "dem_candidate": "Jill Underly",
-      "rep_candidate": "Brittany Kinser",
-      "margin": -18,
-      "margin_pct": -28.125,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "WAUWATOSA - C 004A",
-      "precinct_key": "WAUWATOSA - C 004A",
-      "geoids": [
-        "5507984675004A"
-      ],
-      "election_type": "spring",
-      "dem_votes": 408,
-      "rep_votes": 132,
-      "other_votes": 1,
-      "total_votes": 541,
-      "dem_candidate": "Jill Underly",
-      "rep_candidate": "Brittany Kinser",
-      "margin": -276,
-      "margin_pct": -51.01663585951941,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "WAUWATOSA - C 004B",
-      "precinct_key": "WAUWATOSA - C 004B",
-      "geoids": [
-        "5507984675004B"
-      ],
-      "election_type": "spring",
-      "dem_votes": 299,
-      "rep_votes": 87,
-      "other_votes": 0,
-      "total_votes": 386,
-      "dem_candidate": "Jill Underly",
-      "rep_candidate": "Brittany Kinser",
-      "margin": -212,
-      "margin_pct": -54.92227979274611,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "WAUWATOSA - C 006A",
-      "precinct_key": "WAUWATOSA - C 006A",
-      "geoids": [
-        "5507984675006A"
-      ],
-      "election_type": "spring",
-      "dem_votes": 303,
-      "rep_votes": 104,
-      "other_votes": 0,
-      "total_votes": 407,
-      "dem_candidate": "Jill Underly",
-      "rep_candidate": "Brittany Kinser",
-      "margin": -199,
-      "margin_pct": -48.894348894348894,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "WAUWATOSA - C 006B",
-      "precinct_key": "WAUWATOSA - C 006B",
-      "geoids": [
-        "5507984675006B"
-      ],
-      "election_type": "spring",
-      "dem_votes": 436,
-      "rep_votes": 182,
-      "other_votes": 2,
-      "total_votes": 620,
-      "dem_candidate": "Jill Underly",
-      "rep_candidate": "Brittany Kinser",
-      "margin": -254,
-      "margin_pct": -40.96774193548387,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "WAUWATOSA - C 007A",
-      "precinct_key": "WAUWATOSA - C 007A",
-      "geoids": [
-        "5507984675007A"
-      ],
-      "election_type": "spring",
-      "dem_votes": 425,
-      "rep_votes": 293,
-      "other_votes": 0,
-      "total_votes": 718,
-      "dem_candidate": "Jill Underly",
-      "rep_candidate": "Brittany Kinser",
-      "margin": -132,
-      "margin_pct": -18.384401114206128,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#2171b5"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "WAUWATOSA - C 007B",
-      "precinct_key": "WAUWATOSA - C 007B",
-      "geoids": [
-        "5507984675007B"
-      ],
-      "election_type": "spring",
-      "dem_votes": 231,
-      "rep_votes": 139,
-      "other_votes": 2,
-      "total_votes": 372,
-      "dem_candidate": "Jill Underly",
-      "rep_candidate": "Brittany Kinser",
-      "margin": -92,
-      "margin_pct": -24.731182795698924,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "WAUWATOSA - C 008A",
-      "precinct_key": "WAUWATOSA - C 008A",
-      "geoids": [
-        "5507984675008A"
-      ],
-      "election_type": "spring",
-      "dem_votes": 158,
-      "rep_votes": 93,
-      "other_votes": 0,
-      "total_votes": 251,
-      "dem_candidate": "Jill Underly",
-      "rep_candidate": "Brittany Kinser",
-      "margin": -65,
-      "margin_pct": -25.89641434262948,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "WAUWATOSA - C 008B",
-      "precinct_key": "WAUWATOSA - C 008B",
-      "geoids": [
-        "5507984675008B"
-      ],
-      "election_type": "spring",
-      "dem_votes": 352,
-      "rep_votes": 271,
-      "other_votes": 2,
-      "total_votes": 625,
-      "dem_candidate": "Jill Underly",
-      "rep_candidate": "Brittany Kinser",
-      "margin": -81,
-      "margin_pct": -12.959999999999999,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#2171b5"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "WAUWATOSA - C 012A",
-      "precinct_key": "WAUWATOSA - C 012A",
-      "geoids": [
-        "5507984675012A"
-      ],
-      "election_type": "spring",
-      "dem_votes": 0,
-      "rep_votes": 0,
-      "other_votes": 0,
-      "total_votes": 0,
-      "dem_candidate": "Jill Underly",
-      "rep_candidate": "Brittany Kinser",
-      "margin": 0,
-      "margin_pct": 0.0,
-      "winner": "TIE",
-      "competitiveness": {
-        "color": "#9ca3af"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "WAUWATOSA - C 012B",
-      "precinct_key": "WAUWATOSA - C 012B",
-      "geoids": [
-        "5507984675012B"
-      ],
-      "election_type": "spring",
-      "dem_votes": 665,
-      "rep_votes": 331,
-      "other_votes": 0,
-      "total_votes": 996,
-      "dem_candidate": "Jill Underly",
-      "rep_candidate": "Brittany Kinser",
-      "margin": -334,
-      "margin_pct": -33.53413654618474,
-      "winner": "DEM",
-      "competitiveness": {
-        "color": "#08306b"
-      },
-      "contest_partisan_style": "nonpartisan_ideology",
-      "dem_label": "Liberal",
-      "rep_label": "Conservative"
-    },
-    {
-      "county": "WAUWATOSA - C 024A",
-      "precinct_key": "WAUWATOSA - C 024A",
+      "county": "WAUWATOSA - C 0024A",
+      "precinct_key": "WAUWATOSA - C 0024A",
       "geoids": [
         "5507984675024A"
       ],
@@ -147107,8 +147336,8 @@
       "rep_label": "Conservative"
     },
     {
-      "county": "WAUWATOSA - C 024B",
-      "precinct_key": "WAUWATOSA - C 024B",
+      "county": "WAUWATOSA - C 0024B",
+      "precinct_key": "WAUWATOSA - C 0024B",
       "geoids": [
         "5507984675024B"
       ],
@@ -149253,14 +149482,14 @@
         "55063862750001"
       ],
       "election_type": "spring",
-      "dem_votes": 141,
-      "rep_votes": 122,
+      "dem_votes": 124,
+      "rep_votes": 106,
       "other_votes": 0,
-      "total_votes": 263,
+      "total_votes": 230,
       "dem_candidate": "Jill Underly",
       "rep_candidate": "Brittany Kinser",
-      "margin": -20,
-      "margin_pct": -7.499999999999998,
+      "margin": -17,
+      "margin_pct": -7.5,
       "winner": "DEM",
       "competitiveness": {
         "color": "#6baed6"
@@ -149276,14 +149505,14 @@
         "55063862750002"
       ],
       "election_type": "spring",
-      "dem_votes": 141,
-      "rep_votes": 122,
+      "dem_votes": 124,
+      "rep_votes": 106,
       "other_votes": 0,
-      "total_votes": 263,
+      "total_votes": 230,
       "dem_candidate": "Jill Underly",
       "rep_candidate": "Brittany Kinser",
-      "margin": -20,
-      "margin_pct": -7.499999999999998,
+      "margin": -17,
+      "margin_pct": -7.5,
       "winner": "DEM",
       "competitiveness": {
         "color": "#6baed6"
@@ -149299,14 +149528,14 @@
         "55063862750003"
       ],
       "election_type": "spring",
-      "dem_votes": 141,
-      "rep_votes": 122,
+      "dem_votes": 124,
+      "rep_votes": 106,
       "other_votes": 0,
-      "total_votes": 263,
+      "total_votes": 230,
       "dem_candidate": "Jill Underly",
       "rep_candidate": "Brittany Kinser",
-      "margin": -20,
-      "margin_pct": -7.499999999999998,
+      "margin": -17,
+      "margin_pct": -7.5,
       "winner": "DEM",
       "competitiveness": {
         "color": "#6baed6"
@@ -149322,14 +149551,14 @@
         "55063862750004"
       ],
       "election_type": "spring",
-      "dem_votes": 141,
-      "rep_votes": 122,
+      "dem_votes": 124,
+      "rep_votes": 106,
       "other_votes": 0,
-      "total_votes": 263,
+      "total_votes": 230,
       "dem_candidate": "Jill Underly",
       "rep_candidate": "Brittany Kinser",
-      "margin": -20,
-      "margin_pct": -7.499999999999998,
+      "margin": -17,
+      "margin_pct": -7.5,
       "winner": "DEM",
       "competitiveness": {
         "color": "#6baed6"
@@ -149345,14 +149574,14 @@
         "55063862750005"
       ],
       "election_type": "spring",
-      "dem_votes": 141,
-      "rep_votes": 122,
+      "dem_votes": 124,
+      "rep_votes": 106,
       "other_votes": 0,
-      "total_votes": 263,
+      "total_votes": 230,
       "dem_candidate": "Jill Underly",
       "rep_candidate": "Brittany Kinser",
-      "margin": -20,
-      "margin_pct": -7.499999999999998,
+      "margin": -17,
+      "margin_pct": -7.5,
       "winner": "DEM",
       "competitiveness": {
         "color": "#6baed6"
@@ -149368,14 +149597,14 @@
         "55063862750006"
       ],
       "election_type": "spring",
-      "dem_votes": 141,
-      "rep_votes": 122,
+      "dem_votes": 124,
+      "rep_votes": 106,
       "other_votes": 0,
-      "total_votes": 263,
+      "total_votes": 230,
       "dem_candidate": "Jill Underly",
       "rep_candidate": "Brittany Kinser",
-      "margin": -20,
-      "margin_pct": -7.499999999999998,
+      "margin": -17,
+      "margin_pct": -7.5,
       "winner": "DEM",
       "competitiveness": {
         "color": "#6baed6"
@@ -149391,14 +149620,37 @@
         "55063862750007"
       ],
       "election_type": "spring",
-      "dem_votes": 141,
-      "rep_votes": 122,
+      "dem_votes": 124,
+      "rep_votes": 106,
       "other_votes": 0,
-      "total_votes": 263,
+      "total_votes": 230,
       "dem_candidate": "Jill Underly",
       "rep_candidate": "Brittany Kinser",
-      "margin": -20,
-      "margin_pct": -7.499999999999998,
+      "margin": -17,
+      "margin_pct": -7.5,
+      "winner": "DEM",
+      "competitiveness": {
+        "color": "#6baed6"
+      },
+      "contest_partisan_style": "nonpartisan_ideology",
+      "dem_label": "Liberal",
+      "rep_label": "Conservative"
+    },
+    {
+      "county": "WEST SALEM - V 0008",
+      "precinct_key": "WEST SALEM - V 0008",
+      "geoids": [
+        "55063862750008"
+      ],
+      "election_type": "spring",
+      "dem_votes": 124,
+      "rep_votes": 106,
+      "other_votes": 0,
+      "total_votes": 230,
+      "dem_candidate": "Jill Underly",
+      "rep_candidate": "Brittany Kinser",
+      "margin": -17,
+      "margin_pct": -7.5,
       "winner": "DEM",
       "competitiveness": {
         "color": "#6baed6"
@@ -153720,8 +153972,8 @@
       "rep_label": "Conservative"
     },
     {
-      "county": "WOLF RIVER - T 002A",
-      "precinct_key": "WOLF RIVER - T 002A",
+      "county": "WOLF RIVER - T 0002A",
+      "precinct_key": "WOLF RIVER - T 0002A",
       "geoids": [
         "5513988475002A"
       ],
@@ -153743,8 +153995,8 @@
       "rep_label": "Conservative"
     },
     {
-      "county": "WOLF RIVER - T 002B",
-      "precinct_key": "WOLF RIVER - T 002B",
+      "county": "WOLF RIVER - T 0002B",
+      "precinct_key": "WOLF RIVER - T 0002B",
       "geoids": [
         "5513988475002B"
       ],
