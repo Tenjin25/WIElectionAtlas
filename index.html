@@ -10474,8 +10474,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Cache destroyer token for static data requests.
     // Bump this value when you want browsers/CDNs to fetch fresh files immediately.
-    const DATA_CACHE_BUSTER = '2026-09-10-wi-precinct-alignment-v5';
-    const APP_BUILD_ID = '2026-09-10-wi-precinct-alignment-v5';
+    const DATA_CACHE_BUSTER = '2026-09-10-wi-precinct-alignment-v6';
+    const APP_BUILD_ID = '2026-09-10-wi-precinct-alignment-v6';
 
     function withCacheBuster(path) {
       const p = (path || '').toString().trim();
@@ -11386,7 +11386,7 @@ document.addEventListener('DOMContentLoaded', function() {
         const totalVotes = Number(adjusted.total || 0);
         const adjustedSigned = signedMarginPctFromVotes(demVotes, repVotes, totalVotes);
         const adjustedWinner = adjustedSigned > 0 ? 'REPUBLICAN' : (adjustedSigned < 0 ? 'DEMOCRAT' : 'TIE');
-        out.set(norm, {
+        const adjustedRow = {
           ...row,
           county: rowName,
           precinct_key: rowName,
@@ -11396,6 +11396,14 @@ document.addEventListener('DOMContentLoaded', function() {
           [`${contestType}_total`]: totalVotes,
           [`${contestType}_margin_pct`]: adjustedSigned,
           [`${contestType}_winner`]: adjustedWinner
+        };
+        out.set(norm, adjustedRow);
+        // Recent result slices carry the official ward GEOIDs matched by the
+        // build crosswalk. Treat those as aliases so renamed or combined
+        // reporting units paint every polygon covered by the result row.
+        (Array.isArray(row?.geoids) ? row.geoids : []).forEach(geoid => {
+          const geoidNorm = precinctNormByGeoidCache?.get(String(geoid || '').trim());
+          if (geoidNorm) out.set(geoidNorm, adjustedRow);
         });
       });
       return out;
@@ -11885,6 +11893,7 @@ document.addEventListener('DOMContentLoaded', function() {
     let lastCountyFillExpr = null; // Cached fill-color expression for county layer.
     let lastAppliedPrecinctPaintExpr = null; // Tracks last expression applied to precinct fill/dots.
     let precinctPolygonNormSet = null; // Set<string precinct_norm> from polygon source (used to show centroid fallback for missing polygons).
+    let precinctNormByGeoidCache = null; // Map official ward GEOID -> precinct_norm for result crosswalks.
     let precinctCentroidsData = null; // Cached centroids GeoJSON so we can annotate with has_polygon after polygons load.
     let precinctCentroidsLoaded = false;
     let precinctCentroidsLoadInFlight = false;
@@ -29399,6 +29408,7 @@ document.addEventListener('DOMContentLoaded', function() {
       let countyNameByFips = null;
       try { countyNameByFips = await ensureCountyNameByFipsMap(); } catch (_) { countyNameByFips = null; }
       const fullNameByNorm = new Map();
+      const normByGeoid = new Map();
       precincts.features = (precincts.features || []).map(feature => {
         const original = feature.properties || {};
         const identity = derivePrecinctIdentityFromGeometryProps(original, countyNameByFips);
@@ -29414,6 +29424,7 @@ document.addEventListener('DOMContentLoaded', function() {
           countyfp20
         } = identity;
         if (precinctNorm && fullName) fullNameByNorm.set(precinctNorm, fullName);
+        if (precinctNorm && geoid20) normByGeoid.set(geoid20, precinctNorm);
         feature.properties = {
           ...original,
           geoid20,
@@ -29430,6 +29441,7 @@ document.addEventListener('DOMContentLoaded', function() {
         return feature;
       });
       precinctFullNameByNormCache = fullNameByNorm.size ? fullNameByNorm : precinctFullNameByNormCache;
+      precinctNormByGeoidCache = normByGeoid.size ? normByGeoid : precinctNormByGeoidCache;
       try {
         const s = new Set();
         (precincts.features || []).forEach(f => {
@@ -34353,13 +34365,16 @@ document.addEventListener('DOMContentLoaded', function() {
             const demVotes = Number(row[`${contestType}_dem`] || 0);
             const repVotes = Number(row[`${contestType}_rep`] || 0);
             const totalVotes = Number(row[`${contestType}_total`] || 0);
-            if (totalVotes === 0) return;
             const signedMarginPct = signedMarginPctFromVotes(demVotes, repVotes, totalVotes);
             const winnerRaw = (row[`${contestType}_winner`] || '').toString().toUpperCase();
             const winner = winnerRaw.startsWith('REP') ? 'R' : (winnerRaw.startsWith('DEM') ? 'D' : (repVotes === demVotes ? 'T' : (repVotes > demVotes ? 'R' : 'D')));
             let color = '#d1d5db';
 
-            if (mode === 'flips') {
+            // Keep an explicit zero-vote reporting unit visible in neutral gray.
+            // Transparent remains reserved for polygons with no matched result row.
+            if (totalVotes === 0) {
+              color = '#9ca3af';
+            } else if (mode === 'flips') {
               const curSigned = isNaN(signedMarginPct) ? signedMarginPctFromVotes(demVotes, repVotes, totalVotes) : signedMarginPct;
               let prevSigned = 0;
               for (const n of precinctNames) {
