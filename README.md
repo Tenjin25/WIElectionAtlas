@@ -395,3 +395,12 @@ The project is meant to be useful to anyone trying to understand Wisconsin as a 
 ## License
 
 No license file is currently present in this repository. If you want others to reuse or contribute to the project with clear terms, add a `LICENSE` file and update this section.
+
+## CVAP data attribution
+
+Citizen Voting Age Population (CVAP) totals use the U.S. Census Bureau's 2020-2024 American Community Survey five-year CVAP Special Tabulation. Precinct and legacy-boundary aggregates use the Redistricting Data Hub's **2024 CVAP Data Disaggregated to 2020 Census Blocks**.
+
+- Census source: https://www.census.gov/programs-surveys/decennial-census/about/voting-rights/cvap/2020-2024-CVAP.html
+- Block-level source and processing: https://redistrictingdatahub.org/
+
+Credit: **U.S. Census Bureau; Redistricting Data Hub.**
